@@ -10,15 +10,15 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Arbeiderpartiet | 30.8% | 32.9% | 30.1–34.5% |29.5–35.2% |28.9–35.7% |27.9–36.8% |
-| Høyre | 26.8% | 22.7% | 20.4–24.3% |19.8–24.9% |19.4–25.4% |18.5–26.4% |
-| Senterpartiet | 5.5% | 14.8% | 12.9–16.3% |12.5–16.8% |12.1–17.2% |11.4–18.1% |
-| Fremskrittspartiet | 16.3% | 13.9% | 12.1–15.4% |11.7–15.9% |11.4–16.4% |10.7–17.2% |
-| Kristelig Folkeparti | 5.6% | 4.6% | 3.7–5.7% |3.4–6.0% |3.2–6.3% |2.9–6.9% |
+| Arbeiderpartiet | 30.8% | 32.2% | 30.1–34.5% |29.5–35.2% |28.9–35.7% |27.9–36.8% |
+| Høyre | 26.8% | 22.3% | 20.4–24.3% |19.8–24.9% |19.4–25.4% |18.5–26.4% |
+| Senterpartiet | 5.5% | 14.5% | 12.9–16.3% |12.5–16.8% |12.1–17.2% |11.4–18.1% |
+| Fremskrittspartiet | 16.3% | 13.7% | 12.1–15.4% |11.7–15.9% |11.4–16.4% |10.7–17.2% |
+| Kristelig Folkeparti | 5.6% | 4.5% | 3.7–5.7% |3.4–6.0% |3.2–6.3% |2.9–6.9% |
 | Sosialistisk Venstreparti | 4.1% | 3.6% | 2.8–4.6% |2.6–4.9% |2.4–5.2% |2.1–5.7% |
-| Venstre | 5.2% | 2.8% | 2.1–3.7% |1.9–3.9% |1.8–4.2% |1.5–4.7% |
+| Venstre | 5.2% | 2.7% | 2.1–3.7% |1.9–3.9% |1.8–4.2% |1.5–4.7% |
 | Rødt | 1.1% | 2.6% | 2.0–3.5% |1.8–3.8% |1.7–4.0% |1.4–4.5% |
-| Miljøpartiet de Grønne | 2.8% | 2.1% | 1.5–2.9% |1.4–3.1% |1.2–3.4% |1.0–3.8% |
+| Miljøpartiet de Grønne | 2.8% | 2.0% | 1.5–2.9% |1.4–3.1% |1.2–3.4% |1.0–3.8% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -609,7 +609,7 @@
 
 ### Calculations
 
-+ **Sample size:** 718
++ **Sample size:** 732
 + **Simulations done:** 4,194,304
 + **Error estimate:** 1.83%
 
