@@ -23,3 +23,5 @@ The following websites provide similar information to this website:
 
 + [British Polls](https://filipvanlaenen.github.io/british_polls/)
 + [Flemish Polls](https://filipvanlaenen.github.io/flemish_polls/)
++ [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
+
