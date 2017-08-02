@@ -12,10 +12,10 @@ The table below lists all polls registered and analyzed so far.
 | [19–21 June 2017](2017-06-21-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 29–35% <br> 52–65 | 21–26% <br> 36–47 | 11–15% <br> 19–28 | 3–5% <br> 1–9 | 10–14% <br> 18–27 | 3–5% <br> 1–9 | 4–6% <br> 2–11 | 2–4% <br> 1–8 | 2–5% <br> 1–8 |
 | [12–16 June 2017](2017-06-16-KantarTNS.html) | Kantar TNS <br> TV2 | 29–36% <br> 53–66 | 19–25% <br> 35–48 | 11–16% <br> 21–30 | 3–6% <br> 2–11 | 12–17% <br> 22–31 | 2–4% <br> 0–8 | 2–5% <br> 1–9 | 1–3% <br> 0–2 | 2–4% <br> 1–2 |
 | [9–14 June 2017](2017-06-14-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 28–35% <br> 50–65 | 21–27% <br> 38–49 | 12–17% <br> 20–29 | 3–6% <br> 2–11 | 8–12% <br> 14–22 | 2–5% <br> 0–9 | 4–7% <br> 1–12 | 2–5% <br> 1–8 | 1–4% <br> 1–2 |
-| [6–12 June 2017](2017-06-12-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 29–36% <br> 52–66 | 20–26% <br> 36–49 | 10–15% <br> 17–26 | 4–7% <br> 2–13 | 10–15% <br> 18–28 | 2–5% <br> 1–9 | 3–6% <br> 1–10 | 3–6% <br> 1–9 | 1–3% <br> 0–2 |
-| [6–7 June 2017](2017-06-07-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–7 June 2017](2017-06-07-InFact.html) | InFact <br> VG | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [30 May–5 June 2017](2017-06-05-Norstat.html) | Norstat <br> NRK | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–12 June 2017](2017-06-12-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 29–36% <br> 52–66 | 20–26% <br> 35–48 | 10–15% <br> 17–26 | 4–7% <br> 2–13 | 10–15% <br> 18–28 | 2–5% <br> 1–9 | 3–6% <br> 1–10 | 3–6% <br> 1–10 | 1–3% <br> 0–2 |
+| [6–7 June 2017](2017-06-07-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 26–31% <br> 47–57 | 23–28% <br> 41–53 | 12–17% <br> 22–31 | 3–6% <br> 2–11 | 10–14% <br> 18–26 | 2–4% <br> 0–8 | 4–6% <br> 2–11 | 2–4% <br> 1–8 | 2–4% <br> 1–2 |
+| [2–7 June 2017](2017-06-07-InFact.html) | InFact <br> VG | 30–34% <br> 57–66 | 19–22% <br> 37–42 | 11–14% <br> 21–26 | 4–6% <br> 8–11 | 10–13% <br> 19–22 | 3–4% <br> 1–2 | 4–5% <br> 2–10 | 3–5% <br> 1–8 | 3–4% <br> 2–8 |
+| [30 May–5 June 2017](2017-06-05-Norstat.html) | Norstat <br> NRK | 30–36% <br> 55–65 | 21–27% <br> 37–49 | 12–16% <br> 22–29 | 3–6% <br> 2–10 | 10–14% <br> 19–24 | 2–5% <br> 1–9 | 3–6% <br> 1–11 | 2–4% <br> 1–3 | 1–2% <br> 0–1 |
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
