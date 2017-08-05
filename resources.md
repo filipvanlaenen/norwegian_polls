@@ -11,8 +11,12 @@ The following resources have been consulted in order to create this site:
 
 The following websites provide similar information to this website:
 
++ [169.no](http://169.no/2017/)
 + [Electograph – Norway](http://www.electograph.com/search/label/Norway)
++ [Flertall.no](http://flertall.no/)
 + [PollOfPolls.no](http://www.pollofpolls.no/)
++ [Sannsynligvis.no](http://sannsynligvis.no/)
++ [Svein Tore Marthinsen's Blog](http://sveintoremarthinsen.blogspot.no/)
 
 ## Other Resources
 
