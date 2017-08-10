@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Pollster/Media   | Ap | H | FrP | KrF | Sp | V | SV | MDG | R |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
-| [1–7 August 2017](2017-08-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 27–34% <br> 48–65 | 22–28% <br> 38–52 | 10–15% <br> 18–28 | 4–8% <br> 8–14 | 9–13% <br> 15–24 | 2–5% <br> 0–8 | 3–6% <br> 1–11 | 3–6% <br> 1–10 | 2–4% <br> 1–8 |
+| [1–7 August 2017](2017-08-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 27–34% <br> 48–64 | 22–28% <br> 38–52 | 10–15% <br> 18–28 | 4–8% <br> 8–14 | 9–13% <br> 15–25 | 2–5% <br> 0–8 | 3–6% <br> 1–11 | 3–6% <br> 1–11 | 2–4% <br> 1–8 |
 | [1–2 August 2017](2017-08-02-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 29–35% <br> 53–65 | 23–29% <br> 43–53 | 12–16% <br> 21–30 | 4–6% <br> 2–11 | 8–11% <br> 14–21 | 2–4% <br> 0–8 | 3–6% <br> 2–11 | 1–3% <br> 0–1 | 1–3% <br> 1–2 |
 | [1–2 August 2017](2017-08-02-InFact.html) | InFact <br> VG | 28–32% <br> 52–60 | 21–25% <br> 38–46 | 11–14% <br> 20–27 | 4–6% <br> 8–11 | 11–13% <br> 19–24 | 3–4% <br> 1–7 | 4–6% <br> 8–12 | 3–5% <br> 1–8 | 3–4% <br> 1–7 |
 | [4–5 July 2017](2017-07-05-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 29–36% <br> 52–65 | 20–26% <br> 36–48 | 12–17% <br> 22–32 | 4–7% <br> 2–13 | 8–12% <br> 14–21 | 2–5% <br> 1–8 | 3–6% <br> 1–11 | 3–5% <br> 1–10 | 1–3% <br> 0–2 |
