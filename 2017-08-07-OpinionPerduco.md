@@ -249,22 +249,22 @@
 
 ### Confidence Intervals
 
-| Coalition | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:---------:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Høyre – Fremskrittspartiet – Senterpartiet – Kristelig Folkeparti – Venstre | 106 | 100 | 94–107 | 92–109 | 90–110 | 87–113 |
-| Arbeiderpartiet – Senterpartiet – Kristelig Folkeparti – Miljøpartiet de Grønne – Sosialistisk Venstreparti | 83 | 97 | 91–103 | 89–104 | 88–105 | 86–108 |
-| Arbeiderpartiet – Senterpartiet – Miljøpartiet de Grønne – Sosialistisk Venstreparti – Rødt | 73 | 88 | 82–94 | 81–96 | 79–97 | 77–100 |
-| Høyre – Fremskrittspartiet – Kristelig Folkeparti – Miljøpartiet de Grønne – Venstre | 97 | 87 | 81–93 | 79–95 | 78–95 | 75–98 |
-| Arbeiderpartiet – Senterpartiet – Miljøpartiet de Grønne – Sosialistisk Venstreparti | 73 | 86 | 80–92 | 79–94 | 77–95 | 74–98 |
-| Arbeiderpartiet – Senterpartiet – Kristelig Folkeparti | 75 | 86 | 80–92 | 79–93 | 77–94 | 75–96 |
-| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Rødt | 72 | 82 | 76–88 | 74–90 | 74–91 | 71–94 |
-| Høyre – Fremskrittspartiet – Kristelig Folkeparti – Venstre | 96 | 81 | 75–87 | 73–88 | 72–90 | 69–92 |
-| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti | 72 | 80 | 74–86 | 72–88 | 71–89 | 69–91 |
-| Arbeiderpartiet – Senterpartiet | 65 | 75 | 70–80 | 68–82 | 67–83 | 65–85 |
-| Høyre – Fremskrittspartiet | 77 | 68 | 61–72 | 60–74 | 59–75 | 56–78 |
-| Arbeiderpartiet – Sosialistisk Venstreparti | 62 | 60 | 54–67 | 52–68 | 52–69 | 50–72 |
-| Høyre – Kristelig Folkeparti – Venstre | 67 | 59 | 53–65 | 52–66 | 51–66 | 48–69 |
-| Senterpartiet – Kristelig Folkeparti – Venstre | 29 | 34 | 28–38 | 28–39 | 27–41 | 24–43 |
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Høyre – Fremskrittspartiet – Senterpartiet – Kristelig Folkeparti – Venstre | 106 | 100 | 99.9% | 94–107 | 92–109 | 90–110 | 87–113 |
+| Arbeiderpartiet – Senterpartiet – Kristelig Folkeparti – Miljøpartiet de Grønne – Sosialistisk Venstreparti | 83 | 97 | 99.7% | 91–103 | 89–104 | 88–105 | 86–108 |
+| Arbeiderpartiet – Senterpartiet – Miljøpartiet de Grønne – Sosialistisk Venstreparti – Rødt | 73 | 88 | 80% | 82–94 | 81–96 | 79–97 | 77–100 |
+| Høyre – Fremskrittspartiet – Kristelig Folkeparti – Miljøpartiet de Grønne – Venstre | 97 | 87 | 68% | 81–93 | 79–95 | 78–95 | 75–98 |
+| Arbeiderpartiet – Senterpartiet – Miljøpartiet de Grønne – Sosialistisk Venstreparti | 73 | 86 | 65% | 80–92 | 79–94 | 77–95 | 74–98 |
+| Arbeiderpartiet – Senterpartiet – Kristelig Folkeparti | 75 | 86 | 61% | 80–92 | 79–93 | 77–94 | 75–96 |
+| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Rødt | 72 | 82 | 32% | 76–88 | 74–90 | 74–91 | 71–94 |
+| Høyre – Fremskrittspartiet – Kristelig Folkeparti – Venstre | 96 | 81 | 20% | 75–87 | 73–88 | 72–90 | 69–92 |
+| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti | 72 | 80 | 18% | 74–86 | 72–88 | 71–89 | 69–91 |
+| Arbeiderpartiet – Senterpartiet | 65 | 75 | 0.6% | 70–80 | 68–82 | 67–83 | 65–85 |
+| Høyre – Fremskrittspartiet | 77 | 68 | 0% | 61–72 | 60–74 | 59–75 | 56–78 |
+| Arbeiderpartiet – Sosialistisk Venstreparti | 62 | 60 | 0% | 54–67 | 52–68 | 52–69 | 50–72 |
+| Høyre – Kristelig Folkeparti – Venstre | 67 | 59 | 0% | 53–65 | 52–66 | 51–66 | 48–69 |
+| Senterpartiet – Kristelig Folkeparti – Venstre | 29 | 34 | 0% | 28–38 | 28–39 | 27–41 | 24–43 |
 
 ### Høyre – Fremskrittspartiet – Senterpartiet – Kristelig Folkeparti – Venstre
 
