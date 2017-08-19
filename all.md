@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Pollster/Media   | Ap | H | FrP | KrF | Sp | V | SV | MDG | R |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
+| [17 August 2017](2017-08-17-InFact.html) | InFact <br> VG | 28–32% <br> 53–61 | 20–24% <br> 36–43 | 11–14% <br> 18–26 | 4–6% <br> 7–11 | 10–12% <br> 17–22 | 3–5% <br> 2–9 | 5–7% <br> 8–11 | 3–5% <br> 1–9 | 3–5% <br> 2–8 |
 | [15 August 2017](2017-08-15-InFact.html) | InFact <br> Arbeiderpartiet | 28–34% <br> 52–65 | 19–25% <br> 35–45 | 10–14% <br> 18–27 | 4–6% <br> 2–11 | 9–13% <br> 16–24 | 2–4% <br> 0–8 | 4–6% <br> 2–11 | 4–6% <br> 3–11 | 2–4% <br> 1–8 |
 | [8–14 August 2017](2017-08-14-Norstat.html) | Norstat <br> NRK | 24–30% <br> 45–54 | 21–27% <br> 37–48 | 14–19% <br> 27–36 | 4–7% <br> 2–11 | 7–11% <br> 13–20 | 3–5% <br> 1–9 | 4–7% <br> 2–12 | 3–6% <br> 1–11 | 1–3% <br> 0–2 |
 | [7–11 August 2017](2017-08-11-KantarTNS.html) | Kantar TNS <br> TV2 | 27–34% <br> 49–63 | 19–25% <br> 34–46 | 11–16% <br> 20–30 | 3–6% <br> 1–10 | 10–15% <br> 18–28 | 3–6% <br> 2–11 | 3–5% <br> 1–9 | 2–5% <br> 1–8 | 3–7% <br> 2–12 |
