@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Pollster/Media   | Ap | H | FrP | KrF | Sp | V | SV | MDG | R |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
+| [18–23 August 2017](2017-08-23-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 25–30% <br> 48–64 | 23–28% <br> 42–47 | 13–18% <br> 23–32 | 3–6% <br> 2–12 | 9–13% <br> 17–20 | 3–5% <br> 1–12 | 3–6% <br> 2–9 | 3–5% <br> 1–7 | 2–4% <br> 1–9 |
+| [23 August 2017](2017-08-23-InFact.html) | InFact <br> VG | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–21 August 2017](2017-08-21-Norstat.html) | Norstat <br> NRK | 26–32% <br> 48–60 | 20–25% <br> 34–46 | 12–17% <br> 22–31 | 4–7% <br> 2–12 | 8–12% <br> 13–20 | 3–6% <br> 1–9 | 4–7% <br> 7–13 | 3–6% <br> 1–10 | 2–4% <br> 1–2 |
 | [15–20 August 2017](2017-08-20-Sentio.html) | Sentio <br> Dagens Næringsliv | 24–30% <br> 44–55 | 21–27% <br> 37–49 | 11–16% <br> 19–29 | 4–7% <br> 2–12 | 9–14% <br> 15–24 | 3–6% <br> 1–10 | 4–7% <br> 1–12 | 5–8% <br> 8–14 | 2–4% <br> 1–2 |
 | [14–18 August 2017](2017-08-18-KantarTNS.html) | Kantar TNS <br> TV2 | 25–32% <br> 46–59 | 21–27% <br> 37–49 | 11–15% <br> 18–28 | 4–7% <br> 2–13 | 8–13% <br> 15–23 | 2–5% <br> 1–9 | 5–8% <br> 8–15 | 2–5% <br> 1–9 | 3–5% <br> 1–9 |
