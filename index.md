@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Pollster/Media   | Ap | H | FrP | KrF | Sp | V | SV | MDG | R |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
-| N/A | [Poll Average](average.html) | 44–63 | 37–51 | 19–32 | 2–13 | 13–24 | 1–9 | 1–13 | 0–12 | 1–8 |
-| [28–30 August 2017](2017-08-30-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 24–29% <br> 43–53 | 21–27% <br> 37–46 | 14–19% <br> 26–33 | 4–7% <br> 7–12 | 7–11% <br> 12–18 | 4–6% <br> 2–11 | 5–8% <br> 8–12 | 4–6% <br> 2–9 | 2–4% <br> 1–2 |
+| N/A | [Poll Average](average.html) | 45–63 | 37–51 | 19–32 | 2–13 | 13–24 | 1–9 | 1–13 | 0–12 | 1–8 |
+| [28–30 August 2017](2017-08-30-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 24–29% <br> 43–53 | 21–27% <br> 37–47 | 14–19% <br> 26–33 | 4–7% <br> 7–12 | 7–11% <br> 12–18 | 4–6% <br> 2–10 | 5–8% <br> 8–13 | 4–6% <br> 2–10 | 2–4% <br> 1–2 |
 | [25–30 August 2017](2017-08-30-KantarTNS.html) | Kantar TNS <br> TV2 | 25–29% <br> 46–53 | 23–27% <br> 42–48 | 14–17% <br> 25–31 | 3–5% <br> 2–10 | 10–13% <br> 16–23 | 3–5% <br> 1–8 | 5–7% <br> 9–13 | 3–5% <br> 1–8 | 2–4% <br> 1–2 |
 | [22–28 August 2017](2017-08-28-Norstat2.html) | Norstat <br> Vårt Land | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–23 August 2017](2017-08-23-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 27–33% <br> 50–60 | 21–26% <br> 37–48 | 13–17% <br> 23–32 | 3–6% <br> 2–11 | 8–12% <br> 15–22 | 2–5% <br> 1–8 | 5–8% <br> 8–14 | 2–4% <br> 0–3 | 3–5% <br> 1–9 |
