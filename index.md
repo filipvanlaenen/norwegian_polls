@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Pollster/Media   | Ap | H | FrP | KrF | Sp | V | SV | MDG | R |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
-| N/A | [Poll Average](average.html) | 44–62 | 36–51 | 19–33 | 2–13 | 13–23 | 0–9 | 1–14 | 0–12 | 1–8 |
-| [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 25–29% <br> 46–54 | 23–27% <br> 41–49 | 13–17% <br> 25–31 | 3–5% <br> 2–9 | 10–13% <br> 18–24 | 3–5% <br> 1–9 | 4–6% <br> 8–12 | 2–4% <br> 1–7 | 3–4% <br> 2–8 |
-| [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 27–31% <br> 49–56 | 20–23% <br> 35–42 | 12–15% <br> 20–27 | 5–7% <br> 7–11 | 10–13% <br> 17–23 | 3–4% <br> 0–8 | 6–8% <br> 9–15 | 4–6% <br> 7–11 | 2–4% <br> 1–8 |
+| N/A | [Poll Average](average.html) | 44–62 | 36–51 | 19–33 | 2–13 | 13–23 | 1–9 | 1–13 | 0–12 | 1–8 |
+| [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 25–29% <br> 46–55 | 23–27% <br> 41–51 | 13–17% <br> 25–31 | 3–5% <br> 2–10 | 10–13% <br> 18–24 | 3–5% <br> 1–9 | 4–6% <br> 8–12 | 2–4% <br> 1–8 | 3–4% <br> 1–8 |
+| [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 27–31% <br> 50–55 | 20–23% <br> 35–41 | 12–15% <br> 21–27 | 5–7% <br> 9–11 | 10–13% <br> 18–23 | 3–4% <br> 1–7 | 6–8% <br> 11–14 | 4–6% <br> 3–10 | 2–4% <br> 1–2 |
 | [28–30 August 2017](2017-08-30-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 24–29% <br> 43–53 | 21–27% <br> 37–46 | 14–19% <br> 26–35 | 4–7% <br> 7–12 | 7–11% <br> 12–18 | 4–6% <br> 2–10 | 5–8% <br> 8–13 | 4–6% <br> 2–10 | 2–4% <br> 1–2 |
 | [22–28 August 2017](2017-08-28-Norstat2.html) | Norstat <br> Vårt Land | 23–29% <br> 42–51 | 22–27% <br> 38–47 | 14–19% <br> 26–33 | 4–7% <br> 2–12 | 9–12% <br> 14–22 | 2–4% <br> 0–7 | 4–7% <br> 2–12 | 4–7% <br> 3–12 | 3–5% <br> 2–9 |
 | [21–23 August 2017](2017-08-23-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 27–33% <br> 50–60 | 21–26% <br> 37–48 | 13–17% <br> 23–32 | 3–6% <br> 2–11 | 8–12% <br> 15–22 | 2–5% <br> 1–8 | 5–8% <br> 8–14 | 2–4% <br> 0–3 | 3–5% <br> 1–9 |
