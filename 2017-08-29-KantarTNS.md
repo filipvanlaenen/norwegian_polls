@@ -42,6 +42,8 @@
 
 ### Arbeiderpartiet
 
+*For a full overview of the results for this party, see the [Arbeiderpartiet](party-arbeiderpartiet.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
@@ -63,6 +65,8 @@
 | 56 | 0% | 0% |  |
 
 ### Høyre
+
+*For a full overview of the results for this party, see the [Høyre](party-hyre.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -88,6 +92,8 @@
 
 ### Fremskrittspartiet
 
+*For a full overview of the results for this party, see the [Fremskrittspartiet](party-fremskrittspartiet.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 23 | 0.1% | 100% |  |
@@ -108,6 +114,8 @@
 | 38 | 0% | 0% |  |
 
 ### Senterpartiet
+
+*For a full overview of the results for this party, see the [Senterpartiet](party-senterpartiet.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -131,6 +139,8 @@
 
 ### Sosialistisk Venstreparti
 
+*For a full overview of the results for this party, see the [Sosialistisk Venstreparti](party-sosialistiskvenstreparti.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
@@ -146,6 +156,8 @@
 | 17 | 0% | 0% |  |
 
 ### Kristelig Folkeparti
+
+*For a full overview of the results for this party, see the [Kristelig Folkeparti](party-kristeligfolkeparti.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -164,6 +176,8 @@
 
 ### Venstre
 
+*For a full overview of the results for this party, see the [Venstre](party-venstre.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 11% | 100% |  |
@@ -180,6 +194,8 @@
 
 ### Miljøpartiet de Grønne
 
+*For a full overview of the results for this party, see the [Miljøpartiet de Grønne](party-miljpartietdegrnne.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 41% | 100% | Last Result |
@@ -195,6 +211,8 @@
 | 11 | 0% | 0% |  |
 
 ### Rødt
+
+*For a full overview of the results for this party, see the [Rødt](party-rdt.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
