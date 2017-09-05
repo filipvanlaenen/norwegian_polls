@@ -11,7 +11,7 @@ Last result: **5.2%** (General Election of 8–9 September 2013)
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 4.8% | 4.2–5.6% | 4.0–5.8% | 3.9–6.0% | 3.6–6.4% |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 3.9% | ["N/A", "N/A", "N/A", "N/A"] |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 3.9% | 3.4–4.5% | 3.3–4.7% | 3.2–4.8% | 2.9–5.1% |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 4.3% | 3.7–5.0% | 3.5–5.2% | 3.4–5.4% | 3.1–5.8% |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 3.8% | 3.3–4.5% | 3.1–4.7% | 3.0–4.9% | 2.7–5.2% |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 3.4% | 2.9–4.0% | 2.8–4.1% | 2.7–4.3% | 2.5–4.6% |
@@ -61,7 +61,7 @@ Last result: **9** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 1–9 | 1–10 | 1–10 | 0–11 |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 7–10 | 3–10 | 2–11 | 2–11 |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG |  |  |  |  |  |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 3 | 2–8 | 2–8 | 1–8 | 1–9 |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 2–9 | 2–9 | 2–10 | 1–11 |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–8 | 1–9 | 1–9 | 1–10 |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 2 | 1–3 | 1–7 | 1–7 | 1–8 |
@@ -101,22 +101,22 @@ Last result: **9** seats (General Election of 8–9 September 2013)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for #{party_name}.
+The following table shows the probability mass function for the [poll average](average.html) for Venstre.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% |  |
-| 1 | 19% | 98% |  |
-| 2 | 20% | 78% |  |
-| 3 | 9% | 58% | Median |
+| 1 | 17% | 98% |  |
+| 2 | 22% | 81% |  |
+| 3 | 9% | 59% | Median |
 | 4 | 0% | 49% |  |
 | 5 | 0% | 49% |  |
 | 6 | 0.4% | 49% |  |
-| 7 | 11% | 49% |  |
-| 8 | 22% | 38% |  |
-| 9 | 10% | 16% | Last Result |
-| 10 | 5% | 6% |  |
-| 11 | 1.2% | 1.3% |  |
+| 7 | 12% | 49% |  |
+| 8 | 23% | 37% |  |
+| 9 | 8% | 14% | Last Result |
+| 10 | 4% | 5% |  |
+| 11 | 1.0% | 1.1% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 

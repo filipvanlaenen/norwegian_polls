@@ -11,7 +11,7 @@ Last result: **5.6%** (General Election of 8–9 September 2013)
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 4.4% | 3.8–5.2% | 3.6–5.4% | 3.5–5.6% | 3.2–6.0% |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 5.1% | ["N/A", "N/A", "N/A", "N/A"] |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 5.1% | 4.5–5.8% | 4.4–6.0% | 4.2–6.1% | 4.0–6.5% |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 3.8% | 3.2–4.5% | 3.1–4.7% | 3.0–4.8% | 2.7–5.2% |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 4.1% | 3.5–4.8% | 3.3–5.0% | 3.2–5.2% | 3.0–5.5% |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 5.5% | 4.9–6.2% | 4.7–6.4% | 4.6–6.6% | 4.3–7.0% |
@@ -61,7 +61,7 @@ Last result: **10** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–11 | 2–12 | 2–13 | 2–14 |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 2–9 | 2–10 | 2–10 | 2–11 |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG |  |  |  |  |  |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2–8 | 2–8 | 1–9 | 1–9 |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 2–9 | 2–10 | 2–10 | 1–10 |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 9 | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -101,25 +101,25 @@ Last result: **10** seats (General Election of 8–9 September 2013)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for #{party_name}.
+The following table shows the probability mass function for the [poll average](average.html) for Kristelig Folkeparti.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
-| 2 | 8% | 99.9% |  |
-| 3 | 2% | 92% |  |
-| 4 | 0% | 90% |  |
-| 5 | 0% | 90% |  |
-| 6 | 0.1% | 90% |  |
-| 7 | 8% | 90% |  |
-| 8 | 27% | 82% |  |
-| 9 | 22% | 55% | Median |
-| 10 | 15% | 33% | Last Result |
-| 11 | 10% | 18% |  |
-| 12 | 5% | 8% |  |
-| 13 | 2% | 4% |  |
-| 14 | 1.4% | 2% |  |
-| 15 | 0.2% | 0.5% |  |
+| 2 | 7% | 99.9% |  |
+| 3 | 2% | 93% |  |
+| 4 | 0% | 92% |  |
+| 5 | 0% | 92% |  |
+| 6 | 0.1% | 92% |  |
+| 7 | 8% | 92% |  |
+| 8 | 25% | 84% |  |
+| 9 | 27% | 58% | Median |
+| 10 | 15% | 31% | Last Result |
+| 11 | 9% | 16% |  |
+| 12 | 4% | 7% |  |
+| 13 | 2% | 3% |  |
+| 14 | 1.2% | 2% |  |
+| 15 | 0.2% | 0.4% |  |
 | 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 

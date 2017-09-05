@@ -11,7 +11,7 @@ Last result: **16.3%** (General Election of 8–9 September 2013)
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 14.3% | 13.2–15.5% | 12.9–15.9% | 12.6–16.2% | 12.1–16.8% |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 12.8% | ["N/A", "N/A", "N/A", "N/A"] |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 12.8% | 11.9–13.8% | 11.6–14.1% | 11.4–14.3% | 11.0–14.8% |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 14.7% | 13.6–15.9% | 13.3–16.2% | 13.0–16.5% | 12.5–17.1% |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 14.8% | 13.7–16.0% | 13.4–16.4% | 13.2–16.7% | 12.7–17.3% |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
@@ -61,7 +61,7 @@ Last result: **29** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 21–31 | 20–32 | 19–33 | 17–35 |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 24–28 | 23–29 | 22–29 | 21–31 |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG |  |  |  |  |  |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 23 | 21–26 | 21–27 | 21–27 | 19–28 |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 25–29 | 24–30 | 24–30 | 23–32 |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 28 | 26–31 | 25–31 | 25–31 | 23–33 |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 24 | 22–26 | 21–26 | 20–27 | 19–28 |
@@ -101,30 +101,30 @@ Last result: **29** seats (General Election of 8–9 September 2013)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for #{party_name}.
+The following table shows the probability mass function for the [poll average](average.html) for Fremskrittspartiet.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.2% | 100% |  |
-| 17 | 0.5% | 99.8% |  |
-| 18 | 0.7% | 99.3% |  |
-| 19 | 2% | 98.7% |  |
-| 20 | 4% | 97% |  |
-| 21 | 4% | 93% |  |
-| 22 | 6% | 89% |  |
-| 23 | 6% | 83% |  |
-| 24 | 6% | 77% |  |
-| 25 | 6% | 71% |  |
-| 26 | 7% | 65% |  |
-| 27 | 9% | 59% | Median |
-| 28 | 19% | 49% |  |
-| 29 | 12% | 31% | Last Result |
-| 30 | 4% | 19% |  |
-| 31 | 5% | 15% |  |
-| 32 | 6% | 10% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.4% | 99.8% |  |
+| 18 | 0.6% | 99.4% |  |
+| 19 | 2% | 98.8% |  |
+| 20 | 3% | 97% |  |
+| 21 | 5% | 94% |  |
+| 22 | 7% | 89% |  |
+| 23 | 9% | 82% |  |
+| 24 | 6% | 73% |  |
+| 25 | 9% | 67% |  |
+| 26 | 7% | 59% |  |
+| 27 | 8% | 51% | Median |
+| 28 | 17% | 43% |  |
+| 29 | 10% | 26% | Last Result |
+| 30 | 3% | 16% |  |
+| 31 | 4% | 13% |  |
+| 32 | 5% | 8% |  |
 | 33 | 2% | 4% |  |
-| 34 | 0.7% | 2% |  |
-| 35 | 0.9% | 1.1% |  |
+| 34 | 0.6% | 2% |  |
+| 35 | 0.8% | 0.9% |  |
 | 36 | 0.1% | 0.2% |  |
 | 37 | 0% | 0.1% |  |
 | 38 | 0% | 0% |  |

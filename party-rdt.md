@@ -11,7 +11,7 @@ Last result: **1.1%** (General Election of 8–9 September 2013)
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.4% | 2.3–4.8% |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 3.8% | ["N/A", "N/A", "N/A", "N/A"] |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.1–4.7% | 2.9–5.0% |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 3.6% | 3.1–4.3% | 2.9–4.5% | 2.8–4.6% | 2.6–5.0% |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 3.3% | 2.8–4.0% | 2.7–4.2% | 2.5–4.3% | 2.3–4.7% |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 3.1% | 2.7–3.7% | 2.5–3.8% | 2.4–3.9% | 2.2–4.2% |
@@ -61,7 +61,7 @@ Last result: **0** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–7 | 1–8 | 1–8 | 1–9 |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2–7 | 1–7 | 1–8 | 1–8 |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG |  |  |  |  |  |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 2 | 2–7 | 2–7 | 2–8 | 2–9 |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2–8 | 2–8 | 2–8 | 1–9 |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2 | 2–8 | 1–8 | 1–8 |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 2 | 1–2 | 1–2 | 1–2 | 1–7 |
@@ -101,22 +101,22 @@ Last result: **0** seats (General Election of 8–9 September 2013)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for #{party_name}.
+The following table shows the probability mass function for the [poll average](average.html) for Rødt.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 31% | 99.9% |  |
-| 2 | 53% | 69% | Median |
-| 3 | 0% | 16% |  |
-| 4 | 0% | 16% |  |
-| 5 | 0% | 16% |  |
-| 6 | 1.1% | 16% |  |
-| 7 | 7% | 15% |  |
-| 8 | 6% | 9% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 26% | 100% |  |
+| 2 | 56% | 74% | Median |
+| 3 | 0% | 18% |  |
+| 4 | 0% | 18% |  |
+| 5 | 0% | 18% |  |
+| 6 | 1.0% | 18% |  |
+| 7 | 9% | 17% |  |
+| 8 | 6% | 8% |  |
 | 9 | 2% | 2% |  |
-| 10 | 0.3% | 0.3% |  |
-| 11 | 0.1% | 0.1% |  |
+| 10 | 0.2% | 0.3% |  |
+| 11 | 0% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
 

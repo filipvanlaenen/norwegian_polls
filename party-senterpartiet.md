@@ -11,7 +11,7 @@ Last result: **5.5%** (General Election of 8–9 September 2013)
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 10.9% | 10.0–12.0% | 9.7–12.3% | 9.4–12.6% | 9.0–13.1% |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 10.0% | ["N/A", "N/A", "N/A", "N/A"] |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 10.0% | 9.2–10.9% | 9.0–11.1% | 8.8–11.4% | 8.4–11.8% |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.6–12.6% | 9.1–13.2% |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 11.1% | 10.1–12.2% | 9.9–12.5% | 9.6–12.7% | 9.2–13.3% |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 11.2% | 10.3–12.1% | 10.1–12.4% | 9.9–12.6% | 9.5–13.1% |
@@ -59,9 +59,9 @@ Last result: **10** seats (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–22 | 13–23 | 13–23 | 12–25 |
+| N/A | [Poll Average](average.html) | 18 | 15–22 | 13–22 | 13–23 | 12–25 |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 19 | 17–22 | 17–22 | 16–23 | 15–24 |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG |  |  |  |  |  |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 18 | 16–19 | 16–19 | 15–20 | 14–21 |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 21 | 18–23 | 18–23 | 17–23 | 16–24 |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 20 | 19–22 | 18–23 | 18–24 | 17–25 |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
@@ -101,28 +101,27 @@ Last result: **10** seats (General Election of 8–9 September 2013)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for #{party_name}.
+The following table shows the probability mass function for the [poll average](average.html) for Senterpartiet.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0% | 100% | Last Result |
 | 11 | 0.2% | 100% |  |
-| 12 | 2% | 99.8% |  |
-| 13 | 5% | 98% |  |
-| 14 | 3% | 93% |  |
-| 15 | 7% | 91% |  |
-| 16 | 8% | 84% |  |
-| 17 | 12% | 75% |  |
-| 18 | 17% | 63% | Median |
-| 19 | 16% | 47% |  |
-| 20 | 11% | 31% |  |
-| 21 | 8% | 20% |  |
-| 22 | 6% | 12% |  |
-| 23 | 4% | 6% |  |
-| 24 | 1.2% | 2% |  |
-| 25 | 0.5% | 0.7% |  |
+| 12 | 1.4% | 99.8% |  |
+| 13 | 4% | 98% |  |
+| 14 | 2% | 94% |  |
+| 15 | 7% | 92% |  |
+| 16 | 9% | 85% |  |
+| 17 | 13% | 77% |  |
+| 18 | 17% | 64% | Median |
+| 19 | 19% | 47% |  |
+| 20 | 10% | 27% |  |
+| 21 | 7% | 17% |  |
+| 22 | 5% | 10% |  |
+| 23 | 3% | 5% |  |
+| 24 | 1.1% | 2% |  |
+| 25 | 0.4% | 0.6% |  |
 | 26 | 0.1% | 0.2% |  |
-| 27 | 0% | 0.1% |  |
-| 28 | 0% | 0% |  |
+| 27 | 0% | 0% |  |
 
 
