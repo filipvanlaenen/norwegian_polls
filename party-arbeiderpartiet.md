@@ -1,5 +1,7 @@
 # Arbeiderpartiet
 
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
+
 ## Voting Intentions
 
 Last result: **30.8%** (General Election of 8–9 September 2013)
@@ -8,7 +10,7 @@ Last result: **30.8%** (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 26.1% | 24.7–27.5% | 24.3–28.0% | 24.0–28.3% | 23.4–29.0% |
+| [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 26.5% | 25.1–28.0% | 24.7–28.5% | 24.4–28.8% | 23.7–29.6% |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 29.0% | 27.7–30.3% | 27.4–30.7% | 27.1–31.0% | 26.4–31.6% |
 | [28–30 August 2017](2017-08-30-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 26.1% | 24.4–28.0% | 23.9–28.5% | 23.5–29.0% | 22.7–29.9% |
 | [22–28 August 2017](2017-08-28-Norstat2.html) | Norstat <br> Vårt Land | 25.6% | 23.9–27.5% | 23.4–28.1% | 22.9–28.5% | 22.1–29.5% |
@@ -27,7 +29,7 @@ Last result: **55** seats (General Election of 8–9 September 2013)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 51 | 46–56 | 45–57 | 44–59 | 42–63 |
-| [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 49 | 46–52 | 45–53 | 45–53 | 44–54 |
+| [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 50 | 46–51 | 46–53 | 45–53 | 44–56 |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 54 | 51–55 | 50–56 | 50–57 | 48–60 |
 | [28–30 August 2017](2017-08-30-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 48 | 44–51 | 44–52 | 43–53 | 43–54 |
 | [22–28 August 2017](2017-08-28-Norstat2.html) | Norstat <br> Vårt Land | 47 | 44–51 | 43–51 | 42–52 | 40–54 |
@@ -49,11 +51,11 @@ The following table shows the probability mass function for the [poll average](a
 | 44 | 3% | 98% |  |
 | 45 | 5% | 95% |  |
 | 46 | 6% | 90% |  |
-| 47 | 6% | 85% |  |
-| 48 | 10% | 78% |  |
-| 49 | 9% | 68% |  |
-| 50 | 8% | 60% |  |
-| 51 | 8% | 52% | Median |
+| 47 | 7% | 85% |  |
+| 48 | 8% | 78% |  |
+| 49 | 8% | 70% |  |
+| 50 | 9% | 62% |  |
+| 51 | 10% | 53% | Median |
 | 52 | 7% | 43% |  |
 | 53 | 8% | 36% |  |
 | 54 | 12% | 28% |  |

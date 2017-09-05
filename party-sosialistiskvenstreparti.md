@@ -1,5 +1,7 @@
 # Sosialistisk Venstreparti
 
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
+
 ## Voting Intentions
 
 Last result: **4.1%** (General Election of 8–9 September 2013)
@@ -8,7 +10,7 @@ Last result: **4.1%** (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 4.8% | 4.2–5.5% | 4.0–5.8% | 3.8–5.9% | 3.6–6.3% |
+| [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 5.1% | 4.4–5.9% | 4.3–6.1% | 4.1–6.3% | 3.8–6.7% |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 6.6% | 5.9–7.4% | 5.7–7.6% | 5.6–7.8% | 5.3–8.1% |
 | [28–30 August 2017](2017-08-30-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.8–7.9% | 4.5–8.4% |
 | [22–28 August 2017](2017-08-28-Norstat2.html) | Norstat <br> Vårt Land | 5.2% | 4.3–6.2% | 4.1–6.5% | 3.9–6.8% | 3.5–7.3% |
@@ -26,8 +28,8 @@ Last result: **7** seats (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–12 | 2–13 | 1–13 | 1–14 |
-| [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 9 | 8–10 | 2–10 | 2–11 | 2–12 |
+| N/A | [Poll Average](average.html) | 10 | 7–12 | 2–13 | 1–13 | 1–14 |
+| [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 9 | 7–10 | 7–11 | 2–11 | 2–12 |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 12 | 11–13 | 10–13 | 10–14 | 9–14 |
 | [28–30 August 2017](2017-08-30-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 10 | 9–12 | 9–12 | 8–13 | 7–14 |
 | [22–28 August 2017](2017-08-28-Norstat2.html) | Norstat <br> Vårt Land | 9 | 7–11 | 2–11 | 2–12 | 1–13 |
@@ -43,16 +45,16 @@ The following table shows the probability mass function for the [poll average](a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% |  |
 | 2 | 5% | 97% |  |
-| 3 | 0% | 91% |  |
-| 4 | 0% | 91% |  |
-| 5 | 0% | 91% |  |
-| 6 | 0.1% | 91% |  |
-| 7 | 5% | 91% | Last Result |
-| 8 | 17% | 86% |  |
-| 9 | 20% | 69% | Median |
-| 10 | 16% | 49% |  |
-| 11 | 16% | 33% |  |
-| 12 | 12% | 17% |  |
+| 3 | 0% | 92% |  |
+| 4 | 0% | 92% |  |
+| 5 | 0% | 92% |  |
+| 6 | 0.1% | 92% |  |
+| 7 | 6% | 91% | Last Result |
+| 8 | 13% | 85% |  |
+| 9 | 20% | 72% |  |
+| 10 | 18% | 52% | Median |
+| 11 | 17% | 34% |  |
+| 12 | 12% | 18% |  |
 | 13 | 4% | 5% |  |
 | 14 | 1.3% | 2% |  |
 | 15 | 0.2% | 0.2% |  |

@@ -1,5 +1,7 @@
 # Miljøpartiet de Grønne
 
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
+
 ## Voting Intentions
 
 Last result: **2.8%** (General Election of 8–9 September 2013)
@@ -8,7 +10,7 @@ Last result: **2.8%** (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 3.5% | 3.0–4.1% | 2.8–4.3% | 2.7–4.5% | 2.5–4.8% |
+| [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 3.8% | 3.2–4.5% | 3.0–4.7% | 2.9–4.9% | 2.7–5.2% |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 4.8% | 4.2–5.4% | 4.1–5.6% | 3.9–5.8% | 3.7–6.1% |
 | [28–30 August 2017](2017-08-30-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.5–6.2% | 3.2–6.7% |
 | [22–28 August 2017](2017-08-28-Norstat2.html) | Norstat <br> Vårt Land | 5.2% | 4.3–6.2% | 4.1–6.5% | 3.9–6.8% | 3.5–7.3% |
@@ -27,7 +29,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 1–10 | 1–12 | 1–12 | 1–14 |
-| [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 1 | 1–7 | 1–7 | 1–8 | 1–9 |
+| [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–8 | 1–8 | 1–8 | 1–9 |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 9 | 8–10 | 7–10 | 3–10 | 3–11 |
 | [28–30 August 2017](2017-08-30-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 8 | 4–9 | 2–10 | 2–10 | 1–11 |
 | [22–28 August 2017](2017-08-28-Norstat2.html) | Norstat <br> Vårt Land | 9 | 7–11 | 7–11 | 3–12 | 1–13 |
@@ -42,14 +44,14 @@ The following table shows the probability mass function for the [poll average](a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.5% | 100% |  |
-| 1 | 24% | 99.5% | Last Result |
-| 2 | 4% | 75% |  |
-| 3 | 6% | 71% |  |
-| 4 | 0.9% | 66% |  |
-| 5 | 0% | 65% |  |
-| 6 | 0% | 65% |  |
-| 7 | 10% | 65% |  |
-| 8 | 17% | 55% | Median |
+| 1 | 21% | 99.5% | Last Result |
+| 2 | 6% | 78% |  |
+| 3 | 5% | 72% |  |
+| 4 | 0.9% | 68% |  |
+| 5 | 0% | 67% |  |
+| 6 | 0.3% | 67% |  |
+| 7 | 10% | 67% |  |
+| 8 | 18% | 56% | Median |
 | 9 | 19% | 38% |  |
 | 10 | 9% | 19% |  |
 | 11 | 5% | 10% |  |
