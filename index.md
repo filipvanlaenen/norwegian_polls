@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 30 days old) registered a
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
 | N/A | [Poll Average](average.html) | 44–59 | 36–49 | 19–33 | 2–13 | 13–23 | 1–10 | 1–13 | 1–12 | 1–8 |
-| [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 24–29% <br> 45–53 | 22–27% <br> 39–49 | 13–16% <br> 22–29 | 4–6% <br> 2–10 | 9–13% <br> 16–23 | 4–6% <br> 2–11 | 4–6% <br> 2–11 | 3–5% <br> 1–8 | 3–4% <br> 1–8 |
+| [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 24–29% <br> 45–53 | 22–27% <br> 39–49 | 13–16% <br> 22–29 | 4–6% <br> 2–10 | 9–13% <br> 16–23 | 4–6% <br> 2–11 | 4–6% <br> 7–11 | 3–5% <br> 1–8 | 3–4% <br> 1–7 |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 27–31% <br> 50–57 | 20–23% <br> 35–42 | 12–15% <br> 20–27 | 5–7% <br> 8–11 | 10–13% <br> 17–23 | 3–4% <br> 1–7 | 6–8% <br> 10–14 | 4–6% <br> 3–10 | 2–4% <br> 1–2 |
 | [28–30 August 2017](2017-08-30-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten and Bergens Tidende | 24–29% <br> 43–53 | 21–27% <br> 37–46 | 14–19% <br> 26–35 | 4–7% <br> 7–12 | 7–11% <br> 12–18 | 4–6% <br> 2–10 | 5–8% <br> 8–13 | 4–6% <br> 2–10 | 2–4% <br> 1–2 |
 | [22–28 August 2017](2017-08-28-Norstat2.html) | Norstat <br> Vårt Land | 23–29% <br> 42–52 | 22–27% <br> 37–48 | 14–19% <br> 27–34 | 4–7% <br> 2–12 | 9–12% <br> 14–22 | 2–4% <br> 0–7 | 4–7% <br> 2–12 | 4–7% <br> 3–12 | 3–5% <br> 1–9 |
