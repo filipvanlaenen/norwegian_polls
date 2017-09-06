@@ -10,6 +10,8 @@ Last result: **4.1%** (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.6–6.9% | 4.3–7.3% |
+| [31 August–4 September 2017](2017-09-04-Norstat.html) | Norstat <br> NRK | 5.9% | 5.2–6.9% | 4.9–7.2% | 4.7–7.5% | 4.4–8.0% |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 5.1% | 4.4–5.9% | 4.3–6.1% | 4.1–6.3% | 3.8–6.7% |
 | [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 5.5% | 4.9–6.2% | 4.8–6.4% | 4.6–6.6% | 4.3–6.9% |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 4.8% | 4.2–5.5% | 4.0–5.8% | 3.8–5.9% | 3.6–6.3% |
@@ -59,9 +61,11 @@ Last result: **7** seats (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–11 | 2–12 | 1–13 | 1–14 |
+| N/A | [Poll Average](average.html) | 10 | 7–12 | 2–12 | 1–13 | 1–14 |
+| [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 10 | 9–11 | 9–11 | 8–12 | 7–13 |
+| [31 August–4 September 2017](2017-09-04-Norstat.html) | Norstat <br> NRK | 11 | 9–12 | 9–13 | 9–14 | 8–14 |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 9 | 8–10 | 7–11 | 7–11 | 2–12 |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 10 | 8–11 | 8–11 | 8–12 | 8–12 |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 9 | 8–10 | 2–10 | 2–11 | 2–12 |
 | [28–31 August 2017](2017-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
 | [31 August 2017](2017-08-31-InFact.html) | InFact <br> VG | 12 | 11–13 | 10–13 | 10–14 | 9–14 |
@@ -106,19 +110,19 @@ The following table shows the probability mass function for the [poll average](a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% |  |
-| 2 | 5% | 97% |  |
-| 3 | 0% | 92% |  |
-| 4 | 0% | 92% |  |
-| 5 | 0% | 92% |  |
-| 6 | 0.1% | 92% |  |
-| 7 | 6% | 92% | Last Result |
-| 8 | 17% | 86% |  |
-| 9 | 23% | 69% | Median |
-| 10 | 24% | 47% |  |
-| 11 | 15% | 23% |  |
-| 12 | 5% | 7% |  |
+| 2 | 4% | 97% |  |
+| 3 | 0% | 93% |  |
+| 4 | 0% | 93% |  |
+| 5 | 0% | 93% |  |
+| 6 | 0.1% | 93% |  |
+| 7 | 4% | 93% | Last Result |
+| 8 | 10% | 88% |  |
+| 9 | 20% | 79% |  |
+| 10 | 26% | 59% | Median |
+| 11 | 20% | 33% |  |
+| 12 | 10% | 13% |  |
 | 13 | 2% | 3% |  |
-| 14 | 0.7% | 0.9% |  |
+| 14 | 1.1% | 1.4% |  |
 | 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
 
