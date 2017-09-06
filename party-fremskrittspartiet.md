@@ -61,9 +61,9 @@ Last result: **29** seats (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 21–32 | 20–33 | 19–33 | 17–36 |
+| N/A | [Poll Average](average.html) | 27 | 21–32 | 20–32 | 19–33 | 17–35 |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 28 | 25–30 | 24–30 | 23–30 | 22–32 |
-| [31 August–4 September 2017](2017-09-04-Norstat.html) | Norstat <br> NRK | 32 | 29–34 | 28–35 | 28–36 | 27–37 |
+| [31 August–4 September 2017](2017-09-04-Norstat.html) | Norstat <br> NRK | 31 | 28–33 | 28–34 | 27–35 | 25–37 |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 24–28 | 23–29 | 22–29 | 21–31 |
 | [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 23 | 21–26 | 21–27 | 20–28 | 19–28 |
 | [29 August–1 September 2017](2017-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 25–29 | 24–30 | 24–30 | 23–32 |
@@ -121,16 +121,17 @@ The following table shows the probability mass function for the [poll average](a
 | 25 | 7% | 68% |  |
 | 26 | 6% | 60% |  |
 | 27 | 7% | 55% | Median |
-| 28 | 16% | 47% |  |
-| 29 | 8% | 31% | Last Result |
-| 30 | 4% | 23% |  |
-| 31 | 6% | 19% |  |
-| 32 | 7% | 13% |  |
-| 33 | 4% | 6% |  |
-| 34 | 0.7% | 2% |  |
-| 35 | 0.8% | 2% |  |
-| 36 | 0.6% | 0.7% |  |
-| 37 | 0.2% | 0.2% |  |
-| 38 | 0% | 0% |  |
+| 28 | 18% | 47% |  |
+| 29 | 8% | 29% | Last Result |
+| 30 | 5% | 21% |  |
+| 31 | 5% | 16% |  |
+| 32 | 6% | 11% |  |
+| 33 | 3% | 5% |  |
+| 34 | 1.0% | 2% |  |
+| 35 | 0.8% | 1.1% |  |
+| 36 | 0.2% | 0.4% |  |
+| 37 | 0.1% | 0.2% |  |
+| 38 | 0.1% | 0.1% |  |
+| 39 | 0% | 0% |  |
 
 
