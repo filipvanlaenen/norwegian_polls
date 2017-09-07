@@ -5,7 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Pollster/Media   | Ap | H | FrP | KrF | Sp | V | SV | MDG | R |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
-| [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 25–30% <br> 46–54 | 22–27% <br> 39–48 | 13–17% <br> 23–30 | 4–6% <br> 2–10 | 8–11% <br> 14–20 | 4–6% <br> 3–10 | 5–7% <br> 8–12 | 3–4% <br> 1–8 | 3–5% <br> 2–8 |
+| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 23–29% <br> 41–53 | 22–28% <br> 39–53 | 12–17% <br> 21–31 | 4–7% <br> 7–13 | 8–12% <br> 13–22 | 3–6% <br> 1–10 | 6–9% <br> 10–17 | 2–4% <br> 0–3 | 2–5% <br> 1–8 |
+| [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 25–29% <br> 45–54 | 23–27% <br> 39–49 | 13–17% <br> 23–32 | 4–6% <br> 2–10 | 9–12% <br> 15–22 | 3–5% <br> 2–9 | 5–7% <br> 8–12 | 3–5% <br> 1–8 | 2–4% <br> 1–2 |
+| [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 25–30% <br> 47–55 | 22–27% <br> 38–48 | 13–17% <br> 23–30 | 4–6% <br> 2–10 | 8–11% <br> 14–20 | 4–6% <br> 3–10 | 5–7% <br> 8–12 | 3–4% <br> 1–8 | 3–5% <br> 2–8 |
 | [31 August–4 September 2017](2017-09-04-Norstat.html) | Norstat <br> NRK | 23–28% <br> 43–52 | 22–27% <br> 38–49 | 15–19% <br> 27–35 | 3–6% <br> 2–10 | 8–11% <br> 13–21 | 3–5% <br> 1–8 | 5–7% <br> 8–13 | 4–6% <br> 1–10 | 2–4% <br> 1–8 |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 24–29% <br> 45–53 | 22–27% <br> 38–49 | 13–16% <br> 22–29 | 4–6% <br> 2–10 | 9–13% <br> 16–23 | 4–6% <br> 2–11 | 4–6% <br> 7–11 | 3–5% <br> 1–8 | 3–4% <br> 1–8 |
 | [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 27–31% <br> 50–58 | 22–25% <br> 38–47 | 11–14% <br> 20–28 | 4–6% <br> 7–11 | 9–11% <br> 15–20 | 3–5% <br> 1–8 | 5–7% <br> 8–12 | 3–5% <br> 1–9 | 3–5% <br> 2–8 |
