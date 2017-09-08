@@ -10,7 +10,10 @@ Last result: **30.8%** (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 25.6% | 23.7–27.7% | 23.2–28.3% | 22.7–28.8% | 21.8–29.8% |
+| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 28.1% | 26.7–29.5% | 26.3–29.9% | 25.9–30.3% | 25.3–31.0% |
+| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 28.0% | N/A | N/A | N/A | N/A |
+| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 25.6% | 23.9–27.4% | 23.4–28.0% | 23.0–28.4% | 22.2–29.3% |
+| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 26.3% | N/A | N/A | N/A | N/A |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 27.0% | 25.6–28.5% | 25.2–28.9% | 24.9–29.3% | 24.2–30.0% |
 | [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 27.2% | 25.4–29.1% | 24.9–29.6% | 24.4–30.1% | 23.6–31.0% |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 27.5% | 26.1–29.0% | 25.7–29.4% | 25.4–29.7% | 24.7–30.5% |
@@ -64,10 +67,13 @@ Last result: **55** seats (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 50 | 45–55 | 45–56 | 44–57 | 41–60 |
-| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 47 | 44–51 | 42–52 | 41–53 | 39–54 |
+| N/A | [Poll Average](average.html) | 49 | 45–53 | 43–55 | 43–55 | 42–57 |
+| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 52 | 48–55 | 48–55 | 48–55 | 47–57 |
+| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG |  |  |  |  |  |
+| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 47 | 43–50 | 43–52 | 43–52 | 41–54 |
+| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen |  |  |  |  |  |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 50 | 46–53 | 45–53 | 45–54 | 45–57 |
-| [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 50 | 49–50 | 49–50 | 47–50 | 46–54 |
+| [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 50 | 46–53 | 46–55 | 45–55 | 44–56 |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 50 | 48–53 | 47–54 | 47–55 | 46–57 |
 | [31 August–4 September 2017](2017-09-04-Norstat.html) | Norstat <br> NRK | 47 | 45–50 | 44–51 | 43–52 | 42–54 |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 49 | 46–51 | 45–53 | 45–53 | 44–55 |
@@ -115,31 +121,27 @@ The following table shows the probability mass function for the [poll average](a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.2% | 100% |  |
-| 40 | 0.1% | 99.8% |  |
-| 41 | 0.3% | 99.8% |  |
-| 42 | 0.8% | 99.4% |  |
-| 43 | 0.8% | 98.7% |  |
-| 44 | 2% | 98% |  |
-| 45 | 8% | 96% |  |
-| 46 | 8% | 87% |  |
-| 47 | 7% | 80% |  |
-| 48 | 7% | 72% |  |
-| 49 | 10% | 65% |  |
-| 50 | 8% | 55% | Median |
-| 51 | 10% | 48% |  |
-| 52 | 6% | 38% |  |
-| 53 | 10% | 32% |  |
-| 54 | 8% | 21% |  |
-| 55 | 6% | 13% | Last Result |
-| 56 | 3% | 8% |  |
-| 57 | 3% | 5% |  |
-| 58 | 1.2% | 2% |  |
-| 59 | 0.5% | 1.1% |  |
-| 60 | 0.3% | 0.6% |  |
-| 61 | 0.2% | 0.3% |  |
-| 62 | 0.1% | 0.1% |  |
-| 63 | 0% | 0.1% |  |
-| 64 | 0% | 0% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.6% | 99.7% |  |
+| 43 | 5% | 99.1% |  |
+| 44 | 2% | 94% |  |
+| 45 | 10% | 92% |  |
+| 46 | 9% | 82% |  |
+| 47 | 10% | 73% |  |
+| 48 | 11% | 63% |  |
+| 49 | 13% | 53% | Median |
+| 50 | 6% | 40% |  |
+| 51 | 10% | 33% |  |
+| 52 | 10% | 23% |  |
+| 53 | 4% | 14% |  |
+| 54 | 4% | 9% |  |
+| 55 | 4% | 5% | Last Result |
+| 56 | 0.7% | 1.3% |  |
+| 57 | 0.3% | 0.5% |  |
+| 58 | 0.1% | 0.2% |  |
+| 59 | 0.1% | 0.1% |  |
+| 60 | 0% | 0.1% |  |
+| 61 | 0% | 0% |  |
 
 

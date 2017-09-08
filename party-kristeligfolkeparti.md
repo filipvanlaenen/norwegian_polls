@@ -10,7 +10,10 @@ Last result: **5.6%** (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 5.5% | 4.6–6.7% | 4.3–7.0% | 4.1–7.3% | 3.7–7.9% |
+| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 5.0% | 4.3–5.7% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
+| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 4.7% | N/A | N/A | N/A | N/A |
+| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
+| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 5.2% | N/A | N/A | N/A | N/A |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 4.5% | 3.9–5.2% | 3.7–5.4% | 3.6–5.6% | 3.3–6.0% |
 | [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 4.2% | 3.5–5.2% | 3.3–5.4% | 3.1–5.7% | 2.8–6.2% |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 4.4% | 3.8–5.2% | 3.7–5.4% | 3.5–5.5% | 3.2–5.9% |
@@ -64,10 +67,13 @@ Last result: **10** seats (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 2–11 | 2–12 | 2–13 |
-| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 10 | 8–12 | 8–13 | 7–13 | 2–14 |
+| N/A | [Poll Average](average.html) | 9 | 3–11 | 2–11 | 2–12 | 2–13 |
+| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 9 | 8–11 | 7–11 | 7–12 | 2–12 |
+| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG |  |  |  |  |  |
+| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 10 | 8–11 | 3–11 | 3–12 | 3–13 |
+| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen |  |  |  |  |  |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 7–9 | 2–9 | 2–10 | 2–11 |
-| [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 8 | 8 | 1–9 | 1–9 | 1–11 |
+| [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 7 | 2–9 | 2–9 | 2–10 | 1–11 |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 3–9 | 2–9 | 2–10 | 2–10 |
 | [31 August–4 September 2017](2017-09-04-Norstat.html) | Norstat <br> NRK | 8 | 3–9 | 2–10 | 2–10 | 2–11 |
 | [30 August–4 September 2017](2017-09-04-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 2–9 | 2–10 | 2–10 | 2–11 |
@@ -115,21 +121,20 @@ The following table shows the probability mass function for the [poll average](a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 7% | 99.8% |  |
-| 3 | 2% | 93% |  |
-| 4 | 0% | 91% |  |
-| 5 | 0% | 91% |  |
-| 6 | 0% | 91% |  |
-| 7 | 8% | 91% |  |
-| 8 | 26% | 83% |  |
-| 9 | 33% | 57% | Median |
-| 10 | 15% | 25% | Last Result |
-| 11 | 6% | 9% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 7% | 99.6% |  |
+| 3 | 4% | 92% |  |
+| 4 | 0.1% | 89% |  |
+| 5 | 0% | 89% |  |
+| 6 | 0.2% | 89% |  |
+| 7 | 11% | 88% |  |
+| 8 | 21% | 77% |  |
+| 9 | 25% | 56% | Median |
+| 10 | 17% | 31% | Last Result |
+| 11 | 11% | 14% |  |
 | 12 | 2% | 3% |  |
-| 13 | 0.8% | 1.2% |  |
-| 14 | 0.3% | 0.4% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 13 | 0.4% | 0.6% |  |
+| 14 | 0.1% | 0.2% |  |
+| 15 | 0% | 0% |  |
 
 
