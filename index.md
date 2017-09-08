@@ -5,12 +5,13 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Pollster/Media   | Ap | H | FrP | KrF | Sp | V | SV | MDG | R |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
-| N/A | [Poll Average](average.html) | 44–57 | 37–49 | 20–33 | 2–12 | 14–23 | 1–10 | 7–15 | 1–12 | 1–8 |
-| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 23–29% <br> 41–53 | 22–28% <br> 39–53 | 12–17% <br> 21–31 | 4–7% <br> 7–13 | 8–12% <br> 13–22 | 3–6% <br> 1–10 | 6–9% <br> 10–17 | 2–4% <br> 0–3 | 2–5% <br> 1–8 |
-| [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 25–29% <br> 45–54 | 23–27% <br> 39–49 | 13–17% <br> 23–32 | 4–6% <br> 2–10 | 9–12% <br> 15–22 | 3–5% <br> 2–9 | 5–7% <br> 8–12 | 3–5% <br> 1–8 | 2–4% <br> 1–2 |
+| N/A | [Poll Average](average.html) | 43–55 | 37–50 | 20–33 | 2–12 | 13–23 | 1–10 | 7–15 | 1–12 | 1–7 |
+| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 26–30% <br> 48–55 | 21–26% <br> 38–45 | 14–17% <br> 25–31 | 4–6% <br> 7–12 | 9–12% <br> 16–21 | 3–5% <br> 2–8 | 5–7% <br> 9–12 | 3–5% <br> 1–8 | 2–4% <br> 1–6 |
+| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 23–28% <br> 43–52 | 22–27% <br> 38–53 | 12–17% <br> 21–30 | 4–7% <br> 3–12 | 8–12% <br> 14–22 | 3–6% <br> 2–10 | 6–9% <br> 10–16 | 2–4% <br> 0–2 | 2–4% <br> 1–7 |
+| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 24–30% <br> 45–55 | 21–26% <br> 36–47 | 13–18% <br> 23–32 | 3–6% <br> 2–10 | 8–11% <br> 12–20 | 4–6% <br> 2–11 | 5–8% <br> 8–14 | 3–6% <br> 1–10 | 3–5% <br> 1–8 |
 | [31 August–4 September 2017](2017-09-04-Norstat.html) | Norstat <br> NRK | 23–28% <br> 43–52 | 22–27% <br> 38–49 | 15–19% <br> 27–35 | 3–6% <br> 2–10 | 8–11% <br> 13–21 | 3–5% <br> 1–8 | 5–7% <br> 8–13 | 4–6% <br> 1–10 | 2–4% <br> 1–8 |
-| [4 September 2017](2017-09-04-InFact.html) | InFact <br> VG | 27–31% <br> 50–58 | 22–25% <br> 38–47 | 11–14% <br> 20–28 | 4–6% <br> 7–11 | 9–11% <br> 15–20 | 3–5% <br> 1–8 | 5–7% <br> 8–12 | 3–5% <br> 1–9 | 3–5% <br> 2–8 |
-| [21–23 August 2017](2017-08-23-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 27–33% <br> 50–60 | 21–26% <br> 37–48 | 13–17% <br> 23–32 | 3–6% <br> 2–11 | 8–12% <br> 15–22 | 2–5% <br> 1–8 | 5–8% <br> 8–14 | 2–4% <br> 0–3 | 3–5% <br> 2–9 |
 | [15–20 August 2017](2017-08-20-Sentio.html) | Sentio <br> Dagens Næringsliv | 24–30% <br> 44–55 | 21–27% <br> 37–49 | 11–16% <br> 19–28 | 4–7% <br> 2–12 | 9–14% <br> 15–24 | 3–6% <br> 1–10 | 4–7% <br> 1–12 | 5–8% <br> 8–14 | 2–4% <br> 1–2 |
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
 
