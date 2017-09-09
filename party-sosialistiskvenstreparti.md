@@ -15,7 +15,7 @@ Last result: **4.1%** (General Election of 8–9 September 2013)
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.6–6.9% | 4.3–7.3% |
 | [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 8.1% | 7.4–8.9% | 7.2–9.1% | 7.0–9.3% | 6.7–9.7% |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
-| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 5.0% | N/A | N/A | N/A | N/A |
+| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 5.0% | 4.1–6.1% | 3.9–6.4% | 3.7–6.7% | 3.3–7.3% |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.6–6.9% | 4.3–7.3% |
 | [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 6.2% | 5.3–7.3% | 5.0–7.6% | 4.8–7.9% | 4.4–8.4% |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.6–6.9% | 4.3–7.3% |
@@ -69,13 +69,13 @@ Last result: **7** seats (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–14 | 8–14 | 7–15 | 2–17 |
+| N/A | [Poll Average](average.html) | 11 | 8–14 | 7–14 | 7–15 | 2–16 |
 | [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
 | [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 11 | 8–12 | 8–13 | 8–13 | 7–15 |
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 13 | 11–15 | 11–15 | 10–16 | 9–18 |
-| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen |  |  |  |  |  |
+| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 9 | 7–10 | 2–11 | 2–11 | 1–12 |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 11 | 9–13 | 9–13 | 8–14 | 7–15 |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
@@ -125,22 +125,22 @@ The following table shows the probability mass function for the [poll average](a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.4% | 100% |  |
-| 2 | 0.9% | 99.6% |  |
-| 3 | 0% | 98.7% |  |
-| 4 | 0% | 98.7% |  |
-| 5 | 0% | 98.7% |  |
-| 6 | 0.1% | 98.7% |  |
-| 7 | 2% | 98.6% | Last Result |
-| 8 | 7% | 96% |  |
-| 9 | 14% | 90% |  |
-| 10 | 17% | 76% |  |
-| 11 | 22% | 59% | Median |
-| 12 | 11% | 37% |  |
-| 13 | 12% | 25% |  |
-| 14 | 8% | 13% |  |
-| 15 | 4% | 5% |  |
-| 16 | 0.7% | 1.2% |  |
+| 1 | 0.5% | 100% |  |
+| 2 | 2% | 99.5% |  |
+| 3 | 0% | 98% |  |
+| 4 | 0% | 98% |  |
+| 5 | 0% | 98% |  |
+| 6 | 0.1% | 98% |  |
+| 7 | 3% | 98% | Last Result |
+| 8 | 8% | 95% |  |
+| 9 | 17% | 87% |  |
+| 10 | 18% | 69% |  |
+| 11 | 18% | 51% | Median |
+| 12 | 11% | 33% |  |
+| 13 | 11% | 23% |  |
+| 14 | 7% | 12% |  |
+| 15 | 3% | 4% |  |
+| 16 | 0.6% | 1.1% |  |
 | 17 | 0.4% | 0.5% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
