@@ -10,8 +10,10 @@ Last result: **30.8%** (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 28.6% | 27.2–30.1% | 26.8–30.5% | 26.5–30.8% | 25.8–31.6% |
+| [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 26.4% | N/A | N/A | N/A | N/A |
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 28.1% | 26.7–29.5% | 26.3–29.9% | 25.9–30.3% | 25.3–31.0% |
-| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 28.0% | N/A | N/A | N/A | N/A |
+| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 28.0% | 26.8–29.3% | 26.4–29.6% | 26.1–29.9% | 25.6–30.6% |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 25.6% | 23.9–27.4% | 23.4–28.0% | 23.0–28.4% | 22.2–29.3% |
 | [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 26.3% | N/A | N/A | N/A | N/A |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 27.0% | 25.6–28.5% | 25.2–28.9% | 24.9–29.3% | 24.2–30.0% |
@@ -67,9 +69,11 @@ Last result: **55** seats (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49 | 45–53 | 43–55 | 43–55 | 42–57 |
+| N/A | [Poll Average](average.html) | 49 | 45–54 | 44–55 | 43–56 | 42–57 |
+| [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 51 | 50–54 | 50–56 | 50–56 | 49–56 |
+| [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå |  |  |  |  |  |
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 52 | 48–55 | 48–55 | 48–55 | 47–57 |
-| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG |  |  |  |  |  |
+| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 51 | 46–55 | 46–55 | 46–56 | 46–57 |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 47 | 43–50 | 43–52 | 43–52 | 41–54 |
 | [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen |  |  |  |  |  |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 50 | 46–53 | 45–53 | 45–54 | 45–57 |
@@ -122,26 +126,25 @@ The following table shows the probability mass function for the [poll average](a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
-| 41 | 0.2% | 99.9% |  |
-| 42 | 0.6% | 99.7% |  |
-| 43 | 5% | 99.1% |  |
-| 44 | 2% | 94% |  |
-| 45 | 10% | 92% |  |
-| 46 | 9% | 82% |  |
-| 47 | 10% | 73% |  |
-| 48 | 11% | 63% |  |
-| 49 | 13% | 53% | Median |
-| 50 | 6% | 40% |  |
-| 51 | 10% | 33% |  |
-| 52 | 10% | 23% |  |
-| 53 | 4% | 14% |  |
-| 54 | 4% | 9% |  |
-| 55 | 4% | 5% | Last Result |
-| 56 | 0.7% | 1.3% |  |
-| 57 | 0.3% | 0.5% |  |
+| 41 | 0.1% | 99.9% |  |
+| 42 | 0.5% | 99.8% |  |
+| 43 | 4% | 99.3% |  |
+| 44 | 2% | 95% |  |
+| 45 | 8% | 93% |  |
+| 46 | 9% | 85% |  |
+| 47 | 9% | 76% |  |
+| 48 | 8% | 67% |  |
+| 49 | 10% | 59% | Median |
+| 50 | 7% | 49% |  |
+| 51 | 14% | 42% |  |
+| 52 | 7% | 28% |  |
+| 53 | 6% | 22% |  |
+| 54 | 9% | 15% |  |
+| 55 | 3% | 6% | Last Result |
+| 56 | 3% | 3% |  |
+| 57 | 0.4% | 0.6% |  |
 | 58 | 0.1% | 0.2% |  |
 | 59 | 0.1% | 0.1% |  |
-| 60 | 0% | 0.1% |  |
-| 61 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
 
 

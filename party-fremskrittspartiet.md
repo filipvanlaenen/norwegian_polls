@@ -10,8 +10,10 @@ Last result: **16.3%** (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 15.2% | 14.1–16.4% | 13.8–16.7% | 13.5–17.0% | 13.0–17.6% |
+| [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 15.2% | N/A | N/A | N/A | N/A |
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 15.2% | 14.1–16.4% | 13.8–16.7% | 13.5–17.0% | 13.0–17.6% |
-| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 12.6% | N/A | N/A | N/A | N/A |
+| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 12.6% | 11.7–13.6% | 11.5–13.9% | 11.3–14.1% | 10.9–14.6% |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
 | [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 13.8% | N/A | N/A | N/A | N/A |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 14.8% | 13.7–16.0% | 13.4–16.3% | 13.1–16.6% | 12.6–17.2% |
@@ -67,9 +69,11 @@ Last result: **29** seats (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 22–31 | 21–32 | 20–33 | 19–35 |
+| N/A | [Poll Average](average.html) | 27 | 22–31 | 20–32 | 20–33 | 18–35 |
+| [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 28 | 27–29 | 27–31 | 26–31 | 24–33 |
+| [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå |  |  |  |  |  |
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 28 | 27–31 | 26–31 | 25–31 | 24–32 |
-| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG |  |  |  |  |  |
+| [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 23 | 20–26 | 19–27 | 18–27 | 18–27 |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 26 | 23–28 | 22–30 | 21–30 | 20–31 |
 | [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen |  |  |  |  |  |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 25–30 | 24–31 | 23–32 | 22–32 |
@@ -122,25 +126,25 @@ The following table shows the probability mass function for the [poll average](a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.1% | 100% |  |
-| 18 | 0.2% | 99.9% |  |
-| 19 | 1.1% | 99.7% |  |
-| 20 | 2% | 98.6% |  |
-| 21 | 2% | 97% |  |
-| 22 | 5% | 94% |  |
-| 23 | 4% | 90% |  |
-| 24 | 9% | 85% |  |
-| 25 | 5% | 76% |  |
-| 26 | 6% | 71% |  |
-| 27 | 11% | 65% |  |
-| 28 | 24% | 54% | Median |
-| 29 | 6% | 30% | Last Result |
-| 30 | 5% | 24% |  |
-| 31 | 10% | 19% |  |
-| 32 | 4% | 9% |  |
-| 33 | 3% | 4% |  |
-| 34 | 1.1% | 2% |  |
-| 35 | 0.3% | 0.8% |  |
-| 36 | 0.2% | 0.5% |  |
+| 18 | 0.8% | 99.9% |  |
+| 19 | 1.1% | 99.0% |  |
+| 20 | 4% | 98% |  |
+| 21 | 3% | 94% |  |
+| 22 | 7% | 91% |  |
+| 23 | 6% | 84% |  |
+| 24 | 11% | 78% |  |
+| 25 | 6% | 68% |  |
+| 26 | 6% | 62% |  |
+| 27 | 15% | 56% | Median |
+| 28 | 16% | 41% |  |
+| 29 | 6% | 25% | Last Result |
+| 30 | 4% | 19% |  |
+| 31 | 7% | 15% |  |
+| 32 | 3% | 7% |  |
+| 33 | 2% | 4% |  |
+| 34 | 0.9% | 2% |  |
+| 35 | 0.3% | 0.7% |  |
+| 36 | 0.2% | 0.4% |  |
 | 37 | 0.1% | 0.2% |  |
 | 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
