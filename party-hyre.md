@@ -72,10 +72,10 @@ Last result: **48** seats (General Election of 8–9 September 2013)
 | N/A | [Poll Average](average.html) | 43 | 37–48 | 36–49 | 35–50 | 35–53 |
 | [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 42 | 39–46 | 38–46 | 38–47 | 36–48 |
 | [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 46 | 40–50 | 39–50 | 39–51 | 37–54 |
-| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 38–45 | 38–45 | 38–45 | 36–46 |
+| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 42 | 39–45 | 38–46 | 38–47 | 37–47 |
 | [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 37 | 35–38 | 35–39 | 35–40 | 35–42 |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 46 | 42–50 | 39–52 | 38–53 | 35–53 |
-| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 46 | 41–49 | 40–50 | 39–51 | 37–54 |
+| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 45 | 41–49 | 40–51 | 39–52 | 37–54 |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 45 | 40–46 | 40–48 | 39–49 | 38–50 |
 | [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 40 | 37–45 | 36–46 | 36–47 | 34–49 |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 40–46 | 39–47 | 38–48 | 37–49 |
@@ -134,19 +134,19 @@ The following table shows the probability mass function for the [poll average](a
 | 39 | 7% | 81% |  |
 | 40 | 7% | 74% |  |
 | 41 | 9% | 67% |  |
-| 42 | 7% | 58% |  |
-| 43 | 6% | 51% | Median |
+| 42 | 7% | 59% |  |
+| 43 | 7% | 52% | Median |
 | 44 | 9% | 45% |  |
-| 45 | 8% | 37% |  |
-| 46 | 9% | 29% |  |
+| 45 | 8% | 36% |  |
+| 46 | 8% | 28% |  |
 | 47 | 7% | 20% |  |
-| 48 | 6% | 13% | Last Result |
+| 48 | 7% | 13% | Last Result |
 | 49 | 3% | 7% |  |
 | 50 | 2% | 4% |  |
 | 51 | 0.7% | 2% |  |
 | 52 | 0.8% | 2% |  |
-| 53 | 0.5% | 0.7% |  |
-| 54 | 0.2% | 0.2% |  |
+| 53 | 0.5% | 0.8% |  |
+| 54 | 0.1% | 0.2% |  |
 | 55 | 0% | 0.1% |  |
 | 56 | 0% | 0% |  |
 

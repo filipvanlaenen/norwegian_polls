@@ -72,10 +72,10 @@ Last result: **29** seats (General Election of 8–9 September 2013)
 | N/A | [Poll Average](average.html) | 27 | 22–31 | 20–32 | 20–33 | 18–35 |
 | [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 28 | 26–29 | 26–30 | 25–31 | 24–32 |
 | [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 27 | 24–30 | 23–31 | 23–32 | 21–34 |
-| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 28 | 27–31 | 26–31 | 25–31 | 24–32 |
+| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 28 | 26–29 | 25–31 | 25–31 | 23–33 |
 | [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 23 | 20–26 | 19–27 | 18–27 | 18–27 |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 26 | 23–28 | 22–30 | 21–30 | 20–31 |
-| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 24 | 22–28 | 20–28 | 20–29 | 18–31 |
+| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 25 | 21–28 | 20–29 | 20–29 | 18–31 |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 25–30 | 24–31 | 23–32 | 22–32 |
 | [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 28 | 24–31 | 24–31 | 23–32 | 22–33 |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 28 | 25–29 | 24–30 | 23–30 | 22–32 |
@@ -129,14 +129,14 @@ The following table shows the probability mass function for the [poll average](a
 | 18 | 0.7% | 99.9% |  |
 | 19 | 0.9% | 99.2% |  |
 | 20 | 4% | 98% |  |
-| 21 | 2% | 94% |  |
-| 22 | 8% | 92% |  |
+| 21 | 3% | 94% |  |
+| 22 | 7% | 91% |  |
 | 23 | 6% | 84% |  |
-| 24 | 11% | 78% |  |
+| 24 | 10% | 78% |  |
 | 25 | 7% | 68% |  |
 | 26 | 9% | 61% |  |
-| 27 | 12% | 52% | Median |
-| 28 | 17% | 39% |  |
+| 27 | 13% | 53% | Median |
+| 28 | 17% | 40% |  |
 | 29 | 8% | 23% | Last Result |
 | 30 | 4% | 15% |  |
 | 31 | 5% | 11% |  |

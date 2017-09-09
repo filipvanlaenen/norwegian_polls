@@ -72,10 +72,10 @@ Last result: **10** seats (General Election of 8–9 September 2013)
 | N/A | [Poll Average](average.html) | 18 | 14–21 | 13–22 | 13–22 | 12–24 |
 | [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 19 | 17–21 | 16–21 | 15–22 | 15–23 |
 | [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 14 | 13–17 | 12–18 | 11–19 | 11–20 |
-| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 18 | 16–19 | 16–19 | 16–21 | 15–22 |
+| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 18 | 16–20 | 16–20 | 15–21 | 14–22 |
 | [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 18 | 17–20 | 17–21 | 16–21 | 15–22 |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 17 | 15–21 | 14–21 | 14–22 | 13–23 |
-| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 18 | 15–22 | 15–22 | 14–22 | 13–24 |
+| [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 18 | 15–22 | 15–22 | 14–23 | 13–24 |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 18 | 16–20 | 15–21 | 15–22 | 14–23 |
 | [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 16 | 13–19 | 13–19 | 12–20 | 12–22 |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
@@ -130,17 +130,17 @@ The following table shows the probability mass function for the [poll average](a
 | 12 | 1.2% | 99.5% |  |
 | 13 | 4% | 98% |  |
 | 14 | 6% | 94% |  |
-| 15 | 8% | 88% |  |
+| 15 | 7% | 88% |  |
 | 16 | 14% | 80% |  |
-| 17 | 14% | 67% |  |
-| 18 | 17% | 53% | Median |
-| 19 | 12% | 36% |  |
+| 17 | 14% | 66% |  |
+| 18 | 17% | 52% | Median |
+| 19 | 11% | 36% |  |
 | 20 | 10% | 24% |  |
-| 21 | 8% | 13% |  |
-| 22 | 4% | 6% |  |
+| 21 | 8% | 14% |  |
+| 22 | 4% | 7% |  |
 | 23 | 2% | 2% |  |
 | 24 | 0.4% | 0.6% |  |
-| 25 | 0.2% | 0.3% |  |
+| 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0.1% |  |
 | 27 | 0% | 0% |  |
 

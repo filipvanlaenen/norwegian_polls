@@ -72,7 +72,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | N/A | [Poll Average](average.html) | 8 | 1–11 | 1–12 | 1–12 | 0–14 |
 | [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–8 | 1–8 | 1–9 | 1–10 |
 | [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 10 | 8–12 | 8–12 | 7–13 | 3–14 |
-| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–8 | 1–8 | 1–8 | 1–9 |
+| [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–8 | 1–8 | 1–8 | 1–9 |
 | [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 8 | 3–8 | 3–9 | 2–9 | 2–10 |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 1 | 1 | 1 | 0–2 | 0–8 |
 | [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 8 | 1–9 | 1–10 | 1–11 | 1–12 |
@@ -128,13 +128,13 @@ The following table shows the probability mass function for the [poll average](a
 | 0 | 0.6% | 100% |  |
 | 1 | 17% | 99.4% | Last Result |
 | 2 | 3% | 82% |  |
-| 3 | 9% | 79% |  |
-| 4 | 0.3% | 70% |  |
-| 5 | 0% | 70% |  |
-| 6 | 0.1% | 70% |  |
-| 7 | 10% | 70% |  |
-| 8 | 24% | 60% | Median |
-| 9 | 15% | 36% |  |
+| 3 | 8% | 79% |  |
+| 4 | 0.4% | 71% |  |
+| 5 | 0% | 71% |  |
+| 6 | 0.1% | 71% |  |
+| 7 | 10% | 71% |  |
+| 8 | 25% | 61% | Median |
+| 9 | 16% | 36% |  |
 | 10 | 9% | 20% |  |
 | 11 | 5% | 11% |  |
 | 12 | 4% | 6% |  |
