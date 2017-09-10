@@ -10,6 +10,7 @@ Last result: **5.2%** (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [4–9 September 2017](2017-09-09-KantarTNS.html) | Kantar TNS <br> TV2 | 4.6% | 4.1–5.2% | 4.0–5.4% | 3.8–5.5% | 3.6–5.8% |
 | [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.8–5.3% |
 | [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 2.6% | 2.0–3.4% | 1.8–3.7% | 1.7–3.9% | 1.4–4.4% |
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 4.1% | 3.6–4.8% | 3.4–5.0% | 3.3–5.2% | 3.0–5.6% |
@@ -69,7 +70,8 @@ Last result: **9** seats (General Election of 8–9 September 2013)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 1–9 | 1–10 | 0–10 | 0–11 |
+| N/A | [Poll Average](average.html) | 8 | 1–9 | 1–10 | 0–10 | 0–11 |
+| [4–9 September 2017](2017-09-09-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 8–9 | 7–9 | 3–9 | 2–10 |
 | [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–8 | 1–8 | 1–9 | 1–9 |
 | [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 1 | 0–2 | 0–2 | 0–3 | 0–7 |
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 2–9 | 2–9 | 1–9 | 1–10 |
@@ -126,17 +128,17 @@ The following table shows the probability mass function for the [poll average](a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% |  |
-| 1 | 13% | 95% |  |
-| 2 | 19% | 82% |  |
-| 3 | 5% | 63% |  |
-| 4 | 0% | 58% |  |
-| 5 | 0% | 58% |  |
-| 6 | 0.5% | 58% |  |
-| 7 | 12% | 57% | Median |
-| 8 | 26% | 45% |  |
-| 9 | 13% | 19% | Last Result |
-| 10 | 5% | 6% |  |
-| 11 | 0.7% | 0.9% |  |
+| 1 | 11% | 95% |  |
+| 2 | 17% | 85% |  |
+| 3 | 4% | 68% |  |
+| 4 | 0% | 64% |  |
+| 5 | 0% | 64% |  |
+| 6 | 0.5% | 64% |  |
+| 7 | 11% | 63% |  |
+| 8 | 30% | 52% | Median |
+| 9 | 17% | 22% | Last Result |
+| 10 | 5% | 5% |  |
+| 11 | 0.6% | 0.8% |  |
 | 12 | 0.1% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
