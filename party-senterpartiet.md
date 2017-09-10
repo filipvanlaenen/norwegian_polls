@@ -78,7 +78,7 @@ Last result: **10** seats (General Election of 8–9 September 2013)
 | [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 18 | 16–20 | 16–21 | 16–21 | 15–22 |
 | [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 18 | 15–20 | 14–21 | 14–21 | 13–23 |
 | [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 18 | 15–22 | 15–22 | 14–23 | 13–24 |
-| [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 18 | 16–20 | 15–21 | 15–22 | 14–23 |
+| [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 18 | 17–20 | 16–21 | 15–21 | 15–23 |
 | [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 17 | 14–19 | 13–19 | 13–20 | 12–22 |
 | [31 August–5 September 2017](2017-09-05-KantarTNS.html) | Kantar TNS <br> TV2 | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
 | [31 August–4 September 2017](2017-09-04-Norstat.html) | Norstat <br> NRK | 17 | 15–19 | 14–20 | 13–21 | 13–22 |
