@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
 | [4–9 September 2017](2017-09-09-KantarTNS.html) | Kantar TNS <br> TV2 | 26–30% <br> 47–54 | 22–26% <br> 38–46 | 13–16% <br> 24–29 | 4–5% <br> 2–9 | 9–11% <br> 15–20 | 4–6% <br> 2–10 | 5–7% <br> 8–12 | 3–5% <br> 1–8 | 2–4% <br> 1–2 |
-| [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 26–31% <br> 48–56 | 21–26% <br> 38–47 | 14–17% <br> 25–31 | 3–5% <br> 2–10 | 9–12% <br> 15–22 | 3–5% <br> 1–9 | 4–7% <br> 8–12 | 3–5% <br> 1–9 | 3–4% <br> 1–7 |
+| [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 26–31% <br> 48–56 | 21–26% <br> 37–47 | 14–17% <br> 25–32 | 3–5% <br> 2–10 | 9–12% <br> 16–22 | 3–5% <br> 1–9 | 4–7% <br> 8–12 | 3–5% <br> 1–9 | 3–4% <br> 1–8 |
 | [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 23–30% <br> 44–55 | 23–29% <br> 39–51 | 13–18% <br> 23–32 | 2–5% <br> 1–8 | 7–11% <br> 11–19 | 2–4% <br> 0–3 | 5–8% <br> 8–13 | 4–8% <br> 7–13 | 4–7% <br> 2–12 |
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 26–30% <br> 47–55 | 21–26% <br> 38–47 | 14–17% <br> 25–31 | 4–6% <br> 7–11 | 9–12% <br> 15–21 | 3–5% <br> 1–9 | 5–7% <br> 8–12 | 3–5% <br> 1–8 | 2–4% <br> 1–7 |
 | [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 26–30% <br> 46–55 | 20–23% <br> 35–40 | 11–14% <br> 20–26 | 4–6% <br> 2–9 | 9–12% <br> 16–21 | 4–6% <br> 8–10 | 7–9% <br> 12–16 | 4–5% <br> 2–9 | 3–4% <br> 1–6 |
