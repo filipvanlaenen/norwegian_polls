@@ -72,7 +72,7 @@ Last result: **0** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–8 | 1–9 | 1–10 | 1–11 |
 | [4–9 September 2017](2017-09-09-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2 | 1–2 | 1–2 | 1–7 |
-| [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2 | 2–7 | 1–7 | 1–8 |
+| [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2–6 | 1–7 | 1–8 | 1–8 |
 | [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 9 | 7–11 | 2–11 | 2–12 | 2–12 |
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–2 | 1–2 | 1–7 | 1–8 |
 | [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 2 | 2 | 2 | 1–6 | 1–7 |
