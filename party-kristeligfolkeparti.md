@@ -137,7 +137,7 @@ The following table shows the probability mass function for the [poll average](a
 | 7 | 13% | 79% |  |
 | 8 | 24% | 66% | Median |
 | 9 | 23% | 42% |  |
-| 10 | 11% | 19% | Last Result |
+| 10 | 10% | 19% | Last Result |
 | 11 | 6% | 9% |  |
 | 12 | 2% | 3% |  |
 | 13 | 0.6% | 0.8% |  |
