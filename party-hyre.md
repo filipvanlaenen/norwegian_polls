@@ -72,11 +72,11 @@ Last result: **48** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 43 | 38–47 | 37–49 | 36–50 | 35–52 |
 | [4–9 September 2017](2017-09-09-KantarTNS.html) | Kantar TNS <br> TV2 | 42 | 39–45 | 39–45 | 38–46 | 37–47 |
-| [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 42 | 39–46 | 38–46 | 37–47 | 36–48 |
+| [5–8 September 2017](2017-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 42 | 39–45 | 38–46 | 37–47 | 36–48 |
 | [5–7 September 2017](2017-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå | 46 | 40–50 | 39–50 | 39–51 | 37–54 |
 | [4–7 September 2017](2017-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 42 | 39–45 | 38–46 | 38–47 | 37–47 |
 | [7 September 2017](2017-09-07-InFact.html) | InFact <br> VG | 38 | 36–39 | 35–39 | 35–40 | 34–41 |
-| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 44 | 41–48 | 39–49 | 39–50 | 37–53 |
+| [4–6 September 2017](2017-09-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and Adresseavisen | 45 | 41–48 | 40–49 | 39–50 | 37–52 |
 | [5–6 September 2017](2017-09-06-Norfakta.html) | Norfakta <br> Nationen and Klassekampen | 45 | 41–49 | 40–51 | 39–52 | 37–54 |
 | [1–6 September 2017](2017-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 44 | 42–47 | 41–48 | 40–49 | 38–51 |
 | [4–6 September 2017](2017-09-06-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 41 | 37–45 | 36–46 | 36–47 | 34–49 |
