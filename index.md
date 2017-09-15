@@ -2,7 +2,7 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period                                                | Pollster/Media                                                      | Ap                | H                                                   | FrP                                                 | KrF            | Sp               | V                              | SV                                                | MDG                                              | R                                                | Performance  |
+| Period                                                | Pollster/Media                                                      | Ap                | H                                                   | FrP                                                 | KrF            | Sp               | V                              | SV                                                | MDG                                              | R                                                | PERF  |
 |:-----------------------------------------------------:|:-------------------------------------------------------------------:|:-----------------:|:---------------------------------------------------:|:---------------------------------------------------:|:--------------:|:----------------:|:------------------------------:|:-------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|:------------:|
 | 11 September 2017                                     | General Election                                                    | 27.4% <br> 49     | 25.0% <br> 45                                       | 15.2% <br> 27                                       | 4.2% <br> 8    | 10.3% <br> 19    | 4.4% <br> 8                    | 6.0% <br> 11                                      | 3.2% <br> 1                                      | 2.4% <br> 1                                      | N/A          |
 | N/A                                                   | [Poll Average](average.html)                                        | 44–55             | 36–50                                               | 20–33                                               | 2–12           | 13–22            | 0–10                           | 7–15                                              | 1–12                                             | 1–10                                             | 9/9          |
@@ -30,7 +30,7 @@ Only polls for which at least the sample size has been published are included in
 + **SV:** Sosialistisk Venstreparti
 + **MDG:** Miljøpartiet de Grønne
 + **R:** Rødt
-+ **Performance:** How well the pollster did in terms of number of results within the 95% confidence interval
++ **PERF:** How well the pollster did in terms of number of results within the 95% confidence interval
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
