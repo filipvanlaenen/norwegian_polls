@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | KrF | Sp | V | SV | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 30.8% <br> 55 | 26.8% <br> 48 | 16.3% <br> 29 | 5.6% <br> 10 | 5.5% <br> 10 | 5.2% <br> 9 | 4.1% <br> 7 | 2.8% <br> 1 | 1.1% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–28% <br> 47–49 | 18–24% <br> 35–36 | 10–14% <br> 18 | 2–4% <br> 2–6 | 16–21% <br> 31–32 | 2–4% <br> 2–6 | 6–9% <br> 10–12 | 4–6% <br> 9–10 | 4–6% <br> 6–7 |
-| [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 23–28% <br> 47–49 | 18–24% <br> 35–36 | 10–14% <br> 18 | 2–4% <br> 2–6 | 16–21% <br> 31–32 | 2–4% <br> 2–6 | 6–9% <br> 10–12 | 3–6% <br> 9–10 | 3–6% <br> 6–7 |
+| N/A | [Poll Average](average.html) | 23–28% <br> 41–52 | 18–24% <br> 33–42 | 10–14% <br> 17–25 | 2–4% <br> 0–3 | 16–21% <br> 30–39 | 2–4% <br> 1–7 | 6–9% <br> 10–16 | 4–6% <br> 1–11 | 4–6% <br> 2–11 |
+| [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 23–28% <br> 41–52 | 18–24% <br> 33–42 | 10–14% <br> 17–25 | 2–4% <br> 0–3 | 16–21% <br> 30–39 | 2–4% <br> 1–7 | 6–9% <br> 10–16 | 3–6% <br> 1–11 | 3–6% <br> 2–11 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [3–4 December 2019](2019-12-04-Norfakta.html) | Norfakta | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
