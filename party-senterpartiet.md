@@ -11,7 +11,7 @@ Last result: **5.5%** (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
-| [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 18.5% | 17.0–20.2% | 16.6–20.6% | 16.2–21.0% | 15.5–21.9% |
+| [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 20.2% | N/A | N/A | N/A | N/A |
 | [3–4 December 2019](2019-12-04-Norfakta.html) | Norfakta | 19.3% | N/A | N/A | N/A | N/A |
 | [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse | 17.4% | N/A | N/A | N/A | N/A |
@@ -34,9 +34,9 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0.5% | 100% |  |
 | 15.5–16.5% | 4% | 99.5% |  |
 | 16.5–17.5% | 16% | 95% |  |
-| 17.5–18.5% | 30% | 79% |  |
-| 18.5–19.5% | 29% | 49% | Median |
-| 19.5–20.5% | 15% | 20% |  |
+| 17.5–18.5% | 30% | 80% |  |
+| 18.5–19.5% | 29% | 50% | Median |
+| 19.5–20.5% | 15% | 21% |  |
 | 20.5–21.5% | 5% | 6% |  |
 | 21.5–22.5% | 0.8% | 0.9% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
@@ -51,8 +51,8 @@ Last result: **10** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 32 | 31–32 | 31–32 | 27–32 |
-| [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 32 | 32 | 31–32 | 31–32 | 27–32 |
+| N/A | [Poll Average](average.html) | 34 | 31–37 | 30–38 | 30–39 | 28–40 |
+| [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 34 | 31–37 | 30–38 | 30–39 | 28–40 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
 | [3–4 December 2019](2019-12-04-Norfakta.html) | Norfakta |  |  |  |  |  |
 | [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
@@ -81,24 +81,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
 | 25 | 0% | 100% |  |
-| 26 | 0% | 100% |  |
-| 27 | 1.5% | 100% |  |
-| 28 | 0% | 98.5% |  |
-| 29 | 0.1% | 98.5% |  |
-| 30 | 0% | 98% |  |
-| 31 | 4% | 98% |  |
-| 32 | 94% | 94% | Median |
-| 33 | 0% | 0.2% |  |
-| 34 | 0% | 0.2% |  |
-| 35 | 0% | 0.2% |  |
-| 36 | 0% | 0.2% |  |
-| 37 | 0% | 0.2% |  |
-| 38 | 0% | 0.2% |  |
-| 39 | 0.1% | 0.2% |  |
-| 40 | 0% | 0.1% |  |
-| 41 | 0% | 0.1% |  |
-| 42 | 0% | 0.1% |  |
-| 43 | 0.1% | 0.1% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.1% | 99.9% |  |
+| 28 | 0.4% | 99.8% |  |
+| 29 | 0.7% | 99.3% |  |
+| 30 | 5% | 98.6% |  |
+| 31 | 9% | 94% |  |
+| 32 | 4% | 86% |  |
+| 33 | 6% | 82% |  |
+| 34 | 32% | 76% | Median |
+| 35 | 24% | 44% |  |
+| 36 | 10% | 20% |  |
+| 37 | 4% | 10% |  |
+| 38 | 2% | 7% |  |
+| 39 | 3% | 4% |  |
+| 40 | 1.1% | 1.5% |  |
+| 41 | 0.2% | 0.4% |  |
+| 42 | 0.1% | 0.2% |  |
+| 43 | 0% | 0.1% |  |
 | 44 | 0% | 0% |  |
 
 

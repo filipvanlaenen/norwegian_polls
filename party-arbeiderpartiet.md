@@ -28,7 +28,7 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 6% | 98.7% |  |
 | 23.5–24.5% | 17% | 93% |  |
 | 24.5–25.5% | 27% | 76% |  |
-| 25.5–26.5% | 26% | 49% | Median |
+| 25.5–26.5% | 26% | 50% | Median |
 | 26.5–27.5% | 16% | 23% |  |
 | 27.5–28.5% | 6% | 7% |  |
 | 28.5–29.5% | 1.4% | 2% |  |
@@ -44,8 +44,8 @@ Last result: **55** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 47 | 47 | 47–49 | 42–49 |
-| [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 47 | 47 | 47 | 47–49 | 42–49 |
+| N/A | [Poll Average](average.html) | 45 | 43–50 | 42–50 | 41–52 | 40–54 |
+| [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 45 | 43–50 | 42–50 | 41–52 | 40–54 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
 | [3–4 December 2019](2019-12-04-Norfakta.html) | Norfakta |  |  |  |  |  |
 | [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
@@ -58,19 +58,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 2% | 100% |  |
-| 43 | 0% | 98% |  |
-| 44 | 0.1% | 98% |  |
-| 45 | 0.1% | 98% |  |
-| 46 | 0% | 98% |  |
-| 47 | 94% | 98% | Median |
-| 48 | 0% | 4% |  |
-| 49 | 4% | 4% |  |
-| 50 | 0% | 0.3% |  |
-| 51 | 0.2% | 0.3% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% | Last Result |
+| 39 | 0.2% | 100% |  |
+| 40 | 2% | 99.8% |  |
+| 41 | 2% | 98% |  |
+| 42 | 6% | 96% |  |
+| 43 | 7% | 90% |  |
+| 44 | 15% | 83% |  |
+| 45 | 20% | 68% | Median |
+| 46 | 14% | 48% |  |
+| 47 | 7% | 34% |  |
+| 48 | 10% | 27% |  |
+| 49 | 5% | 17% |  |
+| 50 | 7% | 12% |  |
+| 51 | 2% | 5% |  |
+| 52 | 0.6% | 3% |  |
+| 53 | 0.3% | 2% |  |
+| 54 | 2% | 2% |  |
+| 55 | 0.1% | 0.1% | Last Result |
+| 56 | 0% | 0% |  |
 
 
