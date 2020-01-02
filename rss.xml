@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 02 Jan 2020 18:00:49 +0100</pubDate>
+    <pubDate>Thu, 02 Jan 2020 21:10:26 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat, 9–15 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-15-Norstat.html#seats</link>
@@ -40,15 +40,45 @@
       <dc:date>2020-01-02T17:43:20.831627+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinion Perduco, 3–8 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-08-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 8–12 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–16 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 8–13 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 37–46 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 33–42 seats&lt;/li&gt;&lt;li&gt;Venstre: 0–2 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–3 seats&lt;/li&gt;&lt;li&gt;Høyre: 32–41 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 15–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-08-OpinionPerduco-seats.png"
+        length="224093"
+        type="image/png"/>
+      <pubDate>Thu, 02 Jan 2020 20:39:32 +0100</pubDate>
+      <dc:date>2020-01-02T20:39:32.986732+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 3–8 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-08-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-08-OpinionPerduco-coalitions-seats.png"
+        length="425577"
+        type="image/png"/>
+      <pubDate>Thu, 02 Jan 2020 20:39:32 +0100</pubDate>
+      <dc:date>2020-01-02T20:39:32.986732+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinion Perduco, 3–8 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-08-OpinionPerduco.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.0–9.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.6–7.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.3–25.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 17.8–22.8%&lt;/li&gt;&lt;li&gt;Venstre: 1.2–2.9%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Høyre: 18.2–23.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.9–12.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-08-OpinionPerduco.png"
         length="236476"
         type="image/png"/>
-      <pubDate>Thu, 02 Jan 2020 18:00:49 +0100</pubDate>
-      <dc:date>2020-01-02T18:00:49.673398+01:00</dc:date>
+      <pubDate>Thu, 02 Jan 2020 20:39:32 +0100</pubDate>
+      <dc:date>2020-01-02T20:39:32.986732+01:00</dc:date>
     </item>
-    <dc:date>2020-01-02T18:00:49.673398+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Norfakta, 3–4 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-04-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.8–5.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.0–9.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.7–6.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 18.7–24.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 16.7–22.1%&lt;/li&gt;&lt;li&gt;Venstre: 2.8–5.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.8–5.5%&lt;/li&gt;&lt;li&gt;Høyre: 19.8–25.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.2–12.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-04-Norfakta.png"
+        length="244770"
+        type="image/png"/>
+      <pubDate>Thu, 02 Jan 2020 21:10:26 +0100</pubDate>
+      <dc:date>2020-01-02T21:10:26.909915+01:00</dc:date>
+    </item>
+    <dc:date>2020-01-02T21:10:26.909915+01:00</dc:date>
   </channel>
 </rss>
