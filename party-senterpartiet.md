@@ -12,6 +12,9 @@ Last result: **5.5%** (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 18.5% | 17.0–20.2% | 16.6–20.6% | 16.2–21.0% | 15.5–21.9% |
+| [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 20.2% | N/A | N/A | N/A | N/A |
+| [3–4 December 2019](2019-12-04-Norfakta.html) | Norfakta | 19.3% | N/A | N/A | N/A | N/A |
+| [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse | 17.4% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -50,6 +53,9 @@ Last result: **10** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32 | 32 | 31–32 | 31–32 | 27–32 |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 32 | 32 | 31–32 | 31–32 | 27–32 |
+| [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
+| [3–4 December 2019](2019-12-04-Norfakta.html) | Norfakta |  |  |  |  |  |
+| [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
 
 ### Probability Mass Function
 
