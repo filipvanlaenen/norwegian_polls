@@ -8,17 +8,47 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 02 Jan 2020 16:10:51 +0100</pubDate>
+    <pubDate>Thu, 02 Jan 2020 18:00:49 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat, 9–15 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-15-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–11 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–16 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–11 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 41–51 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 30–39 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–7 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–3 seats&lt;/li&gt;&lt;li&gt;Høyre: 32–42 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 17–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-15-Norstat-seats.png"
+        length="249115"
+        type="image/png"/>
+      <pubDate>Thu, 02 Jan 2020 17:43:20 +0100</pubDate>
+      <dc:date>2020-01-02T17:43:20.831627+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 9–15 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-15-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-15-Norstat-coalitions-seats.png"
+        length="468157"
+        type="image/png"/>
+      <pubDate>Thu, 02 Jan 2020 17:43:20 +0100</pubDate>
+      <dc:date>2020-01-02T17:43:20.831627+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat, 9–15 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-15-Norstat.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 22.9–28.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 16.2–21.0%&lt;/li&gt;&lt;li&gt;Venstre: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Høyre: 18.5–23.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.9–14.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-15-Norstat.png"
-        length="226837"
+        length="232243"
         type="image/png"/>
-      <pubDate>Thu, 02 Jan 2020 16:10:51 +0100</pubDate>
-      <dc:date>2020-01-02T16:10:51.597096+01:00</dc:date>
+      <pubDate>Thu, 02 Jan 2020 17:43:20 +0100</pubDate>
+      <dc:date>2020-01-02T17:43:20.831627+01:00</dc:date>
     </item>
-    <dc:date>2020-01-02T16:10:51.597096+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 3–8 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-08-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.0–9.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.6–7.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.3–25.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 17.8–22.8%&lt;/li&gt;&lt;li&gt;Venstre: 1.2–2.9%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Høyre: 18.2–23.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.9–12.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-08-OpinionPerduco.png"
+        length="236476"
+        type="image/png"/>
+      <pubDate>Thu, 02 Jan 2020 18:00:49 +0100</pubDate>
+      <dc:date>2020-01-02T18:00:49.673398+01:00</dc:date>
+    </item>
+    <dc:date>2020-01-02T18:00:49.673398+01:00</dc:date>
   </channel>
 </rss>
