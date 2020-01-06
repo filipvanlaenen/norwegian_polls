@@ -43,12 +43,12 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–13 | 3–13 | 2–14 | 1–15 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 3–13 | 2–14 | 1–15 |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 8 | 2–10 | 2–11 | 1–11 | 1–12 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
 | [3–4 December 2019](2019-12-04-Norfakta.html) | Norfakta | 9 | 7–10 | 7–11 | 2–11 | 1–12 |
-| [26 November–2 December 2019](2019-12-02-Sentio.html) | Sentio | 13 | 11–14 | 10–15 | 10–15 | 9–16 |
-| [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse | 10 | 8–11 | 8–12 | 8–13 | 7–13 |
+| [26 November–2 December 2019](2019-12-02-Sentio.html) | Sentio | 12 | 10–14 | 10–14 | 10–15 | 9–16 |
+| [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse | 10 | 8–12 | 8–12 | 8–13 | 7–14 |
 | [25–29 November 2019](2019-11-29-KantarTNS.html) | Kantar TNS | 9 | 8–11 | 7–12 | 7–12 | 6–14 |
 
 ### Probability Mass Function
@@ -64,16 +64,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 2% | 97% |  |
 | 4 | 0% | 95% |  |
 | 5 | 0% | 95% |  |
-| 6 | 0.2% | 95% |  |
+| 6 | 0.3% | 95% |  |
 | 7 | 4% | 95% |  |
-| 8 | 13% | 90% |  |
-| 9 | 24% | 78% |  |
-| 10 | 19% | 54% | Median |
-| 11 | 17% | 35% |  |
-| 12 | 7% | 18% |  |
-| 13 | 6% | 11% |  |
-| 14 | 4% | 5% |  |
-| 15 | 1.0% | 1.1% |  |
+| 8 | 15% | 90% |  |
+| 9 | 20% | 75% |  |
+| 10 | 22% | 56% | Median |
+| 11 | 16% | 34% |  |
+| 12 | 11% | 18% |  |
+| 13 | 5% | 7% |  |
+| 14 | 2% | 3% |  |
+| 15 | 0.6% | 0.7% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 

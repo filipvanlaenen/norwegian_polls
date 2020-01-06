@@ -47,9 +47,9 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 8 | 2–10 | 2–11 | 2–11 | 2–12 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 10 | 8–12 | 8–12 | 8–12 | 2–14 |
 | [3–4 December 2019](2019-12-04-Norfakta.html) | Norfakta | 8 | 7–9 | 2–9 | 2–9 | 1–10 |
-| [26 November–2 December 2019](2019-12-02-Sentio.html) | Sentio | 10 | 9–12 | 8–12 | 7–13 | 2–14 |
-| [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse | 9 | 7–11 | 2–11 | 2–11 | 2–13 |
-| [25–29 November 2019](2019-11-29-KantarTNS.html) | Kantar TNS | 8 | 6–9 | 6–10 | 2–10 | 2–11 |
+| [26 November–2 December 2019](2019-12-02-Sentio.html) | Sentio | 10 | 8–12 | 8–12 | 8–13 | 7–13 |
+| [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse | 9 | 8–11 | 7–11 | 2–12 | 2–13 |
+| [25–29 November 2019](2019-11-29-KantarTNS.html) | Kantar TNS | 8 | 6–10 | 6–10 | 2–11 | 2–12 |
 
 ### Probability Mass Function
 
@@ -59,20 +59,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% | Last Result |
-| 2 | 6% | 99.8% |  |
+| 1 | 0.1% | 100% | Last Result |
+| 2 | 5% | 99.9% |  |
 | 3 | 0% | 94% |  |
 | 4 | 0% | 94% |  |
 | 5 | 0% | 94% |  |
-| 6 | 3% | 94% |  |
-| 7 | 10% | 90% |  |
-| 8 | 21% | 80% |  |
-| 9 | 27% | 59% | Median |
-| 10 | 17% | 32% |  |
-| 11 | 10% | 15% |  |
+| 6 | 2% | 94% |  |
+| 7 | 11% | 92% |  |
+| 8 | 28% | 82% |  |
+| 9 | 19% | 54% | Median |
+| 10 | 21% | 35% |  |
+| 11 | 9% | 14% |  |
 | 12 | 4% | 5% |  |
-| 13 | 0.6% | 0.9% |  |
-| 14 | 0.3% | 0.3% |  |
+| 13 | 1.0% | 1.2% |  |
+| 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
 
