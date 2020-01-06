@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sat, 04 Jan 2020 13:33:55 +0100</pubDate>
+    <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat, 9–15 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-15-Norstat.html#seats</link>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-02-Sentio.png"
         length="237047"
         type="image/png"/>
-      <pubDate>Sat, 04 Jan 2020 10:43:07 +0100</pubDate>
-      <dc:date>2020-01-04T10:43:07.47582+01:00</dc:date>
+      <pubDate>Sat, 04 Jan 2020 14:38:12 +0100</pubDate>
+      <dc:date>2020-01-04T14:38:12.984663+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse, 28 November–2 December 2019 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-02-ResponsAnalyse.png"
         length="236822"
         type="image/png"/>
-      <pubDate>Sat, 04 Jan 2020 11:09:11 +0100</pubDate>
-      <dc:date>2020-01-04T11:09:11.022413+01:00</dc:date>
+      <pubDate>Sat, 04 Jan 2020 15:37:27 +0100</pubDate>
+      <dc:date>2020-01-04T15:37:27.512075+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS, 25–29 November 2019 – Voting Intentions</title>
@@ -106,9 +106,9 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-11-29-KantarTNS.png"
         length="246146"
         type="image/png"/>
-      <pubDate>Sat, 04 Jan 2020 11:34:05 +0100</pubDate>
-      <dc:date>2020-01-04T11:34:05.244181+01:00</dc:date>
+      <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
+      <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-01-04T13:33:55.596861+01:00</dc:date>
+    <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
   </channel>
 </rss>
