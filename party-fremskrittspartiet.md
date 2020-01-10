@@ -10,8 +10,8 @@ Last result: **15.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.7% | 9.3–12.3% | 8.9–12.8% | 8.6–13.2% | 8.0–14.1% |
-| [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse | 11.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 10.9% | 9.5–12.5% | 9.1–12.9% | 8.7–13.3% | 8.1–14.1% |
+| [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse | 11.4% | 10.2–12.8% | 9.8–13.2% | 9.6–13.5% | 9.0–14.2% |
 | [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat | 10.3% | N/A | N/A | N/A | N/A |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 11.3% | 9.9–12.9% | 9.5–13.4% | 9.2–13.8% | 8.5–14.6% |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.6% |
@@ -225,12 +225,12 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.1% | 100% |  |
 | 7.5–8.5% | 2% | 99.9% |  |
-| 8.5–9.5% | 12% | 98% |  |
-| 9.5–10.5% | 29% | 85% |  |
-| 10.5–11.5% | 32% | 56% | Median |
-| 11.5–12.5% | 17% | 25% |  |
-| 12.5–13.5% | 6% | 7% |  |
-| 13.5–14.5% | 1.2% | 1.4% |  |
+| 8.5–9.5% | 10% | 98% |  |
+| 9.5–10.5% | 26% | 88% |  |
+| 10.5–11.5% | 33% | 63% | Median |
+| 11.5–12.5% | 21% | 30% |  |
+| 12.5–13.5% | 7% | 9% |  |
+| 13.5–14.5% | 1.5% | 2% |  |
 | 14.5–15.5% | 0.2% | 0.2% | Last Result |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -243,8 +243,8 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 15–21 | 14–23 | 13–25 | 12–25 |
-| [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 19 | 15–22 | 14–25 | 14–25 | 13–25 |
+| [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse | 20 | 17–24 | 17–25 | 17–25 | 15–26 |
 | [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat |  |  |  |  |  |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 19 | 17–25 | 17–25 | 17–25 | 15–25 |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 21 | 18–24 | 18–25 | 17–25 | 16–27 |
@@ -458,21 +458,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
-| 12 | 0.5% | 99.9% |  |
-| 13 | 3% | 99.4% |  |
-| 14 | 4% | 97% |  |
-| 15 | 7% | 93% |  |
-| 16 | 5% | 87% |  |
-| 17 | 14% | 81% |  |
-| 18 | 14% | 67% |  |
-| 19 | 22% | 52% | Median |
-| 20 | 8% | 31% |  |
-| 21 | 15% | 23% |  |
-| 22 | 2% | 8% |  |
-| 23 | 2% | 6% |  |
-| 24 | 0.3% | 4% |  |
-| 25 | 4% | 4% |  |
-| 26 | 0% | 0.1% |  |
+| 12 | 0.4% | 99.9% |  |
+| 13 | 2% | 99.6% |  |
+| 14 | 3% | 98% |  |
+| 15 | 5% | 95% |  |
+| 16 | 4% | 90% |  |
+| 17 | 13% | 85% |  |
+| 18 | 11% | 72% |  |
+| 19 | 22% | 61% | Median |
+| 20 | 16% | 39% |  |
+| 21 | 12% | 23% |  |
+| 22 | 4% | 11% |  |
+| 23 | 2% | 8% |  |
+| 24 | 0.8% | 6% |  |
+| 25 | 5% | 5% |  |
+| 26 | 0.3% | 0.4% |  |
 | 27 | 0% | 0% | Last Result |
 
 
