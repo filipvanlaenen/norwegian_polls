@@ -10,9 +10,9 @@ Last result: **2.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.2–6.5% | 3.9–6.9% | 3.7–7.3% | 3.3–8.0% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.1–6.4% | 3.8–6.8% | 3.6–7.2% | 3.2–7.9% |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS | 4.6% | 3.8–5.7% | 3.6–6.1% | 3.4–6.3% | 3.0–6.9% |
-| [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta | 4.7% | N/A | N/A | N/A | N/A |
+| [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta | 4.7% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.1% |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
 | [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat | 3.6% | N/A | N/A | N/A | N/A |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 5.8% | 4.9–7.1% | 4.6–7.5% | 4.3–7.8% | 3.9–8.5% |
@@ -226,11 +226,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% | Last Result |
 | 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 20% | 98% |  |
-| 4.5–5.5% | 42% | 78% | Median |
-| 5.5–6.5% | 27% | 37% |  |
-| 6.5–7.5% | 8% | 10% |  |
-| 7.5–8.5% | 1.4% | 2% |  |
+| 3.5–4.5% | 23% | 98% |  |
+| 4.5–5.5% | 43% | 75% | Median |
+| 5.5–6.5% | 24% | 32% |  |
+| 6.5–7.5% | 7% | 8% |  |
+| 7.5–8.5% | 1.1% | 1.2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -243,9 +243,9 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–11 | 2–12 | 2–12 | 2–13 |
+| N/A | [Poll Average](average.html) | 9 | 2–11 | 2–12 | 2–12 | 2–13 |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS | 7 | 2–10 | 2–10 | 2–10 | 2–11 |
-| [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta |  |  |  |  |  |
+| [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta | 8 | 2–10 | 2–11 | 2–11 | 2–12 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse | 10 | 8–11 | 8–11 | 7–11 | 2–12 |
 | [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat |  |  |  |  |  |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 10 | 9–12 | 9–12 | 9–13 | 7–15 |
@@ -460,21 +460,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% | Last Result |
-| 2 | 9% | 99.9% |  |
-| 3 | 0% | 91% |  |
-| 4 | 0% | 91% |  |
-| 5 | 0% | 91% |  |
-| 6 | 0% | 91% |  |
-| 7 | 11% | 91% |  |
-| 8 | 14% | 80% |  |
-| 9 | 21% | 66% | Median |
-| 10 | 32% | 45% |  |
-| 11 | 6% | 13% |  |
-| 12 | 7% | 8% |  |
-| 13 | 0.6% | 1.1% |  |
-| 14 | 0.3% | 0.5% |  |
-| 15 | 0.1% | 0.2% |  |
-| 16 | 0.1% | 0.1% |  |
+| 2 | 15% | 99.9% |  |
+| 3 | 0% | 85% |  |
+| 4 | 0% | 85% |  |
+| 5 | 0% | 85% |  |
+| 6 | 0.7% | 85% |  |
+| 7 | 9% | 84% |  |
+| 8 | 15% | 75% |  |
+| 9 | 22% | 61% | Median |
+| 10 | 27% | 38% |  |
+| 11 | 5% | 11% |  |
+| 12 | 5% | 6% |  |
+| 13 | 0.5% | 0.9% |  |
+| 14 | 0.2% | 0.4% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
 
