@@ -5,12 +5,14 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
-| N/A | [Poll Average](average.html) | 21–29% <br> 38–53 | 19–25% <br> 34–45 | 8–13% <br> 13–25 | 14–20% <br> 24–38 | 5–10% <br> 9–18 | 2–4% <br> 0–2 | 2–5% <br> 0–8 | 4–8% <br> 8–13 | 4–7% <br> 2–12 |
-| [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS | 21–27% <br> 37–47 | 20–25% <br> 34–46 | 7–11% <br> 12–19 | 15–21% <br> 27–39 | 7–11% <br> 12–19 | 1–4% <br> 0–2 | 2–5% <br> 0–8 | 5–8% <br> 9–14 | 3–6% <br> 2–10 |
-| [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta | 24–30% <br> 44–54 | 19–24% <br> 33–42 | 9–13% <br> 14–24 | 14–19% <br> 24–38 | 5–8% <br> 8–14 | 2–4% <br> 0–2 | 2–5% <br> 0–7 | 4–7% <br> 7–12 | 3–6% <br> 2–11 |
-| [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse | 21–27% <br> 38–50 | 20–25% <br> 33–44 | 10–14% <br> 17–25 | 14–18% <br> 23–36 | 5–8% <br> 9–16 | 2–4% <br> 0–2 | 3–6% <br> 1–9 | 5–8% <br> 8–13 | 4–7% <br> 7–11 |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 20–27% <br> 39–47 | 19–25% <br> 35–44 | 9–14% <br> 17–25 | 13–19% <br> 25–34 | 7–11% <br> 12–18 | 2–4% <br> 0–2 | 2–5% <br> 0–7 | 4–7% <br> 7–12 | 4–8% <br> 9–13 |
+| N/A | [Poll Average](average.html) | N/A <br> 38–53 | N/A <br> 34–45 | N/A <br> 13–25 | N/A <br> 24–38 | N/A <br> 9–18 | N/A <br> 0–2 | N/A <br> 0–8 | N/A <br> 8–13 | N/A <br> 2–12 |
+| [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–27 January 2020](2020-01-27-Sentio.html) | Sentio <br> Amedia and Nettavisen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
