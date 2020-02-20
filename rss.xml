@@ -8,9 +8,9 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Fri, 17 Jan 2020 06:51:39 +0100</pubDate>
+    <pubDate>Thu, 20 Feb 2020 21:40:02 +0100</pubDate>
     <item>
-      <title>Opinion Poll by Kantar TNS, 6–10 January 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Kantar TNS for TV2, 6–10 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-01-10-KantarTNS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.4–6.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.0–11.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 5.0–8.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.7–26.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 15.4–20.8%&lt;/li&gt;&lt;li&gt;Venstre: 1.4–3.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.1–4.6%&lt;/li&gt;&lt;li&gt;Høyre: 19.6–25.4%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 6.9–10.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-01-10-KantarTNS.png"
@@ -20,7 +20,7 @@
       <dc:date>2020-01-16T06:52:03.63543+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Norfakta, 7–8 January 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Norfakta for Klasskampen and Nationen, 7–8 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-01-08-Norfakta.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.5–6.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.7–8.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.9–7.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.7–29.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 14.1–19.3%&lt;/li&gt;&lt;li&gt;Venstre: 1.6–3.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.2–4.7%&lt;/li&gt;&lt;li&gt;Høyre: 18.5–24.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.9–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-01-08-Norfakta.png"
@@ -30,7 +30,7 @@
       <dc:date>2020-01-17T06:51:39.250749+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Respons Analyse, 6 January 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Respons Analyse for VG, 6 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-01-06-ResponsAnalyse.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.4–26.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 13.7–18.2%&lt;/li&gt;&lt;li&gt;Venstre: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Høyre: 19.9–25.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.6–13.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-01-06-ResponsAnalyse.png"
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-18-IpsosMMI.png"
         length="246454"
         type="image/png"/>
-      <pubDate>Thu, 09 Jan 2020 06:53:00 +0100</pubDate>
-      <dc:date>2020-01-09T06:53:00.412899+01:00</dc:date>
+      <pubDate>Thu, 20 Feb 2020 21:40:02 +0100</pubDate>
+      <dc:date>2020-02-20T21:40:02.217031+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat, 9–15 December 2019 – Seat Projections for the Parties</title>
@@ -149,6 +149,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-01-17T06:51:39.250749+01:00</dc:date>
+    <dc:date>2020-02-20T21:40:02.217031+01:00</dc:date>
   </channel>
 </rss>
