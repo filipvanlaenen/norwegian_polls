@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 20 Feb 2020 21:40:02 +0100</pubDate>
+    <pubDate>Fri, 21 Feb 2020 21:04:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar TNS for TV2, 6–10 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-01-10-KantarTNS.html</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-12-18-IpsosMMI.png"
         length="246454"
         type="image/png"/>
-      <pubDate>Thu, 20 Feb 2020 21:40:02 +0100</pubDate>
-      <dc:date>2020-02-20T21:40:02.217031+01:00</dc:date>
+      <pubDate>Fri, 21 Feb 2020 21:04:44 +0100</pubDate>
+      <dc:date>2020-02-21T21:04:44.909901+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat, 9–15 December 2019 – Seat Projections for the Parties</title>
@@ -149,6 +149,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-02-20T21:40:02.217031+01:00</dc:date>
+    <dc:date>2020-02-21T21:04:44.909901+01:00</dc:date>
   </channel>
 </rss>
