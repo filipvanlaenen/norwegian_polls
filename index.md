@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
-| N/A | [Poll Average](average.html) | N/A <br> 38–53 | N/A <br> 34–45 | N/A <br> 13–25 | N/A <br> 24–38 | N/A <br> 9–18 | N/A <br> 0–2 | N/A <br> 0–8 | N/A <br> 8–13 | N/A <br> 2–12 |
-| [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 22–28% <br> 39–49 | 17–22% <br> 28–38 | 13–18% <br> 18–32 | 13–18% <br> 19–32 | 5–8% <br> 9–16 | 3–6% <br> 2–10 | 2–5% <br> 0–8 | 4–6% <br> 1–13 | 4–7% <br> 8–10 |
+| [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 22–28% <br> 41–45 | 17–22% <br> 33–41 | 13–17% <br> 22–30 | 13–18% <br> 23–33 | 5–8% <br> 9–15 | 3–6% <br> 2–9 | 3–5% <br> 1–9 | 3–6% <br> 2–9 | 4–7% <br> 8–11 |
 | [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
