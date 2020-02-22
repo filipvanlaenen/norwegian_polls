@@ -10,15 +10,15 @@ Last result: **25.0%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.4% | 17.9–21.1% | 17.4–21.6% | 17.0–22.0% | 16.3–22.9% |
+| N/A | [Poll Average](average.html) | 18.8% | 16.3–20.9% | 15.6–21.5% | 15.1–22.0% | 14.2–22.9% |
 | [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 19.4% | 17.8–21.1% | 17.4–21.6% | 17.0–22.0% | 16.3–22.9% |
-| [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 19.4% | N/A | N/A | N/A | N/A |
-| [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | 19.9% | N/A | N/A | N/A | N/A |
-| [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 18.3% | N/A | N/A | N/A | N/A |
-| [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 | 17.9% | N/A | N/A | N/A | N/A |
-| [24–27 January 2020](2020-01-27-Sentio.html) | Sentio <br> Amedia and Nettavisen | 16.2% | N/A | N/A | N/A | N/A |
+| [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 19.4% | 17.9–21.1% | 17.4–21.6% | 17.1–22.0% | 16.4–22.8% |
+| [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | 19.9% | 18.3–21.6% | 17.9–22.0% | 17.5–22.5% | 16.8–23.3% |
+| [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 18.3% | 16.8–20.0% | 16.3–20.5% | 15.9–20.9% | 15.2–21.7% |
+| [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 | 17.9% | 16.2–19.7% | 15.7–20.2% | 15.3–20.7% | 14.6–21.6% |
+| [24–27 January 2020](2020-01-27-Sentio.html) | Sentio <br> Amedia and Nettavisen | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [21–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> Vårt Land | 21.0% | N/A | N/A | N/A | N/A |
-| [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 19.7% | N/A | N/A | N/A | N/A |
+| [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 19.7% | 17.9–21.6% | 17.4–22.2% | 17.0–22.7% | 16.2–23.6% |
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 20.9% | N/A | N/A | N/A | N/A |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 20.5% | N/A | N/A | N/A | N/A |
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 20.6% | N/A | N/A | N/A | N/A |
@@ -236,16 +236,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.8% | 99.9% |  |
-| 16.5–17.5% | 5% | 99.1% |  |
-| 17.5–18.5% | 18% | 94% |  |
-| 18.5–19.5% | 30% | 76% | Median |
-| 19.5–20.5% | 27% | 47% |  |
-| 20.5–21.5% | 14% | 20% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.1% | 100% |  |
+| 13.5–14.5% | 0.9% | 99.9% |  |
+| 14.5–15.5% | 4% | 98.9% |  |
+| 15.5–16.5% | 8% | 95% |  |
+| 16.5–17.5% | 12% | 88% |  |
+| 17.5–18.5% | 19% | 75% |  |
+| 18.5–19.5% | 23% | 57% | Median |
+| 19.5–20.5% | 19% | 34% |  |
+| 20.5–21.5% | 10% | 15% |  |
 | 21.5–22.5% | 4% | 5% |  |
-| 22.5–23.5% | 0.8% | 0.9% |  |
-| 23.5–24.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0.8% | 1.0% |  |
+| 23.5–24.5% | 0.1% | 0.2% |  |
 | 24.5–25.5% | 0% | 0% | Last Result |
 
 
@@ -257,15 +260,15 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 31–37 | 28–38 | 28–38 | 28–41 |
-| [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 31 | 30–35 | 29–35 | 27–36 | 26–41 |
-| [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen |  |  |  |  |  |
-| [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
-| [24–27 January 2020](2020-01-27-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 33 | 29–38 | 28–38 | 27–39 | 24–41 |
+| [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 34 | 32–37 | 31–37 | 30–38 | 28–41 |
+| [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 35 | 31–38 | 29–38 | 29–39 | 28–41 |
+| [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | 36 | 32–38 | 32–39 | 31–40 | 30–40 |
+| [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 32 | 30–37 | 29–37 | 27–37 | 27–40 |
+| [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 | 31 | 30–34 | 28–36 | 27–36 | 25–37 |
+| [24–27 January 2020](2020-01-27-Sentio.html) | Sentio <br> Amedia and Nettavisen | 29 | 26–31 | 24–31 | 24–33 | 23–34 |
 | [21–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
-| [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet |  |  |  |  |  |
+| [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 35 | 32–39 | 31–40 | 31–41 | 29–43 |
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
@@ -485,24 +488,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0% | 100% |  |
-| 28 | 8% | 99.9% |  |
-| 29 | 0% | 92% |  |
-| 30 | 0.6% | 92% |  |
-| 31 | 11% | 91% |  |
-| 32 | 0.3% | 80% |  |
-| 33 | 65% | 80% | Median |
-| 34 | 1.0% | 15% |  |
-| 35 | 3% | 13% |  |
-| 36 | 0% | 10% |  |
-| 37 | 5% | 10% |  |
-| 38 | 5% | 6% |  |
-| 39 | 0% | 0.9% |  |
-| 40 | 0.3% | 0.9% |  |
-| 41 | 0.6% | 0.6% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
+| 23 | 0.1% | 100% |  |
+| 24 | 0.9% | 99.9% |  |
+| 25 | 0.3% | 98.9% |  |
+| 26 | 0.5% | 98.7% |  |
+| 27 | 2% | 98% |  |
+| 28 | 3% | 96% |  |
+| 29 | 7% | 93% |  |
+| 30 | 5% | 86% |  |
+| 31 | 13% | 81% |  |
+| 32 | 16% | 68% |  |
+| 33 | 6% | 52% | Median |
+| 34 | 10% | 46% |  |
+| 35 | 12% | 36% |  |
+| 36 | 8% | 25% |  |
+| 37 | 5% | 16% |  |
+| 38 | 7% | 11% |  |
+| 39 | 1.1% | 4% |  |
+| 40 | 2% | 2% |  |
+| 41 | 0.6% | 0.9% |  |
+| 42 | 0.2% | 0.4% |  |
+| 43 | 0% | 0.1% |  |
+| 44 | 0% | 0.1% |  |
 | 45 | 0% | 0% | Last Result |
 
 
