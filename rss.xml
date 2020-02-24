@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sat, 22 Feb 2020 17:11:16 +0100</pubDate>
+    <pubDate>Sun, 23 Feb 2020 20:53:16 +0100</pubDate>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse, 4–10 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-02-10-OpinionPerduco.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-02-10-OpinionPerduco.png"
         length="236374"
         type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 14:20:05 +0100</pubDate>
-      <dc:date>2020-02-22T14:20:05.423969+01:00</dc:date>
+      <pubDate>Sun, 23 Feb 2020 20:53:16 +0100</pubDate>
+      <dc:date>2020-02-23T20:53:16.66018+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norfakta for Klasskampen and Nationen, 4–5 February 2020 – Voting Intentions</title>
@@ -219,6 +219,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-02-22T17:11:16.873287+01:00</dc:date>
+    <dc:date>2020-02-23T20:53:16.66018+01:00</dc:date>
   </channel>
 </rss>
