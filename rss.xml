@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sun, 23 Feb 2020 20:53:16 +0100</pubDate>
+    <pubDate>Fri, 28 Feb 2020 21:33:00 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for Vårt Land, 17–23 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-02-23-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.4–6.8%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.8–8.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.7–8.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.9–27.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 13.1–18.8%&lt;/li&gt;&lt;li&gt;Venstre: 3.1–6.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.3–5.3%&lt;/li&gt;&lt;li&gt;Høyre: 16.1–22.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.8–17.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-02-23-Norstat.png"
+        length="255460"
+        type="image/png"/>
+      <pubDate>Fri, 28 Feb 2020 21:33:00 +0100</pubDate>
+      <dc:date>2020-02-28T21:33:00.845838+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse, 4–10 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-02-10-OpinionPerduco.html</link>
@@ -219,6 +229,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-02-23T20:53:16.66018+01:00</dc:date>
+    <dc:date>2020-02-28T21:33:00.845838+01:00</dc:date>
   </channel>
 </rss>
