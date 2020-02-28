@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
+| [17–23 February 2020](2020-02-23-Norstat.html) | Norstat <br> Vårt Land | 21–28% <br> 38–48 | 16–22% <br> 28–39 | 12–17% <br> 20–30 | 13–19% <br> 23–35 | 5–9% <br> 8–15 | 3–6% <br> 2–10 | 2–5% <br> 1–9 | 5–9% <br> 8–15 | 3–7% <br> 2–11 |
+| [17–19 February 2020](2020-02-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–17 February 2020](2020-02-17-Sentio.html) | Sentio <br> Amedia and Nettavisen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 22–28% <br> 42–49 | 17–22% <br> 30–38 | 13–17% <br> 23–31 | 13–18% <br> 23–31 | 5–8% <br> 9–14 | 3–6% <br> 2–10 | 3–5% <br> 1–8 | 3–6% <br> 2–10 | 4–7% <br> 7–12 |
 | [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 20–25% <br> 36–45 | 17–22% <br> 29–39 | 13–17% <br> 22–30 | 14–18% <br> 23–33 | 6–9% <br> 10–16 | 3–6% <br> 2–9 | 3–6% <br> 1–10 | 4–7% <br> 2–11 | 3–6% <br> 2–10 |
