@@ -259,7 +259,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–12 | 7–12 | 2–12 | 2–15 |
+| N/A | [Poll Average](average.html) | 9 | 7–12 | 7–12 | 2–13 | 2–15 |
 | [17–23 February 2020](2020-02-23-Norstat.html) | Norstat <br> Vårt Land | 11 | 8–12 | 8–14 | 8–15 | 7–15 |
 | [17–19 February 2020](2020-02-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet |  |  |  |  |  |
 | [11–17 February 2020](2020-02-17-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
@@ -498,13 +498,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.1% | 96% |  |
 | 7 | 10% | 96% |  |
 | 8 | 17% | 86% |  |
-| 9 | 19% | 69% | Median |
-| 10 | 21% | 50% |  |
-| 11 | 17% | 29% |  |
-| 12 | 10% | 12% |  |
-| 13 | 1.0% | 2% |  |
-| 14 | 0.4% | 1.2% |  |
-| 15 | 0.7% | 0.7% |  |
+| 9 | 21% | 69% | Median |
+| 10 | 20% | 48% |  |
+| 11 | 16% | 29% |  |
+| 12 | 10% | 13% |  |
+| 13 | 1.3% | 3% |  |
+| 14 | 0.9% | 1.5% |  |
+| 15 | 0.5% | 0.6% |  |
 | 16 | 0% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
