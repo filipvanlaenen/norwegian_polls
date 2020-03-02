@@ -10,20 +10,20 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.2% | 13.4–17.1% | 12.9–17.6% | 12.5–18.1% | 11.8–19.1% |
+| N/A | [Poll Average](average.html) | 15.0% | 13.2–16.9% | 12.8–17.4% | 12.4–17.9% | 11.7–18.9% |
 | [17–23 February 2020](2020-02-23-Norstat.html) | Norstat <br> Vårt Land | 15.8% | 14.0–17.8% | 13.5–18.3% | 13.1–18.8% | 12.3–19.8% |
-| [17–19 February 2020](2020-02-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 14.7% | N/A | N/A | N/A | N/A |
-| [11–17 February 2020](2020-02-17-Sentio.html) | Sentio <br> Amedia and Nettavisen | 14.1% | N/A | N/A | N/A | N/A |
+| [17–19 February 2020](2020-02-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 14.7% | 13.2–16.6% | 12.7–17.1% | 12.3–17.5% | 11.6–18.4% |
+| [11–17 February 2020](2020-02-17-Sentio.html) | Sentio <br> Amedia and Nettavisen | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 15.2% | 13.8–16.7% | 13.4–17.2% | 13.0–17.6% | 12.4–18.4% |
 | [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 17.3% | 15.8–19.0% | 15.4–19.5% | 15.1–19.9% | 14.4–20.7% |
 | [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 | 15.0% | 13.4–16.7% | 13.0–17.2% | 12.7–17.6% | 11.9–18.5% |
 | [24–27 January 2020](2020-01-27-Sentio.html) | Sentio <br> Amedia and Nettavisen | 12.5% | 11.3–13.9% | 10.9–14.4% | 10.6–14.7% | 10.0–15.4% |
-| [21–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> Vårt Land | 12.7% | N/A | N/A | N/A | N/A |
+| [21–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> Vårt Land | 12.7% | 11.2–14.6% | 10.7–15.1% | 10.3–15.6% | 9.6–16.5% |
 | [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 16.4% | 14.7–18.2% | 14.3–18.7% | 13.9–19.2% | 13.1–20.1% |
-| [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 14.8% | N/A | N/A | N/A | N/A |
-| [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 14.5% | N/A | N/A | N/A | N/A |
+| [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 14.8% | 13.5–16.2% | 13.2–16.6% | 12.9–16.9% | 12.3–17.6% |
+| [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 14.5% | 12.9–16.5% | 12.4–17.0% | 12.0–17.5% | 11.2–18.4% |
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 16.8% | N/A | N/A | N/A | N/A |
 | [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 20.9% | N/A | N/A | N/A | N/A |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 17.9% | 16.3–19.8% | 15.8–20.3% | 15.4–20.8% | 14.7–21.7% |
@@ -241,15 +241,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% | Last Result |
 | 10.5–11.5% | 0.3% | 100% |  |
-| 11.5–12.5% | 2% | 99.7% |  |
-| 12.5–13.5% | 10% | 97% |  |
-| 13.5–14.5% | 21% | 88% |  |
-| 14.5–15.5% | 27% | 67% | Median |
-| 15.5–16.5% | 23% | 40% |  |
-| 16.5–17.5% | 12% | 18% |  |
-| 17.5–18.5% | 4% | 5% |  |
-| 18.5–19.5% | 1.0% | 1.2% |  |
-| 19.5–20.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 3% | 99.7% |  |
+| 12.5–13.5% | 12% | 97% |  |
+| 13.5–14.5% | 23% | 85% |  |
+| 14.5–15.5% | 27% | 61% | Median |
+| 15.5–16.5% | 20% | 35% |  |
+| 16.5–17.5% | 10% | 14% |  |
+| 17.5–18.5% | 3% | 4% |  |
+| 18.5–19.5% | 0.8% | 0.9% |  |
+| 19.5–20.5% | 0.1% | 0.2% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -261,20 +261,20 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–30 | 23–31 | 22–32 | 21–35 |
+| N/A | [Poll Average](average.html) | 26 | 23–30 | 23–31 | 22–32 | 21–35 |
 | [17–23 February 2020](2020-02-23-Norstat.html) | Norstat <br> Vårt Land | 29 | 24–31 | 24–32 | 23–35 | 22–37 |
-| [17–19 February 2020](2020-02-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet |  |  |  |  |  |
-| [11–17 February 2020](2020-02-17-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
+| [17–19 February 2020](2020-02-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 26 | 24–29 | 24–31 | 23–33 | 21–34 |
+| [11–17 February 2020](2020-02-17-Sentio.html) | Sentio <br> Amedia and Nettavisen | 26 | 23–29 | 22–29 | 22–29 | 20–31 |
 | [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 26 | 25–30 | 24–30 | 23–31 | 22–32 |
 | [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 29 | 26–31 | 25–31 | 23–33 | 22–35 |
 | [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | 24 | 22–28 | 21–29 | 21–29 | 20–30 |
 | [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 31 | 29–34 | 28–35 | 27–36 | 26–38 |
 | [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 | 25 | 23–30 | 21–30 | 21–30 | 21–32 |
 | [24–27 January 2020](2020-01-27-Sentio.html) | Sentio <br> Amedia and Nettavisen | 23 | 20–26 | 20–26 | 19–26 | 19–28 |
-| [21–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
+| [21–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> Vårt Land | 23 | 20–27 | 19–28 | 17–28 | 17–30 |
 | [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 30 | 27–32 | 27–33 | 26–35 | 25–37 |
-| [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
+| [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 28 | 23–33 | 23–33 | 23–33 | 22–34 |
+| [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 24 | 21–30 | 21–31 | 21–32 | 18–34 |
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
 | [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 35 | 28–38 | 27–38 | 27–39 | 27–41 |
@@ -497,21 +497,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 2% | 99.6% |  |
 | 22 | 2% | 98% |  |
 | 23 | 6% | 96% |  |
-| 24 | 10% | 90% |  |
-| 25 | 15% | 81% |  |
-| 26 | 10% | 65% |  |
-| 27 | 5% | 55% | Median |
-| 28 | 9% | 50% |  |
-| 29 | 23% | 40% |  |
-| 30 | 8% | 18% |  |
-| 31 | 6% | 9% |  |
-| 32 | 2% | 3% |  |
-| 33 | 0.4% | 2% |  |
-| 34 | 0.5% | 1.2% |  |
-| 35 | 0.2% | 0.7% |  |
-| 36 | 0.3% | 0.5% |  |
+| 24 | 11% | 90% |  |
+| 25 | 15% | 79% |  |
+| 26 | 15% | 64% | Median |
+| 27 | 6% | 49% |  |
+| 28 | 10% | 43% |  |
+| 29 | 19% | 33% |  |
+| 30 | 6% | 14% |  |
+| 31 | 5% | 7% |  |
+| 32 | 1.3% | 3% |  |
+| 33 | 0.6% | 2% |  |
+| 34 | 0.4% | 1.0% |  |
+| 35 | 0.2% | 0.6% |  |
+| 36 | 0.2% | 0.3% |  |
 | 37 | 0% | 0.1% |  |
-| 38 | 0.1% | 0.1% |  |
+| 38 | 0% | 0.1% |  |
 | 39 | 0% | 0% |  |
 
 
