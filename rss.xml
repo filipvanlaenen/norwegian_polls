@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Mon, 02 Mar 2020 06:55:10 +0100</pubDate>
+    <pubDate>Tue, 03 Mar 2020 06:50:00 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for Vårt Land, 17–23 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-02-23-Norstat.html</link>
@@ -138,6 +138,16 @@
         type="image/png"/>
       <pubDate>Mon, 02 Mar 2020 06:55:10 +0100</pubDate>
       <dc:date>2020-03-02T06:55:10.186941+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 14–18 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-01-18-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.4–9.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.2–7.0%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 22.8–28.2%&lt;/li&gt;&lt;li&gt;Senterpartiet: 14.6–19.3%&lt;/li&gt;&lt;li&gt;Venstre: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Høyre: 18.2–23.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.0–12.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-01-18-Sentio.png"
+        length="236663"
+        type="image/png"/>
+      <pubDate>Tue, 03 Mar 2020 06:50:00 +0100</pubDate>
+      <dc:date>2020-03-03T06:50:00.887901+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for TV2, 6–10 January 2020 – Voting Intentions</title>
@@ -279,6 +289,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-03-02T06:55:10.186941+01:00</dc:date>
+    <dc:date>2020-03-03T06:50:00.887901+01:00</dc:date>
   </channel>
 </rss>
