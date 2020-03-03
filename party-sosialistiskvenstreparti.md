@@ -24,7 +24,7 @@ Last result: **6.0%** (General Election of 8–9 September 2013)
 | [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 5.9% | 4.9–7.1% | 4.6–7.5% | 4.4–7.8% | 4.0–8.4% |
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.7–8.6% | 5.3–9.2% |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 6.6% | 5.5–8.0% | 5.2–8.4% | 4.9–8.8% | 4.4–9.5% |
-| [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 7.9% | N/A | N/A | N/A | N/A |
+| [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 7.4% | N/A | N/A | N/A | N/A |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 8.8% | 7.6–10.2% | 7.3–10.6% | 7.0–11.0% | 6.5–11.7% |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 6.2% | 5.2–7.4% | 4.9–7.8% | 4.7–8.1% | 4.2–8.7% |
@@ -273,7 +273,7 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 | [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 10 | 9–13 | 8–13 | 8–14 | 2–16 |
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 12 | 10–17 | 10–17 | 10–17 | 9–17 |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 12 | 9–15 | 9–15 | 8–15 | 8–16 |
-| [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
+| [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 13 | 11–15 | 11–17 | 11–17 | 10–18 |
 | [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 17 | 13–18 | 13–18 | 12–19 | 11–20 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 10 | 9–12 | 9–13 | 8–14 | 7–15 |

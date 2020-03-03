@@ -24,7 +24,7 @@ Last result: **27.4%** (General Election of 8–9 September 2013)
 | [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 25.9% | 24.0–28.1% | 23.4–28.7% | 22.9–29.2% | 22.0–30.2% |
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 25.2% | 23.6–26.9% | 23.2–27.4% | 22.8–27.8% | 22.1–28.6% |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 25.3% | 23.2–27.6% | 22.6–28.3% | 22.1–28.8% | 21.1–29.9% |
-| [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 25.4% | N/A | N/A | N/A | N/A |
+| [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
 | [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 25.5% | N/A | N/A | N/A | N/A |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 23.5% | 21.6–25.5% | 21.1–26.0% | 20.7–26.5% | 19.8–27.5% |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 26.7% | 24.7–28.8% | 24.2–29.4% | 23.7–29.9% | 22.8–30.9% |
@@ -277,7 +277,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 49 | 43–53 | 43–53 | 42–53 | 40–55 |
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 45 | 44–48 | 43–48 | 40–49 | 40–52 |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 46 | 42–52 | 40–54 | 40–54 | 38–55 |
-| [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
+| [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 45 | 43–50 | 43–50 | 41–50 | 40–52 |
 | [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 40–45 | 39–46 | 37–47 | 35–49 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 48 | 45–53 | 44–53 | 44–54 | 41–56 |
