@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Tue, 03 Mar 2020 06:50:00 +0100</pubDate>
+    <pubDate>Sun, 15 Mar 2020 15:45:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for Vårt Land, 17–23 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-02-23-Norstat.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-02-23-Norstat.png"
         length="255460"
         type="image/png"/>
-      <pubDate>Fri, 28 Feb 2020 21:33:00 +0100</pubDate>
-      <dc:date>2020-02-28T21:33:00.845838+01:00</dc:date>
+      <pubDate>Sun, 15 Mar 2020 12:22:35 +0100</pubDate>
+      <dc:date>2020-03-15T12:22:35.081403+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MMI for Dagbladet, 17–19 February 2020 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-02-19-IpsosMMI.png"
         length="242541"
         type="image/png"/>
-      <pubDate>Sun, 01 Mar 2020 20:20:28 +0100</pubDate>
-      <dc:date>2020-03-01T20:20:28.723858+01:00</dc:date>
+      <pubDate>Sun, 15 Mar 2020 13:16:37 +0100</pubDate>
+      <dc:date>2020-03-15T13:16:37.836943+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Amedia and Nettavisen, 11–17 February 2020 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-02-17-Sentio.png"
         length="237274"
         type="image/png"/>
-      <pubDate>Sun, 01 Mar 2020 21:00:15 +0100</pubDate>
-      <dc:date>2020-03-01T21:00:15.196056+01:00</dc:date>
+      <pubDate>Sun, 15 Mar 2020 14:12:52 +0100</pubDate>
+      <dc:date>2020-03-15T14:12:52.035774+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse, 4–10 February 2020 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-02-05-Norfakta.png"
         length="235995"
         type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 14:44:48 +0100</pubDate>
-      <dc:date>2020-02-22T14:44:48.069866+01:00</dc:date>
+      <pubDate>Sun, 15 Mar 2020 15:20:38 +0100</pubDate>
+      <dc:date>2020-03-15T15:20:38.548158+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse for VG, 30 January–3 February 2020 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-02-03-ResponsAnalyse.png"
         length="233382"
         type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 15:09:13 +0100</pubDate>
-      <dc:date>2020-02-22T15:09:13.195779+01:00</dc:date>
+      <pubDate>Sun, 15 Mar 2020 15:45:37 +0100</pubDate>
+      <dc:date>2020-03-15T15:45:37.063712+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 27 January–2 February 2020 – Voting Intentions</title>
@@ -289,6 +289,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-03-03T06:50:00.887901+01:00</dc:date>
+    <dc:date>2020-03-15T15:45:37.063712+01:00</dc:date>
   </channel>
 </rss>
