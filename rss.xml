@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Mon, 16 Mar 2020 09:04:44 +0100</pubDate>
+    <pubDate>Fri, 20 Mar 2020 20:24:38 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 3–9 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-03-09-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 5.3–8.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.4–26.8%&lt;/li&gt;&lt;li&gt;Senterpartiet: 16.0–20.9%&lt;/li&gt;&lt;li&gt;Venstre: 2.5–4.9%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Høyre: 16.5–21.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.5–15.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-03-09-OpinionPerduco.png"
+        length="235073"
+        type="image/png"/>
+      <pubDate>Fri, 20 Mar 2020 20:01:50 +0100</pubDate>
+      <dc:date>2020-03-20T20:01:50.900787+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norfakta for Klasskampen and Nationen, 3–4 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-03-04-Norfakta.html</link>
@@ -16,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-03-04-Norfakta.png"
         length="231773"
         type="image/png"/>
-      <pubDate>Sun, 15 Mar 2020 23:04:12 +0100</pubDate>
-      <dc:date>2020-03-15T23:04:12.357029+01:00</dc:date>
+      <pubDate>Fri, 20 Mar 2020 20:24:38 +0100</pubDate>
+      <dc:date>2020-03-20T20:24:38.137671+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse for VG, 27 February–2 March 2020 – Voting Intentions</title>
@@ -329,6 +339,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-03-16T09:04:44.732321+01:00</dc:date>
+    <dc:date>2020-03-20T20:24:38.137671+01:00</dc:date>
   </channel>
 </rss>
