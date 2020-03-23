@@ -264,7 +264,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–13 | 7–14 | 2–15 | 2–16 |
+| N/A | [Poll Average](average.html) | 11 | 8–13 | 7–14 | 2–14 | 2–16 |
 | [3–9 March 2020](2020-03-09-OpinionPerduco.html) | Opinion Perduco | 12 | 11–14 | 10–14 | 9–15 | 8–16 |
 | [3–4 March 2020](2020-03-04-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 11 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [27 February–2 March 2020](2020-03-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 9 | 7–11 | 2–11 | 2–12 | 2–12 |
@@ -509,13 +509,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 2% | 97% |  |
 | 8 | 9% | 95% |  |
 | 9 | 13% | 86% |  |
-| 10 | 16% | 72% |  |
-| 11 | 23% | 56% | Median |
-| 12 | 12% | 33% |  |
-| 13 | 13% | 21% |  |
-| 14 | 6% | 9% |  |
-| 15 | 2% | 3% |  |
-| 16 | 0.8% | 0.9% |  |
+| 10 | 17% | 72% |  |
+| 11 | 24% | 55% | Median |
+| 12 | 12% | 31% |  |
+| 13 | 11% | 18% |  |
+| 14 | 5% | 8% |  |
+| 15 | 2% | 2% |  |
+| 16 | 0.6% | 0.7% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
