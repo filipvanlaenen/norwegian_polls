@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Fri, 20 Mar 2020 20:24:38 +0100</pubDate>
+    <pubDate>Wed, 25 Mar 2020 07:57:06 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos MMI for Dagbladet, 18–20 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-03-20-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.4–6.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.0–11.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.1–6.4%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.8–28.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 14.7–20.5%&lt;/li&gt;&lt;li&gt;Venstre: 1.6–4.2%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.5–5.5%&lt;/li&gt;&lt;li&gt;Høyre: 17.8–24.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.2–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-03-20-IpsosMMI.png"
+        length="249893"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2020 07:57:06 +0100</pubDate>
+      <dc:date>2020-03-25T07:57:06.501995+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Perduco, 3–9 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-03-09-OpinionPerduco.html</link>
@@ -339,6 +349,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-03-20T20:24:38.137671+01:00</dc:date>
+    <dc:date>2020-03-25T07:57:06.501995+01:00</dc:date>
   </channel>
 </rss>
