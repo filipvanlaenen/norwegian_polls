@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Wed, 25 Mar 2020 07:57:06 +0100</pubDate>
+    <pubDate>Sat, 04 Apr 2020 18:42:56 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos MMI for Dagbladet, 18–20 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-03-20-IpsosMMI.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Wed, 25 Mar 2020 07:57:06 +0100</pubDate>
       <dc:date>2020-03-25T07:57:06.501995+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nettavisen and Amedia, 10–16 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-03-16-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1.9–3.9%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.7–27.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 15.3–20.0%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Høyre: 16.5–21.4%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.1–15.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-03-16-Sentio.png"
+        length="236351"
+        type="image/png"/>
+      <pubDate>Sat, 04 Apr 2020 18:42:56 +0200</pubDate>
+      <dc:date>2020-04-04T18:42:56.79954+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Perduco, 3–9 March 2020 – Voting Intentions</title>
@@ -349,6 +359,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-03-25T07:57:06.501995+01:00</dc:date>
+    <dc:date>2020-04-04T18:42:56.79954+02:00</dc:date>
   </channel>
 </rss>
