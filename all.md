@@ -5,8 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
+| [16–23 March 2020](2020-03-23-Norstat.html) | Norstat <br> Aftenposten and NRK | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–20 March 2020](2020-03-20-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 22–28% <br> 38–50 | 18–24% <br> 32–43 | 9–14% <br> 15–25 | 15–21% <br> 27–39 | 7–11% <br> 12–21 | 2–4% <br> 0–2 | 2–5% <br> 1–9 | 3–6% <br> 1–12 | 3–7% <br> 2–11 |
-| [10–16 March 2020](2020-03-16-Sentio.html) | Sentio <br> Nettavisen and Amedia | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–16 March 2020](2020-03-16-Sentio.html) | Sentio <br> Nettavisen and Amedia | 22–27% <br> 41–48 | 16–21% <br> 30–40 | 11–15% <br> 20–27 | 15–20% <br> 27–37 | 6–9% <br> 11–16 | 2–5% <br> 2–9 | 2–5% <br> 1–8 | 6–9% <br> 10–16 | 2–4% <br> 1–2 |
 | [3–9 March 2020](2020-03-09-OpinionPerduco.html) | Opinion Perduco | 21–27% <br> 38–47 | 17–21% <br> 29–37 | 11–16% <br> 20–28 | 16–21% <br> 29–40 | 5–9% <br> 9–15 | 3–5% <br> 1–8 | 2–4% <br> 0–8 | 5–8% <br> 9–15 | 3–5% <br> 1–9 |
 | [3–4 March 2020](2020-03-04-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 23–29% <br> 42–51 | 18–23% <br> 31–39 | 10–14% <br> 18–25 | 14–18% <br> 24–34 | 6–9% <br> 10–16 | 2–4% <br> 0–2 | 2–4% <br> 0–7 | 6–9% <br> 10–15 | 4–7% <br> 2–11 |
 | [27 February–2 March 2020](2020-03-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 22–28% <br> 41–49 | 16–20% <br> 27–36 | 13–17% <br> 22–30 | 15–19% <br> 26–33 | 6–9% <br> 10–16 | 2–5% <br> 1–8 | 3–5% <br> 1–8 | 4–7% <br> 2–12 | 4–7% <br> 7–12 |
