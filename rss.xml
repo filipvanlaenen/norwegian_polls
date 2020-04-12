@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sat, 11 Apr 2020 14:21:59 +0200</pubDate>
+    <pubDate>Sat, 11 Apr 2020 18:34:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by Respons Analyse for VG, 26 March–1 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-04-01-ResponsAnalyse.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-04-01-ResponsAnalyse.png"
         length="229090"
         type="image/png"/>
-      <pubDate>Sat, 11 Apr 2020 13:32:55 +0200</pubDate>
-      <dc:date>2020-04-11T13:32:55.005773+02:00</dc:date>
+      <pubDate>Sat, 11 Apr 2020 17:18:45 +0200</pubDate>
+      <dc:date>2020-04-11T17:18:45.567249+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norfakta for Klasskampen and Nationen, 31 March–1 April 2020 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-04-01-Norfakta.png"
         length="231382"
         type="image/png"/>
-      <pubDate>Sat, 11 Apr 2020 13:50:13 +0200</pubDate>
-      <dc:date>2020-04-11T13:50:13.739061+02:00</dc:date>
+      <pubDate>Sat, 11 Apr 2020 17:43:55 +0200</pubDate>
+      <dc:date>2020-04-11T17:43:55.919901+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for TV2, 25–31 March 2020 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-03-31-KantarTNS.png"
         length="244858"
         type="image/png"/>
-      <pubDate>Sat, 11 Apr 2020 14:05:13 +0200</pubDate>
-      <dc:date>2020-04-11T14:05:13.742538+02:00</dc:date>
+      <pubDate>Sat, 11 Apr 2020 18:08:06 +0200</pubDate>
+      <dc:date>2020-04-11T18:08:06.541279+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 23–29 March 2020 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-03-29-Norstat.png"
         length="244691"
         type="image/png"/>
-      <pubDate>Sat, 11 Apr 2020 14:21:59 +0200</pubDate>
-      <dc:date>2020-04-11T14:21:59.590502+02:00</dc:date>
+      <pubDate>Sat, 11 Apr 2020 18:34:09 +0200</pubDate>
+      <dc:date>2020-04-11T18:34:09.279398+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 16–23 March 2020 – Voting Intentions</title>
@@ -409,6 +409,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-04-11T14:21:59.590502+02:00</dc:date>
+    <dc:date>2020-04-11T18:34:09.279398+02:00</dc:date>
   </channel>
 </rss>
