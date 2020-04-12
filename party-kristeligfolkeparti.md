@@ -269,10 +269,10 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–8 | 0–9 | 0–9 | 0–10 |
-| [26 March–1 April 2020](2020-04-01-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 1–7 | 0–8 | 0–8 | 0–8 |
-| [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 7 | 3–9 | 1–9 | 1–10 | 1–11 |
-| [25–31 March 2020](2020-03-31-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 3–9 | 2–10 | 1–10 | 1–11 |
+| N/A | [Poll Average](average.html) | 3 | 1–8 | 1–9 | 0–9 | 0–10 |
+| [26 March–1 April 2020](2020-04-01-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 1–7 | 1–8 | 0–8 | 0–9 |
+| [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 7 | 2–8 | 2–9 | 1–10 | 1–11 |
+| [25–31 March 2020](2020-03-31-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 3–9 | 2–10 | 1–10 | 1–11 |
 | [23–29 March 2020](2020-03-29-Norstat.html) | Norstat <br> Aftenposten and NRK | 1 | 0–3 | 0–3 | 0–7 | 0–8 |
 | [16–23 March 2020](2020-03-23-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 1–7 | 1–8 | 0–8 | 0–9 |
 | [18–20 March 2020](2020-03-20-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3 | 1–8 | 1–9 | 1–9 | 1–10 |
@@ -512,17 +512,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 23% | 94% |  |
-| 2 | 13% | 71% |  |
-| 3 | 27% | 57% | Median |
-| 4 | 0% | 31% |  |
-| 5 | 0% | 31% |  |
-| 6 | 0.2% | 31% |  |
-| 7 | 15% | 31% |  |
-| 8 | 9% | 15% | Last Result |
-| 9 | 4% | 6% |  |
-| 10 | 1.2% | 2% |  |
+| 0 | 5% | 100% |  |
+| 1 | 25% | 95% |  |
+| 2 | 11% | 70% |  |
+| 3 | 30% | 59% | Median |
+| 4 | 0% | 29% |  |
+| 5 | 0% | 29% |  |
+| 6 | 0.2% | 29% |  |
+| 7 | 10% | 28% |  |
+| 8 | 13% | 18% | Last Result |
+| 9 | 4% | 5% |  |
+| 10 | 1.3% | 2% |  |
 | 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 

@@ -275,11 +275,11 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45 | 40–49 | 40–51 | 39–53 | 37–55 |
-| [26 March–1 April 2020](2020-04-01-ResponsAnalyse.html) | Respons Analyse <br> VG | 47 | 45–55 | 44–55 | 43–55 | 42–56 |
-| [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 41 | 40–44 | 39–45 | 38–46 | 36–48 |
-| [25–31 March 2020](2020-03-31-KantarTNS.html) | Kantar TNS <br> TV2 | 47 | 41–47 | 40–48 | 39–50 | 37–55 |
-| [23–29 March 2020](2020-03-29-Norstat.html) | Norstat <br> Aftenposten and NRK | 47 | 42–51 | 41–53 | 40–55 | 39–55 |
+| N/A | [Poll Average](average.html) | 44 | 41–49 | 40–51 | 39–53 | 37–55 |
+| [26 March–1 April 2020](2020-04-01-ResponsAnalyse.html) | Respons Analyse <br> VG | 48 | 45–53 | 44–55 | 43–55 | 42–57 |
+| [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 41 | 40–45 | 39–46 | 37–46 | 36–49 |
+| [25–31 March 2020](2020-03-31-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 41–47 | 40–50 | 39–51 | 37–54 |
+| [23–29 March 2020](2020-03-29-Norstat.html) | Norstat <br> Aftenposten and NRK | 47 | 42–51 | 41–52 | 40–53 | 39–56 |
 | [16–23 March 2020](2020-03-23-Norstat.html) | Norstat <br> Aftenposten and NRK | 49 | 44–53 | 44–54 | 43–55 | 41–56 |
 | [18–20 March 2020](2020-03-20-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 43 | 40–48 | 40–50 | 39–52 | 38–53 |
 | [10–16 March 2020](2020-03-16-Sentio.html) | Sentio <br> Nettavisen and Amedia | 44 | 42–48 | 41–48 | 41–49 | 39–50 |
@@ -518,29 +518,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0% | 100% |  |
+| 35 | 0.1% | 100% |  |
 | 36 | 0.2% | 99.9% |  |
-| 37 | 0.5% | 99.8% |  |
+| 37 | 0.4% | 99.7% |  |
 | 38 | 0.8% | 99.3% |  |
 | 39 | 2% | 98.5% |  |
-| 40 | 8% | 97% |  |
-| 41 | 5% | 88% |  |
-| 42 | 10% | 83% |  |
-| 43 | 7% | 73% |  |
-| 44 | 14% | 66% |  |
-| 45 | 11% | 51% | Median |
-| 46 | 9% | 40% |  |
-| 47 | 10% | 31% |  |
-| 48 | 5% | 21% |  |
-| 49 | 7% | 15% | Last Result |
+| 40 | 7% | 97% |  |
+| 41 | 9% | 90% |  |
+| 42 | 8% | 81% |  |
+| 43 | 11% | 73% |  |
+| 44 | 13% | 62% | Median |
+| 45 | 13% | 49% |  |
+| 46 | 8% | 36% |  |
+| 47 | 8% | 28% |  |
+| 48 | 7% | 21% |  |
+| 49 | 5% | 14% | Last Result |
 | 50 | 3% | 9% |  |
-| 51 | 1.5% | 6% |  |
-| 52 | 0.9% | 4% |  |
-| 53 | 1.4% | 4% |  |
-| 54 | 0.2% | 2% |  |
-| 55 | 2% | 2% |  |
-| 56 | 0.2% | 0.2% |  |
-| 57 | 0% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 51 | 2% | 7% |  |
+| 52 | 2% | 5% |  |
+| 53 | 1.0% | 3% |  |
+| 54 | 0.5% | 2% |  |
+| 55 | 1.0% | 1.3% |  |
+| 56 | 0.2% | 0.3% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 
