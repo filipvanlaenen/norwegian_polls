@@ -271,13 +271,13 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 1–8 | 1–9 | 0–9 | 0–10 |
 | [26 March–1 April 2020](2020-04-01-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 1–7 | 1–8 | 0–8 | 0–9 |
-| [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 7 | 2–8 | 2–9 | 1–10 | 1–11 |
-| [25–31 March 2020](2020-03-31-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 3–9 | 2–10 | 1–10 | 1–11 |
+| [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 7 | 2–9 | 2–9 | 1–10 | 1–11 |
+| [25–31 March 2020](2020-03-31-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 2–9 | 2–10 | 1–10 | 1–11 |
 | [23–29 March 2020](2020-03-29-Norstat.html) | Norstat <br> Aftenposten and NRK | 1 | 0–3 | 0–3 | 0–7 | 0–8 |
 | [16–23 March 2020](2020-03-23-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 1–7 | 1–8 | 0–8 | 0–9 |
-| [18–20 March 2020](2020-03-20-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3 | 1–8 | 1–9 | 1–9 | 1–10 |
-| [10–16 March 2020](2020-03-16-Sentio.html) | Sentio <br> Nettavisen and Amedia | 3 | 2–3 | 1–7 | 1–8 | 1–9 |
-| [3–9 March 2020](2020-03-09-OpinionPerduco.html) | Opinion Perduco | 2 | 1–3 | 1–7 | 0–7 | 0–8 |
+| [18–20 March 2020](2020-03-20-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3 | 1–8 | 1–9 | 1–9 | 0–10 |
+| [10–16 March 2020](2020-03-16-Sentio.html) | Sentio <br> Nettavisen and Amedia | 3 | 1–7 | 1–8 | 1–8 | 0–9 |
+| [3–9 March 2020](2020-03-09-OpinionPerduco.html) | Opinion Perduco | 2 | 1–3 | 0–7 | 0–7 | 0–8 |
 | [3–4 March 2020](2020-03-04-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 1 | 0–3 | 0–3 | 0–7 | 0–8 |
 | [27 February–2 March 2020](2020-03-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 1–7 | 1–8 | 1–8 | 0–9 |
 | [24 February–2 March 2020](2020-03-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 1–8 | 1–9 | 1–9 | 1–11 |
@@ -512,17 +512,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 25% | 95% |  |
-| 2 | 11% | 70% |  |
-| 3 | 30% | 59% | Median |
-| 4 | 0% | 29% |  |
-| 5 | 0% | 29% |  |
-| 6 | 0.2% | 29% |  |
-| 7 | 10% | 28% |  |
-| 8 | 13% | 18% | Last Result |
-| 9 | 4% | 5% |  |
-| 10 | 1.3% | 2% |  |
+| 0 | 4% | 100% |  |
+| 1 | 26% | 96% |  |
+| 2 | 11% | 69% |  |
+| 3 | 31% | 58% | Median |
+| 4 | 0% | 27% |  |
+| 5 | 0% | 27% |  |
+| 6 | 0.1% | 27% |  |
+| 7 | 9% | 27% |  |
+| 8 | 12% | 17% | Last Result |
+| 9 | 4% | 6% |  |
+| 10 | 1.4% | 2% |  |
 | 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
