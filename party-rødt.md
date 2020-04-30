@@ -10,10 +10,11 @@ Last result: **2.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.5–5.2% | 2.2–5.6% | 2.0–6.0% | 1.7–6.7% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.5–5.0% | 2.3–5.4% | 2.1–5.8% | 1.7–6.6% |
+| [20–26 April 2020](2020-04-26-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.7% | N/A | N/A | N/A | N/A |
 | [20–22 April 2020](2020-04-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 4.8% | 3.9–6.0% | 3.7–6.4% | 3.5–6.7% | 3.1–7.3% |
-| [14–20 April 2020](2020-04-20-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.2% | N/A | N/A | N/A | N/A |
-| [31 March–5 April 2020](2020-04-05-OpinionPerduco.html) | Opinion Perduco | 3.7% | N/A | N/A | N/A | N/A |
+| [14–20 April 2020](2020-04-20-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [31 March–5 April 2020](2020-04-05-OpinionPerduco.html) | Opinion Perduco | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [26 March–1 April 2020](2020-04-01-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [25–31 March 2020](2020-03-31-KantarTNS.html) | Kantar TNS <br> TV2 | 3.9% | 3.1–4.9% | 2.9–5.2% | 2.7–5.5% | 2.3–6.1% |
@@ -256,14 +257,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 11% | 99.8% | Last Result |
-| 2.5–3.5% | 31% | 89% |  |
-| 3.5–4.5% | 35% | 58% | Median |
-| 4.5–5.5% | 17% | 22% |  |
-| 5.5–6.5% | 5% | 5% |  |
-| 6.5–7.5% | 0.6% | 0.7% |  |
+| 1.5–2.5% | 10% | 99.8% | Last Result |
+| 2.5–3.5% | 37% | 90% |  |
+| 3.5–4.5% | 35% | 53% | Median |
+| 4.5–5.5% | 14% | 18% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
 | 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -274,10 +274,11 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–9 | 1–10 | 1–10 | 1–12 |
+| N/A | [Poll Average](average.html) | 2 | 1–8 | 1–9 | 1–10 | 1–12 |
+| [20–26 April 2020](2020-04-26-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
 | [20–22 April 2020](2020-04-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 8 | 2–11 | 2–12 | 2–12 | 2–13 |
-| [14–20 April 2020](2020-04-20-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
-| [31 March–5 April 2020](2020-04-05-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
+| [14–20 April 2020](2020-04-20-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 1–7 | 1–7 | 1–8 | 1–9 |
+| [31 March–5 April 2020](2020-04-05-OpinionPerduco.html) | Opinion Perduco | 7 | 1–8 | 1–9 | 1–9 | 1–10 |
 | [26 March–1 April 2020](2020-04-01-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 1–8 | 1–8 | 1–9 | 1–10 |
 | [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–31 March 2020](2020-03-31-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 2–8 | 1–9 | 1–10 | 1–11 |
@@ -520,19 +521,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 22% | 100% | Last Result |
-| 2 | 39% | 78% | Median |
-| 3 | 0% | 39% |  |
-| 4 | 0% | 39% |  |
-| 5 | 0% | 39% |  |
-| 6 | 0% | 39% |  |
-| 7 | 10% | 39% |  |
-| 8 | 17% | 29% |  |
-| 9 | 6% | 11% |  |
-| 10 | 3% | 5% |  |
-| 11 | 1.2% | 2% |  |
-| 12 | 1.1% | 1.2% |  |
-| 13 | 0.1% | 0.1% |  |
+| 1 | 24% | 100% | Last Result |
+| 2 | 35% | 76% | Median |
+| 3 | 0% | 41% |  |
+| 4 | 0% | 41% |  |
+| 5 | 0% | 41% |  |
+| 6 | 0.1% | 41% |  |
+| 7 | 19% | 41% |  |
+| 8 | 14% | 23% |  |
+| 9 | 5% | 9% |  |
+| 10 | 2% | 4% |  |
+| 11 | 1.0% | 2% |  |
+| 12 | 0.9% | 1.0% |  |
+| 13 | 0% | 0.1% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
