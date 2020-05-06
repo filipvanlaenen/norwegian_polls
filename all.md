@@ -5,7 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
-| [20–26 April 2020](2020-04-26-Norstat.html) | Norstat <br> Aftenposten and NRK | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27–29 April 2020](2020-04-29-KantarTNS.html) | Kantar TNS <br> TV2 | 24–30% <br> 42–57 | 25–31% <br> 43–56 | 6–10% <br> 11–18 | 13–17% <br> 22–33 | 4–7% <br> 8–13 | 2–5% <br> 1–8 | 2–4% <br> 1–7 | 3–5% <br> 1–9 | 4–7% <br> 7–11 |
+| [20–26 April 2020](2020-04-26-Norstat.html) | Norstat <br> Aftenposten and NRK | 22–27% <br> 39–50 | 24–30% <br> 42–53 | 10–14% <br> 17–24 | 13–18% <br> 24–35 | 5–8% <br> 9–15 | 2–5% <br> 1–9 | 2–5% <br> 1–8 | 3–5% <br> 1–9 | 3–5% <br> 1–9 |
 | [20–22 April 2020](2020-04-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 21–28% <br> 39–51 | 22–29% <br> 39–51 | 8–12% <br> 14–21 | 12–17% <br> 20–33 | 7–11% <br> 11–19 | 2–5% <br> 1–8 | 3–6% <br> 2–10 | 3–6% <br> 1–9 | 3–7% <br> 2–12 |
 | [14–20 April 2020](2020-04-20-Sentio.html) | Sentio <br> Amedia and Nettavisen | 22–27% <br> 40–50 | 24–29% <br> 43–52 | 10–14% <br> 18–26 | 12–16% <br> 23–30 | 5–8% <br> 9–14 | 2–5% <br> 1–7 | 3–5% <br> 1–9 | 4–6% <br> 2–11 | 2–4% <br> 1–8 |
 | [31 March–5 April 2020](2020-04-05-OpinionPerduco.html) | Opinion Perduco | 23–29% <br> 43–53 | 25–30% <br> 45–56 | 10–14% <br> 18–24 | 12–16% <br> 21–30 | 5–8% <br> 8–13 | 2–4% <br> 1–2 | 2–4% <br> 0–7 | 4–6% <br> 2–11 | 3–5% <br> 1–9 |
