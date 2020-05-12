@@ -10,21 +10,24 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.4% | 12.8–16.1% | 12.4–16.7% | 12.0–17.1% | 11.3–18.0% |
+| N/A | [Poll Average](average.html) | 14.4% | 12.9–16.0% | 12.5–16.5% | 12.2–16.8% | 11.5–17.7% |
+| [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 13.5% | N/A | N/A | N/A | N/A |
+| [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 14.7% | 13.3–16.2% | 13.0–16.7% | 12.6–17.0% | 12.0–17.8% |
+| [27 April–4 May 2020](2020-05-04-Norstat.html) | Norstat <br> Aftenposten and NRK | 15.4% | N/A | N/A | N/A | N/A |
 | [27–29 April 2020](2020-04-29-KantarTNS.html) | Kantar TNS <br> TV2 | 14.6% | 13.2–16.1% | 12.8–16.5% | 12.5–16.9% | 11.9–17.7% |
 | [20–26 April 2020](2020-04-26-Norstat.html) | Norstat <br> Aftenposten and NRK | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.4–18.0% | 12.8–18.8% |
 | [20–22 April 2020](2020-04-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 14.2% | 12.7–16.0% | 12.2–16.5% | 11.9–17.0% | 11.2–17.9% |
 | [14–20 April 2020](2020-04-20-Sentio.html) | Sentio <br> Amedia and Nettavisen | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [31 March–5 April 2020](2020-04-05-OpinionPerduco.html) | Opinion Perduco | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
 | [26 March–1 April 2020](2020-04-01-ResponsAnalyse.html) | Respons Analyse <br> VG | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
-| [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 14.7% | 13.3–16.2% | 13.0–16.7% | 12.6–17.0% | 12.0–17.8% |
+| [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 14.7% | 13.3–16.2% | 13.0–16.7% | 12.6–17.0% | 12.0–17.8% |
 | [25–31 March 2020](2020-03-31-KantarTNS.html) | Kantar TNS <br> TV2 | 14.9% | 13.3–16.7% | 12.8–17.2% | 12.5–17.7% | 11.8–18.6% |
 | [23–29 March 2020](2020-03-29-Norstat.html) | Norstat <br> Aftenposten and NRK | 15.3% | 13.7–17.1% | 13.2–17.6% | 12.8–18.1% | 12.1–19.0% |
 | [16–23 March 2020](2020-03-23-Norstat.html) | Norstat <br> Aftenposten and NRK | 14.6% | 13.2–16.2% | 12.8–16.6% | 12.5–17.0% | 11.9–17.8% |
 | [18–20 March 2020](2020-03-20-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 17.4% | 15.6–19.4% | 15.1–20.0% | 14.7–20.5% | 13.9–21.5% |
 | [10–16 March 2020](2020-03-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 17.5% | 16.0–19.1% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
 | [3–9 March 2020](2020-03-09-OpinionPerduco.html) | Opinion Perduco | 18.4% | 16.8–20.0% | 16.4–20.5% | 16.0–20.9% | 15.3–21.7% |
-| [3–4 March 2020](2020-03-04-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
+| [3–4 March 2020](2020-03-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [27 February–2 March 2020](2020-03-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
 | [24 February–2 March 2020](2020-03-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 16.4% | 14.7–18.3% | 14.2–18.9% | 13.8–19.3% | 13.0–20.3% |
 | [24–28 February 2020](2020-02-28-KantarTNS.html) | Kantar TNS <br> TV2 | 17.5% | 15.9–19.4% | 15.4–20.0% | 15.0–20.4% | 14.2–21.4% |
@@ -32,7 +35,7 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 | [17–19 February 2020](2020-02-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 14.7% | 13.2–16.6% | 12.7–17.1% | 12.3–17.5% | 11.6–18.4% |
 | [11–17 February 2020](2020-02-17-Sentio.html) | Sentio <br> Amedia and Nettavisen | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 15.2% | 13.8–16.7% | 13.4–17.2% | 13.0–17.6% | 12.4–18.4% |
-| [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
+| [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 17.3% | 15.8–19.0% | 15.4–19.5% | 15.1–19.9% | 14.4–20.7% |
 | [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 | 15.0% | 13.4–16.7% | 13.0–17.2% | 12.7–17.6% | 11.9–18.5% |
@@ -44,7 +47,7 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.3% | 13.9–20.0% |
 | [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 20.9% | N/A | N/A | N/A | N/A |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 17.9% | 16.3–19.8% | 15.8–20.3% | 15.4–20.8% | 14.7–21.7% |
-| [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 16.5% | 14.9–18.4% | 14.5–18.9% | 14.1–19.3% | 13.4–20.2% |
+| [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 16.5% | 14.9–18.4% | 14.5–18.9% | 14.1–19.3% | 13.4–20.2% |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 15.8% | 14.4–17.3% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
 | [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 15.7% | N/A | N/A | N/A | N/A |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 15.9% | 14.2–17.7% | 13.8–18.2% | 13.4–18.7% | 12.6–19.6% |
@@ -257,15 +260,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% | Last Result |
-| 10.5–11.5% | 0.9% | 100% |  |
-| 11.5–12.5% | 6% | 99.1% |  |
-| 12.5–13.5% | 19% | 93% |  |
-| 13.5–14.5% | 29% | 74% | Median |
-| 14.5–15.5% | 25% | 44% |  |
-| 15.5–16.5% | 14% | 19% |  |
-| 16.5–17.5% | 5% | 6% |  |
-| 17.5–18.5% | 1.1% | 1.2% |  |
-| 18.5–19.5% | 0.2% | 0.2% |  |
+| 10.5–11.5% | 0.6% | 100% |  |
+| 11.5–12.5% | 5% | 99.4% |  |
+| 12.5–13.5% | 17% | 95% |  |
+| 13.5–14.5% | 31% | 77% | Median |
+| 14.5–15.5% | 28% | 46% |  |
+| 15.5–16.5% | 14% | 18% |  |
+| 16.5–17.5% | 4% | 4% |  |
+| 17.5–18.5% | 0.6% | 0.6% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -277,21 +280,24 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–31 | 22–33 | 21–33 | 20–35 |
+| N/A | [Poll Average](average.html) | 26 | 23–32 | 22–32 | 21–33 | 20–35 |
+| [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
+| [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 28 | 25–33 | 23–33 | 22–33 | 20–35 |
+| [27 April–4 May 2020](2020-05-04-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
 | [27–29 April 2020](2020-04-29-KantarTNS.html) | Kantar TNS <br> TV2 | 25 | 24–29 | 22–31 | 22–33 | 20–33 |
 | [20–26 April 2020](2020-04-26-Norstat.html) | Norstat <br> Aftenposten and NRK | 31 | 26–33 | 25–34 | 24–35 | 23–36 |
 | [20–22 April 2020](2020-04-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 25 | 22–32 | 20–32 | 20–33 | 19–34 |
 | [14–20 April 2020](2020-04-20-Sentio.html) | Sentio <br> Amedia and Nettavisen | 26 | 24–29 | 23–30 | 23–30 | 21–32 |
 | [31 March–5 April 2020](2020-04-05-OpinionPerduco.html) | Opinion Perduco | 26 | 22–28 | 22–29 | 21–30 | 21–31 |
 | [26 March–1 April 2020](2020-04-01-ResponsAnalyse.html) | Respons Analyse <br> VG | 25 | 22–28 | 21–29 | 21–29 | 20–31 |
-| [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 26 | 24–30 | 23–30 | 22–31 | 21–33 |
+| [31 March–1 April 2020](2020-04-01-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 26 | 24–30 | 23–30 | 22–31 | 21–33 |
 | [25–31 March 2020](2020-03-31-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 24–31 | 23–32 | 22–33 | 20–35 |
 | [23–29 March 2020](2020-03-29-Norstat.html) | Norstat <br> Aftenposten and NRK | 28 | 25–32 | 24–33 | 23–34 | 21–36 |
 | [16–23 March 2020](2020-03-23-Norstat.html) | Norstat <br> Aftenposten and NRK | 27 | 24–30 | 24–31 | 23–32 | 21–35 |
 | [18–20 March 2020](2020-03-20-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 32 | 28–35 | 26–36 | 25–37 | 24–39 |
 | [10–16 March 2020](2020-03-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 33 | 30–35 | 29–36 | 28–37 | 27–38 |
 | [3–9 March 2020](2020-03-09-OpinionPerduco.html) | Opinion Perduco | 33 | 30–37 | 29–38 | 29–39 | 28–40 |
-| [3–4 March 2020](2020-03-04-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 30 | 26–34 | 25–34 | 24–34 | 23–35 |
+| [3–4 March 2020](2020-03-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 30 | 26–34 | 25–34 | 24–34 | 23–35 |
 | [27 February–2 March 2020](2020-03-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 30 | 28–33 | 27–33 | 26–34 | 24–36 |
 | [24 February–2 March 2020](2020-03-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 29 | 27–35 | 26–35 | 24–36 | 23–37 |
 | [24–28 February 2020](2020-02-28-KantarTNS.html) | Kantar TNS <br> TV2 | 31 | 29–36 | 28–37 | 27–38 | 25–40 |
@@ -299,7 +305,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [17–19 February 2020](2020-02-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 27 | 24–30 | 23–31 | 22–32 | 21–34 |
 | [11–17 February 2020](2020-02-17-Sentio.html) | Sentio <br> Amedia and Nettavisen | 25 | 23–28 | 23–29 | 22–29 | 20–31 |
 | [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 26 | 25–30 | 24–30 | 23–31 | 22–32 |
-| [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 29 | 26–30 | 25–32 | 25–33 | 23–35 |
+| [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 29 | 26–30 | 25–32 | 25–33 | 23–35 |
 | [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | 24 | 22–28 | 21–29 | 21–29 | 20–30 |
 | [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 31 | 29–34 | 28–35 | 27–36 | 26–38 |
 | [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 | 28 | 23–30 | 22–31 | 21–32 | 20–33 |
@@ -311,7 +317,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 31 | 29–34 | 28–34 | 26–35 | 25–37 |
 | [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 35 | 28–38 | 27–38 | 27–39 | 27–41 |
-| [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klasskampen and Nationen | 33 | 25–35 | 24–38 | 24–38 | 24–39 |
+| [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 33 | 25–35 | 24–38 | 24–38 | 24–39 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 31 | 26–33 | 24–35 | 23–36 | 20–36 |
 | [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 29 | 26–34 | 24–34 | 24–35 | 22–38 |
@@ -526,25 +532,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.1% | 100% |  |
-| 19 | 0.3% | 99.9% | Last Result |
-| 20 | 1.0% | 99.7% |  |
-| 21 | 2% | 98.6% |  |
-| 22 | 5% | 97% |  |
-| 23 | 9% | 92% |  |
-| 24 | 15% | 83% |  |
-| 25 | 13% | 68% |  |
-| 26 | 13% | 55% | Median |
-| 27 | 15% | 42% |  |
-| 28 | 5% | 27% |  |
-| 29 | 5% | 22% |  |
-| 30 | 5% | 17% |  |
-| 31 | 4% | 12% |  |
-| 32 | 2% | 8% |  |
-| 33 | 4% | 6% |  |
-| 34 | 0.7% | 1.3% |  |
+| 19 | 0.4% | 99.9% | Last Result |
+| 20 | 1.5% | 99.5% |  |
+| 21 | 1.3% | 98% |  |
+| 22 | 2% | 97% |  |
+| 23 | 9% | 94% |  |
+| 24 | 17% | 85% |  |
+| 25 | 14% | 68% |  |
+| 26 | 12% | 54% | Median |
+| 27 | 15% | 41% |  |
+| 28 | 5% | 26% |  |
+| 29 | 3% | 21% |  |
+| 30 | 4% | 18% |  |
+| 31 | 1.2% | 13% |  |
+| 32 | 8% | 12% |  |
+| 33 | 3% | 4% |  |
+| 34 | 0.2% | 0.8% |  |
 | 35 | 0.5% | 0.6% |  |
-| 36 | 0% | 0.1% |  |
-| 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 36 | 0.1% | 0.1% |  |
+| 37 | 0% | 0% |  |
 
 
