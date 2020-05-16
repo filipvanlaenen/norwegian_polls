@@ -11,6 +11,7 @@ Last result: **25.0%** (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.7% | 24.6–28.8% | 23.9–29.5% | 23.4–30.0% | 22.3–31.0% |
+| [5–10 May 2020](2020-05-10-OpinionPerduco.html) | Opinion Perduco | 28.2% | N/A | N/A | N/A | N/A |
 | [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 26.9% | 25.0–29.0% | 24.4–29.6% | 24.0–30.1% | 23.1–31.1% |
 | [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
 | [27 April–4 May 2020](2020-05-04-Norstat.html) | Norstat <br> Aftenposten and NRK | 26.5% | 24.8–28.4% | 24.3–29.0% | 23.8–29.4% | 23.0–30.4% |
@@ -283,13 +284,14 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48 | 43–52 | 42–53 | 40–54 | 38–57 |
+| N/A | [Poll Average](average.html) | 48 | 43–52 | 42–53 | 41–54 | 38–57 |
+| [5–10 May 2020](2020-05-10-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
 | [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 48 | 43–51 | 42–53 | 38–54 | 38–57 |
-| [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 47 | 42–51 | 42–53 | 41–54 | 40–54 |
+| [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 47 | 43–51 | 42–53 | 41–53 | 39–55 |
 | [27 April–4 May 2020](2020-05-04-Norstat.html) | Norstat <br> Aftenposten and NRK | 48 | 44–52 | 43–52 | 42–53 | 41–54 |
 | [27–29 April 2020](2020-04-29-KantarTNS.html) | Kantar TNS <br> TV2 | 51 | 46–54 | 44–55 | 43–56 | 42–58 |
 | [20–26 April 2020](2020-04-26-Norstat.html) | Norstat <br> Aftenposten and NRK | 50 | 45–52 | 44–53 | 42–53 | 41–56 |
-| [20–22 April 2020](2020-04-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 46 | 39–51 | 39–51 | 39–51 | 37–53 |
+| [20–22 April 2020](2020-04-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 46 | 41–49 | 39–51 | 39–51 | 37–54 |
 | [14–20 April 2020](2020-04-20-Sentio.html) | Sentio <br> Amedia and Nettavisen | 48 | 46–51 | 44–52 | 43–52 | 41–53 |
 | [31 March–5 April 2020](2020-04-05-OpinionPerduco.html) | Opinion Perduco | 51 | 46–54 | 46–55 | 45–56 | 43–56 |
 | [26 March–1 April 2020](2020-04-01-ResponsAnalyse.html) | Respons Analyse <br> VG | 46 | 42–49 | 41–50 | 40–51 | 39–53 |
@@ -534,26 +536,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.1% | 100% |  |
-| 37 | 0.1% | 99.9% |  |
+| 37 | 0.2% | 100% |  |
 | 38 | 0.7% | 99.8% |  |
-| 39 | 2% | 99.1% |  |
-| 40 | 0.4% | 98% |  |
-| 41 | 2% | 97% |  |
-| 42 | 4% | 95% |  |
-| 43 | 3% | 91% |  |
-| 44 | 6% | 88% |  |
-| 45 | 6% | 83% | Last Result |
-| 46 | 12% | 77% |  |
-| 47 | 10% | 65% |  |
-| 48 | 11% | 55% | Median |
-| 49 | 10% | 44% |  |
-| 50 | 10% | 34% |  |
-| 51 | 14% | 24% |  |
-| 52 | 3% | 10% |  |
-| 53 | 2% | 7% |  |
+| 39 | 0.7% | 99.1% |  |
+| 40 | 0.6% | 98% |  |
+| 41 | 2% | 98% |  |
+| 42 | 3% | 96% |  |
+| 43 | 3% | 92% |  |
+| 44 | 5% | 89% |  |
+| 45 | 8% | 84% | Last Result |
+| 46 | 15% | 76% |  |
+| 47 | 8% | 62% |  |
+| 48 | 12% | 54% | Median |
+| 49 | 8% | 41% |  |
+| 50 | 11% | 33% |  |
+| 51 | 12% | 23% |  |
+| 52 | 4% | 10% |  |
+| 53 | 3% | 7% |  |
 | 54 | 3% | 4% |  |
-| 55 | 0.3% | 1.4% |  |
+| 55 | 0.4% | 1.5% |  |
 | 56 | 0.6% | 1.1% |  |
 | 57 | 0.4% | 0.5% |  |
 | 58 | 0% | 0.1% |  |
