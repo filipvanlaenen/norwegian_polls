@@ -10,7 +10,8 @@ Last result: **4.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.8–4.7% | 2.6–5.0% | 2.4–5.3% | 2.1–5.9% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.8–4.8% | 2.6–5.1% | 2.4–5.4% | 2.1–6.0% |
+| [12–16 May 2020](2020-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [5–10 May 2020](2020-05-10-OpinionPerduco.html) | Opinion Perduco | 3.6% | 2.9–4.5% | 2.8–4.8% | 2.6–5.0% | 2.3–5.4% |
 | [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 4.1% | 3.3–5.1% | 3.1–5.4% | 2.9–5.7% | 2.6–6.2% |
 | [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -262,10 +263,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 39% | 96% |  |
-| 3.5–4.5% | 44% | 57% | Last Result, Median |
-| 4.5–5.5% | 12% | 13% |  |
-| 5.5–6.5% | 1.3% | 1.4% |  |
+| 2.5–3.5% | 37% | 96% |  |
+| 3.5–4.5% | 45% | 59% | Last Result, Median |
+| 4.5–5.5% | 13% | 15% |  |
+| 5.5–6.5% | 1.5% | 2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -278,7 +279,8 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–8 | 1–8 | 1–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 3 | 1–8 | 1–9 | 1–9 | 0–10 |
+| [12–16 May 2020](2020-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3 | 3–9 | 1–9 | 1–10 | 1–10 |
 | [5–10 May 2020](2020-05-10-OpinionPerduco.html) | Opinion Perduco | 3 | 1–8 | 1–8 | 1–8 | 1–10 |
 | [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 7 | 2–8 | 1–9 | 1–10 | 1–12 |
 | [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 1–8 | 1–9 | 1–9 | 1–9 |
@@ -531,16 +533,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.1% | 100% |  |
-| 1 | 30% | 98.9% |  |
-| 2 | 9% | 69% |  |
-| 3 | 25% | 60% | Median |
-| 4 | 0% | 36% |  |
-| 5 | 0% | 36% |  |
-| 6 | 0.4% | 36% |  |
-| 7 | 16% | 35% |  |
+| 1 | 28% | 98.9% |  |
+| 2 | 8% | 71% |  |
+| 3 | 28% | 63% | Median |
+| 4 | 0% | 35% |  |
+| 5 | 0% | 35% |  |
+| 6 | 0.3% | 35% |  |
+| 7 | 15% | 34% |  |
 | 8 | 14% | 19% | Last Result |
-| 9 | 4% | 5% |  |
-| 10 | 0.9% | 1.2% |  |
+| 9 | 4% | 6% |  |
+| 10 | 1.2% | 1.5% |  |
 | 11 | 0.1% | 0.3% |  |
 | 12 | 0.1% | 0.2% |  |
 | 13 | 0% | 0% |  |

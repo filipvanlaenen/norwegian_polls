@@ -11,6 +11,7 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.2% | 2.4–4.1% | 2.2–4.3% | 2.1–4.6% | 1.8–5.1% |
+| [12–16 May 2020](2020-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [5–10 May 2020](2020-05-10-OpinionPerduco.html) | Opinion Perduco | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.3% | 2.7–4.3% | 2.5–4.6% | 2.3–4.8% | 2.0–5.3% |
 | [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -277,7 +278,8 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–7 | 1–7 | 1–8 | 0–8 |
+| N/A | [Poll Average](average.html) | 2 | 1–7 | 1–8 | 1–8 | 0–9 |
+| [12–16 May 2020](2020-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 2–8 | 1–8 | 1–8 | 1–9 |
 | [5–10 May 2020](2020-05-10-OpinionPerduco.html) | Opinion Perduco | 2 | 1–2 | 0–2 | 0–6 | 0–7 |
 | [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–7 | 1–7 | 1–8 | 1–9 |
 | [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 1–7 | 1–7 | 1–8 | 1–9 |
@@ -531,14 +533,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.2% | 100% |  |
 | 1 | 22% | 98.8% |  |
-| 2 | 65% | 77% | Median |
-| 3 | 0.2% | 11% |  |
-| 4 | 0% | 11% |  |
-| 5 | 0% | 11% |  |
-| 6 | 1.0% | 11% |  |
-| 7 | 7% | 10% |  |
-| 8 | 3% | 3% | Last Result |
-| 9 | 0.4% | 0.4% |  |
+| 2 | 62% | 77% | Median |
+| 3 | 0.2% | 15% |  |
+| 4 | 0% | 15% |  |
+| 5 | 0% | 15% |  |
+| 6 | 1.0% | 15% |  |
+| 7 | 8% | 14% |  |
+| 8 | 6% | 6% | Last Result |
+| 9 | 0.5% | 0.6% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
