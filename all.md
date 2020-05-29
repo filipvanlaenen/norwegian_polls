@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
+| [12–16 May 2020](2020-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 23–28% <br> 41–53 | 23–29% <br> 42–53 | 9–13% <br> 16–23 | 12–16% <br> 20–29 | 6–9% <br> 10–16 | 2–5% <br> 1–8 | 3–5% <br> 1–10 | 3–6% <br> 1–10 | 2–5% <br> 1–8 |
 | [5–10 May 2020](2020-05-10-OpinionPerduco.html) | Opinion Perduco | 24–30% <br> 43–53 | 25–31% <br> 45–56 | 8–12% <br> 12–21 | 10–14% <br> 18–27 | 5–8% <br> 9–15 | 2–4% <br> 0–6 | 3–5% <br> 1–8 | 4–7% <br> 8–13 | 3–5% <br> 1–9 |
 | [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 22–28% <br> 40–51 | 24–30% <br> 38–54 | 7–11% <br> 12–21 | 11–16% <br> 19–31 | 6–10% <br> 11–18 | 2–5% <br> 1–8 | 3–6% <br> 1–10 | 3–6% <br> 1–10 | 3–6% <br> 2–9 |
 | [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 24–30% <br> 42–57 | 24–29% <br> 41–53 | 8–11% <br> 14–21 | 13–17% <br> 22–33 | 5–8% <br> 9–15 | 2–4% <br> 1–8 | 3–5% <br> 1–9 | 4–7% <br> 2–11 | 3–5% <br> 1–8 |
