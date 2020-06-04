@@ -5,6 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
+| [26 May–1 June 2020](2020-06-01-Norstat.html) | Norstat <br> Aftenposten and NRK | 20–27% <br> 36–47 | 23–29% <br> 39–52 | 10–15% <br> 17–26 | 12–17% <br> 22–33 | 5–9% <br> 9–17 | 2–4% <br> 0–2 | 2–5% <br> 1–8 | 4–8% <br> 7–14 | 3–7% <br> 2–11 |
+| [25–29 May 2020](2020-05-29-KantarTNS.html) | Kantar TNS <br> TV2 | 21–27% <br> 37–48 | 24–31% <br> 43–54 | 10–14% <br> 18–27 | 11–16% <br> 20–30 | 6–9% <br> 10–16 | 1–3% <br> 0–2 | 2–5% <br> 1–9 | 3–7% <br> 2–12 | 3–6% <br> 2–11 |
+| [25–28 May 2020](2020-05-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 22–29% <br> 41–55 | 22–29% <br> 39–52 | 8–12% <br> 13–22 | 11–16% <br> 19–31 | 6–10% <br> 10–18 | 2–5% <br> 1–9 | 2–4% <br> 0–7 | 5–8% <br> 8–15 | 3–6% <br> 1–10 |
+| [19–25 May 2020](2020-05-25-Norstat.html) | Norstat <br> Aftenposten and NRK | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–16 May 2020](2020-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 23–28% <br> 41–53 | 23–29% <br> 42–53 | 9–13% <br> 16–23 | 12–16% <br> 20–29 | 6–9% <br> 10–16 | 2–5% <br> 1–8 | 3–5% <br> 1–10 | 3–6% <br> 1–10 | 2–5% <br> 1–8 |
 | [5–10 May 2020](2020-05-10-OpinionPerduco.html) | Opinion Perduco | 24–30% <br> 43–53 | 25–31% <br> 45–56 | 8–12% <br> 12–21 | 10–14% <br> 18–27 | 5–8% <br> 9–15 | 2–4% <br> 0–6 | 3–5% <br> 1–8 | 4–7% <br> 8–13 | 3–5% <br> 1–9 |
 | [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 22–28% <br> 40–51 | 24–30% <br> 38–54 | 7–11% <br> 12–21 | 11–16% <br> 19–31 | 6–10% <br> 11–18 | 2–5% <br> 1–8 | 3–6% <br> 1–10 | 3–6% <br> 1–10 | 3–6% <br> 2–9 |
