@@ -51,7 +51,7 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.1% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.0–4.7% |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 2.2% | 1.6–3.1% | 1.4–3.4% | 1.3–3.6% | 1.1–4.1% |
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
-| [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 2.7% | N/A | N/A | N/A | N/A |
+| [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.4% |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 2.3% | 1.7–3.1% | 1.6–3.3% | 1.4–3.6% | 1.2–4.0% |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2.4% | 1.9–3.3% | 1.7–3.6% | 1.6–3.8% | 1.3–4.2% |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -324,7 +324,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 1–6 | 1–8 | 1–8 | 1–8 |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 1 | 0–2 | 0–2 | 0–2 | 0–8 |
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 8 | 2–8 | 2–9 | 2–9 | 2–10 |
-| [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse |  |  |  |  |  |
+| [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 1 | 1–2 | 1–2 | 1–2 | 0–8 |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–2 | 0–2 | 0–2 | 0–7 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 0–2 | 0–2 | 0–2 | 0–2 |

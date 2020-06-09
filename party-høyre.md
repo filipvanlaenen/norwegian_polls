@@ -51,7 +51,7 @@ Last result: **25.0%** (General Election of 8–9 September 2013)
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 20.9% | 19.4–22.5% | 19.0–22.9% | 18.7–23.3% | 18.0–24.1% |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 20.5% | 18.5–22.6% | 18.0–23.2% | 17.5–23.8% | 16.6–24.8% |
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
-| [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 18.7% | N/A | N/A | N/A | N/A |
+| [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 18.7% | 17.2–20.4% | 16.7–20.9% | 16.4–21.3% | 15.7–22.1% |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 22.3% | 20.5–24.3% | 20.0–24.9% | 19.6–25.4% | 18.7–26.3% |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 21.3% | 19.5–23.3% | 19.0–23.8% | 18.5–24.3% | 17.7–25.3% |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 22.4% | 20.7–24.1% | 20.3–24.6% | 19.9–25.1% | 19.1–25.9% |
@@ -331,7 +331,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 38 | 36–41 | 35–42 | 34–42 | 33–43 |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 35 | 31–40 | 31–41 | 29–42 | 28–46 |
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 37 | 33–39 | 33–41 | 33–41 | 31–41 |
-| [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse |  |  |  |  |  |
+| [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 34 | 32–36 | 31–38 | 30–38 | 28–40 |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 39 | 34–44 | 34–46 | 34–46 | 33–48 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 37 | 35–41 | 34–41 | 33–42 | 31–45 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 38 | 34–42 | 34–42 | 33–44 | 32–45 |
