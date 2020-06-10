@@ -55,7 +55,7 @@ Last result: **15.2%** (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 8.7% | 7.5–10.1% | 7.2–10.5% | 6.9–10.8% | 6.4–11.5% |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 10.9% | 9.6–12.5% | 9.2–12.9% | 8.9–13.3% | 8.3–14.1% |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 11.4% | 10.2–12.8% | 9.8–13.2% | 9.6–13.5% | 9.0–14.2% |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 10.3% | N/A | N/A | N/A | N/A |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 10.3% | 9.1–11.7% | 8.8–12.1% | 8.5–12.4% | 8.0–13.1% |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 11.3% | 9.9–12.9% | 9.5–13.4% | 9.2–13.8% | 8.5–14.6% |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.6% |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 10.7% | 9.5–12.0% | 9.1–12.4% | 8.9–12.8% | 8.3–13.5% |
@@ -332,7 +332,7 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 15 | 13–17 | 12–18 | 12–19 | 10–21 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 19 | 17–22 | 16–22 | 14–24 | 14–25 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 20 | 17–24 | 17–25 | 17–25 | 15–26 |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 19 | 17–21 | 15–21 | 14–22 | 14–24 |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 20 | 17–23 | 16–25 | 16–25 | 15–26 |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 21 | 18–24 | 18–25 | 17–25 | 16–27 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 19 | 16–21 | 16–22 | 15–22 | 14–24 |

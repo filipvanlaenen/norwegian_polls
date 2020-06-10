@@ -55,7 +55,7 @@ Last result: **27.4%** (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 23.5% | 21.6–25.5% | 21.1–26.0% | 20.7–26.5% | 19.8–27.5% |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 26.7% | 24.7–28.8% | 24.2–29.4% | 23.7–29.9% | 22.8–30.9% |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 24.0% | 22.3–25.8% | 21.8–26.3% | 21.4–26.7% | 20.7–27.6% |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 26.1% | N/A | N/A | N/A | N/A |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 26.1% | 24.4–28.0% | 23.9–28.6% | 23.5–29.0% | 22.6–29.9% |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 23.4% | 21.4–25.5% | 20.9–26.1% | 20.4–26.6% | 19.5–27.6% |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 22.9% | 21.2–24.7% | 20.7–25.2% | 20.3–25.6% | 19.6–26.5% |
@@ -335,7 +335,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 40–45 | 39–46 | 37–47 | 35–49 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 48 | 45–53 | 44–53 | 44–54 | 41–56 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 41 | 38–50 | 38–50 | 38–50 | 36–51 |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 48 | 43–51 | 43–51 | 43–53 | 42–55 |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 42 | 39–46 | 38–47 | 37–48 | 35–51 |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 46 | 43–49 | 42–50 | 41–51 | 40–54 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 42 | 39–44 | 38–45 | 37–46 | 35–47 |

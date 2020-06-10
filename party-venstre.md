@@ -55,7 +55,7 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 2.3% | 1.7–3.1% | 1.6–3.3% | 1.4–3.6% | 1.2–4.0% |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2.4% | 1.9–3.3% | 1.7–3.6% | 1.6–3.8% | 1.3–4.2% |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 2.3% | N/A | N/A | N/A | N/A |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 2.3% | 1.8–3.0% | 1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 2.8% | 2.1–3.7% | 2.0–4.0% | 1.8–4.3% | 1.5–4.8% |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
@@ -328,7 +328,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–2 | 0–2 | 0–2 | 0–7 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 2 | 1–2 | 1–2 | 0–7 | 0–8 |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 2 | 1–2 | 1–2 | 1–7 | 0–8 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 0 | 0–1 | 0–2 | 0–2 | 0–2 |

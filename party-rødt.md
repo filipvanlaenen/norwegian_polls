@@ -55,7 +55,7 @@ Last result: **2.4%** (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 4.6% | 3.8–5.7% | 3.6–6.1% | 3.4–6.3% | 3.0–6.9% |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 4.7% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.1% |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.6% | N/A | N/A | N/A | N/A |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.6% | 3.0–4.6% | 2.8–4.8% | 2.6–5.0% | 2.3–5.5% |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 5.8% | 4.9–7.1% | 4.6–7.5% | 4.3–7.8% | 3.9–8.5% |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 5.7% | 4.8–6.8% | 4.6–7.1% | 4.4–7.3% | 4.0–7.9% |
@@ -329,7 +329,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 2–10 | 2–10 | 2–10 | 2–11 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8 | 2–10 | 2–11 | 2–11 | 2–12 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 10 | 8–11 | 8–11 | 7–11 | 2–12 |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 2–7 | 1–8 | 1–8 | 1–9 |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 10 | 9–12 | 8–13 | 8–14 | 2–15 |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 8 | 2–10 | 2–11 | 2–11 | 2–12 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 10 | 8–12 | 8–12 | 8–12 | 2–14 |

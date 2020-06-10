@@ -55,7 +55,7 @@ Last result: **4.2%** (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 3.1% | 2.5–4.1% | 2.3–4.4% | 2.1–4.6% | 1.8–5.1% |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.2% | 2.5–4.2% | 2.3–4.5% | 2.2–4.7% | 1.9–5.2% |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.6% | N/A | N/A | N/A | N/A |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.6% | 3.0–4.6% | 2.8–4.8% | 2.6–5.0% | 2.3–5.5% |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 3.1% | 2.4–4.1% | 2.2–4.3% | 2.0–4.6% | 1.7–5.1% |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 2.6% | 2.0–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
@@ -328,7 +328,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–7 | 0–7 | 0–8 | 0–8 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–7 | 1–7 | 0–7 | 0–9 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 1–8 | 1–8 | 1–9 | 1–10 |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 2–8 | 1–8 | 1–9 | 1–9 |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 1 | 1–7 | 0–7 | 0–8 | 0–9 |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 1 | 0–3 | 0–3 | 0–3 | 0–7 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 1 | 0–2 | 0–3 | 0–3 | 0–7 |

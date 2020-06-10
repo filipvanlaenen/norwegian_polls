@@ -55,7 +55,7 @@ Last result: **6.0%** (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 8.8% | 7.6–10.2% | 7.3–10.6% | 7.0–11.0% | 6.5–11.7% |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 6.2% | 5.2–7.4% | 4.9–7.8% | 4.7–8.1% | 4.2–8.7% |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 7.2% | N/A | N/A | N/A | N/A |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 7.2% | 6.2–8.4% | 5.9–8.7% | 5.7–9.0% | 5.3–9.6% |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 8.5% | 7.3–10.0% | 7.0–10.4% | 6.7–10.8% | 6.1–11.5% |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.5–9.9% |
@@ -330,7 +330,7 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 17 | 13–18 | 13–18 | 12–19 | 11–20 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 10 | 9–12 | 9–13 | 8–14 | 7–15 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 12 | 10–14 | 9–15 | 9–16 | 8–17 |
-| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 14 | 11–15 | 11–15 | 10–16 | 10–17 |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 15 | 13–18 | 12–18 | 11–19 | 11–20 |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
 | [3–8 December 2019](2019-12-08-OpinionPerduco.html) | Opinion Perduco | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
