@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Tue, 09 Jun 2020 08:26:35 +0200</pubDate>
+    <pubDate>Wed, 10 Jun 2020 09:08:04 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 26 May–1 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-01-Norstat.html</link>
@@ -590,6 +590,16 @@
       <dc:date>2020-01-10T06:54:29.429421+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 30 December 2019–5 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-01-05-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.7–9.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.5–29.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 13.6–18.2%&lt;/li&gt;&lt;li&gt;Venstre: 1.5–3.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Høyre: 19.9–25.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.5–12.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-01-05-Norstat.png"
+        length="289974"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jun 2020 09:08:04 +0200</pubDate>
+      <dc:date>2020-06-10T09:08:04.770716+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos MMI, 16–18 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-12-18-IpsosMMI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 4.3–7.8%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.7–10.8%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.6–6.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.4–26.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 13.4–18.7%&lt;/li&gt;&lt;li&gt;Venstre: 1.8–4.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.0–4.6%&lt;/li&gt;&lt;li&gt;Høyre: 19.2–25.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.2–13.8%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -699,6 +709,6 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-06-09T08:26:35.654353+02:00</dc:date>
+    <dc:date>2020-06-10T09:08:04.770716+02:00</dc:date>
   </channel>
 </rss>
