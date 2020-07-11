@@ -291,10 +291,10 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–9 | 1–9 | 0–10 | 0–11 |
-| [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 2–8 | 1–9 | 1–9 | 1–10 |
-| [22–24 June 2020](2020-06-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3 | 1–3 | 1–8 | 0–8 | 0–9 |
-| [15–21 June 2020](2020-06-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 7 | 3–9 | 2–9 | 2–10 | 1–11 |
+| N/A | [Poll Average](average.html) | 3 | 1–9 | 1–9 | 0–10 | 0–10 |
+| [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 2–8 | 2–9 | 1–9 | 1–10 |
+| [22–24 June 2020](2020-06-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3 | 1–3 | 1–7 | 0–8 | 0–9 |
+| [15–21 June 2020](2020-06-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 3–9 | 3–9 | 2–10 | 1–10 |
 | [9–13 June 2020](2020-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [2–8 June 2020](2020-06-08-OpinionPerduco.html) | Opinion Perduco | 7 | 2–9 | 1–9 | 1–10 | 1–10 |
 | [2–4 June 2020](2020-06-04-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 2–7 | 2–8 | 1–8 | 1–10 |
@@ -557,16 +557,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% |  |
 | 1 | 18% | 97% |  |
-| 2 | 10% | 79% |  |
-| 3 | 29% | 69% | Median |
+| 2 | 9% | 79% |  |
+| 3 | 31% | 71% | Median |
 | 4 | 0% | 40% |  |
 | 5 | 0% | 40% |  |
-| 6 | 0.6% | 40% |  |
-| 7 | 12% | 39% |  |
-| 8 | 16% | 27% | Last Result |
-| 9 | 7% | 11% |  |
+| 6 | 0.7% | 40% |  |
+| 7 | 13% | 39% |  |
+| 8 | 14% | 27% | Last Result |
+| 9 | 8% | 12% |  |
 | 10 | 4% | 4% |  |
-| 11 | 0.4% | 0.5% |  |
+| 11 | 0.4% | 0.4% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 

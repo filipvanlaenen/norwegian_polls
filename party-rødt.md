@@ -291,10 +291,10 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 2–11 | 1–11 | 1–12 | 1–13 |
-| [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 10 | 8–12 | 7–12 | 7–13 | 2–14 |
+| N/A | [Poll Average](average.html) | 8 | 2–11 | 1–11 | 1–12 | 1–14 |
+| [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 10 | 8–13 | 7–13 | 7–14 | 2–15 |
 | [22–24 June 2020](2020-06-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 1 | 1–2 | 1–2 | 1–7 | 1–8 |
-| [15–21 June 2020](2020-06-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 2–11 | 2–11 | 2–12 | 2–12 |
+| [15–21 June 2020](2020-06-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 7–10 | 2–11 | 2–11 | 2–12 |
 | [9–13 June 2020](2020-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 9 | 8–11 | 7–11 | 7–12 | 2–12 |
 | [2–8 June 2020](2020-06-08-OpinionPerduco.html) | Opinion Perduco | 8 | 2–10 | 2–10 | 2–11 | 1–11 |
 | [2–4 June 2020](2020-06-04-ResponsAnalyse.html) | Respons Analyse <br> VG | 8 | 7–10 | 2–10 | 2–11 | 2–11 |
@@ -555,21 +555,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 9% | 100% | Last Result |
-| 2 | 11% | 91% |  |
+| 1 | 8% | 100% | Last Result |
+| 2 | 12% | 92% |  |
 | 3 | 0% | 80% |  |
 | 4 | 0% | 80% |  |
 | 5 | 0% | 80% |  |
 | 6 | 0.3% | 80% |  |
-| 7 | 13% | 79% |  |
-| 8 | 23% | 66% | Median |
-| 9 | 17% | 44% |  |
+| 7 | 12% | 80% |  |
+| 8 | 22% | 67% | Median |
+| 9 | 19% | 45% |  |
 | 10 | 14% | 26% |  |
-| 11 | 9% | 12% |  |
-| 12 | 2% | 3% |  |
-| 13 | 0.3% | 0.6% |  |
-| 14 | 0.3% | 0.4% |  |
-| 15 | 0% | 0.1% |  |
+| 11 | 8% | 12% |  |
+| 12 | 2% | 4% |  |
+| 13 | 1.3% | 2% |  |
+| 14 | 0.4% | 0.6% |  |
+| 15 | 0.2% | 0.3% |  |
 | 16 | 0% | 0% |  |
 
 
