@@ -295,10 +295,10 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 2–8 | 2–9 | 1–9 | 1–10 |
 | [22–24 June 2020](2020-06-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3 | 1–3 | 1–7 | 0–8 | 0–9 |
 | [15–21 June 2020](2020-06-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 3–9 | 3–9 | 2–10 | 1–10 |
-| [9–13 June 2020](2020-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
-| [2–8 June 2020](2020-06-08-OpinionPerduco.html) | Opinion Perduco | 7 | 2–9 | 1–9 | 1–10 | 1–10 |
-| [2–4 June 2020](2020-06-04-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 2–7 | 2–8 | 1–8 | 1–10 |
-| [2–3 June 2020](2020-06-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8 | 3–10 | 3–10 | 3–10 | 2–11 |
+| [9–13 June 2020](2020-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 1 | 0–2 | 0–3 | 0–3 | 0–6 |
+| [2–8 June 2020](2020-06-08-OpinionPerduco.html) | Opinion Perduco | 3 | 1–8 | 1–9 | 1–9 | 0–10 |
+| [2–4 June 2020](2020-06-04-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 2–8 | 1–8 | 1–9 | 1–10 |
+| [2–3 June 2020](2020-06-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8 | 3–10 | 3–10 | 3–10 | 1–11 |
 | [26 May–1 June 2020](2020-06-01-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 1–7 | 1–8 | 1–8 | 0–10 |
 | [25–29 May 2020](2020-05-29-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–8 | 1–8 | 1–9 | 0–10 |
 | [25–28 May 2020](2020-05-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 1 | 0–3 | 0–3 | 0–7 | 0–8 |
@@ -555,18 +555,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 18% | 97% |  |
-| 2 | 9% | 79% |  |
-| 3 | 31% | 71% | Median |
+| 0 | 4% | 100% |  |
+| 1 | 17% | 96% |  |
+| 2 | 10% | 79% |  |
+| 3 | 30% | 70% | Median |
 | 4 | 0% | 40% |  |
 | 5 | 0% | 40% |  |
-| 6 | 0.7% | 40% |  |
-| 7 | 13% | 39% |  |
-| 8 | 14% | 27% | Last Result |
-| 9 | 8% | 12% |  |
-| 10 | 4% | 4% |  |
-| 11 | 0.4% | 0.4% |  |
+| 6 | 0.6% | 40% |  |
+| 7 | 14% | 39% |  |
+| 8 | 14% | 25% | Last Result |
+| 9 | 8% | 11% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.3% | 0.4% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 

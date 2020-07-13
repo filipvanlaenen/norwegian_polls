@@ -294,14 +294,14 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 21–29 | 20–30 | 19–31 | 18–34 |
+| N/A | [Poll Average](average.html) | 25 | 21–29 | 20–31 | 19–32 | 18–34 |
 | [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 22 | 19–26 | 19–26 | 18–28 | 18–31 |
 | [22–24 June 2020](2020-06-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 24 | 21–27 | 21–28 | 20–30 | 19–31 |
 | [15–21 June 2020](2020-06-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 23 | 20–27 | 19–27 | 19–28 | 18–31 |
-| [9–13 June 2020](2020-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 25 | 22–30 | 21–31 | 20–31 | 19–34 |
-| [2–8 June 2020](2020-06-08-OpinionPerduco.html) | Opinion Perduco | 27 | 21–32 | 20–33 | 20–34 | 19–36 |
-| [2–4 June 2020](2020-06-04-ResponsAnalyse.html) | Respons Analyse <br> VG | 27 | 24–28 | 23–29 | 21–30 | 21–31 |
-| [2–3 June 2020](2020-06-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 27 | 24–30 | 23–31 | 22–32 | 21–34 |
+| [9–13 June 2020](2020-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 25 | 21–30 | 20–31 | 20–32 | 19–34 |
+| [2–8 June 2020](2020-06-08-OpinionPerduco.html) | Opinion Perduco | 26 | 22–32 | 21–33 | 20–34 | 19–36 |
+| [2–4 June 2020](2020-06-04-ResponsAnalyse.html) | Respons Analyse <br> VG | 27 | 23–29 | 22–29 | 21–30 | 21–32 |
+| [2–3 June 2020](2020-06-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 26 | 23–30 | 23–31 | 22–32 | 20–34 |
 | [26 May–1 June 2020](2020-06-01-Norstat.html) | Norstat <br> Aftenposten and NRK | 27 | 23–33 | 22–33 | 22–33 | 19–34 |
 | [25–29 May 2020](2020-05-29-KantarTNS.html) | Kantar TNS <br> TV2 | 24 | 22–28 | 20–30 | 20–30 | 18–32 |
 | [25–28 May 2020](2020-05-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 22 | 19–28 | 19–30 | 19–31 | 18–33 |
@@ -561,22 +561,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.9% | 100% |  |
 | 19 | 3% | 99.1% | Last Result |
 | 20 | 5% | 96% |  |
-| 21 | 7% | 92% |  |
-| 22 | 9% | 85% |  |
+| 21 | 7% | 91% |  |
+| 22 | 8% | 84% |  |
 | 23 | 11% | 76% |  |
-| 24 | 10% | 65% |  |
-| 25 | 11% | 55% | Median |
-| 26 | 9% | 45% |  |
-| 27 | 14% | 36% |  |
-| 28 | 12% | 22% |  |
-| 29 | 3% | 10% |  |
-| 30 | 3% | 7% |  |
-| 31 | 3% | 5% |  |
-| 32 | 1.0% | 2% |  |
-| 33 | 0.6% | 1.4% |  |
-| 34 | 0.4% | 0.7% |  |
-| 35 | 0.1% | 0.3% |  |
-| 36 | 0.2% | 0.2% |  |
+| 24 | 11% | 65% |  |
+| 25 | 13% | 54% | Median |
+| 26 | 10% | 41% |  |
+| 27 | 11% | 31% |  |
+| 28 | 8% | 19% |  |
+| 29 | 4% | 12% |  |
+| 30 | 3% | 8% |  |
+| 31 | 2% | 5% |  |
+| 32 | 0.7% | 3% |  |
+| 33 | 1.4% | 2% |  |
+| 34 | 0.4% | 0.6% |  |
+| 35 | 0.1% | 0.2% |  |
+| 36 | 0.1% | 0.1% |  |
 | 37 | 0% | 0% |  |
 
 
