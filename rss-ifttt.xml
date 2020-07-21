@@ -2,632 +2,88 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>All Registered Polls for the Norwegian Parliament</title>
-    <link>null</link>
+    <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 2 Jan 2020 17:07:27 +0100</pubDate>
+    <pubDate>Fri, 17 Jul 2020 21:18:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020 – Voting Intentions</title>
-      <link>null/2020-07-08-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020<br/><img src="null/2020-07-08-Norfakta.png"/><br/>Details on null/2020-07-08-Norfakta.html]]></description>
-      <enclosure url="null/2020-07-08-Norfakta.png" length="281698" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.png" length="281698" type="image/png"/>
       <pubDate>Fri, 17 Jul 2020 08:02:13 +0200</pubDate>
       <dc:date>2020-07-17T08:02:13.6019+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for TV2, 24–30 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-30-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 24–30 June 2020<br/><img src="null/2020-06-30-KantarTNS.png"/><br/>Details on null/2020-06-30-KantarTNS.html]]></description>
-      <enclosure url="null/2020-06-30-KantarTNS.png" length="283726" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-30-KantarTNS.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 24–30 June 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-06-30-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-06-30-KantarTNS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-30-KantarTNS.png" length="283726" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 17:27:42 +0200</pubDate>
       <dc:date>2020-07-11T17:27:42.968789+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MMI for Dagbladet, 22–24 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-24-IpsosMMI.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Ipsos MMI for Dagbladet, 22–24 June 2020<br/><img src="null/2020-06-24-IpsosMMI.png"/><br/>Details on null/2020-06-24-IpsosMMI.html]]></description>
-      <enclosure url="null/2020-06-24-IpsosMMI.png" length="281724" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-24-IpsosMMI.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Ipsos MMI for Dagbladet, 22–24 June 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-06-24-IpsosMMI.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-06-24-IpsosMMI.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-24-IpsosMMI.png" length="281724" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 17:55:10 +0200</pubDate>
       <dc:date>2020-07-11T17:55:10.409957+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 15–21 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-21-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 15–21 June 2020<br/><img src="null/2020-06-21-Norstat.png"/><br/>Details on null/2020-06-21-Norstat.html]]></description>
-      <enclosure url="null/2020-06-21-Norstat.png" length="286125" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-21-Norstat.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 15–21 June 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-06-21-Norstat.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-06-21-Norstat.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-21-Norstat.png" length="286125" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 18:23:32 +0200</pubDate>
       <dc:date>2020-07-11T18:23:32.723424+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Amedia and Nettavisen, 9–13 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-13-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Sentio for Amedia and Nettavisen, 9–13 June 2020<br/><img src="null/2020-06-13-Sentio.png"/><br/>Details on null/2020-06-13-Sentio.html]]></description>
-      <enclosure url="null/2020-06-13-Sentio.png" length="283905" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-13-Sentio.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Sentio for Amedia and Nettavisen, 9–13 June 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-06-13-Sentio.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-06-13-Sentio.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-13-Sentio.png" length="283905" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 18:53:46 +0200</pubDate>
       <dc:date>2020-07-11T18:53:46.262513+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Perduco, 2–8 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-08-OpinionPerduco.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Opinion Perduco, 2–8 June 2020<br/><img src="null/2020-06-08-OpinionPerduco.png"/><br/>Details on null/2020-06-08-OpinionPerduco.html]]></description>
-      <enclosure url="null/2020-06-08-OpinionPerduco.png" length="293319" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-08-OpinionPerduco.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Opinion Perduco, 2–8 June 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-06-08-OpinionPerduco.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-06-08-OpinionPerduco.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-08-OpinionPerduco.png" length="293319" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 19:21:27 +0200</pubDate>
       <dc:date>2020-07-11T19:21:27.820856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse for VG, 2–4 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-04-ResponsAnalyse.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 2–4 June 2020<br/><img src="null/2020-06-04-ResponsAnalyse.png"/><br/>Details on null/2020-06-04-ResponsAnalyse.html]]></description>
-      <enclosure url="null/2020-06-04-ResponsAnalyse.png" length="283028" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-04-ResponsAnalyse.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 2–4 June 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-06-04-ResponsAnalyse.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-06-04-ResponsAnalyse.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-04-ResponsAnalyse.png" length="283028" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 19:52:30 +0200</pubDate>
       <dc:date>2020-07-11T19:52:30.668954+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 2–3 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-03-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 2–3 June 2020<br/><img src="null/2020-06-03-Norfakta.png"/><br/>Details on null/2020-06-03-Norfakta.html]]></description>
-      <enclosure url="null/2020-06-03-Norfakta.png" length="286327" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-03-Norfakta.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 2–3 June 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-06-03-Norfakta.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-06-03-Norfakta.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-03-Norfakta.png" length="286327" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 20:26:46 +0200</pubDate>
       <dc:date>2020-07-11T20:26:46.310473+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 26 May–1 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-01-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 26 May–1 June 2020<br/><img src="null/2020-06-01-Norstat.png"/><br/>Details on null/2020-06-01-Norstat.html]]></description>
-      <enclosure url="null/2020-06-01-Norstat.png" length="296870" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-01-Norstat.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 26 May–1 June 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-06-01-Norstat.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-06-01-Norstat.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-01-Norstat.png" length="296870" type="image/png"/>
       <pubDate>Thu, 4 Jun 2020 07:52:16 +0200</pubDate>
       <dc:date>2020-06-04T07:52:16.090407+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for TV2, 25–29 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-29-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 25–29 May 2020<br/><img src="null/2020-05-29-KantarTNS.png"/><br/>Details on null/2020-05-29-KantarTNS.html]]></description>
-      <enclosure url="null/2020-05-29-KantarTNS.png" length="283045" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-05-29-KantarTNS.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 25–29 May 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-05-29-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-05-29-KantarTNS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-05-29-KantarTNS.png" length="283045" type="image/png"/>
       <pubDate>Thu, 4 Jun 2020 08:01:53 +0200</pubDate>
       <dc:date>2020-06-04T08:01:53.349315+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos MMI for Dagbladet, 25–28 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-28-IpsosMMI.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Ipsos MMI for Dagbladet, 25–28 May 2020<br/><img src="null/2020-05-28-IpsosMMI.png"/><br/>Details on null/2020-05-28-IpsosMMI.html]]></description>
-      <enclosure url="null/2020-05-28-IpsosMMI.png" length="294825" type="image/png"/>
-      <pubDate>Thu, 4 Jun 2020 08:23:44 +0200</pubDate>
-      <dc:date>2020-06-04T08:23:44.28731+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 19–25 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-25-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 19–25 May 2020<br/><img src="null/2020-05-25-Norstat.png"/><br/>Details on null/2020-05-25-Norstat.html]]></description>
-      <enclosure url="null/2020-05-25-Norstat.png" length="282280" type="image/png"/>
-      <pubDate>Fri, 5 Jun 2020 07:43:24 +0200</pubDate>
-      <dc:date>2020-06-05T07:43:24.024176+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 12–16 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-16-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Sentio for Amedia and Nettavisen, 12–16 May 2020<br/><img src="null/2020-05-16-Sentio.png"/><br/>Details on null/2020-05-16-Sentio.html]]></description>
-      <enclosure url="null/2020-05-16-Sentio.png" length="282604" type="image/png"/>
-      <pubDate>Fri, 29 May 2020 08:11:20 +0200</pubDate>
-      <dc:date>2020-05-29T08:11:20.34554+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Perduco, 5–10 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-10-OpinionPerduco.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Opinion Perduco, 5–10 May 2020<br/><img src="null/2020-05-10-OpinionPerduco.png"/><br/>Details on null/2020-05-10-OpinionPerduco.html]]></description>
-      <enclosure url="null/2020-05-10-OpinionPerduco.png" length="270738" type="image/png"/>
-      <pubDate>Sat, 16 May 2020 13:38:48 +0200</pubDate>
-      <dc:date>2020-05-16T13:38:48.321991+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 5–6 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-06-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 5–6 May 2020<br/><img src="null/2020-05-06-Norfakta.png"/><br/>Details on null/2020-05-06-Norfakta.html]]></description>
-      <enclosure url="null/2020-05-06-Norfakta.png" length="287439" type="image/png"/>
-      <pubDate>Wed, 13 May 2020 07:56:07 +0200</pubDate>
-      <dc:date>2020-05-13T07:56:07.445616+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Respons Analyse for VG, 30 April–5 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-05-ResponsAnalyse.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 30 April–5 May 2020<br/><img src="null/2020-05-05-ResponsAnalyse.png"/><br/>Details on null/2020-05-05-ResponsAnalyse.html]]></description>
-      <enclosure url="null/2020-05-05-ResponsAnalyse.png" length="279327" type="image/png"/>
-      <pubDate>Sat, 16 May 2020 10:36:22 +0200</pubDate>
-      <dc:date>2020-05-16T10:36:22.138167+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 27 April–4 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-04-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 27 April–4 May 2020<br/><img src="null/2020-05-04-Norstat.png"/><br/>Details on null/2020-05-04-Norstat.html]]></description>
-      <enclosure url="null/2020-05-04-Norstat.png" length="283942" type="image/png"/>
-      <pubDate>Wed, 13 May 2020 08:16:28 +0200</pubDate>
-      <dc:date>2020-05-13T08:16:28.825351+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for TV2, 27–29 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-29-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 27–29 April 2020<br/><img src="null/2020-04-29-KantarTNS.png"/><br/>Details on null/2020-04-29-KantarTNS.html]]></description>
-      <enclosure url="null/2020-04-29-KantarTNS.png" length="271589" type="image/png"/>
-      <pubDate>Wed, 6 May 2020 07:07:01 +0200</pubDate>
-      <dc:date>2020-05-06T07:07:01.865535+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 20–26 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-26-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 20–26 April 2020<br/><img src="null/2020-04-26-Norstat.png"/><br/>Details on null/2020-04-26-Norstat.html]]></description>
-      <enclosure url="null/2020-04-26-Norstat.png" length="283921" type="image/png"/>
-      <pubDate>Wed, 6 May 2020 07:47:18 +0200</pubDate>
-      <dc:date>2020-05-06T07:47:18.018464+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos MMI for Dagbladet, 20–22 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-22-IpsosMMI.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Ipsos MMI for Dagbladet, 20–22 April 2020<br/><img src="null/2020-04-22-IpsosMMI.png"/><br/>Details on null/2020-04-22-IpsosMMI.html]]></description>
-      <enclosure url="null/2020-04-22-IpsosMMI.png" length="292513" type="image/png"/>
-      <pubDate>Sat, 16 May 2020 10:41:03 +0200</pubDate>
-      <dc:date>2020-05-16T10:41:03.254448+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 14–20 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-20-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Sentio for Amedia and Nettavisen, 14–20 April 2020<br/><img src="null/2020-04-20-Sentio.png"/><br/>Details on null/2020-04-20-Sentio.html]]></description>
-      <enclosure url="null/2020-04-20-Sentio.png" length="281118" type="image/png"/>
-      <pubDate>Thu, 30 Apr 2020 07:19:19 +0200</pubDate>
-      <dc:date>2020-04-30T07:19:19.822364+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Perduco, 31 March–5 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-05-OpinionPerduco.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Opinion Perduco, 31 March–5 April 2020<br/><img src="null/2020-04-05-OpinionPerduco.png"/><br/>Details on null/2020-04-05-OpinionPerduco.html]]></description>
-      <enclosure url="null/2020-04-05-OpinionPerduco.png" length="277047" type="image/png"/>
-      <pubDate>Thu, 30 Apr 2020 08:24:14 +0200</pubDate>
-      <dc:date>2020-04-30T08:24:14.759261+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 31 March–1 April 2020 – Seating Plan Projection</title>
-      <link>null/2020-04-01-Norfakta.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 31 March–1 April 2020<br/><img src="null/2020-04-01-Norfakta-seating-plan.png"/><br/>Details on null/2020-04-01-Norfakta.html]]></description>
-      <enclosure url="null/2020-04-01-Norfakta-seating-plan.png" length="604706" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 17:47:21 +0200</pubDate>
-      <dc:date>2020-04-12T17:47:21.559765+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 31 March–1 April 2020 – Seat Projections</title>
-      <link>null/2020-04-01-Norfakta.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 31 March–1 April 2020<br/><img src="null/2020-04-01-Norfakta-seats.png"/><br/>Details on null/2020-04-01-Norfakta.html]]></description>
-      <enclosure url="null/2020-04-01-Norfakta-seats.png" length="241363" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 17:47:21 +0200</pubDate>
-      <dc:date>2020-04-12T17:47:21.559765+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 31 March–1 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-01-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 31 March–1 April 2020<br/><img src="null/2020-04-01-Norfakta.png"/><br/>Details on null/2020-04-01-Norfakta.html]]></description>
-      <enclosure url="null/2020-04-01-Norfakta.png" length="231382" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 17:47:21 +0200</pubDate>
-      <dc:date>2020-04-12T17:47:21.559765+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Respons Analyse for VG, 26 March–1 April 2020 – Seating Plan Projection</title>
-      <link>null/2020-04-01-ResponsAnalyse.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Respons Analyse for VG, 26 March–1 April 2020<br/><img src="null/2020-04-01-ResponsAnalyse-seating-plan.png"/><br/>Details on null/2020-04-01-ResponsAnalyse.html]]></description>
-      <enclosure url="null/2020-04-01-ResponsAnalyse-seating-plan.png" length="601118" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 17:11:42 +0200</pubDate>
-      <dc:date>2020-04-12T17:11:42.434016+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Respons Analyse for VG, 26 March–1 April 2020 – Seat Projections</title>
-      <link>null/2020-04-01-ResponsAnalyse.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Respons Analyse for VG, 26 March–1 April 2020<br/><img src="null/2020-04-01-ResponsAnalyse-seats.png"/><br/>Details on null/2020-04-01-ResponsAnalyse.html]]></description>
-      <enclosure url="null/2020-04-01-ResponsAnalyse-seats.png" length="236710" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 17:11:42 +0200</pubDate>
-      <dc:date>2020-04-12T17:11:42.434016+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Respons Analyse for VG, 26 March–1 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-01-ResponsAnalyse.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 26 March–1 April 2020<br/><img src="null/2020-04-01-ResponsAnalyse.png"/><br/>Details on null/2020-04-01-ResponsAnalyse.html]]></description>
-      <enclosure url="null/2020-04-01-ResponsAnalyse.png" length="229090" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 17:11:42 +0200</pubDate>
-      <dc:date>2020-04-12T17:11:42.434016+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for TV2, 25–31 March 2020 – Seating Plan Projection</title>
-      <link>null/2020-03-31-KantarTNS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Kantar TNS for TV2, 25–31 March 2020<br/><img src="null/2020-03-31-KantarTNS-seating-plan.png"/><br/>Details on null/2020-03-31-KantarTNS.html]]></description>
-      <enclosure url="null/2020-03-31-KantarTNS-seating-plan.png" length="602426" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 18:23:03 +0200</pubDate>
-      <dc:date>2020-04-12T18:23:03.201199+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for TV2, 25–31 March 2020 – Seat Projections</title>
-      <link>null/2020-03-31-KantarTNS.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Kantar TNS for TV2, 25–31 March 2020<br/><img src="null/2020-03-31-KantarTNS-seats.png"/><br/>Details on null/2020-03-31-KantarTNS.html]]></description>
-      <enclosure url="null/2020-03-31-KantarTNS-seats.png" length="261315" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 18:23:03 +0200</pubDate>
-      <dc:date>2020-04-12T18:23:03.201199+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for TV2, 25–31 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-31-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 25–31 March 2020<br/><img src="null/2020-03-31-KantarTNS.png"/><br/>Details on null/2020-03-31-KantarTNS.html]]></description>
-      <enclosure url="null/2020-03-31-KantarTNS.png" length="244858" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 18:23:03 +0200</pubDate>
-      <dc:date>2020-04-12T18:23:03.201199+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 23–29 March 2020 – Seating Plan Projection</title>
-      <link>null/2020-03-29-Norstat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norstat for Aftenposten and NRK, 23–29 March 2020<br/><img src="null/2020-03-29-Norstat-seating-plan.png"/><br/>Details on null/2020-03-29-Norstat.html]]></description>
-      <enclosure url="null/2020-03-29-Norstat-seating-plan.png" length="609778" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 18:58:50 +0200</pubDate>
-      <dc:date>2020-04-12T18:58:50.632724+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 23–29 March 2020 – Seat Projections</title>
-      <link>null/2020-03-29-Norstat.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norstat for Aftenposten and NRK, 23–29 March 2020<br/><img src="null/2020-03-29-Norstat-seats.png"/><br/>Details on null/2020-03-29-Norstat.html]]></description>
-      <enclosure url="null/2020-03-29-Norstat-seats.png" length="232925" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 18:58:50 +0200</pubDate>
-      <dc:date>2020-04-12T18:58:50.632724+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 23–29 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-29-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 23–29 March 2020<br/><img src="null/2020-03-29-Norstat.png"/><br/>Details on null/2020-03-29-Norstat.html]]></description>
-      <enclosure url="null/2020-03-29-Norstat.png" length="244691" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 18:58:50 +0200</pubDate>
-      <dc:date>2020-04-12T18:58:50.632724+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 16–23 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-23-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 16–23 March 2020<br/><img src="null/2020-03-23-Norstat.png"/><br/>Details on null/2020-03-23-Norstat.html]]></description>
-      <enclosure url="null/2020-03-23-Norstat.png" length="229665" type="image/png"/>
-      <pubDate>Sat, 4 Apr 2020 21:12:14 +0200</pubDate>
-      <dc:date>2020-04-04T21:12:14.880848+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos MMI for Dagbladet, 18–20 March 2020 – Seating Plan Projection</title>
-      <link>null/2020-03-20-IpsosMMI.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Ipsos MMI for Dagbladet, 18–20 March 2020<br/><img src="null/2020-03-20-IpsosMMI-seating-plan.png"/><br/>Details on null/2020-03-20-IpsosMMI.html]]></description>
-      <enclosure url="null/2020-03-20-IpsosMMI-seating-plan.png" length="619985" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 19:35:59 +0200</pubDate>
-      <dc:date>2020-04-12T19:35:59.387868+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos MMI for Dagbladet, 18–20 March 2020 – Seat Projections</title>
-      <link>null/2020-03-20-IpsosMMI.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Ipsos MMI for Dagbladet, 18–20 March 2020<br/><img src="null/2020-03-20-IpsosMMI-seats.png"/><br/>Details on null/2020-03-20-IpsosMMI.html]]></description>
-      <enclosure url="null/2020-03-20-IpsosMMI-seats.png" length="266697" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 19:35:59 +0200</pubDate>
-      <dc:date>2020-04-12T19:35:59.387868+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos MMI for Dagbladet, 18–20 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-20-IpsosMMI.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Ipsos MMI for Dagbladet, 18–20 March 2020<br/><img src="null/2020-03-20-IpsosMMI.png"/><br/>Details on null/2020-03-20-IpsosMMI.html]]></description>
-      <enclosure url="null/2020-03-20-IpsosMMI.png" length="249893" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 19:35:59 +0200</pubDate>
-      <dc:date>2020-04-12T19:35:59.387868+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 10–16 March 2020 – Seating Plan Projection</title>
-      <link>null/2020-03-16-Sentio.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Sentio for Amedia and Nettavisen, 10–16 March 2020<br/><img src="null/2020-03-16-Sentio-seating-plan.png"/><br/>Details on null/2020-03-16-Sentio.html]]></description>
-      <enclosure url="null/2020-03-16-Sentio-seating-plan.png" length="601361" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 20:09:43 +0200</pubDate>
-      <dc:date>2020-04-12T20:09:43.172393+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 10–16 March 2020 – Seat Projections</title>
-      <link>null/2020-03-16-Sentio.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Sentio for Amedia and Nettavisen, 10–16 March 2020<br/><img src="null/2020-03-16-Sentio-seats.png"/><br/>Details on null/2020-03-16-Sentio.html]]></description>
-      <enclosure url="null/2020-03-16-Sentio-seats.png" length="226659" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 20:09:43 +0200</pubDate>
-      <dc:date>2020-04-12T20:09:43.172393+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 10–16 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-16-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Sentio for Amedia and Nettavisen, 10–16 March 2020<br/><img src="null/2020-03-16-Sentio.png"/><br/>Details on null/2020-03-16-Sentio.html]]></description>
-      <enclosure url="null/2020-03-16-Sentio.png" length="236351" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 20:09:43 +0200</pubDate>
-      <dc:date>2020-04-12T20:09:43.172393+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Perduco, 3–9 March 2020 – Seating Plan Projection</title>
-      <link>null/2020-03-09-OpinionPerduco.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Opinion Perduco, 3–9 March 2020<br/><img src="null/2020-03-09-OpinionPerduco-seating-plan.png"/><br/>Details on null/2020-03-09-OpinionPerduco.html]]></description>
-      <enclosure url="null/2020-03-09-OpinionPerduco-seating-plan.png" length="605542" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 20:43:23 +0200</pubDate>
-      <dc:date>2020-04-12T20:43:23.368863+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Perduco, 3–9 March 2020 – Seat Projections</title>
-      <link>null/2020-03-09-OpinionPerduco.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Opinion Perduco, 3–9 March 2020<br/><img src="null/2020-03-09-OpinionPerduco-seats.png"/><br/>Details on null/2020-03-09-OpinionPerduco.html]]></description>
-      <enclosure url="null/2020-03-09-OpinionPerduco-seats.png" length="237282" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 20:43:23 +0200</pubDate>
-      <dc:date>2020-04-12T20:43:23.368863+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Perduco, 3–9 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-09-OpinionPerduco.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Opinion Perduco, 3–9 March 2020<br/><img src="null/2020-03-09-OpinionPerduco.png"/><br/>Details on null/2020-03-09-OpinionPerduco.html]]></description>
-      <enclosure url="null/2020-03-09-OpinionPerduco.png" length="235073" type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 20:43:23 +0200</pubDate>
-      <dc:date>2020-04-12T20:43:23.368863+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 3–4 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-04-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 3–4 March 2020<br/><img src="null/2020-03-04-Norfakta.png"/><br/>Details on null/2020-03-04-Norfakta.html]]></description>
-      <enclosure url="null/2020-03-04-Norfakta.png" length="231773" type="image/png"/>
-      <pubDate>Sun, 5 Apr 2020 10:58:00 +0200</pubDate>
-      <dc:date>2020-04-05T10:58:00.508158+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Respons Analyse for VG, 27 February–2 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-02-ResponsAnalyse.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 27 February–2 March 2020<br/><img src="null/2020-03-02-ResponsAnalyse.png"/><br/>Details on null/2020-03-02-ResponsAnalyse.html]]></description>
-      <enclosure url="null/2020-03-02-ResponsAnalyse.png" length="235393" type="image/png"/>
-      <pubDate>Sun, 5 Apr 2020 11:23:40 +0200</pubDate>
-      <dc:date>2020-04-05T11:23:40.992142+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 24 February–2 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-02-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 24 February–2 March 2020<br/><img src="null/2020-03-02-Norstat.png"/><br/>Details on null/2020-03-02-Norstat.html]]></description>
-      <enclosure url="null/2020-03-02-Norstat.png" length="250341" type="image/png"/>
-      <pubDate>Mon, 16 Mar 2020 08:12:55 +0100</pubDate>
-      <dc:date>2020-03-16T08:12:55.127376+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for TV2, 24–28 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-28-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 24–28 February 2020<br/><img src="null/2020-02-28-KantarTNS.png"/><br/>Details on null/2020-02-28-KantarTNS.html]]></description>
-      <enclosure url="null/2020-02-28-KantarTNS.png" length="248021" type="image/png"/>
-      <pubDate>Sun, 5 Apr 2020 11:50:25 +0200</pubDate>
-      <dc:date>2020-04-05T11:50:25.7782+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Vårt Land, 17–23 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-23-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Vårt Land, 17–23 February 2020<br/><img src="null/2020-02-23-Norstat.png"/><br/>Details on null/2020-02-23-Norstat.html]]></description>
-      <enclosure url="null/2020-02-23-Norstat.png" length="255460" type="image/png"/>
-      <pubDate>Sun, 15 Mar 2020 12:22:35 +0100</pubDate>
-      <dc:date>2020-03-15T12:22:35.081403+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos MMI for Dagbladet, 17–19 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-19-IpsosMMI.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Ipsos MMI for Dagbladet, 17–19 February 2020<br/><img src="null/2020-02-19-IpsosMMI.png"/><br/>Details on null/2020-02-19-IpsosMMI.html]]></description>
-      <enclosure url="null/2020-02-19-IpsosMMI.png" length="242541" type="image/png"/>
-      <pubDate>Sun, 15 Mar 2020 13:16:37 +0100</pubDate>
-      <dc:date>2020-03-15T13:16:37.836943+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 11–17 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-17-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Sentio for Amedia and Nettavisen, 11–17 February 2020<br/><img src="null/2020-02-17-Sentio.png"/><br/>Details on null/2020-02-17-Sentio.html]]></description>
-      <enclosure url="null/2020-02-17-Sentio.png" length="237274" type="image/png"/>
-      <pubDate>Sun, 15 Mar 2020 14:12:52 +0100</pubDate>
-      <dc:date>2020-03-15T14:12:52.035774+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse, 4–10 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-10-OpinionPerduco.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Opinion Perduco for Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse, 4–10 February 2020<br/><img src="null/2020-02-10-OpinionPerduco.png"/><br/>Details on null/2020-02-10-OpinionPerduco.html]]></description>
-      <enclosure url="null/2020-02-10-OpinionPerduco.png" length="236374" type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 20:53:16 +0100</pubDate>
-      <dc:date>2020-02-23T20:53:16.66018+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 4–5 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-05-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 4–5 February 2020<br/><img src="null/2020-02-05-Norfakta.png"/><br/>Details on null/2020-02-05-Norfakta.html]]></description>
-      <enclosure url="null/2020-02-05-Norfakta.png" length="235995" type="image/png"/>
-      <pubDate>Sun, 15 Mar 2020 15:20:38 +0100</pubDate>
-      <dc:date>2020-03-15T15:20:38.548158+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Respons Analyse for VG, 30 January–3 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-03-ResponsAnalyse.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 30 January–3 February 2020<br/><img src="null/2020-02-03-ResponsAnalyse.png"/><br/>Details on null/2020-02-03-ResponsAnalyse.html]]></description>
-      <enclosure url="null/2020-02-03-ResponsAnalyse.png" length="233382" type="image/png"/>
-      <pubDate>Sun, 15 Mar 2020 16:29:17 +0100</pubDate>
-      <dc:date>2020-03-15T16:29:17.36727+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 27 January–2 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-02-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 27 January–2 February 2020<br/><img src="null/2020-02-02-Norstat.png"/><br/>Details on null/2020-02-02-Norstat.html]]></description>
-      <enclosure url="null/2020-02-02-Norstat.png" length="236244" type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 15:33:41 +0100</pubDate>
-      <dc:date>2020-02-22T15:33:41.289078+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for TV2, 27–31 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-31-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 27–31 January 2020<br/><img src="null/2020-01-31-KantarTNS.png"/><br/>Details on null/2020-01-31-KantarTNS.html]]></description>
-      <enclosure url="null/2020-01-31-KantarTNS.png" length="245339" type="image/png"/>
-      <pubDate>Sun, 15 Mar 2020 17:32:57 +0100</pubDate>
-      <dc:date>2020-03-15T17:32:57.65885+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 24–27 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-27-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Sentio for Amedia and Nettavisen, 24–27 January 2020<br/><img src="null/2020-01-27-Sentio.png"/><br/>Details on null/2020-01-27-Sentio.html]]></description>
-      <enclosure url="null/2020-01-27-Sentio.png" length="231994" type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 16:44:49 +0100</pubDate>
-      <dc:date>2020-02-22T16:44:49.280393+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Vårt Land, 21–27 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-27-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Vårt Land, 21–27 January 2020<br/><img src="null/2020-01-27-Norstat.png"/><br/>Details on null/2020-01-27-Norstat.html]]></description>
-      <enclosure url="null/2020-01-27-Norstat.png" length="244723" type="image/png"/>
-      <pubDate>Sun, 1 Mar 2020 22:26:41 +0100</pubDate>
-      <dc:date>2020-03-01T22:26:41.754858+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos MMI for Dagbladet, 20–22 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-22-IpsosMMI.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Ipsos MMI for Dagbladet, 20–22 January 2020<br/><img src="null/2020-01-22-IpsosMMI.png"/><br/>Details on null/2020-01-22-IpsosMMI.html]]></description>
-      <enclosure url="null/2020-01-22-IpsosMMI.png" length="240185" type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 17:11:16 +0100</pubDate>
-      <dc:date>2020-02-22T17:11:16.873287+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for TV2, 21 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-21-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 21 January 2020<br/><img src="null/2020-01-21-KantarTNS.png"/><br/>Details on null/2020-01-21-KantarTNS.html]]></description>
-      <enclosure url="null/2020-01-21-KantarTNS.png" length="245514" type="image/png"/>
-      <pubDate>Mon, 2 Mar 2020 06:55:10 +0100</pubDate>
-      <dc:date>2020-03-02T06:55:10.186941+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Respons Analyse for VG, 20–21 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-21-ResponsAnalyse.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 20–21 January 2020<br/><img src="null/2020-01-21-ResponsAnalyse.png"/><br/>Details on null/2020-01-21-ResponsAnalyse.html]]></description>
-      <enclosure url="null/2020-01-21-ResponsAnalyse.png" length="226757" type="image/png"/>
-      <pubDate>Sun, 1 Mar 2020 22:49:04 +0100</pubDate>
-      <dc:date>2020-03-01T22:49:04.930493+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 14–18 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-18-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Sentio for Amedia and Nettavisen, 14–18 January 2020<br/><img src="null/2020-01-18-Sentio.png"/><br/>Details on null/2020-01-18-Sentio.html]]></description>
-      <enclosure url="null/2020-01-18-Sentio.png" length="236663" type="image/png"/>
-      <pubDate>Tue, 3 Mar 2020 06:50:00 +0100</pubDate>
-      <dc:date>2020-03-03T06:50:00.887901+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse, 15 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-15-OpinionPerduco.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Opinion Perduco for Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse, 15 January 2020<br/><img src="null/2020-01-15-OpinionPerduco.png"/><br/>Details on null/2020-01-15-OpinionPerduco.html]]></description>
-      <enclosure url="null/2020-01-15-OpinionPerduco.png" length="298447" type="image/png"/>
-      <pubDate>Tue, 9 Jun 2020 08:26:35 +0200</pubDate>
-      <dc:date>2020-06-09T08:26:35.654353+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for TV2, 6–10 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-10-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 6–10 January 2020<br/><img src="null/2020-01-10-KantarTNS.png"/><br/>Details on null/2020-01-10-KantarTNS.html]]></description>
-      <enclosure url="null/2020-01-10-KantarTNS.png" length="241008" type="image/png"/>
-      <pubDate>Thu, 16 Jan 2020 06:52:03 +0100</pubDate>
-      <dc:date>2020-01-16T06:52:03.63543+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 7–8 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-08-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 7–8 January 2020<br/><img src="null/2020-01-08-Norfakta.png"/><br/>Details on null/2020-01-08-Norfakta.html]]></description>
-      <enclosure url="null/2020-01-08-Norfakta.png" length="235874" type="image/png"/>
-      <pubDate>Fri, 17 Jan 2020 06:51:39 +0100</pubDate>
-      <dc:date>2020-01-17T06:51:39.250749+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Respons Analyse for VG, 6 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-06-ResponsAnalyse.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 6 January 2020<br/><img src="null/2020-01-06-ResponsAnalyse.png"/><br/>Details on null/2020-01-06-ResponsAnalyse.html]]></description>
-      <enclosure url="null/2020-01-06-ResponsAnalyse.png" length="232147" type="image/png"/>
-      <pubDate>Fri, 10 Jan 2020 06:54:29 +0100</pubDate>
-      <dc:date>2020-01-10T06:54:29.429421+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 30 December 2019–5 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-05-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 30 December 2019–5 January 2020<br/><img src="null/2020-01-05-Norstat.png"/><br/>Details on null/2020-01-05-Norstat.html]]></description>
-      <enclosure url="null/2020-01-05-Norstat.png" length="289974" type="image/png"/>
-      <pubDate>Wed, 10 Jun 2020 09:08:04 +0200</pubDate>
-      <dc:date>2020-06-10T09:08:04.770716+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos MMI, 16–18 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-18-IpsosMMI.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Ipsos MMI, 16–18 December 2019<br/><img src="null/2019-12-18-IpsosMMI.png"/><br/>Details on null/2019-12-18-IpsosMMI.html]]></description>
-      <enclosure url="null/2019-12-18-IpsosMMI.png" length="246454" type="image/png"/>
-      <pubDate>Fri, 21 Feb 2020 22:47:14 +0100</pubDate>
-      <dc:date>2020-02-21T22:47:14.980322+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat, 9–15 December 2019 – Seating Plan Projection</title>
-      <link>null/2019-12-15-Norstat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norstat, 9–15 December 2019<br/><img src="null/2019-12-15-Norstat-seating-plan.png"/><br/>Details on null/2019-12-15-Norstat.html]]></description>
-      <enclosure url="null/2019-12-15-Norstat-seating-plan.png" length="529329" type="image/png"/>
-      <pubDate>Thu, 2 Jan 2020 17:43:20 +0100</pubDate>
-      <dc:date>2020-01-02T17:43:20.831627+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat, 9–15 December 2019 – Seat Projections</title>
-      <link>null/2019-12-15-Norstat.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norstat, 9–15 December 2019<br/><img src="null/2019-12-15-Norstat-seats.png"/><br/>Details on null/2019-12-15-Norstat.html]]></description>
-      <enclosure url="null/2019-12-15-Norstat-seats.png" length="249115" type="image/png"/>
-      <pubDate>Thu, 2 Jan 2020 17:43:20 +0100</pubDate>
-      <dc:date>2020-01-02T17:43:20.831627+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat, 9–15 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-15-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat, 9–15 December 2019<br/><img src="null/2019-12-15-Norstat.png"/><br/>Details on null/2019-12-15-Norstat.html]]></description>
-      <enclosure url="null/2019-12-15-Norstat.png" length="232243" type="image/png"/>
-      <pubDate>Thu, 2 Jan 2020 17:43:20 +0100</pubDate>
-      <dc:date>2020-01-02T17:43:20.831627+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Perduco, 3–8 December 2019 – Seating Plan Projection</title>
-      <link>null/2019-12-08-OpinionPerduco.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Opinion Perduco, 3–8 December 2019<br/><img src="null/2019-12-08-OpinionPerduco-seating-plan.png"/><br/>Details on null/2019-12-08-OpinionPerduco.html]]></description>
-      <enclosure url="null/2019-12-08-OpinionPerduco-seating-plan.png" length="519923" type="image/png"/>
-      <pubDate>Thu, 2 Jan 2020 20:39:32 +0100</pubDate>
-      <dc:date>2020-01-02T20:39:32.986732+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Perduco, 3–8 December 2019 – Seat Projections</title>
-      <link>null/2019-12-08-OpinionPerduco.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Opinion Perduco, 3–8 December 2019<br/><img src="null/2019-12-08-OpinionPerduco-seats.png"/><br/>Details on null/2019-12-08-OpinionPerduco.html]]></description>
-      <enclosure url="null/2019-12-08-OpinionPerduco-seats.png" length="224093" type="image/png"/>
-      <pubDate>Thu, 2 Jan 2020 20:39:32 +0100</pubDate>
-      <dc:date>2020-01-02T20:39:32.986732+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Perduco, 3–8 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-08-OpinionPerduco.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Opinion Perduco, 3–8 December 2019<br/><img src="null/2019-12-08-OpinionPerduco.png"/><br/>Details on null/2019-12-08-OpinionPerduco.html]]></description>
-      <enclosure url="null/2019-12-08-OpinionPerduco.png" length="236476" type="image/png"/>
-      <pubDate>Thu, 2 Jan 2020 20:39:32 +0100</pubDate>
-      <dc:date>2020-01-02T20:39:32.986732+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta, 3–4 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-04-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta, 3–4 December 2019<br/><img src="null/2019-12-04-Norfakta.png"/><br/>Details on null/2019-12-04-Norfakta.html]]></description>
-      <enclosure url="null/2019-12-04-Norfakta.png" length="244770" type="image/png"/>
-      <pubDate>Sat, 4 Jan 2020 13:33:55 +0100</pubDate>
-      <dc:date>2020-01-04T13:33:55.596861+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Respons Analyse, 28 November–2 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-02-ResponsAnalyse.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse, 28 November–2 December 2019<br/><img src="null/2019-12-02-ResponsAnalyse.png"/><br/>Details on null/2019-12-02-ResponsAnalyse.html]]></description>
-      <enclosure url="null/2019-12-02-ResponsAnalyse.png" length="236822" type="image/png"/>
-      <pubDate>Sat, 4 Jan 2020 15:37:27 +0100</pubDate>
-      <dc:date>2020-01-04T15:37:27.512075+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio, 26 November–2 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-02-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Sentio, 26 November–2 December 2019<br/><img src="null/2019-12-02-Sentio.png"/><br/>Details on null/2019-12-02-Sentio.html]]></description>
-      <enclosure url="null/2019-12-02-Sentio.png" length="237047" type="image/png"/>
-      <pubDate>Sat, 4 Jan 2020 14:38:12 +0100</pubDate>
-      <dc:date>2020-01-04T14:38:12.984663+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS, 25–29 November 2019 – Voting Intentions</title>
-      <link>null/2019-11-29-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS, 25–29 November 2019<br/><img src="null/2019-11-29-KantarTNS.png"/><br/>Details on null/2019-11-29-KantarTNS.html]]></description>
-      <enclosure url="null/2019-11-29-KantarTNS.png" length="246146" type="image/png"/>
-      <pubDate>Sat, 4 Jan 2020 16:39:41 +0100</pubDate>
-      <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
   </channel>
 </rss>
