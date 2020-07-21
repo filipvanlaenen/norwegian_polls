@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Fri, 17 Jul 2020 08:02:13 +0200</pubDate>
+    <pubDate>Tue, 21 Jul 2020 18:51:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.html</link>
@@ -789,6 +789,56 @@
       <pubDate>Sat, 04 Jan 2020 16:39:41 +0100</pubDate>
       <dc:date>2020-01-04T16:39:41.045902+01:00</dc:date>
     </item>
-    <dc:date>2020-07-17T08:02:13.6019+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Norstat, 19–25 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-11-25-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.3–6.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.0–8.6%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.9–8.4%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.0–26.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 15.4–20.9%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–5.0%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.8–4.3%&lt;/li&gt;&lt;li&gt;Høyre: 16.9–22.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.4–15.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-11-25-Norstat.png"
+        length="294247"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jul 2020 18:50:15 +0200</pubDate>
+      <dc:date>2020-07-20T18:50:15.639035+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI, 18–20 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-11-20-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.6–6.9%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.5–10.6%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.9–7.2%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 19.1–25.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 16.5–22.2%&lt;/li&gt;&lt;li&gt;Venstre: 1.7–4.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–5.1%&lt;/li&gt;&lt;li&gt;Høyre: 18.0–24.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 7.8–12.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-11-20-IpsosMMI.png"
+        length="295011"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jul 2020 19:56:05 +0200</pubDate>
+      <dc:date>2020-07-20T19:56:05.872519+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 12–18 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-11-18-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.8–6.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.2–10.5%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 5.1–9.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 19.8–26.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 17.1–23.4%&lt;/li&gt;&lt;li&gt;Venstre: 1.2–3.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.8–4.5%&lt;/li&gt;&lt;li&gt;Høyre: 17.9–24.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 7.1–11.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-11-18-Norstat.png"
+        length="299674"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jul 2020 20:14:32 +0200</pubDate>
+      <dc:date>2020-07-20T20:14:32.547284+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 5–11 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-11-11-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.2–5.8%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.8–10.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 5.1–8.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 19.2–24.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 18.4–23.5%&lt;/li&gt;&lt;li&gt;Venstre: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.8–5.3%&lt;/li&gt;&lt;li&gt;Høyre: 18.2–23.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 7.3–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-11-11-OpinionPerduco.png"
+        length="288589"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jul 2020 07:13:17 +0200</pubDate>
+      <dc:date>2020-07-21T07:13:17.634803+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse, 31 October–4 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-11-04-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.1–8.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.5–25.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 14.3–18.9%&lt;/li&gt;&lt;li&gt;Venstre: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Høyre: 18.9–24.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.5–13.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-11-04-ResponsAnalyse.png"
+        length="288423"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jul 2020 18:51:06 +0200</pubDate>
+      <dc:date>2020-07-21T18:51:06.447688+02:00</dc:date>
+    </item>
+    <dc:date>2020-07-21T18:51:06.447688+02:00</dc:date>
   </channel>
 </rss>
