@@ -71,12 +71,12 @@ Last result: **15.2%** (General Election of 8–9 September 2013)
 | [26 November–2 December 2019](2019-12-02-Sentio.html) | Sentio | 11.1% | 9.9–12.5% | 9.6–12.9% | 9.3–13.2% | 8.7–13.9% |
 | [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse | 10.3% | 9.2–11.6% | 8.8–12.0% | 8.6–12.3% | 8.0–13.0% |
 | [25–29 November 2019](2019-11-29-KantarTNS.html) | Kantar TNS | 9.8% | 8.6–11.3% | 8.2–11.7% | 7.9–12.1% | 7.4–12.8% |
-| [19–25 November 2019](2019-11-25-Norstat.html) | Norstat | 12.6% | N/A | N/A | N/A | N/A |
-| [18–20 November 2019](2019-11-20-IpsosMMI.html) | Ipsos MMI | 9.7% | N/A | N/A | N/A | N/A |
-| [12–18 November 2019](2019-11-18-Norstat.html) | Norstat | 9.1% | N/A | N/A | N/A | N/A |
-| [5–11 November 2019](2019-11-11-OpinionPerduco.html) | Opinion Perduco | 8.9% | N/A | N/A | N/A | N/A |
-| [5–6 November 2019](2019-11-06-Norfakta.html) | Norfakta | 8.4% | N/A | N/A | N/A | N/A |
-| [31 October–4 November 2019](2019-11-04-ResponsAnalyse.html) | Respons Analyse | 11.4% | N/A | N/A | N/A | N/A |
+| [19–25 November 2019](2019-11-25-Norstat.html) | Norstat | 12.6% | 11.1–14.2% | 10.7–14.7% | 10.4–15.1% | 9.7–16.0% |
+| [18–20 November 2019](2019-11-20-IpsosMMI.html) | Ipsos MMI | 9.7% | 8.4–11.3% | 8.1–11.7% | 7.8–12.1% | 7.2–12.9% |
+| [12–18 November 2019](2019-11-18-Norstat.html) | Norstat | 9.1% | 7.8–10.7% | 7.4–11.2% | 7.1–11.6% | 6.5–12.4% |
+| [5–11 November 2019](2019-11-11-OpinionPerduco.html) | Opinion Perduco | 8.9% | 7.8–10.2% | 7.5–10.6% | 7.3–10.9% | 6.8–11.5% |
+| [5–6 November 2019](2019-11-06-Norfakta.html) | Norfakta | 8.4% | 7.0–9.9% | 6.6–10.3% | 6.6–10.7% | 5.8–11.5% |
+| [31 October–4 November 2019](2019-11-04-ResponsAnalyse.html) | Respons Analyse | 11.4% | 10.2–12.8% | 9.8–13.1% | 9.5–13.5% | 9.0–14.2% |
 | [29 October–2 November 2019](2019-11-02-Sentio.html) | Sentio | 9.2% | N/A | N/A | N/A | N/A |
 | [28 October–1 November 2019](2019-11-01-KantarTNS.html) | Kantar TNS | 9.2% | N/A | N/A | N/A | N/A |
 | [22–28 October 2019](2019-10-28-Norstat.html) | Norstat | 8.4% | N/A | N/A | N/A | N/A |
@@ -354,12 +354,12 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 | [26 November–2 December 2019](2019-12-02-Sentio.html) | Sentio | 20 | 17–23 | 16–23 | 16–23 | 15–25 |
 | [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse | 18 | 15–19 | 14–20 | 14–22 | 13–24 |
 | [25–29 November 2019](2019-11-29-KantarTNS.html) | Kantar TNS | 16 | 13–19 | 12–20 | 12–21 | 11–23 |
-| [19–25 November 2019](2019-11-25-Norstat.html) | Norstat |  |  |  |  |  |
-| [18–20 November 2019](2019-11-20-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [12–18 November 2019](2019-11-18-Norstat.html) | Norstat |  |  |  |  |  |
-| [5–11 November 2019](2019-11-11-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
+| [19–25 November 2019](2019-11-25-Norstat.html) | Norstat | 25 | 17–27 | 17–27 | 16–27 | 16–27 |
+| [18–20 November 2019](2019-11-20-IpsosMMI.html) | Ipsos MMI | 18 | 17–18 | 17–18 | 17–19 | 15–22 |
+| [12–18 November 2019](2019-11-18-Norstat.html) | Norstat | 18 | 12–18 | 12–18 | 10–18 | 10–18 |
+| [5–11 November 2019](2019-11-11-OpinionPerduco.html) | Opinion Perduco | 16 | 13–18 | 12–18 | 12–18 | 11–22 |
 | [5–6 November 2019](2019-11-06-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [31 October–4 November 2019](2019-11-04-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
+| [31 October–4 November 2019](2019-11-04-ResponsAnalyse.html) | Respons Analyse | 21 | 13–23 | 13–23 | 13–23 | 13–23 |
 | [29 October–2 November 2019](2019-11-02-Sentio.html) | Sentio |  |  |  |  |  |
 | [28 October–1 November 2019](2019-11-01-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
 | [22–28 October 2019](2019-10-28-Norstat.html) | Norstat |  |  |  |  |  |
