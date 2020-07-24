@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Wed, 22 Jul 2020 19:22:46 +0200</pubDate>
+    <pubDate>Fri, 24 Jul 2020 09:14:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.html</link>
@@ -899,6 +899,16 @@
       <pubDate>Wed, 22 Jul 2020 19:22:46 +0200</pubDate>
       <dc:date>2020-07-22T19:22:46.232361+02:00</dc:date>
     </item>
-    <dc:date>2020-07-22T19:22:46.232361+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Sentio, 8–14 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-10-14-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.0–8.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 6.2–9.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 22.3–27.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 15.4–20.1%&lt;/li&gt;&lt;li&gt;Venstre: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Høyre: 18.5–23.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 7.4–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-10-14-Sentio.png"
+        length="281952"
+        type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 09:14:13 +0200</pubDate>
+      <dc:date>2020-07-24T09:14:13.436912+02:00</dc:date>
+    </item>
+    <dc:date>2020-07-24T09:14:13.436912+02:00</dc:date>
   </channel>
 </rss>
