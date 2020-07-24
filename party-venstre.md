@@ -82,7 +82,7 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 | [22–28 October 2019](2019-10-28-Norstat.html) | Norstat | 3.3% | 2.6–4.3% | 2.3–4.6% | 2.2–4.9% | 1.9–5.4% |
 | [21–23 October 2019](2019-10-23-IpsosMMI.html) | Ipsos MMI | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.5–5.3% | 2.2–5.8% |
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 3.3% | 2.7–4.2% | 2.5–4.5% | 2.4–4.7% | 2.1–5.2% |
-| [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 4.1% | N/A | N/A | N/A | N/A |
+| [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 3.7% | N/A | N/A | N/A | N/A |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 2.7% | N/A | N/A | N/A | N/A |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 3.8% | N/A | N/A | N/A | N/A |
@@ -363,7 +363,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [22–28 October 2019](2019-10-28-Norstat.html) | Norstat | 2 | 2 | 2–7 | 2–7 | 2–7 |
 | [21–23 October 2019](2019-10-23-IpsosMMI.html) | Ipsos MMI | 2 | 2–8 | 2–8 | 1–8 | 1–9 |
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 7 | 2–8 | 0–8 | 0–8 | 0–8 |
-| [8–14 October 2019](2019-10-14-Sentio.html) | Sentio |  |  |  |  |  |
+| [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 7 | 2–9 | 2–9 | 2–10 | 2–10 |
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta |  |  |  |  |  |
