@@ -76,7 +76,7 @@ The table below lists all polls registered and analyzed so far.
 | [22–28 October 2019](2019-10-28-Norstat.html) | Norstat | 21–27% <br> 38–45 | 19–25% <br> 33–46 | 7–11% <br> 10–18 | 15–20% <br> 28–40 | 6–10% <br> 9–14 | 2–5% <br> 2–7 | 3–6% <br> 0–8 | 5–8% <br> 3–13 | 4–8% <br> 7–12 |
 | [21–23 October 2019](2019-10-23-IpsosMMI.html) | Ipsos MMI | 20–26% <br> 36–45 | 18–24% <br> 31–42 | 8–13% <br> 13–23 | 15–21% <br> 28–40 | 5–8% <br> 8–15 | 3–5% <br> 1–8 | 2–4% <br> 0–7 | 5–9% <br> 9–16 | 5–8% <br> 8–14 |
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 19–24% <br> 33–44 | 18–23% <br> 29–36 | 10–14% <br> 18–24 | 16–21% <br> 34–38 | 6–10% <br> 11–15 | 2–5% <br> 0–8 | 3–5% <br> 0–8 | 5–8% <br> 11–13 | 4–7% <br> 2–8 |
-| [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 22–28% <br> 40–51 | 18–24% <br> 32–42 | 7–11% <br> 12–20 | 15–20% <br> 29–39 | 5–8% <br> 9–14 | 3–6% <br> 2–10 | 3–5% <br> 1–8 | 6–10% <br> 10–16 | 2–4% <br> 1–8 |
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
