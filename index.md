@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
 | N/A | [Poll Average](average.html) | 19–29% <br> 34–53 | 22–29% <br> 37–53 | 9–13% <br> 15–24 | 11–16% <br> 19–32 | 6–10% <br> 9–18 | 2–5% <br> 1–9 | 2–5% <br> 0–9 | 4–7% <br> 2–13 | 2–7% <br> 1–12 |
-| [7–8 July 2020](2020-07-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 25–30% <br> 44–56 | 21–27% <br> 37–48 | 9–13% <br> 15–23 | 12–16% <br> 19–31 | 5–9% <br> 9–15 | 3–5% <br> 1–9 | 3–5% <br> 1–9 | 4–6% <br> 2–11 | 3–6% <br> 1–10 |
+| [7–8 July 2020](2020-07-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 25–30% <br> 43–57 | 21–27% <br> 37–48 | 9–13% <br> 15–23 | 12–16% <br> 19–30 | 5–9% <br> 9–15 | 3–5% <br> 1–9 | 3–5% <br> 1–9 | 4–6% <br> 2–11 | 3–6% <br> 1–10 |
 | [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 18–24% <br> 32–44 | 25–31% <br> 43–56 | 9–13% <br> 15–24 | 11–15% <br> 18–28 | 6–10% <br> 11–18 | 2–4% <br> 0–8 | 3–5% <br> 1–9 | 4–7% <br> 2–12 | 4–8% <br> 7–14 |
 | [22–24 June 2020](2020-06-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 22–28% <br> 40–52 | 23–28% <br> 41–52 | 9–13% <br> 17–24 | 11–16% <br> 20–30 | 7–10% <br> 12–19 | 2–4% <br> 1–8 | 2–4% <br> 0–8 | 5–8% <br> 8–14 | 2–4% <br> 1–7 |
 | [15–21 June 2020](2020-06-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 22–28% <br> 40–52 | 22–28% <br> 38–49 | 10–14% <br> 17–26 | 11–15% <br> 19–28 | 5–9% <br> 9–15 | 2–4% <br> 0–2 | 3–6% <br> 2–10 | 4–6% <br> 2–11 | 4–6% <br> 2–11 |
