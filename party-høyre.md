@@ -299,7 +299,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 45 | 39–50 | 37–51 | 37–53 | 35–56 |
-| [7–8 July 2020](2020-07-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 42 | 38–46 | 37–47 | 37–48 | 36–50 |
+| [7–8 July 2020](2020-07-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 42 | 38–46 | 37–47 | 37–48 | 35–50 |
 | [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 50 | 45–53 | 45–55 | 43–56 | 41–58 |
 | [22–24 June 2020](2020-06-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 46 | 43–50 | 41–51 | 41–52 | 39–54 |
 | [15–21 June 2020](2020-06-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 45 | 41–47 | 39–48 | 38–49 | 37–51 |
@@ -563,19 +563,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.1% | 100% |  |
+| 33 | 0% | 100% |  |
 | 34 | 0.1% | 99.9% |  |
-| 35 | 0.5% | 99.8% |  |
-| 36 | 1.2% | 99.3% |  |
+| 35 | 0.6% | 99.8% |  |
+| 36 | 1.2% | 99.2% |  |
 | 37 | 3% | 98% |  |
-| 38 | 3% | 95% |  |
-| 39 | 3% | 92% |  |
-| 40 | 5% | 88% |  |
-| 41 | 4% | 84% |  |
-| 42 | 7% | 80% |  |
-| 43 | 9% | 72% |  |
-| 44 | 12% | 64% |  |
-| 45 | 11% | 52% | Last Result, Median |
+| 38 | 4% | 95% |  |
+| 39 | 3% | 91% |  |
+| 40 | 4% | 88% |  |
+| 41 | 5% | 83% |  |
+| 42 | 6% | 79% |  |
+| 43 | 9% | 73% |  |
+| 44 | 12% | 63% |  |
+| 45 | 11% | 51% | Last Result, Median |
 | 46 | 9% | 40% |  |
 | 47 | 8% | 31% |  |
 | 48 | 6% | 23% |  |
