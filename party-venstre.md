@@ -86,7 +86,7 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 | [21–23 October 2019](2019-10-23-IpsosMMI.html) | Ipsos MMI | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.5–5.3% | 2.2–5.8% |
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 3.3% | 2.7–4.2% | 2.5–4.5% | 2.4–4.7% | 2.1–5.2% |
 | [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
-| [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 3.7% | N/A | N/A | N/A | N/A |
+| [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 3.7% | 3.0–4.6% | 2.8–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 2.7% | N/A | N/A | N/A | N/A |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 3.8% | N/A | N/A | N/A | N/A |
 | [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 3.3% | N/A | N/A | N/A | N/A |
@@ -294,10 +294,10 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–7 | 0–7 | 0–8 | 0–8 |
-| [4–5 August 2020](2020-08-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 0–2 | 0–2 | 0–2 | 0–7 |
+| N/A | [Poll Average](average.html) | 2 | 1–7 | 1–7 | 0–8 | 0–8 |
+| [4–5 August 2020](2020-08-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 1 | 1–2 | 0–2 | 0–2 | 0–7 |
 | [4 August 2020](2020-08-04-InFact.html) | InFact <br> Avisa Nordland, Bergensavisen, iFinnmark and Nidaros | 2 | 2–7 | 2–7 | 2–8 | 1–8 |
-| [29 July–3 August 2020](2020-08-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–2 | 1–7 | 1–7 | 0–9 |
+| [29 July–3 August 2020](2020-08-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–3 | 1–7 | 1–8 | 0–9 |
 | [7–8 July 2020](2020-07-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 2–8 | 2–8 | 1–9 | 1–9 |
 | [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–7 | 0–7 | 0–8 | 0–8 |
 | [22–24 June 2020](2020-06-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 1–7 | 1–8 | 1–8 | 0–8 |
@@ -370,7 +370,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [21–23 October 2019](2019-10-23-IpsosMMI.html) | Ipsos MMI | 2 | 2–8 | 2–8 | 1–8 | 1–9 |
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 7 | 2–8 | 0–8 | 0–8 | 0–8 |
 | [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 7 | 2–9 | 2–9 | 2–10 | 2–10 |
-| [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
+| [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 2 | 2–8 | 1–8 | 1–9 | 1–9 |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta |  |  |  |  |  |
 | [24–30 September 2019](2019-09-30-Norstat.html) | Norstat |  |  |  |  |  |
@@ -562,15 +562,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 23% | 95% |  |
-| 2 | 59% | 72% | Median |
-| 3 | 0.1% | 14% |  |
+| 0 | 3% | 100% |  |
+| 1 | 24% | 97% |  |
+| 2 | 58% | 72% | Median |
+| 3 | 0.2% | 14% |  |
 | 4 | 0% | 14% |  |
 | 5 | 0% | 14% |  |
 | 6 | 2% | 14% |  |
 | 7 | 9% | 12% |  |
-| 8 | 2% | 3% | Last Result |
+| 8 | 3% | 3% | Last Result |
 | 9 | 0.3% | 0.4% |  |
 | 10 | 0% | 0.1% |  |
 | 11 | 0% | 0% |  |
