@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sun, 09 Aug 2020 20:43:06 +0200</pubDate>
+    <pubDate>Mon, 10 Aug 2020 17:48:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 4–5 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-05-Norfakta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–16 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 8–14 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 42–53 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 19–28 seats&lt;/li&gt;&lt;li&gt;Venstre: 0–2 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 36–47 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 18–26 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-05-Norfakta-seats.png"
+        length="251363"
+        type="image/png"/>
+      <pubDate>Sun, 09 Aug 2020 21:12:27 +0200</pubDate>
+      <dc:date>2020-08-09T21:12:27.831509+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 4–5 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-05-Norfakta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-05-Norfakta-coalitions-seats.png"
+        length="501618"
+        type="image/png"/>
+      <pubDate>Sun, 09 Aug 2020 21:12:27 +0200</pubDate>
+      <dc:date>2020-08-09T21:12:27.831509+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 4–5 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-05-Norfakta.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-05-Norfakta.png"
         length="280555"
         type="image/png"/>
-      <pubDate>Sun, 09 Aug 2020 20:43:06 +0200</pubDate>
-      <dc:date>2020-08-09T20:43:06.373818+02:00</dc:date>
+      <pubDate>Sun, 09 Aug 2020 21:12:27 +0200</pubDate>
+      <dc:date>2020-08-09T21:12:27.831509+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by InFact for Avisa Nordland, Bergensavisen, iFinnmark and Nidaros, 4 August 2020 – Voting Intentions</title>
@@ -30,14 +50,34 @@
       <dc:date>2020-08-09T15:37:06.352721+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 29 July–3 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-03-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–11 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8–15 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–11 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 39–51 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 22–34 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–8 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–57 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-03-OpinionPerduco-seats.png"
+        length="274163"
+        type="image/png"/>
+      <pubDate>Mon, 10 Aug 2020 17:48:34 +0200</pubDate>
+      <dc:date>2020-08-10T17:48:34.980745+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 29 July–3 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-03-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-03-OpinionPerduco-coalitions-seats.png"
+        length="550560"
+        type="image/png"/>
+      <pubDate>Mon, 10 Aug 2020 17:48:34 +0200</pubDate>
+      <dc:date>2020-08-10T17:48:34.980745+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 29 July–3 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-03-OpinionPerduco.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.0–6.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.5–8.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.3–6.4%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.5–27.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 12.6–17.9%&lt;/li&gt;&lt;li&gt;Venstre: 2.1–4.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.2–4.9%&lt;/li&gt;&lt;li&gt;Høyre: 24.5–31.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 7.8–12.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-03-OpinionPerduco.png"
         length="305999"
         type="image/png"/>
-      <pubDate>Sun, 09 Aug 2020 15:49:38 +0200</pubDate>
-      <dc:date>2020-08-09T15:49:38.03343+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2020 17:48:34 +0200</pubDate>
+      <dc:date>2020-08-10T17:48:34.980745+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020 – Seat Projections for the Parties</title>
@@ -959,6 +999,16 @@
       <pubDate>Fri, 24 Jul 2020 09:14:13 +0200</pubDate>
       <dc:date>2020-07-24T09:14:13.436912+02:00</dc:date>
     </item>
-    <dc:date>2020-08-09T20:43:06.373818+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 1–7 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-10-07-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.5–6.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.6–10.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.2–7.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 19.7–25.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 16.4–21.3%&lt;/li&gt;&lt;li&gt;Venstre: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Høyre: 20.3–25.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 7.4–11.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-10-07-OpinionPerduco.png"
+        length="285505"
+        type="image/png"/>
+      <pubDate>Mon, 10 Aug 2020 08:14:23 +0200</pubDate>
+      <dc:date>2020-08-10T08:14:23.899404+02:00</dc:date>
+    </item>
+    <dc:date>2020-08-10T17:48:34.980745+02:00</dc:date>
   </channel>
 </rss>
