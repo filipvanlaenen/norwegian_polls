@@ -87,8 +87,8 @@ Last result: **27.4%** (General Election of 8–9 September 2013)
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 21.6% | 20.0–23.4% | 19.5–24.0% | 19.1–24.4% | 18.3–25.3% |
 | [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 22.2% | 20.5–24.0% | 20.1–24.5% | 19.7–25.0% | 18.9–25.8% |
-| [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 23.3% | N/A | N/A | N/A | N/A |
-| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 23.5% | N/A | N/A | N/A | N/A |
+| [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 23.3% | 21.5–25.2% | 21.0–25.8% | 20.5–26.3% | 19.7–27.3% |
+| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 23.5% | 21.6–25.5% | 21.1–26.0% | 20.7–26.5% | 19.8–27.5% |
 | [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 24.0% | N/A | N/A | N/A | N/A |
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 26.3% | N/A | N/A | N/A | N/A |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 22.0% | N/A | N/A | N/A | N/A |
@@ -305,7 +305,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 43 | 37–50 | 35–51 | 34–52 | 32–54 |
 | [4–5 August 2020](2020-08-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 48 | 44–52 | 43–52 | 42–53 | 41–55 |
-| [4 August 2020](2020-08-04-InFact.html) | InFact <br> Avisa Nordland, Bergensavisen, iFinnmark and Nidaros | 41 | 36–43 | 36–45 | 35–46 | 33–46 |
+| [4 August 2020](2020-08-04-InFact.html) | InFact <br> Avisa Nordland, Bergensavisen, iFinnmark and Nidaros | 40 | 37–44 | 35–45 | 34–45 | 33–47 |
 | [29 July–3 August 2020](2020-08-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 44 | 40–48 | 40–50 | 39–51 | 37–54 |
 | [7–8 July 2020](2020-07-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 49 | 45–54 | 44–56 | 43–57 | 41–58 |
 | [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 39 | 33–42 | 32–43 | 32–44 | 30–46 |
@@ -380,8 +380,8 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 41 | 35–43 | 35–44 | 33–44 | 33–44 |
 | [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 45 | 42–49 | 41–49 | 40–51 | 38–54 |
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 41 | 37–43 | 37–44 | 34–44 | 32–44 |
-| [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta |  |  |  |  |  |
+| [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 42 | 39–45 | 39–49 | 38–51 | 37–51 |
+| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 45 | 39–46 | 38–46 | 38–46 | 37–50 |
 | [24–30 September 2019](2019-09-30-Norstat.html) | Norstat |  |  |  |  |  |
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
@@ -577,17 +577,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0.7% | 99.6% |  |
 | 33 | 1.2% | 98.8% |  |
 | 34 | 2% | 98% |  |
-| 35 | 1.4% | 96% |  |
-| 36 | 3% | 95% |  |
-| 37 | 3% | 92% |  |
-| 38 | 2% | 89% |  |
-| 39 | 5% | 87% |  |
-| 40 | 10% | 82% |  |
-| 41 | 12% | 72% |  |
-| 42 | 5% | 60% |  |
-| 43 | 8% | 56% | Median |
-| 44 | 7% | 48% |  |
-| 45 | 6% | 41% |  |
+| 35 | 1.2% | 96% |  |
+| 36 | 2% | 94% |  |
+| 37 | 5% | 92% |  |
+| 38 | 3% | 87% |  |
+| 39 | 4% | 84% |  |
+| 40 | 9% | 80% |  |
+| 41 | 8% | 71% |  |
+| 42 | 6% | 63% |  |
+| 43 | 9% | 57% | Median |
+| 44 | 8% | 49% |  |
+| 45 | 7% | 41% |  |
 | 46 | 7% | 34% |  |
 | 47 | 7% | 27% |  |
 | 48 | 6% | 20% |  |

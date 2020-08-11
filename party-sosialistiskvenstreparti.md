@@ -87,8 +87,8 @@ Last result: **6.0%** (General Election of 8–9 September 2013)
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 7.8% | 6.7–9.0% | 6.4–9.3% | 6.2–9.7% | 5.7–10.3% |
 | [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.7% |
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 8.2% | 7.2–9.5% | 6.9–9.8% | 6.6–10.1% | 6.1–10.8% |
-| [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 8.9% | N/A | N/A | N/A | N/A |
-| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 7.0% | N/A | N/A | N/A | N/A |
+| [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 8.9% | 7.8–10.3% | 7.4–10.7% | 7.2–11.1% | 6.6–11.8% |
+| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.5–9.0% | 5.0–9.7% |
 | [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 6.5% | N/A | N/A | N/A | N/A |
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 6.7% | N/A | N/A | N/A | N/A |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 8.4% | N/A | N/A | N/A | N/A |
@@ -298,7 +298,7 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–16 | 10–17 | 9–18 | 8–19 |
 | [4–5 August 2020](2020-08-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 13 | 11–14 | 10–15 | 10–16 | 9–17 |
-| [4 August 2020](2020-08-04-InFact.html) | InFact <br> Avisa Nordland, Bergensavisen, iFinnmark and Nidaros | 12 | 10–14 | 10–15 | 9–17 | 9–17 |
+| [4 August 2020](2020-08-04-InFact.html) | InFact <br> Avisa Nordland, Bergensavisen, iFinnmark and Nidaros | 12 | 10–14 | 10–15 | 10–16 | 9–17 |
 | [29 July–3 August 2020](2020-08-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 11 | 9–13 | 8–14 | 8–15 | 7–16 |
 | [7–8 July 2020](2020-07-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 12 | 10–14 | 10–15 | 9–15 | 8–17 |
 | [24–30 June 2020](2020-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 14 | 12–17 | 11–18 | 11–18 | 10–20 |
@@ -373,8 +373,8 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 11 | 11–13 | 11–14 | 11–15 | 11–21 |
 | [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 11 | 9–13 | 9–13 | 9–14 | 8–16 |
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 14 | 12–16 | 11–16 | 11–17 | 10–19 |
-| [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta |  |  |  |  |  |
+| [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 15 | 13–17 | 13–19 | 12–20 | 11–20 |
+| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 12 | 10–13 | 10–15 | 9–15 | 8–18 |
 | [24–30 September 2019](2019-09-30-Norstat.html) | Norstat |  |  |  |  |  |
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
@@ -570,16 +570,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 99.9% |  |
 | 6 | 0% | 99.9% |  |
 | 7 | 0.4% | 99.9% |  |
-| 8 | 0.8% | 99.6% |  |
-| 9 | 4% | 98.7% |  |
-| 10 | 10% | 95% |  |
-| 11 | 14% | 85% | Last Result |
-| 12 | 19% | 72% |  |
-| 13 | 13% | 52% | Median |
-| 14 | 15% | 40% |  |
-| 15 | 10% | 25% |  |
-| 16 | 7% | 15% |  |
-| 17 | 4% | 8% |  |
+| 8 | 0.9% | 99.6% |  |
+| 9 | 3% | 98.7% |  |
+| 10 | 9% | 95% |  |
+| 11 | 14% | 86% | Last Result |
+| 12 | 17% | 72% |  |
+| 13 | 13% | 55% | Median |
+| 14 | 17% | 42% |  |
+| 15 | 11% | 25% |  |
+| 16 | 7% | 14% |  |
+| 17 | 3% | 7% |  |
 | 18 | 3% | 4% |  |
 | 19 | 0.8% | 1.1% |  |
 | 20 | 0.2% | 0.3% |  |
