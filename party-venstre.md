@@ -89,7 +89,7 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 3.7% | 3.0–4.6% | 2.8–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 2.7% | 2.1–3.5% | 1.9–3.8% | 1.8–4.0% | 1.5–4.5% |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 3.8% | 3.1–4.8% | 2.9–5.1% | 2.7–5.4% | 2.4–5.9% |
-| [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 3.3% | N/A | N/A | N/A | N/A |
+| [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 3.3% | 2.6–4.5% | 2.4–4.8% | 2.2–5.1% | 1.9–5.7% |
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 3.0% | N/A | N/A | N/A | N/A |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 2.6% | N/A | N/A | N/A | N/A |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 2.9% | N/A | N/A | N/A | N/A |
@@ -373,7 +373,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 2 | 2–8 | 1–8 | 1–9 | 1–9 |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 1 | 1–2 | 1–2 | 0–2 | 0–7 |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 2 | 2–9 | 2–9 | 2–9 | 1–10 |
-| [24–30 September 2019](2019-09-30-Norstat.html) | Norstat |  |  |  |  |  |
+| [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 2 | 1–7 | 1–7 | 1–8 | 0–9 |
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat |  |  |  |  |  |
@@ -565,14 +565,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 3% | 100% |  |
 | 1 | 24% | 97% |  |
 | 2 | 58% | 72% | Median |
-| 3 | 0.1% | 14% |  |
+| 3 | 0.1% | 15% |  |
 | 4 | 0% | 14% |  |
 | 5 | 0% | 14% |  |
 | 6 | 2% | 14% |  |
 | 7 | 9% | 12% |  |
 | 8 | 3% | 3% | Last Result |
 | 9 | 0.4% | 0.4% |  |
-| 10 | 0% | 0.1% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 

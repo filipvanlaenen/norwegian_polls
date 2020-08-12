@@ -89,7 +89,7 @@ Last result: **25.0%** (General Election of 8–9 September 2013)
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 22.8% | 21.1–24.6% | 20.7–25.1% | 20.3–25.6% | 19.5–26.5% |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 20.1% | 18.4–22.0% | 18.0–22.6% | 17.5–23.0% | 16.8–23.9% |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 21.4% | 19.6–23.3% | 19.1–23.8% | 18.7–24.3% | 17.8–25.3% |
-| [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 19.7% | N/A | N/A | N/A | N/A |
+| [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 19.7% | 17.8–21.9% | 17.3–22.5% | 16.8–23.0% | 15.9–24.1% |
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 20.6% | N/A | N/A | N/A | N/A |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 21.3% | N/A | N/A | N/A | N/A |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 21.1% | N/A | N/A | N/A | N/A |
@@ -381,7 +381,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 41 | 38–43 | 37–43 | 35–44 | 33–46 |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 35 | 32–38 | 31–40 | 31–40 | 29–41 |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 37 | 35–42 | 33–45 | 33–45 | 32–45 |
-| [24–30 September 2019](2019-09-30-Norstat.html) | Norstat |  |  |  |  |  |
+| [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 35 | 32–37 | 31–39 | 31–40 | 29–42 |
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat |  |  |  |  |  |
@@ -576,21 +576,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 3% | 98% |  |
 | 39 | 2% | 95% |  |
 | 40 | 3% | 93% |  |
-| 41 | 8% | 90% |  |
-| 42 | 5% | 82% |  |
-| 43 | 6% | 78% |  |
-| 44 | 9% | 72% |  |
-| 45 | 8% | 63% | Last Result |
+| 41 | 7% | 90% |  |
+| 42 | 5% | 83% |  |
+| 43 | 6% | 79% |  |
+| 44 | 9% | 73% |  |
+| 45 | 9% | 64% | Last Result |
 | 46 | 9% | 55% | Median |
-| 47 | 8% | 46% |  |
-| 48 | 5% | 38% |  |
-| 49 | 9% | 32% |  |
+| 47 | 8% | 47% |  |
+| 48 | 6% | 38% |  |
+| 49 | 10% | 32% |  |
 | 50 | 7% | 23% |  |
 | 51 | 5% | 16% |  |
-| 52 | 3% | 11% |  |
-| 53 | 3% | 8% |  |
+| 52 | 4% | 11% |  |
+| 53 | 3% | 7% |  |
 | 54 | 2% | 5% |  |
-| 55 | 2% | 3% |  |
+| 55 | 1.5% | 3% |  |
 | 56 | 0.6% | 2% |  |
 | 57 | 0.9% | 1.3% |  |
 | 58 | 0.2% | 0.4% |  |
