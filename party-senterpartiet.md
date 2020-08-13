@@ -10,7 +10,10 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.6% | 12.0–15.6% | 11.5–16.3% | 11.1–16.8% | 10.4–17.9% |
+| N/A | [Poll Average](average.html) | 14.3% | 12.6–16.1% | 12.2–16.6% | 11.8–17.1% | 11.1–18.1% |
+| [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 14.4% | 13.0–15.9% | 12.7–16.3% | 12.3–16.7% | 11.7–17.5% |
+| [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 13.8% | 12.4–15.3% | 12.1–15.8% | 11.7–16.1% | 11.1–16.9% |
+| [4–7 August 2020](2020-08-07-KantarTNS.html) | Kantar TNS <br> TV2 | 14.9% | 13.3–16.7% | 12.9–17.2% | 12.5–17.6% | 11.8–18.5% |
 | [4–5 August 2020](2020-08-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 13.2% | 11.9–14.6% | 11.5–15.1% | 11.2–15.4% | 10.6–16.2% |
 | [4 August 2020](2020-08-04-InFact.html) | InFact <br> Avisa Nordland, Bergensavisen, iFinnmark and Nidaros | 14.1% | 12.7–15.5% | 12.4–16.0% | 12.1–16.3% | 11.5–17.1% |
 | [29 July–3 August 2020](2020-08-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 15.1% | 13.5–16.9% | 13.0–17.5% | 12.6–17.9% | 11.9–18.9% |
@@ -90,8 +93,8 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 15.6% | 14.0–17.3% | 13.6–17.8% | 13.2–18.2% | 12.5–19.1% |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 17.2% | 15.5–19.0% | 15.1–19.5% | 14.7–19.9% | 14.0–20.8% |
 | [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 18.6% | 16.8–20.7% | 16.2–21.4% | 15.8–21.9% | 14.9–22.9% |
-| [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 14.8% | N/A | N/A | N/A | N/A |
-| [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 17.3% | N/A | N/A | N/A | N/A |
+| [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
+| [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 17.3% | 15.7–18.9% | 15.3–19.4% | 15.0–19.8% | 14.3–20.6% |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 15.7% | N/A | N/A | N/A | N/A |
 | [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 16.8% | N/A | N/A | N/A | N/A |
 | [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | 17.1% | N/A | N/A | N/A | N/A |
@@ -277,15 +280,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.6% | 100% | Last Result |
-| 10.5–11.5% | 4% | 99.3% |  |
-| 11.5–12.5% | 15% | 95% |  |
-| 12.5–13.5% | 27% | 80% |  |
-| 13.5–14.5% | 26% | 53% | Median |
-| 14.5–15.5% | 16% | 27% |  |
-| 15.5–16.5% | 7% | 11% |  |
-| 16.5–17.5% | 3% | 4% |  |
-| 17.5–18.5% | 0.8% | 0.9% |  |
+| 9.5–10.5% | 0.1% | 100% | Last Result |
+| 10.5–11.5% | 1.3% | 99.9% |  |
+| 11.5–12.5% | 7% | 98.7% |  |
+| 12.5–13.5% | 21% | 91% |  |
+| 13.5–14.5% | 29% | 71% | Median |
+| 14.5–15.5% | 23% | 41% |  |
+| 15.5–16.5% | 12% | 18% |  |
+| 16.5–17.5% | 4% | 6% |  |
+| 17.5–18.5% | 1.1% | 1.3% |  |
 | 18.5–19.5% | 0.2% | 0.2% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -298,7 +301,10 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 21–30 | 20–32 | 19–33 | 18–35 |
+| N/A | [Poll Average](average.html) | 26 | 22–31 | 21–33 | 20–33 | 19–35 |
+| [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 26 | 24–31 | 22–32 | 22–33 | 20–34 |
+| [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 26 | 22–28 | 21–28 | 20–29 | 19–31 |
+| [4–7 August 2020](2020-08-07-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 22–33 | 21–33 | 21–35 | 20–36 |
 | [4–5 August 2020](2020-08-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 23 | 21–26 | 20–27 | 19–28 | 19–30 |
 | [4 August 2020](2020-08-04-InFact.html) | InFact <br> Avisa Nordland, Bergensavisen, iFinnmark and Nidaros | 26 | 21–30 | 21–32 | 20–33 | 19–35 |
 | [29 July–3 August 2020](2020-08-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 28 | 24–33 | 23–33 | 22–34 | 20–36 |
@@ -378,8 +384,8 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 30 | 24–34 | 24–37 | 24–37 | 23–37 |
 | [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 35 | 30–38 | 28–39 | 26–40 | 26–40 |
 | [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 36 | 34–40 | 32–41 | 31–41 | 29–42 |
-| [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
+| [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 27 | 25–30 | 24–34 | 23–34 | 22–35 |
+| [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 34 | 31–36 | 30–38 | 29–38 | 27–40 |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat |  |  |  |  |  |
 | [10–16 September 2019](2019-09-16-Sentio.html) | Sentio |  |  |  |  |  |
 | [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta |  |  |  |  |  |
@@ -566,26 +572,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.1% | 100% |  |
-| 18 | 1.1% | 99.9% |  |
-| 19 | 3% | 98.8% | Last Result |
-| 20 | 4% | 96% |  |
-| 21 | 7% | 92% |  |
-| 22 | 10% | 84% |  |
-| 23 | 16% | 74% |  |
-| 24 | 13% | 58% | Median |
-| 25 | 9% | 44% |  |
-| 26 | 8% | 35% |  |
-| 27 | 6% | 27% |  |
-| 28 | 4% | 21% |  |
-| 29 | 4% | 17% |  |
-| 30 | 4% | 12% |  |
-| 31 | 2% | 9% |  |
-| 32 | 2% | 6% |  |
-| 33 | 4% | 5% |  |
-| 34 | 0.4% | 1.0% |  |
-| 35 | 0.4% | 0.6% |  |
-| 36 | 0.1% | 0.2% |  |
-| 37 | 0% | 0% |  |
+| 18 | 0.2% | 100% |  |
+| 19 | 0.9% | 99.8% | Last Result |
+| 20 | 2% | 98.9% |  |
+| 21 | 3% | 96% |  |
+| 22 | 7% | 93% |  |
+| 23 | 10% | 86% |  |
+| 24 | 11% | 75% |  |
+| 25 | 10% | 64% |  |
+| 26 | 12% | 54% | Median |
+| 27 | 12% | 41% |  |
+| 28 | 7% | 30% |  |
+| 29 | 5% | 22% |  |
+| 30 | 4% | 18% |  |
+| 31 | 4% | 13% |  |
+| 32 | 3% | 9% |  |
+| 33 | 5% | 6% |  |
+| 34 | 0.8% | 2% |  |
+| 35 | 0.7% | 1.0% |  |
+| 36 | 0.2% | 0.3% |  |
+| 37 | 0.1% | 0.1% |  |
+| 38 | 0% | 0% |  |
 
 
