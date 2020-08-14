@@ -301,9 +301,9 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 14–24 | 13–25 | 12–27 | 12–27 |
+| N/A | [Poll Average](average.html) | 19 | 14–25 | 13–25 | 12–26 | 12–28 |
 | [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 18 | 16–22 | 16–22 | 15–22 | 14–25 |
-| [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 23 | 21–27 | 20–27 | 19–27 | 18–29 |
+| [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 23 | 21–27 | 20–27 | 19–28 | 18–29 |
 | [4–7 August 2020](2020-08-07-KantarTNS.html) | Kantar TNS <br> TV2 | 16 | 13–18 | 12–20 | 12–21 | 11–22 |
 | [4–5 August 2020](2020-08-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 22 | 19–25 | 19–26 | 18–26 | 18–28 |
 | [4 August 2020](2020-08-04-InFact.html) | InFact <br> Avisa Nordland, Bergensavisen, iFinnmark and Nidaros | 16 | 13–18 | 12–20 | 12–20 | 11–22 |
@@ -582,16 +582,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 10% | 72% |  |
 | 18 | 12% | 62% |  |
 | 19 | 10% | 50% | Median |
-| 20 | 8% | 40% |  |
-| 21 | 6% | 33% |  |
-| 22 | 7% | 27% |  |
-| 23 | 7% | 20% |  |
-| 24 | 3% | 12% |  |
-| 25 | 4% | 9% |  |
-| 26 | 2% | 5% |  |
-| 27 | 2% | 3% | Last Result |
-| 28 | 0.3% | 0.5% |  |
-| 29 | 0.1% | 0.2% |  |
+| 20 | 8% | 41% |  |
+| 21 | 7% | 33% |  |
+| 22 | 7% | 26% |  |
+| 23 | 6% | 19% |  |
+| 24 | 3% | 13% |  |
+| 25 | 5% | 10% |  |
+| 26 | 3% | 5% |  |
+| 27 | 2% | 2% | Last Result |
+| 28 | 0.3% | 0.6% |  |
+| 29 | 0.2% | 0.3% |  |
 | 30 | 0% | 0.1% |  |
 | 31 | 0% | 0% |  |
 

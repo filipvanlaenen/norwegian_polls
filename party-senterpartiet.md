@@ -303,7 +303,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 22–31 | 21–33 | 20–33 | 19–35 |
 | [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 26 | 24–31 | 22–32 | 22–33 | 20–34 |
-| [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 26 | 22–28 | 21–28 | 20–29 | 19–31 |
+| [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 25 | 22–28 | 21–29 | 20–29 | 19–31 |
 | [4–7 August 2020](2020-08-07-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 22–33 | 21–33 | 21–35 | 20–36 |
 | [4–5 August 2020](2020-08-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 23 | 21–26 | 20–27 | 19–28 | 19–30 |
 | [4 August 2020](2020-08-04-InFact.html) | InFact <br> Avisa Nordland, Bergensavisen, iFinnmark and Nidaros | 26 | 21–30 | 21–32 | 20–33 | 19–35 |
@@ -575,15 +575,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.2% | 100% |  |
 | 19 | 0.9% | 99.8% | Last Result |
 | 20 | 2% | 98.9% |  |
-| 21 | 3% | 96% |  |
+| 21 | 3% | 97% |  |
 | 22 | 7% | 93% |  |
-| 23 | 10% | 86% |  |
-| 24 | 11% | 75% |  |
-| 25 | 10% | 64% |  |
-| 26 | 12% | 54% | Median |
-| 27 | 12% | 41% |  |
+| 23 | 11% | 86% |  |
+| 24 | 12% | 75% |  |
+| 25 | 11% | 63% |  |
+| 26 | 12% | 52% | Median |
+| 27 | 11% | 40% |  |
 | 28 | 7% | 30% |  |
-| 29 | 5% | 22% |  |
+| 29 | 5% | 23% |  |
 | 30 | 4% | 18% |  |
 | 31 | 4% | 13% |  |
 | 32 | 3% | 9% |  |

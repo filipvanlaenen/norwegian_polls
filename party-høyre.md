@@ -306,9 +306,9 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43 | 39–49 | 38–52 | 37–54 | 36–57 |
+| N/A | [Poll Average](average.html) | 44 | 39–49 | 38–52 | 37–54 | 36–57 |
 | [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 41 | 38–45 | 37–47 | 36–47 | 34–49 |
-| [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 43 | 41–48 | 40–50 | 38–50 | 36–51 |
+| [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 44 | 41–48 | 39–49 | 38–50 | 36–52 |
 | [4–7 August 2020](2020-08-07-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 39–48 | 37–50 | 37–51 | 36–53 |
 | [4–5 August 2020](2020-08-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 41 | 38–46 | 37–46 | 36–47 | 36–48 |
 | [4 August 2020](2020-08-04-InFact.html) | InFact <br> Avisa Nordland, Bergensavisen, iFinnmark and Nidaros | 44 | 40–49 | 39–50 | 39–51 | 37–53 |
@@ -585,14 +585,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 5% | 92% |  |
 | 40 | 7% | 87% |  |
 | 41 | 10% | 80% |  |
-| 42 | 10% | 69% |  |
-| 43 | 9% | 59% | Median |
-| 44 | 8% | 50% |  |
+| 42 | 10% | 70% |  |
+| 43 | 10% | 60% |  |
+| 44 | 9% | 50% | Median |
 | 45 | 8% | 42% | Last Result |
 | 46 | 9% | 34% |  |
 | 47 | 6% | 25% |  |
 | 48 | 4% | 19% |  |
-| 49 | 6% | 15% |  |
+| 49 | 5% | 15% |  |
 | 50 | 3% | 10% |  |
 | 51 | 2% | 7% |  |
 | 52 | 2% | 5% |  |
@@ -600,7 +600,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 0.8% | 3% |  |
 | 55 | 0.8% | 2% |  |
 | 56 | 0.2% | 0.9% |  |
-| 57 | 0.6% | 0.7% |  |
+| 57 | 0.5% | 0.7% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0.1% |  |
 | 60 | 0% | 0% |  |
