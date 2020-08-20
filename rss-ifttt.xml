@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Norwegian Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:18:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 11–16 August 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Sentio for Amedia and Nettavisen, 11–16 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio-seating-plan.png" length="593323" type="image/png"/>
+      <pubDate>Thu, 20 Aug 2020 19:43:07 +0200</pubDate>
+      <dc:date>2020-08-20T19:43:07.56178+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 11–16 August 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.html#seats</link>
+      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Sentio for Amedia and Nettavisen, 11–16 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio-seats.png" length="237329" type="image/png"/>
+      <pubDate>Thu, 20 Aug 2020 19:43:07 +0200</pubDate>
+      <dc:date>2020-08-20T19:43:07.56178+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 11–16 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Sentio for Amedia and Nettavisen, 11–16 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.png" length="274047" type="image/png"/>
+      <pubDate>Thu, 20 Aug 2020 19:43:07 +0200</pubDate>
+      <dc:date>2020-08-20T19:43:07.56178+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Respons Analyse for VG, 6–11 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-11-ResponsAnalyse.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Respons Analyse for VG, 6–11 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-11-ResponsAnalyse.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-11-ResponsAnalyse-seating-plan.png"/>]]></description>
@@ -188,14 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-24-IpsosMMI.png" length="281724" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 17:55:10 +0200</pubDate>
       <dc:date>2020-07-11T17:55:10.409957+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 15–21 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-21-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 15–21 June 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-06-21-Norstat.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-06-21-Norstat.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-21-Norstat.png" length="286125" type="image/png"/>
-      <pubDate>Sat, 11 Jul 2020 18:23:32 +0200</pubDate>
-      <dc:date>2020-07-11T18:23:32.723424+02:00</dc:date>
     </item>
   </channel>
 </rss>
