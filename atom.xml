@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/norwegian_polls</id>
   <title>All Registered Polls for the Norwegian Parliament</title>
-  <updated>2020-08-13T19:52:47.064664+02:00</updated>
+  <updated>2020-08-20T19:43:07.56178+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.0–5.5%, 1–10 seats</li><li>Sosialistisk Venstreparti: 6.5–9.9%, 12–18 seats</li><li>Miljøpartiet De Grønne: 2.9–5.3%, 1–10 seats</li><li>Arbeiderpartiet: 20.6–25.8%, 37–48 seats</li><li>Senterpartiet: 10.7–14.8%, 19–27 seats</li><li>Venstre: 1.4–3.2%, 0–2 seats</li><li>Kristelig Folkeparti: 1.8–3.8%, 0–3 seats</li><li>Høyre: 26.0–31.6%, 47–59 seats</li><li>Fremskrittspartiet: 10.9–15.0%, 20–28 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.html"/>
+    <title>Opinion Poll by Sentio for Amedia and Nettavisen, 11–16 August 2020</title>
+    <updated>2020-08-20T19:43:07.56178+02:00</updated>
+    <dc:date>2020-08-20T19:43:07.56178+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 2.8–5.2%, 1–9 seats</li><li>Sosialistisk Venstreparti: 6.1–9.4%, 11–17 seats</li><li>Miljøpartiet De Grønne: 4.0–6.8%, 7–12 seats</li><li>Arbeiderpartiet: 22.9–28.3%, 42–53 seats</li><li>Senterpartiet: 12.3–16.7%, 22–33 seats</li><li>Venstre: 2.6–5.0%, 2–8 seats</li><li>Kristelig Folkeparti: 2.9–5.3%, 1–9 seats</li><li>Høyre: 20.5–25.7%, 36–47 seats</li><li>Fremskrittspartiet: 8.6–12.4%, 15–22 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2020-08-11-ResponsAnalyse.html</id>
@@ -135,5 +143,5 @@
     <updated>2020-01-02T20:39:32.986732+01:00</updated>
     <dc:date>2020-01-02T20:39:32.986732+01:00</dc:date>
   </entry>
-  <dc:date>2020-08-13T19:52:47.064664+02:00</dc:date>
+  <dc:date>2020-08-20T19:43:07.56178+02:00</dc:date>
 </feed>
