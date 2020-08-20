@@ -10,7 +10,8 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.3% | 12.6–16.1% | 12.2–16.6% | 11.8–17.1% | 11.1–18.1% |
+| N/A | [Poll Average](average.html) | 14.0% | 12.3–16.0% | 11.8–16.5% | 11.4–17.0% | 10.7–18.0% |
+| [11–16 August 2020](2020-08-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 12.6% | 11.3–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
 | [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 14.4% | 13.0–15.9% | 12.7–16.3% | 12.3–16.7% | 11.7–17.5% |
 | [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 13.8% | 12.4–15.3% | 12.1–15.8% | 11.7–16.1% | 11.1–16.9% |
 | [4–7 August 2020](2020-08-07-KantarTNS.html) | Kantar TNS <br> TV2 | 14.9% | 13.3–16.7% | 12.9–17.2% | 12.5–17.6% | 11.8–18.5% |
@@ -280,15 +281,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% | Last Result |
-| 10.5–11.5% | 1.3% | 99.9% |  |
-| 11.5–12.5% | 7% | 98.7% |  |
-| 12.5–13.5% | 21% | 91% |  |
-| 13.5–14.5% | 29% | 71% | Median |
-| 14.5–15.5% | 23% | 41% |  |
-| 15.5–16.5% | 12% | 18% |  |
-| 16.5–17.5% | 4% | 6% |  |
-| 17.5–18.5% | 1.1% | 1.3% |  |
+| 9.5–10.5% | 0.3% | 100% | Last Result |
+| 10.5–11.5% | 3% | 99.7% |  |
+| 11.5–12.5% | 11% | 97% |  |
+| 12.5–13.5% | 23% | 86% |  |
+| 13.5–14.5% | 27% | 63% | Median |
+| 14.5–15.5% | 21% | 36% |  |
+| 15.5–16.5% | 10% | 15% |  |
+| 16.5–17.5% | 4% | 5% |  |
+| 17.5–18.5% | 0.9% | 1.1% |  |
 | 18.5–19.5% | 0.2% | 0.2% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -301,7 +302,8 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 22–31 | 21–33 | 20–33 | 19–35 |
+| N/A | [Poll Average](average.html) | 25 | 22–31 | 21–33 | 20–33 | 19–35 |
+| [11–16 August 2020](2020-08-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 23 | 21–26 | 20–27 | 19–27 | 18–29 |
 | [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 26 | 24–31 | 22–32 | 22–33 | 20–34 |
 | [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 25 | 22–28 | 21–29 | 20–29 | 19–31 |
 | [4–7 August 2020](2020-08-07-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 22–33 | 21–33 | 21–35 | 20–36 |
@@ -572,24 +574,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.2% | 100% |  |
-| 19 | 0.9% | 99.8% | Last Result |
-| 20 | 2% | 98.9% |  |
-| 21 | 3% | 97% |  |
-| 22 | 7% | 93% |  |
-| 23 | 11% | 86% |  |
-| 24 | 12% | 75% |  |
-| 25 | 11% | 63% |  |
-| 26 | 12% | 52% | Median |
-| 27 | 11% | 40% |  |
-| 28 | 7% | 30% |  |
-| 29 | 5% | 23% |  |
-| 30 | 4% | 18% |  |
-| 31 | 4% | 13% |  |
-| 32 | 3% | 9% |  |
-| 33 | 5% | 6% |  |
-| 34 | 0.8% | 2% |  |
-| 35 | 0.7% | 1.0% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 1.0% | 99.7% | Last Result |
+| 20 | 3% | 98.7% |  |
+| 21 | 6% | 96% |  |
+| 22 | 8% | 90% |  |
+| 23 | 12% | 82% |  |
+| 24 | 12% | 69% |  |
+| 25 | 11% | 57% | Median |
+| 26 | 11% | 46% |  |
+| 27 | 10% | 35% |  |
+| 28 | 6% | 26% |  |
+| 29 | 4% | 20% |  |
+| 30 | 4% | 15% |  |
+| 31 | 3% | 11% |  |
+| 32 | 2% | 8% |  |
+| 33 | 4% | 6% |  |
+| 34 | 0.7% | 2% |  |
+| 35 | 0.6% | 0.9% |  |
 | 36 | 0.2% | 0.3% |  |
 | 37 | 0.1% | 0.1% |  |
 | 38 | 0% | 0% |  |
