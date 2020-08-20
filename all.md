@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
+| [11–16 August 2020](2020-08-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 21–26% <br> 37–48 | 26–32% <br> 47–59 | 11–15% <br> 20–28 | 11–15% <br> 19–27 | 6–10% <br> 12–18 | 1–3% <br> 0–2 | 2–4% <br> 0–3 | 3–5% <br> 1–10 | 3–6% <br> 1–10 |
 | [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 23–28% <br> 42–53 | 20–26% <br> 36–47 | 9–12% <br> 15–22 | 12–17% <br> 22–33 | 6–9% <br> 11–17 | 3–5% <br> 2–8 | 3–5% <br> 1–9 | 4–7% <br> 7–12 | 3–5% <br> 1–9 |
 | [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 22–27% <br> 39–49 | 22–27% <br> 38–50 | 11–15% <br> 19–28 | 12–16% <br> 20–29 | 5–9% <br> 10–15 | 2–4% <br> 1–7 | 3–6% <br> 2–10 | 4–6% <br> 2–11 | 3–5% <br> 1–9 |
 | [4–7 August 2020](2020-08-07-KantarTNS.html) | Kantar TNS <br> TV2 | 22–29% <br> 40–53 | 22–28% <br> 37–51 | 7–12% <br> 12–21 | 13–18% <br> 21–35 | 6–10% <br> 10–17 | 1–4% <br> 0–2 | 3–6% <br> 2–11 | 4–7% <br> 2–12 | 3–6% <br> 2–10 |
