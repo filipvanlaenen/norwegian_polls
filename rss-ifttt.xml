@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Norwegian Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:18:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos MMI for Dagbladet, 17–19 August 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Ipsos MMI for Dagbladet, 17–19 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI-seating-plan.png" length="605142" type="image/png"/>
+      <pubDate>Sat, 22 Aug 2020 19:43:01 +0200</pubDate>
+      <dc:date>2020-08-22T19:43:01.013984+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI for Dagbladet, 17–19 August 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI.html#seats</link>
+      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Ipsos MMI for Dagbladet, 17–19 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI-seats.png" length="253101" type="image/png"/>
+      <pubDate>Sat, 22 Aug 2020 19:43:01 +0200</pubDate>
+      <dc:date>2020-08-22T19:43:01.013984+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI for Dagbladet, 17–19 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Ipsos MMI for Dagbladet, 17–19 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI.png" length="297023" type="image/png"/>
+      <pubDate>Sat, 22 Aug 2020 19:43:01 +0200</pubDate>
+      <dc:date>2020-08-22T19:43:01.013984+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sentio for Amedia and Nettavisen, 11–16 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Sentio for Amedia and Nettavisen, 11–16 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-16-Sentio-seating-plan.png"/>]]></description>
@@ -204,14 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-30-KantarTNS.png" length="283726" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 17:27:42 +0200</pubDate>
       <dc:date>2020-07-11T17:27:42.968789+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos MMI for Dagbladet, 22–24 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-06-24-IpsosMMI.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Ipsos MMI for Dagbladet, 22–24 June 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-06-24-IpsosMMI.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-06-24-IpsosMMI.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-06-24-IpsosMMI.png" length="281724" type="image/png"/>
-      <pubDate>Sat, 11 Jul 2020 17:55:10 +0200</pubDate>
-      <dc:date>2020-07-11T17:55:10.409957+02:00</dc:date>
     </item>
   </channel>
 </rss>
