@@ -10,7 +10,8 @@ Last result: **27.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.6% | 21.8–27.1% | 21.1–27.8% | 20.6–28.3% | 19.6–29.4% |
+| N/A | [Poll Average](average.html) | 24.5% | 21.8–27.1% | 21.1–27.7% | 20.6–28.3% | 19.6–29.4% |
+| [17–23 August 2020](2020-08-23-Norstat.html) | Norstat <br> Aftenposten and NRK | 23.9% | 22.2–25.8% | 21.7–26.3% | 21.3–26.8% | 20.5–27.7% |
 | [17–19 August 2020](2020-08-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 24.8% | 22.8–26.9% | 22.2–27.5% | 21.7–28.1% | 20.8–29.1% |
 | [11–16 August 2020](2020-08-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 23.1% | 21.4–24.9% | 21.0–25.4% | 20.6–25.8% | 19.8–26.7% |
 | [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
@@ -98,7 +99,7 @@ Last result: **27.4%** (General Election of 8–9 September 2013)
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.8–30.0% |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 22.0% | 20.4–23.9% | 19.9–24.4% | 19.5–24.8% | 18.7–25.7% |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 20.8% | 18.9–22.8% | 18.4–23.4% | 18.0–23.9% | 17.1–24.9% |
-| [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 22.6% | N/A | N/A | N/A | N/A |
+| [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 | [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | 23.8% | N/A | N/A | N/A | N/A |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat | 24.5% | N/A | N/A | N/A | N/A |
 | [20–26 August 2019](2019-08-26-Norstat.html) | Norstat | 22.2% | N/A | N/A | N/A | N/A |
@@ -286,10 +287,10 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 2% | 99.5% |  |
 | 20.5–21.5% | 5% | 98% |  |
 | 21.5–22.5% | 10% | 92% |  |
-| 22.5–23.5% | 14% | 83% |  |
-| 23.5–24.5% | 18% | 69% |  |
-| 24.5–25.5% | 19% | 50% | Median |
-| 25.5–26.5% | 16% | 32% |  |
+| 22.5–23.5% | 15% | 82% |  |
+| 23.5–24.5% | 18% | 68% |  |
+| 24.5–25.5% | 18% | 49% | Median |
+| 25.5–26.5% | 15% | 31% |  |
 | 26.5–27.5% | 10% | 16% | Last Result |
 | 27.5–28.5% | 4% | 6% |  |
 | 28.5–29.5% | 1.5% | 2% |  |
@@ -306,7 +307,8 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44 | 40–49 | 39–51 | 38–52 | 35–54 |
+| N/A | [Poll Average](average.html) | 44 | 40–49 | 39–51 | 37–52 | 35–54 |
+| [17–23 August 2020](2020-08-23-Norstat.html) | Norstat <br> Aftenposten and NRK | 43 | 40–47 | 40–48 | 39–49 | 38–51 |
 | [17–19 August 2020](2020-08-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 44 | 41–49 | 40–50 | 40–51 | 38–53 |
 | [11–16 August 2020](2020-08-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 42 | 39–46 | 38–47 | 37–48 | 36–50 |
 | [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 47 | 43–51 | 42–52 | 42–53 | 40–55 |
@@ -394,7 +396,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 48 | 45–51 | 45–52 | 44–53 | 42–56 |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 42 | 37–44 | 37–45 | 36–45 | 35–47 |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 37 | 34–42 | 33–42 | 32–43 | 30–45 |
-| [10–16 September 2019](2019-09-16-Sentio.html) | Sentio |  |  |  |  |  |
+| [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 43 | 38–45 | 38–45 | 38–45 | 37–49 |
 | [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta |  |  |  |  |  |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat |  |  |  |  |  |
 | [20–26 August 2019](2019-08-26-Norstat.html) | Norstat |  |  |  |  |  |
@@ -584,17 +586,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0.3% | 99.9% |  |
 | 35 | 0.3% | 99.6% |  |
 | 36 | 0.4% | 99.4% |  |
-| 37 | 1.5% | 99.0% |  |
-| 38 | 1.5% | 98% |  |
+| 37 | 2% | 99.0% |  |
+| 38 | 2% | 97% |  |
 | 39 | 2% | 96% |  |
-| 40 | 6% | 94% |  |
-| 41 | 9% | 88% |  |
-| 42 | 9% | 78% |  |
-| 43 | 9% | 70% |  |
-| 44 | 10% | 60% | Median |
-| 45 | 12% | 50% |  |
-| 46 | 9% | 38% |  |
-| 47 | 8% | 29% |  |
+| 40 | 7% | 94% |  |
+| 41 | 10% | 87% |  |
+| 42 | 10% | 77% |  |
+| 43 | 9% | 67% |  |
+| 44 | 11% | 59% | Median |
+| 45 | 11% | 48% |  |
+| 46 | 8% | 37% |  |
+| 47 | 8% | 28% |  |
 | 48 | 7% | 20% |  |
 | 49 | 6% | 13% | Last Result |
 | 50 | 2% | 8% |  |
