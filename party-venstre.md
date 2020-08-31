@@ -389,7 +389,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 2 | 1–2 | 1–7 | 1–7 | 0–8 |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 2 | 1–7 | 1–7 | 0–7 | 0–8 |
-| [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 2 | 1–2 | 1–2 | 1–6 | 1–7 |
+| [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 2 | 1–2 | 1–2 | 1–7 | 1–8 |
 | [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta |  |  |  |  |  |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat |  |  |  |  |  |
 | [20–26 August 2019](2019-08-26-Norstat.html) | Norstat |  |  |  |  |  |
