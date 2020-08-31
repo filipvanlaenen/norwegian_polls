@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Fri, 28 Aug 2020 10:51:07 +0200</pubDate>
+    <pubDate>Mon, 31 Aug 2020 07:23:26 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 17–23 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–18 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–11 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 39–49 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 20–32 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–7 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–55 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat-seats.png"
+        length="256201"
+        type="image/png"/>
+      <pubDate>Sun, 30 Aug 2020 19:15:58 +0200</pubDate>
+      <dc:date>2020-08-30T19:15:58.653939+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 17–23 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat-coalitions-seats.png"
+        length="521563"
+        type="image/png"/>
+      <pubDate>Sun, 30 Aug 2020 19:15:58 +0200</pubDate>
+      <dc:date>2020-08-30T19:15:58.653939+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 17–23 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.1–5.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.3–9.8%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.7–6.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.3–26.8%&lt;/li&gt;&lt;li&gt;Senterpartiet: 11.9–16.3%&lt;/li&gt;&lt;li&gt;Venstre: 2.2–4.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Høyre: 24.1–29.7%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 7.9–11.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat.png"
+        length="283119"
+        type="image/png"/>
+      <pubDate>Sun, 30 Aug 2020 19:15:58 +0200</pubDate>
+      <dc:date>2020-08-30T19:15:58.653939+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos MMI for Dagbladet, 17–19 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-19-IpsosMMI.html#seats</link>
@@ -1239,6 +1269,16 @@
       <pubDate>Fri, 28 Aug 2020 10:51:07 +0200</pubDate>
       <dc:date>2020-08-28T10:51:07.232849+02:00</dc:date>
     </item>
-    <dc:date>2020-08-28T10:51:07.232849+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Sentio, 10–16 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-09-16-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.1–25.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 14.6–19.3%&lt;/li&gt;&lt;li&gt;Venstre: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Høyre: 18.7–23.7%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.5–14.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-09-16-Sentio.png"
+        length="282246"
+        type="image/png"/>
+      <pubDate>Mon, 31 Aug 2020 07:23:26 +0200</pubDate>
+      <dc:date>2020-08-31T07:23:26.562784+02:00</dc:date>
+    </item>
+    <dc:date>2020-08-31T07:23:26.562784+02:00</dc:date>
   </channel>
 </rss>
