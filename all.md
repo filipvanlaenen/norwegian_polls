@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
+| [17–23 August 2020](2020-08-23-Norstat.html) | Norstat <br> Aftenposten and NRK | 21–27% <br> 39–49 | 24–30% <br> 42–55 | 8–12% <br> 13–21 | 12–16% <br> 20–32 | 6–10% <br> 11–18 | 2–4% <br> 1–7 | 3–5% <br> 1–9 | 4–7% <br> 2–11 | 3–6% <br> 2–10 |
 | [17–19 August 2020](2020-08-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 22–28% <br> 40–51 | 21–28% <br> 37–50 | 10–14% <br> 17–26 | 12–17% <br> 20–30 | 5–9% <br> 9–16 | 2–5% <br> 1–8 | 2–5% <br> 1–9 | 4–8% <br> 7–13 | 3–6% <br> 2–11 |
 | [11–16 August 2020](2020-08-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 21–26% <br> 37–48 | 26–32% <br> 47–59 | 11–15% <br> 20–28 | 11–15% <br> 19–27 | 6–10% <br> 12–18 | 1–3% <br> 0–2 | 2–4% <br> 0–3 | 3–5% <br> 1–10 | 3–6% <br> 1–10 |
 | [6–11 August 2020](2020-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 23–28% <br> 42–53 | 20–26% <br> 36–47 | 9–12% <br> 15–22 | 12–17% <br> 22–33 | 6–9% <br> 11–17 | 3–5% <br> 2–8 | 3–5% <br> 1–9 | 4–7% <br> 7–12 | 3–5% <br> 1–9 |
@@ -92,7 +93,7 @@ The table below lists all polls registered and analyzed so far.
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 24–29% <br> 44–53 | 18–23% <br> 32–42 | 10–14% <br> 18–25 | 13–17% <br> 23–34 | 5–8% <br> 10–15 | 2–4% <br> 1–7 | 3–6% <br> 2–10 | 5–9% <br> 10–16 | 2–5% <br> 1–7 |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 20–25% <br> 36–45 | 19–24% <br> 32–42 | 10–14% <br> 17–26 | 15–20% <br> 29–38 | 7–10% <br> 12–19 | 2–4% <br> 0–2 | 2–5% <br> 0–8 | 5–8% <br> 10–15 | 3–6% <br> 1–9 |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 18–24% <br> 32–43 | 18–24% <br> 31–43 | 9–14% <br> 16–25 | 13–19% <br> 23–35 | 7–11% <br> 12–20 | 2–4% <br> 0–7 | 2–5% <br> 1–9 | 7–11% <br> 11–19 | 3–6% <br> 2–11 |
-| [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 20–25% <br> 38–45 | 19–24% <br> 33–41 | 11–15% <br> 18–27 | 15–19% <br> 27–34 | 5–9% <br> 10–15 | 2–4% <br> 1–7 | 2–5% <br> 0–7 | 5–8% <br> 9–13 | 3–5% <br> 2–9 |
 | [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–26 August 2019](2019-08-26-Norstat.html) | Norstat | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
