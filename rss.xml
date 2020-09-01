@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Mon, 31 Aug 2020 07:30:55 +0200</pubDate>
+    <pubDate>Tue, 01 Sep 2020 08:24:28 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 17–23 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat.html#seats</link>
@@ -1279,6 +1279,16 @@
       <pubDate>Mon, 31 Aug 2020 07:30:55 +0200</pubDate>
       <dc:date>2020-08-31T07:30:55.392268+02:00</dc:date>
     </item>
-    <dc:date>2020-08-31T07:30:55.392268+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Norfakta, 3–4 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-09-04-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 5.1–8.2%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.3–26.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 14.9–19.6%&lt;/li&gt;&lt;li&gt;Venstre: 1.6–3.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Høyre: 19.7–24.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.2–13.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-09-04-Norfakta.png"
+        length="281835"
+        type="image/png"/>
+      <pubDate>Tue, 01 Sep 2020 08:24:28 +0200</pubDate>
+      <dc:date>2020-09-01T08:24:28.615634+02:00</dc:date>
+    </item>
+    <dc:date>2020-09-01T08:24:28.615634+02:00</dc:date>
   </channel>
 </rss>
