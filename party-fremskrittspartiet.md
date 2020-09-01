@@ -100,7 +100,7 @@ Last result: **15.2%** (General Election of 8–9 September 2013)
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 11.7% | 10.5–13.2% | 10.1–13.6% | 9.8–13.9% | 9.2–14.7% |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 11.2% | 9.8–12.9% | 9.4–13.4% | 9.1–13.8% | 8.5–14.6% |
 | [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 12.4% | 11.1–13.8% | 10.8–14.2% | 10.5–14.6% | 9.9–15.3% |
-| [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | 11.0% | N/A | N/A | N/A | N/A |
+| [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | 11.0% | 9.8–12.3% | 9.4–12.7% | 9.2–13.1% | 8.6–13.7% |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat | 11.5% | N/A | N/A | N/A | N/A |
 | [20–26 August 2019](2019-08-26-Norstat.html) | Norstat | 11.7% | N/A | N/A | N/A | N/A |
 | [19–21 August 2019](2019-08-21-IpsosMMI.html) | Ipsos MMI | 11.1% | N/A | N/A | N/A | N/A |
@@ -394,7 +394,7 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 21 | 19–24 | 18–25 | 17–26 | 16–27 |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 20 | 18–24 | 16–24 | 16–25 | 14–26 |
 | [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 24 | 20–26 | 19–27 | 18–27 | 17–28 |
-| [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta |  |  |  |  |  |
+| [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | 20 | 16–24 | 15–25 | 14–25 | 14–25 |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat |  |  |  |  |  |
 | [20–26 August 2019](2019-08-26-Norstat.html) | Norstat |  |  |  |  |  |
 | [19–21 August 2019](2019-08-21-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
