@@ -94,7 +94,7 @@ The table below lists all polls registered and analyzed so far.
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 20–25% <br> 36–45 | 19–24% <br> 32–42 | 10–14% <br> 17–26 | 15–20% <br> 29–38 | 7–10% <br> 12–19 | 2–4% <br> 0–2 | 2–5% <br> 0–8 | 5–8% <br> 10–15 | 3–6% <br> 1–9 |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 18–24% <br> 32–43 | 18–24% <br> 31–43 | 9–14% <br> 16–25 | 13–19% <br> 23–35 | 7–11% <br> 12–20 | 2–4% <br> 0–7 | 2–5% <br> 1–9 | 7–11% <br> 11–19 | 3–6% <br> 2–11 |
 | [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 20–25% <br> 38–46 | 19–24% <br> 33–43 | 11–15% <br> 18–27 | 15–19% <br> 26–35 | 5–9% <br> 9–16 | 2–4% <br> 1–7 | 2–5% <br> 1–8 | 5–8% <br> 8–13 | 3–5% <br> 1–9 |
-| [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | 21–27% <br> 39–49 | 20–25% <br> 35–46 | 9–13% <br> 14–25 | 15–20% <br> 27–39 | 6–9% <br> 10–18 | 2–4% <br> 0–2 | 2–5% <br> 0–8 | 5–8% <br> 9–15 | 2–5% <br> 1–8 |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–26 August 2019](2019-08-26-Norstat.html) | Norstat | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [19–21 August 2019](2019-08-21-IpsosMMI.html) | Ipsos MMI | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
