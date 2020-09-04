@@ -6,6 +6,22 @@
     <description>All Registered Polls for the Norwegian Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:18:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Respons Analyse for VG, 26–31 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-ResponsAnalyse.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 26–31 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-ResponsAnalyse.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-ResponsAnalyse.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-ResponsAnalyse.png" length="286293" type="image/png"/>
+      <pubDate>Fri, 4 Sep 2020 07:56:37 +0200</pubDate>
+      <dc:date>2020-09-04T07:56:37.750832+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 24–31 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-Norstat.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 24–31 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-Norstat.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-Norstat.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-Norstat.png" length="277186" type="image/png"/>
+      <pubDate>Fri, 4 Sep 2020 08:09:10 +0200</pubDate>
+      <dc:date>2020-09-04T08:09:10.236089+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 17–23 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norstat for Aftenposten and NRK, 17–23 August 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat-seating-plan.png"/>]]></description>
@@ -220,30 +236,6 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-03-OpinionPerduco.png" length="305999" type="image/png"/>
       <pubDate>Mon, 10 Aug 2020 17:48:34 +0200</pubDate>
       <dc:date>2020-08-10T17:48:34.980745+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta-seating-plan.png" length="616285" type="image/png"/>
-      <pubDate>Sun, 26 Jul 2020 13:21:10 +0200</pubDate>
-      <dc:date>2020-07-26T13:21:10.605346+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta-seats.png" length="256637" type="image/png"/>
-      <pubDate>Sun, 26 Jul 2020 13:21:10 +0200</pubDate>
-      <dc:date>2020-07-26T13:21:10.605346+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 7–8 July 2020<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.html<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-07-08-Norfakta.png" length="281698" type="image/png"/>
-      <pubDate>Sun, 26 Jul 2020 13:21:10 +0200</pubDate>
-      <dc:date>2020-07-26T13:21:10.605346+02:00</dc:date>
     </item>
   </channel>
 </rss>
