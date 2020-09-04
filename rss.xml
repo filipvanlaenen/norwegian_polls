@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Wed, 02 Sep 2020 07:30:54 +0200</pubDate>
+    <pubDate>Fri, 04 Sep 2020 08:09:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 26–31 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.7–27.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 12.6–17.0%&lt;/li&gt;&lt;li&gt;Venstre: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Høyre: 22.2–27.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.7–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-ResponsAnalyse.png"
+        length="286293"
+        type="image/png"/>
+      <pubDate>Fri, 04 Sep 2020 07:56:37 +0200</pubDate>
+      <dc:date>2020-09-04T07:56:37.750832+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 24–31 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.6–10.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.0–5.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.4–26.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.2–14.4%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–4.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.9–4.0%&lt;/li&gt;&lt;li&gt;Høyre: 25.5–31.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.6–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-08-31-Norstat.png"
+        length="277186"
+        type="image/png"/>
+      <pubDate>Fri, 04 Sep 2020 08:09:10 +0200</pubDate>
+      <dc:date>2020-09-04T08:09:10.236089+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 17–23 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-08-23-Norstat.html#seats</link>
@@ -1369,6 +1389,6 @@
       <pubDate>Wed, 02 Sep 2020 07:30:54 +0200</pubDate>
       <dc:date>2020-09-02T07:30:54.391453+02:00</dc:date>
     </item>
-    <dc:date>2020-09-02T07:30:54.391453+02:00</dc:date>
+    <dc:date>2020-09-04T08:09:10.236089+02:00</dc:date>
   </channel>
 </rss>
