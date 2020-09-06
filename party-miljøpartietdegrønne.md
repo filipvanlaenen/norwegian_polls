@@ -304,7 +304,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 2–11 | 2–12 | 1–12 | 1–14 |
-| [26–31 August 2020](2020-08-31-ResponsAnalyse.html) | Respons Analyse <br> VG | 8 | 2–10 | 2–10 | 2–11 | 1–12 |
+| [26–31 August 2020](2020-08-31-ResponsAnalyse.html) | Respons Analyse <br> VG | 8 | 2–10 | 2–10 | 1–11 | 1–11 |
 | [24–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 2–9 | 2–9 | 1–9 | 1–11 |
 | [17–23 August 2020](2020-08-23-Norstat.html) | Norstat <br> Aftenposten and NRK | 9 | 7–10 | 2–11 | 2–11 | 1–12 |
 | [17–19 August 2020](2020-08-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 10 | 8–12 | 8–13 | 7–13 | 2–15 |
@@ -580,14 +580,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% | Last Result |
-| 2 | 7% | 97% |  |
+| 2 | 8% | 97% |  |
 | 3 | 4% | 89% |  |
 | 4 | 0% | 85% |  |
 | 5 | 0% | 85% |  |
 | 6 | 0.1% | 85% |  |
-| 7 | 11% | 85% |  |
-| 8 | 24% | 74% |  |
-| 9 | 18% | 50% | Median |
+| 7 | 10% | 85% |  |
+| 8 | 24% | 75% |  |
+| 9 | 19% | 51% | Median |
 | 10 | 15% | 32% |  |
 | 11 | 9% | 17% |  |
 | 12 | 6% | 8% |  |
