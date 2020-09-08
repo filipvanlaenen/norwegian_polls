@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
-| N/A | [Poll Average](average.html) | 20–27% <br> 37–50 | 22–31% <br> 39–56 | 8–14% <br> 13–26 | 11–17% <br> 20–33 | 5–10% <br> 9–18 | 2–5% <br> 0–9 | 2–6% <br> 0–10 | 3–7% <br> 1–12 | 3–7% <br> 1–11 |
+| N/A | [Poll Average](average.html) | 21–27% <br> 37–50 | 18–31% <br> 33–56 | 8–14% <br> 13–26 | 11–17% <br> 20–33 | 5–10% <br> 9–19 | 2–5% <br> 0–8 | 2–6% <br> 0–10 | 3–7% <br> 1–12 | 3–7% <br> 1–12 |
 | [1–2 September 2020](2020-09-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 22–28% <br> 40–51 | 23–29% <br> 41–52 | 11–15% <br> 20–27 | 11–16% <br> 20–29 | 6–10% <br> 12–18 | 2–4% <br> 1–7 | 3–6% <br> 2–11 | 2–5% <br> 1–9 | 2–5% <br> 1–9 |
-| [25 August–1 September 2020](2020-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 22–28% <br> N/A | 17–22% <br> N/A | 9–14% <br> N/A | 12–16% <br> N/A | 8–12% <br> N/A | 2–5% <br> N/A | 3–5% <br> N/A | 4–7% <br> N/A | 4–7% <br> N/A |
+| [25 August–1 September 2020](2020-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 22–28% <br> 41–50 | 17–22% <br> 30–39 | 9–14% <br> 17–25 | 12–16% <br> 21–30 | 8–12% <br> 13–20 | 2–5% <br> 1–8 | 3–5% <br> 1–9 | 4–7% <br> 8–13 | 4–7% <br> 7–13 |
 | [26–31 August 2020](2020-08-31-ResponsAnalyse.html) | Respons Analyse <br> VG | 22–27% <br> 40–50 | 22–28% <br> 38–50 | 10–14% <br> 17–25 | 13–17% <br> 22–33 | 5–9% <br> 10–16 | 3–5% <br> 2–10 | 2–5% <br> 1–8 | 3–6% <br> 1–11 | 3–5% <br> 1–10 |
 | [24–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 21–27% <br> 40–49 | 25–31% <br> 46–57 | 10–14% <br> 17–24 | 10–14% <br> 19–27 | 7–10% <br> 12–19 | 2–5% <br> 1–9 | 2–4% <br> 0–3 | 3–6% <br> 1–10 | 3–5% <br> 1–9 |
 | [17–19 August 2020](2020-08-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 22–28% <br> 40–51 | 21–28% <br> 37–50 | 10–14% <br> 17–26 | 12–17% <br> 20–30 | 5–9% <br> 9–16 | 2–5% <br> 1–8 | 2–5% <br> 1–9 | 4–8% <br> 7–13 | 3–6% <br> 2–11 |
