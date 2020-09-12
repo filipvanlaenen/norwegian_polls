@@ -309,8 +309,8 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 21–34 | 20–34 | 20–34 | 18–34 |
-| [1–7 September 2020](2020-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 34 | 28–34 | 27–34 | 26–34 | 26–34 |
+| N/A | [Poll Average](average.html) | 25 | 21–30 | 20–32 | 20–33 | 18–34 |
+| [1–7 September 2020](2020-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 30 | 28–34 | 24–34 | 22–34 | 21–35 |
 | [1–2 September 2020](2020-09-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 25 | 22–28 | 21–28 | 20–29 | 19–31 |
 | [25 August–1 September 2020](2020-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 24 | 22–28 | 21–29 | 21–30 | 20–32 |
 | [26–31 August 2020](2020-08-31-ResponsAnalyse.html) | Respons Analyse <br> VG | 28 | 24–31 | 23–33 | 22–33 | 21–34 |
@@ -593,20 +593,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 1.4% | 99.5% | Last Result |
 | 20 | 3% | 98% |  |
 | 21 | 6% | 95% |  |
-| 22 | 10% | 89% |  |
+| 22 | 11% | 89% |  |
 | 23 | 12% | 78% |  |
 | 24 | 11% | 66% |  |
-| 25 | 11% | 56% | Median |
-| 26 | 10% | 45% |  |
-| 27 | 7% | 35% |  |
-| 28 | 6% | 28% |  |
-| 29 | 3% | 22% |  |
-| 30 | 2% | 19% |  |
-| 31 | 1.4% | 17% |  |
-| 32 | 0.7% | 15% |  |
-| 33 | 0.7% | 14% |  |
-| 34 | 14% | 14% |  |
-| 35 | 0.1% | 0.1% |  |
-| 36 | 0% | 0% |  |
+| 25 | 11% | 55% | Median |
+| 26 | 10% | 44% |  |
+| 27 | 7% | 34% |  |
+| 28 | 9% | 27% |  |
+| 29 | 6% | 18% |  |
+| 30 | 3% | 13% |  |
+| 31 | 4% | 10% |  |
+| 32 | 2% | 6% |  |
+| 33 | 2% | 4% |  |
+| 34 | 2% | 2% |  |
+| 35 | 0.3% | 0.4% |  |
+| 36 | 0% | 0.1% |  |
+| 37 | 0% | 0% |  |
 
 

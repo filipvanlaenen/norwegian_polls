@@ -317,8 +317,8 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45 | 35–53 | 34–54 | 33–56 | 30–59 |
-| [1–7 September 2020](2020-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 45 | 45–51 | 45–52 | 44–52 | 41–54 |
+| N/A | [Poll Average](average.html) | 46 | 35–53 | 34–55 | 33–56 | 30–59 |
+| [1–7 September 2020](2020-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 48 | 44–52 | 42–52 | 41–54 | 40–57 |
 | [1–2 September 2020](2020-09-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 46 | 43–50 | 42–52 | 40–53 | 38–55 |
 | [25 August–1 September 2020](2020-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 34 | 32–38 | 31–38 | 30–39 | 29–41 |
 | [26–31 August 2020](2020-08-31-ResponsAnalyse.html) | Respons Analyse <br> VG | 44 | 41–48 | 40–49 | 38–50 | 36–53 |
@@ -608,24 +608,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 2% | 86% |  |
 | 39 | 1.2% | 85% |  |
 | 40 | 2% | 83% |  |
-| 41 | 3% | 82% |  |
-| 42 | 4% | 79% |  |
-| 43 | 5% | 75% |  |
-| 44 | 4% | 70% |  |
-| 45 | 18% | 65% | Last Result, Median |
-| 46 | 5% | 47% |  |
-| 47 | 5% | 42% |  |
-| 48 | 5% | 37% |  |
-| 49 | 7% | 32% |  |
-| 50 | 5% | 25% |  |
-| 51 | 4% | 21% |  |
-| 52 | 5% | 17% |  |
+| 41 | 3% | 81% |  |
+| 42 | 4% | 78% |  |
+| 43 | 6% | 74% |  |
+| 44 | 7% | 69% |  |
+| 45 | 7% | 61% | Last Result |
+| 46 | 6% | 54% | Median |
+| 47 | 5% | 49% |  |
+| 48 | 8% | 43% |  |
+| 49 | 6% | 35% |  |
+| 50 | 7% | 29% |  |
+| 51 | 4% | 22% |  |
+| 52 | 6% | 18% |  |
 | 53 | 5% | 12% |  |
 | 54 | 2% | 7% |  |
 | 55 | 2% | 5% |  |
-| 56 | 1.1% | 3% |  |
-| 57 | 0.4% | 2% |  |
-| 58 | 0.6% | 1.2% |  |
+| 56 | 1.2% | 3% |  |
+| 57 | 0.6% | 2% |  |
+| 58 | 0.6% | 1.3% |  |
 | 59 | 0.3% | 0.6% |  |
 | 60 | 0.1% | 0.3% |  |
 | 61 | 0.2% | 0.2% |  |
