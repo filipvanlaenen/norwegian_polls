@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sat, 12 Sep 2020 20:46:59 +0200</pubDate>
+    <pubDate>Sat, 12 Sep 2020 20:54:53 +0200</pubDate>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–7 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-07-OpinionPerduco.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-07-OpinionPerduco.png"
         length="294957"
         type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 20:46:59 +0200</pubDate>
-      <dc:date>2020-09-12T20:46:59.199977+02:00</dc:date>
+      <pubDate>Sat, 12 Sep 2020 20:54:53 +0200</pubDate>
+      <dc:date>2020-09-12T20:54:53.41762+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 1–2 September 2020 – Seat Projections for the Parties</title>
@@ -1499,6 +1499,6 @@
       <pubDate>Wed, 02 Sep 2020 07:30:54 +0200</pubDate>
       <dc:date>2020-09-02T07:30:54.391453+02:00</dc:date>
     </item>
-    <dc:date>2020-09-12T20:46:59.199977+02:00</dc:date>
+    <dc:date>2020-09-12T20:54:53.41762+02:00</dc:date>
   </channel>
 </rss>
