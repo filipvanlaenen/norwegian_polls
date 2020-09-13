@@ -314,7 +314,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 43 | 37–47 | 34–49 | 33–50 | 31–52 |
-| [1–7 September 2020](2020-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 35 | 33–39 | 32–40 | 31–40 | 30–41 |
+| [1–7 September 2020](2020-09-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 35 | 32–40 | 31–40 | 31–41 | 29–42 |
 | [1–2 September 2020](2020-09-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 45 | 41–49 | 40–50 | 40–51 | 38–53 |
 | [25 August–1 September 2020](2020-09-01-KantarTNS.html) | Kantar TNS <br> TV2 | 44 | 42–47 | 41–49 | 41–50 | 39–53 |
 | [26–31 August 2020](2020-08-31-ResponsAnalyse.html) | Respons Analyse <br> VG | 44 | 40–48 | 40–49 | 40–50 | 39–52 |
@@ -592,16 +592,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.1% | 100% |  |
-| 31 | 0.5% | 99.9% |  |
-| 32 | 0.6% | 99.4% |  |
-| 33 | 2% | 98.8% |  |
+| 29 | 0.1% | 100% |  |
+| 30 | 0.2% | 99.9% |  |
+| 31 | 1.0% | 99.7% |  |
+| 32 | 0.7% | 98.8% |  |
+| 33 | 2% | 98% |  |
 | 34 | 2% | 96% |  |
-| 35 | 3% | 95% |  |
-| 36 | 0.8% | 92% |  |
-| 37 | 3% | 91% |  |
-| 38 | 2% | 89% |  |
-| 39 | 2% | 86% |  |
+| 35 | 2% | 94% |  |
+| 36 | 2% | 92% |  |
+| 37 | 2% | 90% |  |
+| 38 | 1.5% | 88% |  |
+| 39 | 2% | 87% |  |
 | 40 | 7% | 85% |  |
 | 41 | 10% | 78% |  |
 | 42 | 9% | 68% |  |
