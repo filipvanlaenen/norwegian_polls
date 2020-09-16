@@ -108,7 +108,7 @@ The table below lists all polls registered and analyzed so far.
 | [5–9 August 2019](2019-08-09-KantarTNS.html) | Kantar TNS | 21–27% <br> 40–45 | 20–26% <br> 34–49 | 7–11% <br> 12–19 | 13–18% <br> 23–40 | 7–11% <br> 10–18 | 1–3% <br> 0–1 | 3–5% <br> 2–7 | 5–8% <br> 10–13 | 4–7% <br> 1–7 |
 | [6–7 August 2019](2019-08-07-Norfakta.html) | Norfakta | 22–27% <br> 40–51 | 21–27% <br> 37–49 | 7–11% <br> 11–20 | 14–19% <br> 25–36 | 6–9% <br> 10–17 | 2–4% <br> 1–7 | 3–5% <br> 1–9 | 3–5% <br> 1–8 | 4–7% <br> 2–12 |
 | [30 July–5 August 2019](2019-08-05-OpinionPerduco.html) | Opinion Perduco | 19–26% <br> 33–47 | 19–25% <br> 32–48 | 8–13% <br> 12–25 | 12–18% <br> 20–36 | 7–11% <br> 9–19 | 2–5% <br> 1–9 | 2–5% <br> 0–8 | 5–9% <br> 8–15 | 4–7% <br> 2–12 |
-| [2–3 July 2019](2019-07-03-Norfakta.html) | Norfakta | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–3 July 2019](2019-07-03-Norfakta.html) | Norfakta | 21–28% <br> 40–54 | 18–24% <br> 32–44 | 7–11% <br> 10–20 | 13–18% <br> 23–36 | 6–10% <br> 9–17 | 2–4% <br> 1–6 | 3–6% <br> 1–9 | 4–7% <br> 3–11 | 3–6% <br> 2–9 |
 | [24–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–26 June 2019](2019-06-26-IpsosMMI.html) | Ipsos MMI | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–24 June 2019](2019-06-24-Norstat.html) | Norstat | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
