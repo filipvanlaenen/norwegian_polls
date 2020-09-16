@@ -114,7 +114,7 @@ Last result: **6.0%** (General Election of 8–9 September 2013)
 | [5–9 August 2019](2019-08-09-KantarTNS.html) | Kantar TNS | 8.3% | 7.2–9.8% | 6.8–10.2% | 6.6–10.5% | 6.0–11.3% |
 | [6–7 August 2019](2019-08-07-Norfakta.html) | Norfakta | 7.4% | 6.4–8.7% | 6.1–9.1% | 5.8–9.4% | 5.4–10.1% |
 | [30 July–5 August 2019](2019-08-05-OpinionPerduco.html) | Opinion Perduco | 8.8% | 7.5–10.3% | 7.1–10.8% | 6.8–11.2% | 6.3–12.0% |
-| [2–3 July 2019](2019-07-03-Norfakta.html) | Norfakta | 7.6% | N/A | N/A | N/A | N/A |
+| [2–3 July 2019](2019-07-03-Norfakta.html) | Norfakta | 7.6% | 6.5–9.0% | 6.2–9.4% | 5.9–9.7% | 5.4–10.4% |
 | [24–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS | 7.8% | N/A | N/A | N/A | N/A |
 | [24–26 June 2019](2019-06-26-IpsosMMI.html) | Ipsos MMI | 6.9% | N/A | N/A | N/A | N/A |
 | [18–24 June 2019](2019-06-24-Norstat.html) | Norstat | 6.9% | N/A | N/A | N/A | N/A |
@@ -411,7 +411,7 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 | [5–9 August 2019](2019-08-09-KantarTNS.html) | Kantar TNS | 10 | 10–18 | 10–18 | 10–18 | 10–21 |
 | [6–7 August 2019](2019-08-07-Norfakta.html) | Norfakta | 12 | 10–15 | 10–16 | 10–17 | 9–18 |
 | [30 July–5 August 2019](2019-08-05-OpinionPerduco.html) | Opinion Perduco | 15 | 12–18 | 10–19 | 9–19 | 9–21 |
-| [2–3 July 2019](2019-07-03-Norfakta.html) | Norfakta |  |  |  |  |  |
+| [2–3 July 2019](2019-07-03-Norfakta.html) | Norfakta | 12 | 10–15 | 9–16 | 9–17 | 8–17 |
 | [24–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
 | [24–26 June 2019](2019-06-26-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
 | [18–24 June 2019](2019-06-24-Norstat.html) | Norstat |  |  |  |  |  |
