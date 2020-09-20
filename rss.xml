@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Tue, 15 Sep 2020 08:48:44 +0200</pubDate>
+    <pubDate>Sun, 20 Sep 2020 19:14:16 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 8–14 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-14-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–16 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–10 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 36–46 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 22–31 seats&lt;/li&gt;&lt;li&gt;Venstre: 0–2 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 40–50 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 23–31 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-14-Sentio-seats.png"
+        length="259656"
+        type="image/png"/>
+      <pubDate>Sun, 20 Sep 2020 19:14:16 +0200</pubDate>
+      <dc:date>2020-09-20T19:14:16.61026+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 8–14 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-14-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-14-Sentio-coalitions-seats.png"
+        length="500331"
+        type="image/png"/>
+      <pubDate>Sun, 20 Sep 2020 19:14:16 +0200</pubDate>
+      <dc:date>2020-09-20T19:14:16.61026+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 8–14 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-14-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.7–9.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 19.3–24.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 12.5–16.9%&lt;/li&gt;&lt;li&gt;Venstre: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Høyre: 22.2–27.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.6–17.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-14-Sentio.png"
+        length="287317"
+        type="image/png"/>
+      <pubDate>Sun, 20 Sep 2020 19:14:16 +0200</pubDate>
+      <dc:date>2020-09-20T19:14:16.61026+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–7 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-07-OpinionPerduco.html#seats</link>
@@ -1529,6 +1559,6 @@
       <pubDate>Tue, 15 Sep 2020 08:48:44 +0200</pubDate>
       <dc:date>2020-09-15T08:48:44.255034+02:00</dc:date>
     </item>
-    <dc:date>2020-09-15T08:48:44.255034+02:00</dc:date>
+    <dc:date>2020-09-20T19:14:16.61026+02:00</dc:date>
   </channel>
 </rss>
