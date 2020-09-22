@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sun, 20 Sep 2020 19:14:16 +0200</pubDate>
+    <pubDate>Tue, 22 Sep 2020 08:02:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Amedia and Nettavisen, 8–14 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-14-Sentio.html#seats</link>
@@ -1559,6 +1559,16 @@
       <pubDate>Tue, 15 Sep 2020 08:48:44 +0200</pubDate>
       <dc:date>2020-09-15T08:48:44.255034+02:00</dc:date>
     </item>
-    <dc:date>2020-09-20T19:14:16.61026+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Kantar TNS, 24–28 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-06-28-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 4.2–7.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.1–9.9%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.6–6.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 22.6–28.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 11.1–15.9%&lt;/li&gt;&lt;li&gt;Venstre: 3.7–6.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–5.0%&lt;/li&gt;&lt;li&gt;Høyre: 19.3–25.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 5.8–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-06-28-KantarTNS.png"
+        length="284237"
+        type="image/png"/>
+      <pubDate>Tue, 22 Sep 2020 08:02:52 +0200</pubDate>
+      <dc:date>2020-09-22T08:02:52.533064+02:00</dc:date>
+    </item>
+    <dc:date>2020-09-22T08:02:52.533064+02:00</dc:date>
   </channel>
 </rss>
