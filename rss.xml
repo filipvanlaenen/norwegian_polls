@@ -8,7 +8,97 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sat, 26 Sep 2020 17:16:57 +0200</pubDate>
+    <pubDate>Sat, 03 Oct 2020 15:56:38 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 28–30 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-30-ResponsAnalyse.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 12–18 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–11 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 37–46 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 21–31 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–9 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–53 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 17–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-30-ResponsAnalyse-seats.png"
+        length="250944"
+        type="image/png"/>
+      <pubDate>Sat, 03 Oct 2020 15:05:37 +0200</pubDate>
+      <dc:date>2020-10-03T15:05:37.735751+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 28–30 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-30-ResponsAnalyse.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-30-ResponsAnalyse-coalitions-seats.png"
+        length="503971"
+        type="image/png"/>
+      <pubDate>Sat, 03 Oct 2020 15:05:37 +0200</pubDate>
+      <dc:date>2020-10-03T15:05:37.735751+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 28–30 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-30-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.6–10.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.2–25.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 12.0–16.3%&lt;/li&gt;&lt;li&gt;Venstre: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Høyre: 23.8–29.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.7–13.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-30-ResponsAnalyse.png"
+        length="283585"
+        type="image/png"/>
+      <pubDate>Sat, 03 Oct 2020 15:05:37 +0200</pubDate>
+      <dc:date>2020-10-03T15:05:37.735751+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 21–27 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-27-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–12 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–16 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–12 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 34–46 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 19–29 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–9 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 37–50 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 21–31 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-27-Norstat-seats.png"
+        length="274087"
+        type="image/png"/>
+      <pubDate>Sat, 03 Oct 2020 14:18:50 +0200</pubDate>
+      <dc:date>2020-10-03T14:18:50.482224+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 21–27 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-27-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-27-Norstat-coalitions-seats.png"
+        length="526334"
+        type="image/png"/>
+      <pubDate>Sat, 03 Oct 2020 14:18:50 +0200</pubDate>
+      <dc:date>2020-10-03T14:18:50.482224+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 21–27 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-27-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.8–7.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.4–9.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.5–6.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 18.8–24.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.8–15.8%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–5.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.0–4.6%&lt;/li&gt;&lt;li&gt;Høyre: 21.1–27.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.9–17.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-27-Norstat.png"
+        length="300793"
+        type="image/png"/>
+      <pubDate>Sat, 03 Oct 2020 14:18:50 +0200</pubDate>
+      <dc:date>2020-10-03T14:18:50.482224+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI for Dagbladet, 21–25 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-25-IpsosMMI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–19 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 35–47 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 23–33 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–9 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–12 seats&lt;/li&gt;&lt;li&gt;Høyre: 35–47 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 20–30 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-25-IpsosMMI-seats.png"
+        length="260739"
+        type="image/png"/>
+      <pubDate>Sat, 03 Oct 2020 15:56:38 +0200</pubDate>
+      <dc:date>2020-10-03T15:56:38.627131+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI for Dagbladet, 21–25 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-25-IpsosMMI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-25-IpsosMMI-coalitions-seats.png"
+        length="537570"
+        type="image/png"/>
+      <pubDate>Sat, 03 Oct 2020 15:56:38 +0200</pubDate>
+      <dc:date>2020-10-03T15:56:38.627131+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI for Dagbladet, 21–25 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-25-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.5–5.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.6–10.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.4–5.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 19.4–25.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 12.7–18.0%&lt;/li&gt;&lt;li&gt;Venstre: 2.5–5.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.3–6.4%&lt;/li&gt;&lt;li&gt;Høyre: 19.7–25.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.5–16.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-09-25-IpsosMMI.png"
+        length="302914"
+        type="image/png"/>
+      <pubDate>Sat, 03 Oct 2020 15:56:38 +0200</pubDate>
+      <dc:date>2020-10-03T15:56:38.627131+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 14–20 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-09-20-Norstat.html#seats</link>
@@ -1599,6 +1689,6 @@
       <pubDate>Tue, 22 Sep 2020 08:02:52 +0200</pubDate>
       <dc:date>2020-09-22T08:02:52.533064+02:00</dc:date>
     </item>
-    <dc:date>2020-09-26T17:16:57.851559+02:00</dc:date>
+    <dc:date>2020-10-03T15:56:38.627131+02:00</dc:date>
   </channel>
 </rss>
