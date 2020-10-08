@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Wed, 07 Oct 2020 19:39:16 +0200</pubDate>
+    <pubDate>Wed, 07 Oct 2020 20:23:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for TV2, 28 September–2 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-10-02-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 7–14 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–16 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–10 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 27–39 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 23–36 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3–11 seats&lt;/li&gt;&lt;li&gt;Høyre: 36–47 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 18–26 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-10-02-KantarTNS-seats.png"
+        length="276623"
+        type="image/png"/>
+      <pubDate>Wed, 07 Oct 2020 20:23:36 +0200</pubDate>
+      <dc:date>2020-10-07T20:23:36.849997+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for TV2, 28 September–2 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-10-02-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-10-02-KantarTNS-coalitions-seats.png"
+        length="521853"
+        type="image/png"/>
+      <pubDate>Wed, 07 Oct 2020 20:23:36 +0200</pubDate>
+      <dc:date>2020-10-07T20:23:36.849997+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar TNS for TV2, 28 September–2 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-10-02-KantarTNS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-10-02-KantarTNS.png"
         length="303014"
         type="image/png"/>
-      <pubDate>Wed, 07 Oct 2020 19:39:16 +0200</pubDate>
-      <dc:date>2020-10-07T19:39:16.661522+02:00</dc:date>
+      <pubDate>Wed, 07 Oct 2020 20:23:36 +0200</pubDate>
+      <dc:date>2020-10-07T20:23:36.849997+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse for VG, 28–30 September 2020 – Seat Projections for the Parties</title>
@@ -1699,6 +1719,6 @@
       <pubDate>Tue, 22 Sep 2020 08:02:52 +0200</pubDate>
       <dc:date>2020-09-22T08:02:52.533064+02:00</dc:date>
     </item>
-    <dc:date>2020-10-07T19:39:16.661522+02:00</dc:date>
+    <dc:date>2020-10-07T20:23:36.849997+02:00</dc:date>
   </channel>
 </rss>
