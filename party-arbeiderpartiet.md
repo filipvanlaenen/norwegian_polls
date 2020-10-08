@@ -320,8 +320,8 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 33–45 | 31–46 | 30–48 | 27–51 |
-| [28 September–2 October 2020](2020-10-02-KantarTNS.html) | Kantar TNS <br> TV2 | 32 | 29–37 | 28–39 | 27–39 | 24–40 |
+| N/A | [Poll Average](average.html) | 40 | 33–45 | 31–46 | 29–48 | 27–51 |
+| [28 September–2 October 2020](2020-10-02-KantarTNS.html) | Kantar TNS <br> TV2 | 32 | 29–37 | 28–38 | 27–39 | 25–40 |
 | [28–30 September 2020](2020-09-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 41 | 39–44 | 38–46 | 37–46 | 35–48 |
 | [21–27 September 2020](2020-09-27-Norstat.html) | Norstat <br> Aftenposten and NRK | 40 | 36–43 | 35–44 | 34–46 | 32–48 |
 | [21–25 September 2020](2020-09-25-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 42 | 38–45 | 37–46 | 35–47 | 34–49 |
@@ -605,21 +605,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.1% | 100% |  |
-| 25 | 0.1% | 99.9% |  |
+| 25 | 0% | 100% |  |
 | 26 | 0.1% | 99.9% |  |
-| 27 | 0.3% | 99.8% |  |
-| 28 | 0.4% | 99.5% |  |
-| 29 | 1.2% | 99.1% |  |
-| 30 | 2% | 98% |  |
-| 31 | 4% | 96% |  |
-| 32 | 2% | 92% |  |
-| 33 | 5% | 91% |  |
-| 34 | 4% | 85% |  |
-| 35 | 3% | 82% |  |
+| 27 | 0.4% | 99.8% |  |
+| 28 | 0.3% | 99.4% |  |
+| 29 | 2% | 99.1% |  |
+| 30 | 2% | 97% |  |
+| 31 | 3% | 96% |  |
+| 32 | 3% | 93% |  |
+| 33 | 5% | 90% |  |
+| 34 | 3% | 85% |  |
+| 35 | 4% | 82% |  |
 | 36 | 4% | 78% |  |
 | 37 | 4% | 74% |  |
-| 38 | 5% | 70% |  |
+| 38 | 6% | 70% |  |
 | 39 | 8% | 64% |  |
 | 40 | 15% | 57% | Median |
 | 41 | 10% | 42% |  |
