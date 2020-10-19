@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sun, 11 Oct 2020 08:43:20 +0200</pubDate>
+    <pubDate>Mon, 19 Oct 2020 20:12:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 6–12 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-10-12-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 18.4–23.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 17.4–22.4%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Høyre: 21.1–26.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.5–15.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-10-12-Sentio.png"
+        length="289149"
+        type="image/png"/>
+      <pubDate>Mon, 19 Oct 2020 20:12:33 +0200</pubDate>
+      <dc:date>2020-10-19T20:12:33.476061+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 6–7 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-10-07-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.2–6.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.1–8.6%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.2–7.4%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 18.3–24.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 14.5–19.8%&lt;/li&gt;&lt;li&gt;Venstre: 2.7–5.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.3–4.9%&lt;/li&gt;&lt;li&gt;Høyre: 20.1–26.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.9–15.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-10-07-Norfakta.png"
+        length="299820"
+        type="image/png"/>
+      <pubDate>Sun, 18 Oct 2020 23:09:27 +0200</pubDate>
+      <dc:date>2020-10-18T23:09:27.4537+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 29 September–4 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-10-04-OpinionPerduco.html#seats</link>
@@ -1749,6 +1769,6 @@
       <pubDate>Tue, 22 Sep 2020 08:02:52 +0200</pubDate>
       <dc:date>2020-09-22T08:02:52.533064+02:00</dc:date>
     </item>
-    <dc:date>2020-10-11T08:43:20.724765+02:00</dc:date>
+    <dc:date>2020-10-19T20:12:33.476061+02:00</dc:date>
   </channel>
 </rss>
