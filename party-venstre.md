@@ -10,7 +10,9 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.6–4.9% | 2.4–5.2% | 2.1–5.5% | 1.8–6.2% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.9% | 2.8–5.3% | 2.6–5.5% | 2.2–6.1% |
+| [6–12 October 2020](2020-10-12-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [6–7 October 2020](2020-10-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.9% | 3.1–4.9% | 2.9–5.2% | 2.7–5.5% | 2.4–6.1% |
 | [29 September–4 October 2020](2020-10-04-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 4.2% | 3.5–5.2% | 3.3–5.4% | 3.1–5.7% | 2.8–6.2% |
 | [28 September–2 October 2020](2020-10-02-KantarTNS.html) | Kantar TNS <br> TV2 | 4.3% | 3.5–5.5% | 3.3–5.8% | 3.1–6.1% | 2.7–6.7% |
 | [28–30 September 2020](2020-09-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -294,13 +296,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 8% | 99.9% |  |
-| 2.5–3.5% | 32% | 92% |  |
-| 3.5–4.5% | 41% | 59% | Last Result, Median |
-| 4.5–5.5% | 16% | 18% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 32% | 98% |  |
+| 3.5–4.5% | 47% | 66% | Last Result, Median |
+| 4.5–5.5% | 17% | 19% |  |
 | 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
+| 6.5–7.5% | 0.1% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -312,7 +314,9 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–8 | 1–9 | 1–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 2 | 2–8 | 2–9 | 1–9 | 1–10 |
+| [6–12 October 2020](2020-10-12-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 2–7 | 1–8 | 1–8 | 1–9 |
+| [6–7 October 2020](2020-10-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 2–8 | 2–9 | 2–9 | 1–10 |
 | [29 September–4 October 2020](2020-10-04-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 7 | 2–9 | 2–9 | 2–10 | 2–11 |
 | [28 September–2 October 2020](2020-10-02-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 2–8 | 2–9 | 2–10 | 2–11 |
 | [28–30 September 2020](2020-09-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 2–8 | 2–8 | 2–9 | 1–9 |
@@ -598,17 +602,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% |  |
-| 1 | 11% | 99.4% |  |
-| 2 | 53% | 89% | Median |
-| 3 | 0.4% | 36% |  |
-| 4 | 0% | 36% |  |
-| 5 | 0% | 36% |  |
-| 6 | 3% | 36% |  |
-| 7 | 12% | 33% |  |
-| 8 | 13% | 21% | Last Result |
-| 9 | 6% | 8% |  |
-| 10 | 1.3% | 2% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 4% | 99.9% |  |
+| 2 | 57% | 96% | Median |
+| 3 | 1.3% | 39% |  |
+| 4 | 0% | 38% |  |
+| 5 | 0% | 38% |  |
+| 6 | 2% | 38% |  |
+| 7 | 13% | 36% |  |
+| 8 | 15% | 22% | Last Result |
+| 9 | 6% | 7% |  |
+| 10 | 1.2% | 2% |  |
 | 11 | 0.3% | 0.4% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
