@@ -318,7 +318,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 2–11 | 1–11 | 1–12 | 1–13 |
 | [6–12 October 2020](2020-10-12-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 1–7 | 1–7 | 1–7 | 1–9 |
-| [6–7 October 2020](2020-10-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8 | 2–9 | 2–10 | 2–11 | 1–11 |
+| [6–7 October 2020](2020-10-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8 | 2–9 | 2–10 | 2–11 | 1–12 |
 | [29 September–4 October 2020](2020-10-04-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 8 | 2–10 | 2–11 | 2–11 | 2–12 |
 | [28 September–2 October 2020](2020-10-02-KantarTNS.html) | Kantar TNS <br> TV2 | 10 | 8–13 | 8–13 | 7–14 | 6–15 |
 | [28–30 September 2020](2020-09-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 8 | 2–9 | 2–10 | 2–10 | 1–11 |
@@ -609,10 +609,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 68% |  |
 | 4 | 0% | 68% |  |
 | 5 | 0% | 68% |  |
-| 6 | 0.3% | 68% |  |
-| 7 | 9% | 67% |  |
-| 8 | 21% | 58% | Median |
-| 9 | 14% | 37% |  |
+| 6 | 0.4% | 68% |  |
+| 7 | 12% | 67% |  |
+| 8 | 19% | 56% | Median |
+| 9 | 14% | 36% |  |
 | 10 | 12% | 23% |  |
 | 11 | 6% | 10% |  |
 | 12 | 3% | 5% |  |

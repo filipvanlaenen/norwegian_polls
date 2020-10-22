@@ -323,9 +323,9 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44 | 39–50 | 37–52 | 36–53 | 33–55 |
+| N/A | [Poll Average](average.html) | 43 | 38–50 | 37–52 | 36–53 | 34–55 |
 | [6–12 October 2020](2020-10-12-Sentio.html) | Sentio <br> Amedia and Nettavisen | 43 | 39–47 | 38–48 | 37–49 | 36–50 |
-| [6–7 October 2020](2020-10-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 42 | 36–45 | 36–46 | 34–47 | 33–48 |
+| [6–7 October 2020](2020-10-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 41 | 37–44 | 35–45 | 34–47 | 32–48 |
 | [29 September–4 October 2020](2020-10-04-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 50 | 46–54 | 45–55 | 43–56 | 42–57 |
 | [28 September–2 October 2020](2020-10-02-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 39–45 | 38–46 | 36–47 | 34–49 |
 | [28–30 September 2020](2020-09-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 47 | 44–51 | 43–52 | 42–53 | 40–56 |
@@ -612,20 +612,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 32 | 0.1% | 100% |  |
-| 33 | 0.4% | 99.8% |  |
-| 34 | 0.3% | 99.5% |  |
+| 33 | 0.2% | 99.8% |  |
+| 34 | 0.4% | 99.6% |  |
 | 35 | 1.4% | 99.2% |  |
-| 36 | 3% | 98% |  |
-| 37 | 2% | 95% |  |
-| 38 | 3% | 93% |  |
-| 39 | 5% | 90% |  |
-| 40 | 6% | 85% |  |
-| 41 | 8% | 79% |  |
-| 42 | 9% | 71% |  |
-| 43 | 12% | 62% |  |
-| 44 | 8% | 50% | Median |
-| 45 | 9% | 42% | Last Result |
-| 46 | 9% | 33% |  |
+| 36 | 2% | 98% |  |
+| 37 | 2% | 96% |  |
+| 38 | 4% | 93% |  |
+| 39 | 5% | 89% |  |
+| 40 | 7% | 84% |  |
+| 41 | 9% | 77% |  |
+| 42 | 8% | 68% |  |
+| 43 | 11% | 60% | Median |
+| 44 | 9% | 50% |  |
+| 45 | 9% | 41% | Last Result |
+| 46 | 8% | 33% |  |
 | 47 | 5% | 25% |  |
 | 48 | 3% | 20% |  |
 | 49 | 4% | 16% |  |
