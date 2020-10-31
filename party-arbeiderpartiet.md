@@ -325,9 +325,9 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39 | 33–43 | 30–45 | 29–46 | 27–49 |
+| N/A | [Poll Average](average.html) | 39 | 33–43 | 31–45 | 29–46 | 27–49 |
 | [20–25 October 2020](2020-10-25-Norstat.html) | Norstat <br> Aftenposten and NRK | 42 | 40–46 | 39–48 | 37–50 | 36–52 |
-| [19–21 October 2020](2020-10-21-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 38 | 33–40 | 30–41 | 30–41 | 27–43 |
+| [19–21 October 2020](2020-10-21-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 38 | 32–40 | 30–41 | 29–42 | 27–44 |
 | [12–18 October 2020](2020-10-18-Norstat.html) | Norstat <br> Aftenposten and NRK | 43 | 40–46 | 40–48 | 39–49 | 37–50 |
 | [6–12 October 2020](2020-10-12-Sentio.html) | Sentio <br> Amedia and Nettavisen | 39 | 35–41 | 34–42 | 33–43 | 31–45 |
 | [6–7 October 2020](2020-10-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 39 | 35–42 | 34–43 | 32–44 | 31–45 |
@@ -619,22 +619,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 0% | 100% |  |
 | 26 | 0.1% | 99.9% |  |
 | 27 | 0.5% | 99.8% |  |
-| 28 | 0.4% | 99.3% |  |
+| 28 | 0.5% | 99.3% |  |
 | 29 | 2% | 98.9% |  |
 | 30 | 2% | 97% |  |
 | 31 | 2% | 95% |  |
 | 32 | 3% | 93% |  |
 | 33 | 4% | 90% |  |
 | 34 | 3% | 86% |  |
-| 35 | 4% | 83% |  |
+| 35 | 4% | 82% |  |
 | 36 | 4% | 79% |  |
-| 37 | 7% | 74% |  |
-| 38 | 11% | 68% |  |
-| 39 | 10% | 57% | Median |
-| 40 | 16% | 47% |  |
+| 37 | 7% | 75% |  |
+| 38 | 10% | 68% |  |
+| 39 | 10% | 58% | Median |
+| 40 | 17% | 49% |  |
 | 41 | 10% | 32% |  |
 | 42 | 8% | 22% |  |
-| 43 | 5% | 14% |  |
+| 43 | 6% | 14% |  |
 | 44 | 3% | 8% |  |
 | 45 | 2% | 5% |  |
 | 46 | 2% | 3% |  |

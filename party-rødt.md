@@ -321,7 +321,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 2–10 | 1–11 | 1–12 | 1–13 |
 | [20–25 October 2020](2020-10-25-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 2–8 | 2–9 | 1–9 | 1–9 |
-| [19–21 October 2020](2020-10-21-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 8 | 7–11 | 7–11 | 6–12 | 2–13 |
+| [19–21 October 2020](2020-10-21-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 8 | 7–10 | 6–11 | 2–12 | 2–13 |
 | [12–18 October 2020](2020-10-18-Norstat.html) | Norstat <br> Aftenposten and NRK | 7 | 2–9 | 2–10 | 2–10 | 1–11 |
 | [6–12 October 2020](2020-10-12-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 1–7 | 1–7 | 1–7 | 1–9 |
 | [6–7 October 2020](2020-10-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8 | 2–9 | 2–10 | 2–11 | 1–12 |
@@ -615,12 +615,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 70% |  |
 | 4 | 0% | 70% |  |
 | 5 | 0% | 70% |  |
-| 6 | 0.6% | 70% |  |
-| 7 | 14% | 69% |  |
-| 8 | 23% | 55% | Median |
+| 6 | 1.1% | 70% |  |
+| 7 | 13% | 68% |  |
+| 8 | 24% | 56% | Median |
 | 9 | 13% | 32% |  |
-| 10 | 10% | 18% |  |
-| 11 | 5% | 9% |  |
+| 10 | 11% | 19% |  |
+| 11 | 5% | 8% |  |
 | 12 | 2% | 4% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0.3% | 0.4% |  |
