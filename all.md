@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
+| [28–31 October 2020](2020-10-31-ResponsAnalyse.html) | Respons Analyse <br> VG | 20–25% <br> 36–44 | 19–24% <br> 33–43 | 12–16% <br> 20–29 | 17–21% <br> 29–40 | 4–7% <br> 8–13 | 3–5% <br> 2–9 | 3–5% <br> 1–8 | 4–6% <br> 2–11 | 3–6% <br> 2–10 |
 | [20–25 October 2020](2020-10-25-Norstat.html) | Norstat <br> Aftenposten and NRK | 20–27% <br> 37–50 | 22–29% <br> 40–52 | 10–15% <br> 18–27 | 12–18% <br> 22–33 | 6–10% <br> 11–19 | 2–5% <br> 1–9 | 2–5% <br> 0–8 | 3–6% <br> 1–11 | 2–5% <br> 1–9 |
 | [19–21 October 2020](2020-10-21-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 17–23% <br> 29–42 | 19–25% <br> 33–46 | 10–15% <br> 17–27 | 15–21% <br> 27–40 | 5–8% <br> 7–14 | 2–4% <br> 0–3 | 3–5% <br> 1–8 | 3–6% <br> 2–10 | 4–7% <br> 2–12 |
 | [12–18 October 2020](2020-10-18-Norstat.html) | Norstat <br> Aftenposten and NRK | 21–26% <br> 39–49 | 22–27% <br> 39–50 | 11–16% <br> 20–28 | 14–19% <br> 26–36 | 5–8% <br> 9–14 | 2–4% <br> 1–8 | 2–5% <br> 1–8 | 3–5% <br> 1–9 | 3–6% <br> 2–10 |
