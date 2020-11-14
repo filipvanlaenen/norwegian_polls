@@ -8,7 +8,57 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Tue, 10 Nov 2020 22:50:19 +0100</pubDate>
+    <pubDate>Sat, 14 Nov 2020 16:43:40 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 3–9 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-11-09-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–17 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–11 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 31–43 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 27–37 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–8 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 38–49 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 15–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-11-09-OpinionPerduco-seats.png"
+        length="280739"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 15:03:42 +0100</pubDate>
+      <dc:date>2020-11-14T15:03:42.367461+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 3–9 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-11-09-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-11-09-OpinionPerduco-coalitions-seats.png"
+        length="532629"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 15:03:42 +0100</pubDate>
+      <dc:date>2020-11-14T15:03:42.367461+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 3–9 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-11-09-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.1–5.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.7–6.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 17.9–23.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 15.5–20.3%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–4.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.1–5.7%&lt;/li&gt;&lt;li&gt;Høyre: 21.9–27.4%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.1–13.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-11-09-OpinionPerduco.png"
+        length="302647"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 15:03:42 +0100</pubDate>
+      <dc:date>2020-11-14T15:03:42.367461+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 3–4 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-11-04-Norfakta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–15 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 38–48 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 28–37 seats&lt;/li&gt;&lt;li&gt;Venstre: 0–2 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 40–51 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 17–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-11-04-Norfakta-seats.png"
+        length="248814"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 16:43:40 +0100</pubDate>
+      <dc:date>2020-11-14T16:43:40.386617+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 3–4 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-11-04-Norfakta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-11-04-Norfakta-coalitions-seats.png"
+        length="512177"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 16:43:40 +0100</pubDate>
+      <dc:date>2020-11-14T16:43:40.386617+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 3–4 November 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-11-04-Norfakta.html</link>
@@ -16,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-11-04-Norfakta.png"
         length="289975"
         type="image/png"/>
-      <pubDate>Tue, 10 Nov 2020 22:50:19 +0100</pubDate>
-      <dc:date>2020-11-10T22:50:19.914666+01:00</dc:date>
+      <pubDate>Sat, 14 Nov 2020 16:43:40 +0100</pubDate>
+      <dc:date>2020-11-14T16:43:40.386617+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Amedia and Nettavisen, 27 October–3 November 2020 – Seat Projections for the Parties</title>
@@ -1999,6 +2049,6 @@
       <pubDate>Tue, 22 Sep 2020 08:02:52 +0200</pubDate>
       <dc:date>2020-09-22T08:02:52.533064+02:00</dc:date>
     </item>
-    <dc:date>2020-11-10T22:50:19.914666+01:00</dc:date>
+    <dc:date>2020-11-14T16:43:40.386617+01:00</dc:date>
   </channel>
 </rss>
