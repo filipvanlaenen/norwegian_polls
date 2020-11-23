@@ -10,7 +10,9 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.3–4.5% | 2.1–4.8% | 1.9–5.1% | 1.6–5.7% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.5–4.8% | 2.2–5.3% | 2.0–5.6% | 1.7–6.3% |
+| [16–18 November 2020](2020-11-18-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 4.6% | 3.7–5.7% | 3.4–6.1% | 3.2–6.4% | 2.9–7.0% |
+| [9–15 November 2020](2020-11-15-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.0% | 2.4–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.8% |
 | [3–9 November 2020](2020-11-09-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.8% | 2.1–5.2% |
 | [3–4 November 2020](2020-11-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [27 October–3 November 2020](2020-11-03-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -305,13 +307,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 17% | 99.7% |  |
-| 2.5–3.5% | 44% | 83% | Median |
-| 3.5–4.5% | 31% | 39% | Last Result |
-| 4.5–5.5% | 8% | 8% |  |
-| 5.5–6.5% | 0.7% | 0.8% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 12% | 99.9% |  |
+| 2.5–3.5% | 39% | 88% |  |
+| 3.5–4.5% | 33% | 49% | Last Result, Median |
+| 4.5–5.5% | 13% | 16% |  |
+| 5.5–6.5% | 2% | 3% |  |
+| 6.5–7.5% | 0.2% | 0.3% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -322,7 +325,9 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–8 | 1–8 | 1–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 2 | 1–8 | 1–9 | 1–9 | 0–11 |
+| [16–18 November 2020](2020-11-18-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 7 | 2–10 | 2–11 | 2–11 | 2–13 |
+| [9–15 November 2020](2020-11-15-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 2–3 | 1–7 | 1–8 | 1–8 |
 | [3–9 November 2020](2020-11-09-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 2–7 | 2–8 | 2–8 | 1–9 |
 | [3–4 November 2020](2020-11-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–2 | 0–2 | 0–2 | 0–7 |
 | [27 October–3 November 2020](2020-11-03-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 1–2 | 1–2 | 1–7 | 1–8 |
@@ -618,18 +623,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 14% | 98% |  |
-| 2 | 60% | 84% | Median |
-| 3 | 2% | 24% |  |
-| 4 | 0% | 22% |  |
-| 5 | 0% | 22% |  |
-| 6 | 0.9% | 22% |  |
-| 7 | 7% | 21% |  |
-| 8 | 11% | 15% | Last Result |
-| 9 | 3% | 4% |  |
-| 10 | 0.6% | 0.8% |  |
-| 11 | 0.1% | 0.2% |  |
-| 12 | 0% | 0% |  |
+| 0 | 1.0% | 100% |  |
+| 1 | 9% | 99.0% |  |
+| 2 | 57% | 90% | Median |
+| 3 | 3% | 33% |  |
+| 4 | 0.3% | 29% |  |
+| 5 | 0% | 29% |  |
+| 6 | 0.9% | 29% |  |
+| 7 | 9% | 28% |  |
+| 8 | 13% | 19% | Last Result |
+| 9 | 4% | 6% |  |
+| 10 | 1.0% | 2% |  |
+| 11 | 0.9% | 1.0% |  |
+| 12 | 0.1% | 0.2% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
