@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
-| [16–18 November 2020](2020-11-18-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 19–25% <br> 34–44 | 18–24% <br> 31–44 | 10–15% <br> 15–27 | 16–22% <br> 29–40 | 6–10% <br> 9–16 | 3–6% <br> 2–11 | 2–5% <br> 0–9 | 4–7% <br> 3–13 | 2–5% <br> 1–8 |
+| [16–18 November 2020](2020-11-18-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 19–25% <br> 34–45 | 18–24% <br> 31–43 | 10–15% <br> 16–26 | 16–22% <br> 29–41 | 6–10% <br> 9–17 | 3–6% <br> 2–11 | 2–5% <br> 1–9 | 4–7% <br> 3–13 | 2–5% <br> 1–8 |
 | [9–15 November 2020](2020-11-15-Norstat.html) | Norstat <br> Aftenposten and NRK | 18–24% <br> 34–44 | 19–25% <br> 34–46 | 11–15% <br> 18–28 | 17–22% <br> 31–42 | 6–9% <br> 10–17 | 2–4% <br> 1–8 | 2–4% <br> 0–8 | 3–6% <br> 2–10 | 3–5% <br> 2–10 |
 | [3–9 November 2020](2020-11-09-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 18–23% <br> 31–43 | 22–27% <br> 38–49 | 9–13% <br> 15–23 | 15–20% <br> 27–37 | 6–10% <br> 11–17 | 2–5% <br> 2–8 | 3–6% <br> 1–9 | 4–7% <br> 2–11 | 3–6% <br> 2–10 |
 | [3–4 November 2020](2020-11-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 21–26% <br> 38–48 | 22–27% <br> 40–51 | 9–13% <br> 17–25 | 15–20% <br> 28–37 | 5–8% <br> 10–15 | 2–4% <br> 0–2 | 2–5% <br> 1–8 | 3–5% <br> 1–9 | 3–6% <br> 2–10 |
