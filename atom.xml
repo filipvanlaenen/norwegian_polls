@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/norwegian_polls</id>
   <title>All Registered Polls for the Norwegian Parliament</title>
-  <updated>2020-11-25T18:41:35.632752+01:00</updated>
+  <updated>2020-12-03T18:51:30.395914+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 2.7–5.1%, 1–9 seats</li><li>Sosialistisk Venstreparti: 6.6–10.0%, 11–18 seats</li><li>Miljøpartiet De Grønne: 3.4–6.0%, 2–10 seats</li><li>Arbeiderpartiet: 17.9–22.9%, 32–42 seats</li><li>Senterpartiet: 18.1–23.1%, 33–44 seats</li><li>Venstre: 3.0–5.5%, 2–9 seats</li><li>Kristelig Folkeparti: 2.8–5.2%, 1–9 seats</li><li>Høyre: 20.4–25.6%, 35–46 seats</li><li>Fremskrittspartiet: 9.1–13.0%, 15–23 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2020-11-30-ResponsAnalyse.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2020-11-30-ResponsAnalyse.html"/>
+    <title>Opinion Poll by Respons Analyse for VG, 25–30 November 2020</title>
+    <updated>2020-12-03T18:51:30.395914+01:00</updated>
+    <dc:date>2020-12-03T18:51:30.395914+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 2.1–4.7%, 1–8 seats</li><li>Sosialistisk Venstreparti: 5.7–9.6%, 9–17 seats</li><li>Miljøpartiet De Grønne: 3.8–7.2%, 3–13 seats</li><li>Arbeiderpartiet: 18.6–24.7%, 34–45 seats</li><li>Senterpartiet: 15.9–21.7%, 29–41 seats</li><li>Venstre: 3.2–6.4%, 2–11 seats</li><li>Kristelig Folkeparti: 2.3–5.0%, 1–9 seats</li><li>Høyre: 17.6–23.5%, 31–43 seats</li><li>Fremskrittspartiet: 9.8–14.6%, 16–26 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2020-11-18-IpsosMMI.html</id>
@@ -351,5 +359,5 @@
     <updated>2020-01-02T20:39:32.986732+01:00</updated>
     <dc:date>2020-01-02T20:39:32.986732+01:00</dc:date>
   </entry>
-  <dc:date>2020-11-25T18:41:35.632752+01:00</dc:date>
+  <dc:date>2020-12-03T18:51:30.395914+01:00</dc:date>
 </feed>
