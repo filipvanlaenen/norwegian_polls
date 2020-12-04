@@ -333,7 +333,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 39 | 35–44 | 33–44 | 32–45 | 30–48 |
 | [25–30 November 2020](2020-11-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 38 | 33–41 | 32–41 | 32–42 | 29–44 |
-| [24–30 November 2020](2020-11-30-KantarTNS.html) | Kantar TNS <br> TV2 | 38 | 33–41 | 31–43 | 30–43 | 29–44 |
+| [24–30 November 2020](2020-11-30-KantarTNS.html) | Kantar TNS <br> TV2 | 37 | 33–41 | 32–42 | 31–43 | 29–44 |
 | [16–18 November 2020](2020-11-18-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 40 | 36–44 | 35–44 | 34–45 | 32–47 |
 | [9–15 November 2020](2020-11-15-Norstat.html) | Norstat <br> Aftenposten and NRK | 39 | 35–43 | 35–43 | 34–44 | 32–45 |
 | [3–9 November 2020](2020-11-09-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 38 | 33–41 | 33–41 | 31–43 | 29–43 |
@@ -631,23 +631,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0% | 100% |  |
+| 28 | 0.1% | 100% |  |
 | 29 | 0.2% | 99.9% |  |
-| 30 | 0.7% | 99.7% |  |
-| 31 | 0.8% | 99.1% |  |
-| 32 | 2% | 98% |  |
-| 33 | 3% | 97% |  |
+| 30 | 0.5% | 99.7% |  |
+| 31 | 0.7% | 99.2% |  |
+| 32 | 2% | 98.5% |  |
+| 33 | 4% | 97% |  |
 | 34 | 3% | 93% |  |
 | 35 | 6% | 91% |  |
 | 36 | 6% | 85% |  |
-| 37 | 8% | 79% |  |
-| 38 | 9% | 71% |  |
-| 39 | 12% | 62% | Median |
-| 40 | 15% | 50% |  |
-| 41 | 12% | 35% |  |
+| 37 | 9% | 79% |  |
+| 38 | 9% | 70% |  |
+| 39 | 11% | 61% | Median |
+| 40 | 15% | 49% |  |
+| 41 | 11% | 34% |  |
 | 42 | 6% | 23% |  |
 | 43 | 7% | 17% |  |
-| 44 | 6% | 10% |  |
+| 44 | 6% | 11% |  |
 | 45 | 2% | 4% |  |
 | 46 | 0.7% | 2% |  |
 | 47 | 0.6% | 1.2% |  |

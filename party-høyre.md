@@ -334,9 +334,9 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41 | 35–47 | 33–48 | 33–49 | 31–52 |
+| N/A | [Poll Average](average.html) | 41 | 35–47 | 34–48 | 33–49 | 31–52 |
 | [25–30 November 2020](2020-11-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 40 | 37–45 | 36–45 | 35–46 | 34–48 |
-| [24–30 November 2020](2020-11-30-KantarTNS.html) | Kantar TNS <br> TV2 | 36 | 33–39 | 32–40 | 31–41 | 29–44 |
+| [24–30 November 2020](2020-11-30-KantarTNS.html) | Kantar TNS <br> TV2 | 36 | 33–39 | 32–41 | 31–42 | 29–43 |
 | [16–18 November 2020](2020-11-18-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 36 | 33–41 | 32–42 | 31–43 | 29–44 |
 | [9–15 November 2020](2020-11-15-Norstat.html) | Norstat <br> Aftenposten and NRK | 40 | 37–44 | 35–45 | 34–46 | 34–48 |
 | [3–9 November 2020](2020-11-09-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 43 | 39–46 | 39–48 | 38–49 | 36–52 |
@@ -638,15 +638,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0.1% | 99.9% |  |
 | 30 | 0.2% | 99.8% |  |
 | 31 | 0.5% | 99.6% |  |
-| 32 | 1.3% | 99.1% |  |
+| 32 | 1.1% | 99.1% |  |
 | 33 | 3% | 98% |  |
-| 34 | 3% | 94% |  |
+| 34 | 4% | 95% |  |
 | 35 | 5% | 91% |  |
-| 36 | 5% | 87% |  |
-| 37 | 6% | 82% |  |
-| 38 | 7% | 76% |  |
+| 36 | 5% | 86% |  |
+| 37 | 5% | 81% |  |
+| 38 | 6% | 75% |  |
 | 39 | 6% | 69% |  |
-| 40 | 8% | 62% |  |
+| 40 | 8% | 63% |  |
 | 41 | 7% | 54% | Median |
 | 42 | 7% | 47% |  |
 | 43 | 8% | 40% |  |
