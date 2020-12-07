@@ -10,9 +10,11 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.8% | 16.3–22.0% | 15.7–22.9% | 15.2–23.6% | 14.3–24.9% |
+| N/A | [Poll Average](average.html) | 19.5% | 17.2–22.2% | 16.7–23.0% | 16.2–23.6% | 15.4–24.9% |
+| [1–2 December 2020](2020-12-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 20.1% | 18.4–22.0% | 17.9–22.6% | 17.5–23.0% | 16.7–24.0% |
 | [25–30 November 2020](2020-11-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
 | [24–30 November 2020](2020-11-30-KantarTNS.html) | Kantar TNS <br> TV2 | 22.1% | 20.3–24.1% | 19.8–24.6% | 19.3–25.1% | 18.5–26.1% |
+| [24–29 November 2020](2020-11-29-Sentio.html) | Sentio <br> Amedia and Nettavisen | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.1–20.9% | 15.4–21.7% |
 | [16–18 November 2020](2020-11-18-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 18.7% | 16.9–20.7% | 16.4–21.2% | 15.9–21.7% | 15.1–22.7% |
 | [9–15 November 2020](2020-11-15-Norstat.html) | Norstat <br> Aftenposten and NRK | 19.3% | 17.8–21.0% | 17.3–21.5% | 16.9–22.0% | 16.2–22.8% |
 | [3–9 November 2020](2020-11-09-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 17.8% | 16.2–19.4% | 15.8–19.9% | 15.5–20.3% | 14.8–21.1% |
@@ -311,20 +313,20 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% | Last Result |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 0.7% | 99.9% |  |
-| 14.5–15.5% | 3% | 99.2% |  |
-| 15.5–16.5% | 9% | 96% |  |
-| 16.5–17.5% | 15% | 87% |  |
-| 17.5–18.5% | 18% | 72% |  |
-| 18.5–19.5% | 17% | 54% | Median |
-| 19.5–20.5% | 14% | 38% |  |
-| 20.5–21.5% | 10% | 24% |  |
-| 21.5–22.5% | 7% | 14% |  |
-| 22.5–23.5% | 4% | 7% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.1% | 100% |  |
+| 14.5–15.5% | 0.6% | 99.9% |  |
+| 15.5–16.5% | 3% | 99.3% |  |
+| 16.5–17.5% | 10% | 96% |  |
+| 17.5–18.5% | 17% | 86% |  |
+| 18.5–19.5% | 20% | 69% |  |
+| 19.5–20.5% | 19% | 49% | Median |
+| 20.5–21.5% | 14% | 30% |  |
+| 21.5–22.5% | 9% | 16% |  |
+| 22.5–23.5% | 5% | 7% |  |
 | 23.5–24.5% | 2% | 3% |  |
 | 24.5–25.5% | 0.6% | 0.8% |  |
-| 25.5–26.5% | 0.1% | 0.2% |  |
+| 25.5–26.5% | 0.2% | 0.2% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -336,9 +338,11 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 29–41 | 28–43 | 28–44 | 26–45 |
+| N/A | [Poll Average](average.html) | 36 | 32–41 | 31–43 | 29–44 | 27–45 |
+| [1–2 December 2020](2020-12-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 38 | 35–41 | 34–42 | 33–43 | 30–45 |
 | [25–30 November 2020](2020-11-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 38 | 34–41 | 33–43 | 33–44 | 31–45 |
 | [24–30 November 2020](2020-11-30-KantarTNS.html) | Kantar TNS <br> TV2 | 41 | 37–45 | 37–45 | 36–46 | 35–47 |
+| [24–29 November 2020](2020-11-29-Sentio.html) | Sentio <br> Amedia and Nettavisen | 34 | 32–37 | 32–37 | 31–38 | 29–40 |
 | [16–18 November 2020](2020-11-18-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 34 | 31–39 | 30–40 | 29–41 | 27–44 |
 | [9–15 November 2020](2020-11-15-Norstat.html) | Norstat <br> Aftenposten and NRK | 35 | 33–39 | 31–40 | 31–42 | 30–44 |
 | [3–9 November 2020](2020-11-09-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 33 | 29–36 | 28–36 | 27–37 | 26–39 |
@@ -642,27 +646,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.2% | 99.9% |  |
-| 26 | 0.6% | 99.7% |  |
-| 27 | 1.3% | 99.2% |  |
-| 28 | 3% | 98% |  |
-| 29 | 5% | 95% |  |
-| 30 | 4% | 89% |  |
-| 31 | 7% | 85% |  |
-| 32 | 8% | 78% |  |
-| 33 | 10% | 70% |  |
-| 34 | 12% | 60% | Median |
-| 35 | 7% | 48% |  |
-| 36 | 9% | 41% |  |
-| 37 | 6% | 32% |  |
-| 38 | 5% | 26% |  |
-| 39 | 5% | 21% |  |
-| 40 | 4% | 17% |  |
-| 41 | 4% | 12% |  |
-| 42 | 2% | 9% |  |
-| 43 | 2% | 6% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.4% | 99.8% |  |
+| 28 | 0.5% | 99.5% |  |
+| 29 | 2% | 98.9% |  |
+| 30 | 2% | 97% |  |
+| 31 | 3% | 95% |  |
+| 32 | 6% | 92% |  |
+| 33 | 8% | 87% |  |
+| 34 | 17% | 79% |  |
+| 35 | 9% | 63% |  |
+| 36 | 12% | 54% | Median |
+| 37 | 7% | 41% |  |
+| 38 | 7% | 34% |  |
+| 39 | 5% | 27% |  |
+| 40 | 6% | 22% |  |
+| 41 | 6% | 16% |  |
+| 42 | 3% | 10% |  |
+| 43 | 3% | 7% |  |
 | 44 | 2% | 4% |  |
-| 45 | 1.3% | 2% |  |
+| 45 | 1.4% | 2% |  |
 | 46 | 0.3% | 0.5% |  |
 | 47 | 0.1% | 0.2% |  |
 | 48 | 0% | 0% |  |
