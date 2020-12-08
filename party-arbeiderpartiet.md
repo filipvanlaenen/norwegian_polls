@@ -333,11 +333,11 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39 | 34–42 | 33–43 | 32–44 | 30–46 |
-| [1–2 December 2020](2020-12-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 38 | 35–42 | 34–43 | 34–44 | 32–46 |
+| N/A | [Poll Average](average.html) | 39 | 34–43 | 33–44 | 32–44 | 30–46 |
+| [1–2 December 2020](2020-12-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 39 | 35–42 | 34–44 | 33–44 | 31–46 |
 | [25–30 November 2020](2020-11-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 38 | 33–41 | 32–41 | 32–42 | 29–44 |
 | [24–30 November 2020](2020-11-30-KantarTNS.html) | Kantar TNS <br> TV2 | 37 | 33–41 | 32–42 | 31–43 | 29–44 |
-| [24–29 November 2020](2020-11-29-Sentio.html) | Sentio <br> Amedia and Nettavisen | 42 | 38–42 | 37–44 | 37–46 | 37–47 |
+| [24–29 November 2020](2020-11-29-Sentio.html) | Sentio <br> Amedia and Nettavisen | 41 | 38–44 | 37–45 | 37–46 | 35–47 |
 | [16–18 November 2020](2020-11-18-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 40 | 36–44 | 35–44 | 34–45 | 32–47 |
 | [9–15 November 2020](2020-11-15-Norstat.html) | Norstat <br> Aftenposten and NRK | 39 | 35–43 | 35–43 | 34–44 | 32–45 |
 | [3–9 November 2020](2020-11-09-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 38 | 33–41 | 33–41 | 31–43 | 29–43 |
@@ -644,18 +644,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 3% | 93% |  |
 | 35 | 6% | 90% |  |
 | 36 | 7% | 83% |  |
-| 37 | 12% | 76% |  |
-| 38 | 9% | 64% |  |
-| 39 | 13% | 55% | Median |
+| 37 | 10% | 76% |  |
+| 38 | 11% | 66% |  |
+| 39 | 13% | 56% | Median |
 | 40 | 12% | 42% |  |
-| 41 | 9% | 31% |  |
-| 42 | 12% | 21% |  |
-| 43 | 5% | 10% |  |
-| 44 | 3% | 5% |  |
-| 45 | 0.9% | 2% |  |
-| 46 | 0.6% | 0.8% |  |
+| 41 | 11% | 30% |  |
+| 42 | 7% | 19% |  |
+| 43 | 6% | 12% |  |
+| 44 | 4% | 6% |  |
+| 45 | 1.3% | 2% |  |
+| 46 | 0.4% | 0.7% |  |
 | 47 | 0.2% | 0.3% |  |
-| 48 | 0% | 0.1% |  |
+| 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0.1% | Last Result |
 | 50 | 0% | 0% |  |
 

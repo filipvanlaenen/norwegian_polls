@@ -337,11 +337,11 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41 | 35–48 | 34–48 | 33–49 | 31–52 |
-| [1–2 December 2020](2020-12-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 42 | 38–47 | 37–48 | 36–48 | 34–50 |
+| N/A | [Poll Average](average.html) | 41 | 35–47 | 34–49 | 33–50 | 31–53 |
+| [1–2 December 2020](2020-12-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 41 | 38–46 | 37–47 | 36–48 | 35–50 |
 | [25–30 November 2020](2020-11-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 40 | 37–45 | 36–45 | 35–46 | 34–48 |
 | [24–30 November 2020](2020-11-30-KantarTNS.html) | Kantar TNS <br> TV2 | 36 | 33–39 | 32–41 | 31–42 | 29–43 |
-| [24–29 November 2020](2020-11-29-Sentio.html) | Sentio <br> Amedia and Nettavisen | 48 | 46–51 | 45–52 | 44–53 | 41–55 |
+| [24–29 November 2020](2020-11-29-Sentio.html) | Sentio <br> Amedia and Nettavisen | 48 | 44–51 | 43–53 | 42–54 | 41–56 |
 | [16–18 November 2020](2020-11-18-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 36 | 33–41 | 32–42 | 31–43 | 29–44 |
 | [9–15 November 2020](2020-11-15-Norstat.html) | Norstat <br> Aftenposten and NRK | 40 | 37–44 | 35–45 | 34–46 | 34–48 |
 | [3–9 November 2020](2020-11-09-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 43 | 39–46 | 39–48 | 38–49 | 36–52 |
@@ -648,25 +648,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 4% | 95% |  |
 | 35 | 6% | 91% |  |
 | 36 | 6% | 85% |  |
-| 37 | 5% | 80% |  |
+| 37 | 6% | 80% |  |
 | 38 | 7% | 74% |  |
 | 39 | 7% | 67% |  |
 | 40 | 9% | 60% |  |
-| 41 | 8% | 51% | Median |
-| 42 | 7% | 43% |  |
-| 43 | 7% | 36% |  |
-| 44 | 4% | 29% |  |
-| 45 | 4% | 25% | Last Result |
-| 46 | 3% | 20% |  |
-| 47 | 3% | 17% |  |
-| 48 | 11% | 14% |  |
-| 49 | 1.3% | 4% |  |
-| 50 | 0.7% | 2% |  |
-| 51 | 0.5% | 2% |  |
-| 52 | 0.7% | 1.2% |  |
-| 53 | 0.2% | 0.5% |  |
-| 54 | 0% | 0.2% |  |
+| 41 | 9% | 51% | Median |
+| 42 | 7% | 41% |  |
+| 43 | 7% | 34% |  |
+| 44 | 6% | 27% |  |
+| 45 | 5% | 21% | Last Result |
+| 46 | 4% | 16% |  |
+| 47 | 3% | 12% |  |
+| 48 | 4% | 10% |  |
+| 49 | 2% | 5% |  |
+| 50 | 1.0% | 4% |  |
+| 51 | 1.1% | 2% |  |
+| 52 | 0.5% | 1.4% |  |
+| 53 | 0.5% | 0.9% |  |
+| 54 | 0.2% | 0.5% |  |
 | 55 | 0.1% | 0.2% |  |
-| 56 | 0% | 0% |  |
+| 56 | 0.1% | 0.1% |  |
+| 57 | 0% | 0% |  |
 
 
