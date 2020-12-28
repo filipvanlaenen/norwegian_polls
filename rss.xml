@@ -8,7 +8,47 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sun, 13 Dec 2020 11:18:04 +0100</pubDate>
+    <pubDate>Mon, 28 Dec 2020 17:48:10 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos MMI for Dagbladet, 14–16 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-12-16-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.5–5.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.8–9.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.8–5.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 18.2–24.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 19.4–25.4%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.7–5.5%&lt;/li&gt;&lt;li&gt;Høyre: 16.2–21.9%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.6–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-12-16-IpsosMMI.png"
+        length="301437"
+        type="image/png"/>
+      <pubDate>Mon, 28 Dec 2020 11:25:21 +0100</pubDate>
+      <dc:date>2020-12-28T11:25:21.861015+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 7–13 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-12-13-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–18 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 34–44 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 34–45 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–8 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 34–45 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 18–27 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-12-13-Norstat-seats.png"
+        length="247540"
+        type="image/png"/>
+      <pubDate>Mon, 28 Dec 2020 17:48:10 +0100</pubDate>
+      <dc:date>2020-12-28T17:48:10.171795+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 7–13 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-12-13-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-12-13-Norstat-coalitions-seats.png"
+        length="507719"
+        type="image/png"/>
+      <pubDate>Mon, 28 Dec 2020 17:48:10 +0100</pubDate>
+      <dc:date>2020-12-28T17:48:10.171795+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 7–13 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2020-12-13-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.4–9.9%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.7–5.2%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 18.9–24.2%&lt;/li&gt;&lt;li&gt;Senterpartiet: 18.8–24.1%&lt;/li&gt;&lt;li&gt;Venstre: 2.2–4.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.7–5.2%&lt;/li&gt;&lt;li&gt;Høyre: 19.3–24.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.2–14.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2020-12-13-Norstat.png"
+        length="291565"
+        type="image/png"/>
+      <pubDate>Mon, 28 Dec 2020 17:48:10 +0100</pubDate>
+      <dc:date>2020-12-28T17:48:10.171795+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–7 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2020-12-07-OpinionPerduco.html#seats</link>
@@ -2259,6 +2299,6 @@
       <pubDate>Tue, 22 Sep 2020 08:02:52 +0200</pubDate>
       <dc:date>2020-09-22T08:02:52.533064+02:00</dc:date>
     </item>
-    <dc:date>2020-12-13T11:18:04.795683+01:00</dc:date>
+    <dc:date>2020-12-28T17:48:10.171795+01:00</dc:date>
   </channel>
 </rss>
