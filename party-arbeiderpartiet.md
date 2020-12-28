@@ -10,7 +10,9 @@ Last result: **27.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 19.3–23.3% | 18.7–23.9% | 18.3–24.5% | 17.4–25.5% |
+| N/A | [Poll Average](average.html) | 21.2% | 19.3–23.3% | 18.7–23.9% | 18.3–24.4% | 17.4–25.4% |
+| [14–16 December 2020](2020-12-16-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 21.0% | 19.2–23.1% | 18.7–23.6% | 18.2–24.1% | 17.4–25.1% |
+| [7–13 December 2020](2020-12-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 21.4% | 19.8–23.2% | 19.3–23.7% | 18.9–24.2% | 18.2–25.0% |
 | [1–7 December 2020](2020-12-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 21.8% | 19.9–23.9% | 19.3–24.5% | 18.9–25.0% | 18.0–26.1% |
 | [1–2 December 2020](2020-12-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 21.1% | 19.4–23.0% | 18.9–23.6% | 18.4–24.1% | 17.6–25.0% |
 | [25–30 November 2020](2020-11-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
@@ -316,12 +318,12 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 3% | 99.4% |  |
 | 18.5–19.5% | 10% | 96% |  |
 | 19.5–20.5% | 19% | 86% |  |
-| 20.5–21.5% | 25% | 66% | Median |
-| 21.5–22.5% | 21% | 42% |  |
+| 20.5–21.5% | 25% | 67% | Median |
+| 21.5–22.5% | 22% | 42% |  |
 | 22.5–23.5% | 13% | 21% |  |
 | 23.5–24.5% | 6% | 8% |  |
 | 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.4% | 0.5% |  |
+| 25.5–26.5% | 0.4% | 0.4% |  |
 | 26.5–27.5% | 0.1% | 0.1% | Last Result |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -335,6 +337,8 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 39 | 35–43 | 33–44 | 32–44 | 30–46 |
+| [14–16 December 2020](2020-12-16-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 39 | 35–44 | 33–44 | 32–44 | 29–46 |
+| [7–13 December 2020](2020-12-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 39 | 36–43 | 35–44 | 34–44 | 32–46 |
 | [1–7 December 2020](2020-12-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 40 | 35–43 | 34–44 | 34–45 | 32–46 |
 | [1–2 December 2020](2020-12-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 39 | 35–42 | 34–44 | 33–44 | 31–46 |
 | [25–30 November 2020](2020-11-30-ResponsAnalyse.html) | Respons Analyse <br> VG | 38 | 33–41 | 32–41 | 32–42 | 29–44 |
@@ -637,23 +641,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.1% | 100% |  |
-| 30 | 0.4% | 99.8% |  |
-| 31 | 0.6% | 99.4% |  |
+| 28 | 0.1% | 100% |  |
+| 29 | 0.2% | 99.9% |  |
+| 30 | 0.4% | 99.7% |  |
+| 31 | 0.6% | 99.3% |  |
 | 32 | 2% | 98.7% |  |
 | 33 | 3% | 97% |  |
-| 34 | 3% | 95% |  |
-| 35 | 6% | 92% |  |
-| 36 | 7% | 86% |  |
-| 37 | 10% | 80% |  |
-| 38 | 11% | 70% |  |
-| 39 | 13% | 58% | Median |
-| 40 | 12% | 45% |  |
-| 41 | 12% | 34% |  |
-| 42 | 7% | 22% |  |
-| 43 | 8% | 14% |  |
-| 44 | 4% | 7% |  |
-| 45 | 1.4% | 2% |  |
+| 34 | 3% | 94% |  |
+| 35 | 6% | 91% |  |
+| 36 | 6% | 86% |  |
+| 37 | 10% | 79% |  |
+| 38 | 12% | 69% |  |
+| 39 | 13% | 57% | Median |
+| 40 | 12% | 44% |  |
+| 41 | 11% | 33% |  |
+| 42 | 9% | 22% |  |
+| 43 | 6% | 13% |  |
+| 44 | 5% | 7% |  |
+| 45 | 1.0% | 2% |  |
 | 46 | 0.6% | 1.0% |  |
 | 47 | 0.2% | 0.4% |  |
 | 48 | 0.1% | 0.1% |  |
