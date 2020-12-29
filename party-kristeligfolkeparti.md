@@ -331,8 +331,8 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–8 | 1–9 | 0–9 | 0–10 |
-| [14–16 December 2020](2020-12-16-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3 | 2–9 | 1–9 | 1–9 | 1–11 |
+| N/A | [Poll Average](average.html) | 2 | 1–8 | 1–8 | 0–9 | 0–10 |
+| [14–16 December 2020](2020-12-16-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3 | 1–9 | 1–9 | 1–9 | 1–11 |
 | [7–13 December 2020](2020-12-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 1–8 | 1–9 | 1–9 | 1–10 |
 | [1–7 December 2020](2020-12-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–8 | 1–8 | 1–9 | 0–10 |
 | [1–2 December 2020](2020-12-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 1 | 0–2 | 0–2 | 0–3 | 0–8 |
@@ -638,16 +638,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% |  |
 | 1 | 28% | 97% |  |
-| 2 | 19% | 69% | Median |
-| 3 | 25% | 50% |  |
+| 2 | 20% | 69% | Median |
+| 3 | 23% | 48% |  |
 | 4 | 0% | 25% |  |
 | 5 | 0% | 25% |  |
 | 6 | 0.5% | 25% |  |
 | 7 | 9% | 25% |  |
-| 8 | 10% | 16% | Last Result |
-| 9 | 5% | 6% |  |
+| 8 | 11% | 15% | Last Result |
+| 9 | 4% | 4% |  |
 | 10 | 0.6% | 0.8% |  |
-| 11 | 0.1% | 0.1% |  |
+| 11 | 0.1% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 

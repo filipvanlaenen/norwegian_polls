@@ -341,8 +341,8 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 34–47 | 33–48 | 32–50 | 29–53 |
-| [14–16 December 2020](2020-12-16-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 34 | 30–39 | 29–39 | 29–39 | 27–41 |
+| N/A | [Poll Average](average.html) | 40 | 34–47 | 32–48 | 31–50 | 29–53 |
+| [14–16 December 2020](2020-12-16-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 34 | 30–39 | 30–40 | 29–40 | 26–42 |
 | [7–13 December 2020](2020-12-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 40 | 36–44 | 35–45 | 34–45 | 33–47 |
 | [1–7 December 2020](2020-12-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 42 | 38–45 | 36–46 | 35–47 | 34–49 |
 | [1–2 December 2020](2020-12-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 41 | 38–46 | 37–47 | 36–48 | 35–50 |
@@ -646,20 +646,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.2% | 100% |  |
-| 28 | 0.1% | 99.8% |  |
-| 29 | 0.6% | 99.7% |  |
-| 30 | 1.0% | 99.1% |  |
-| 31 | 0.6% | 98% |  |
-| 32 | 1.2% | 98% |  |
-| 33 | 5% | 96% |  |
-| 34 | 4% | 91% |  |
-| 35 | 7% | 87% |  |
-| 36 | 5% | 80% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.1% | 99.9% |  |
+| 28 | 0.2% | 99.8% |  |
+| 29 | 0.4% | 99.6% |  |
+| 30 | 1.2% | 99.2% |  |
+| 31 | 2% | 98% |  |
+| 32 | 2% | 96% |  |
+| 33 | 3% | 95% |  |
+| 34 | 4% | 92% |  |
+| 35 | 6% | 87% |  |
+| 36 | 6% | 81% |  |
 | 37 | 6% | 75% |  |
 | 38 | 7% | 69% |  |
-| 39 | 8% | 62% |  |
-| 40 | 8% | 54% | Median |
+| 39 | 6% | 62% |  |
+| 40 | 9% | 55% | Median |
 | 41 | 9% | 46% |  |
 | 42 | 7% | 37% |  |
 | 43 | 6% | 30% |  |
