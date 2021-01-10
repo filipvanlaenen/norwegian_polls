@@ -389,7 +389,7 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 | [26 May–1 June 2020](2020-06-01-Norstat.html) | Norstat <br> Aftenposten and NRK | 21 | 19–24 | 18–26 | 17–26 | 16–27 |
 | [25–29 May 2020](2020-05-29-KantarTNS.html) | Kantar TNS <br> TV2 | 21 | 19–25 | 18–27 | 18–27 | 16–27 |
 | [25–28 May 2020](2020-05-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 18 | 15–22 | 14–22 | 13–22 | 12–25 |
-| [19–25 May 2020](2020-05-25-Norstat.html) | Norstat <br> Aftenposten and NRK | 21 | 19–24 | 18–25 | 18–25 | 16–28 |
+| [19–25 May 2020](2020-05-25-Norstat.html) | Norstat <br> Aftenposten and NRK | 21 | 18–25 | 18–26 | 18–26 | 17–27 |
 | [12–16 May 2020](2020-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 20 | 17–22 | 17–23 | 16–23 | 15–26 |
 | [5–10 May 2020](2020-05-10-OpinionPerduco.html) | Opinion Perduco | 17 | 14–20 | 13–20 | 12–21 | 12–22 |
 | [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 16 | 13–18 | 13–20 | 12–21 | 12–23 |
@@ -410,7 +410,7 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 | [3–9 March 2020](2020-03-09-OpinionPerduco.html) | Opinion Perduco | 24 | 21–27 | 20–28 | 19–28 | 18–29 |
 | [3–4 March 2020](2020-03-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 21 | 18–24 | 18–24 | 18–25 | 16–26 |
 | [27 February–2 March 2020](2020-03-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 26 | 24–28 | 23–29 | 22–29 | 20–31 |
-| [24 February–2 March 2020](2020-03-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 24 | 20–27 | 19–28 | 18–28 | 18–31 |
+| [24 February–2 March 2020](2020-03-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 24 | 20–26 | 19–27 | 19–28 | 17–30 |
 | [24–28 February 2020](2020-02-28-KantarTNS.html) | Kantar TNS <br> TV2 | 25 | 21–27 | 20–29 | 20–29 | 18–31 |
 | [17–23 February 2020](2020-02-23-Norstat.html) | Norstat <br> Vårt Land | 26 | 22–28 | 21–29 | 21–30 | 18–32 |
 | [17–19 February 2020](2020-02-19-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 27 | 23–29 | 22–30 | 20–31 | 19–33 |
@@ -423,9 +423,9 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 | [24–27 January 2020](2020-01-27-Sentio.html) | Sentio <br> Amedia and Nettavisen | 33 | 29–35 | 28–35 | 27–35 | 26–36 |
 | [21–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> Vårt Land | 26 | 24–30 | 24–31 | 23–31 | 20–32 |
 | [20–22 January 2020](2020-01-22-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 30 | 26–33 | 24–34 | 24–36 | 23–36 |
-| [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 26 | 24–30 | 23–31 | 23–32 | 21–32 |
-| [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 27 | 22–30 | 22–31 | 21–32 | 18–34 |
-| [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 19 | 17–24 | 17–24 | 16–24 | 15–25 |
+| [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 26 | 24–29 | 23–29 | 22–30 | 21–32 |
+| [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 26 | 22–30 | 21–32 | 21–33 | 20–34 |
+| [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 19 | 16–23 | 16–24 | 15–24 | 15–24 |
 | [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 23 | 20–23 | 18–24 | 18–25 | 17–26 |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 15 | 13–17 | 12–18 | 12–19 | 10–21 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 19 | 17–22 | 16–22 | 14–24 | 14–25 |
