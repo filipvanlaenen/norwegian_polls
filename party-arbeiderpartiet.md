@@ -385,7 +385,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [2–8 June 2020](2020-06-08-OpinionPerduco.html) | Opinion Perduco | 45 | 41–49 | 40–51 | 39–53 | 38–56 |
 | [2–4 June 2020](2020-06-04-ResponsAnalyse.html) | Respons Analyse <br> VG | 41 | 40–44 | 40–46 | 39–47 | 36–50 |
 | [2–3 June 2020](2020-06-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 42 | 40–46 | 40–47 | 38–47 | 36–50 |
-| [26 May–1 June 2020](2020-06-01-Norstat.html) | Norstat <br> Aftenposten and NRK | 41 | 40–46 | 39–47 | 36–47 | 34–49 |
+| [26 May–1 June 2020](2020-06-01-Norstat.html) | Norstat <br> Aftenposten and NRK | 41 | 38–46 | 37–46 | 36–47 | 34–49 |
 | [25–29 May 2020](2020-05-29-KantarTNS.html) | Kantar TNS <br> TV2 | 41 | 39–46 | 38–47 | 37–48 | 35–51 |
 | [25–28 May 2020](2020-05-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 46 | 42–51 | 42–52 | 41–55 | 40–57 |
 | [19–25 May 2020](2020-05-25-Norstat.html) | Norstat <br> Aftenposten and NRK | 45 | 42–50 | 41–51 | 41–53 | 39–54 |
