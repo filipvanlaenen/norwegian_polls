@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 04 Feb 2021 18:23:48 +0100</pubDate>
+    <pubDate>Mon, 15 Feb 2021 17:17:34 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–8 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.0–4.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 22.0–27.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 16.7–21.7%&lt;/li&gt;&lt;li&gt;Venstre: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Høyre: 22.5–27.9%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 6.5–10.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco.png"
+        length="295824"
+        type="image/png"/>
+      <pubDate>Mon, 15 Feb 2021 17:17:34 +0100</pubDate>
+      <dc:date>2021-02-15T17:17:34.364279+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Respons Analyse for VG, 27 January–2 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-02-ResponsAnalyse.html#seats</link>
@@ -2529,6 +2539,6 @@
       <pubDate>Tue, 22 Sep 2020 08:02:52 +0200</pubDate>
       <dc:date>2020-09-22T08:02:52.533064+02:00</dc:date>
     </item>
-    <dc:date>2021-02-04T18:23:48.250674+01:00</dc:date>
+    <dc:date>2021-02-15T17:17:34.364279+01:00</dc:date>
   </channel>
 </rss>
