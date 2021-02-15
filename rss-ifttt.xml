@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Norwegian Parliament</description>
     <pubDate>Sat, 3 Oct 2020 12:45:19 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–8 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–8 February 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco.png" length="295824" type="image/png"/>
+      <pubDate>Mon, 15 Feb 2021 17:17:34 +0100</pubDate>
+      <dc:date>2021-02-15T17:17:34.364279+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Respons Analyse for VG, 27 January–2 February 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-02-ResponsAnalyse.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Respons Analyse for VG, 27 January–2 February 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-02-02-ResponsAnalyse.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-02-02-ResponsAnalyse-seating-plan.png"/>]]></description>
@@ -92,22 +100,6 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-01-08-KantarTNS.png" length="281178" type="image/png"/>
       <pubDate>Thu, 4 Feb 2021 08:29:00 +0100</pubDate>
       <dc:date>2021-02-04T08:29:00.000043+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 5–6 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-01-06-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 5–6 January 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-01-06-Norfakta.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-01-06-Norfakta.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-01-06-Norfakta.png" length="298552" type="image/png"/>
-      <pubDate>Thu, 4 Feb 2021 08:53:56 +0100</pubDate>
-      <dc:date>2021-02-04T08:53:56.921491+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Respons Analyse for VG, 4–6 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-01-06-ResponsAnalyse.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 4–6 January 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-01-06-ResponsAnalyse.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-01-06-ResponsAnalyse.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-01-06-ResponsAnalyse.png" length="280822" type="image/png"/>
-      <pubDate>Thu, 4 Feb 2021 08:41:35 +0100</pubDate>
-      <dc:date>2021-02-04T08:41:35.945889+01:00</dc:date>
     </item>
   </channel>
 </rss>
