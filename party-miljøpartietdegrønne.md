@@ -10,9 +10,9 @@ Last result: **3.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 2.0–6.5% | 1.6–6.9% | 1.4–7.3% | 1.1–8.0% |
+| N/A | [Poll Average](average.html) | 4.8% | 2.1–6.4% | 1.7–6.9% | 1.4–7.2% | 1.1–8.0% |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 4.0% | 3.3–5.0% | 3.1–5.3% | 3.0–5.5% | 2.7–6.0% |
-| [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 5.0% | N/A | N/A | N/A | N/A |
+| [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 4.8% | N/A | N/A | N/A | N/A |
 | [25–29 January 2021](2021-01-29-KantarTNS.html) | Kantar TNS <br> TV2 | 5.0% | 4.1–6.2% | 3.8–6.5% | 3.6–6.8% | 3.2–7.4% |
@@ -328,13 +328,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 11% | 96% |  |
-| 2.5–3.5% | 10% | 85% | Last Result |
-| 3.5–4.5% | 23% | 75% |  |
-| 4.5–5.5% | 20% | 52% | Median |
-| 5.5–6.5% | 23% | 32% |  |
-| 6.5–7.5% | 7% | 9% |  |
-| 7.5–8.5% | 1.5% | 2% |  |
+| 1.5–2.5% | 9% | 96% |  |
+| 2.5–3.5% | 9% | 87% | Last Result |
+| 3.5–4.5% | 23% | 79% |  |
+| 4.5–5.5% | 24% | 56% | Median |
+| 5.5–6.5% | 23% | 31% |  |
+| 6.5–7.5% | 7% | 8% |  |
+| 7.5–8.5% | 1.3% | 1.4% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -349,7 +349,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 1–11 | 0–11 | 0–12 | 0–13 |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 7 | 2–9 | 2–9 | 1–10 | 1–11 |
-| [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
+| [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 9 | 7–10 | 3–10 | 2–11 | 2–12 |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 2–8 | 1–9 | 1–9 | 1–10 |
 | [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
 | [25–29 January 2021](2021-01-29-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 6–10 | 2–11 | 2–11 | 2–12 |
@@ -665,20 +665,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 10% | 92% | Last Result |
-| 2 | 12% | 82% |  |
-| 3 | 5% | 70% |  |
-| 4 | 3% | 65% |  |
-| 5 | 0% | 63% |  |
-| 6 | 0.8% | 63% |  |
-| 7 | 6% | 62% |  |
-| 8 | 14% | 56% | Median |
-| 9 | 12% | 42% |  |
-| 10 | 14% | 30% |  |
-| 11 | 13% | 16% |  |
+| 0 | 7% | 100% |  |
+| 1 | 8% | 93% | Last Result |
+| 2 | 11% | 85% |  |
+| 3 | 4% | 73% |  |
+| 4 | 2% | 69% |  |
+| 5 | 0% | 67% |  |
+| 6 | 0.7% | 67% |  |
+| 7 | 6% | 66% |  |
+| 8 | 13% | 60% | Median |
+| 9 | 18% | 48% |  |
+| 10 | 16% | 30% |  |
+| 11 | 11% | 14% |  |
 | 12 | 2% | 3% |  |
-| 13 | 0.9% | 1.2% |  |
+| 13 | 0.8% | 1.0% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0.1% |  |
 | 16 | 0% | 0% |  |
