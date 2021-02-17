@@ -10,11 +10,11 @@ Last result: **4.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.6% | 2.2–4.9% | 2.0–5.1% | 1.7–5.4% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.6% | 2.2–4.9% | 2.0–5.1% | 1.7–5.5% |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.2% | 2.6–4.1% | 2.4–4.3% | 2.3–4.5% | 2.0–5.0% |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
-| [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.5% | N/A | N/A | N/A | N/A |
+| [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.5% | 2.8–4.6% | 2.6–4.9% | 2.4–5.2% | 2.1–5.7% |
 | [25–29 January 2021](2021-01-29-KantarTNS.html) | Kantar TNS <br> TV2 | 2.8% | 2.2–3.8% | 2.0–4.1% | 1.9–4.3% | 1.6–4.8% |
 | [25–27 January 2021](2021-01-27-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2.9% | 2.2–3.8% | 2.0–4.1% | 1.9–4.3% | 1.6–4.8% |
 | [18–24 January 2021](2021-01-24-Norstat.html) | Norstat <br> Aftenposten and NRK | 2.7% | 2.1–3.5% | 2.0–3.8% | 1.9–4.0% | 1.6–4.4% |
@@ -23,7 +23,7 @@ Last result: **4.2%** (General Election of 8–9 September 2013)
 | [4–8 January 2021](2021-01-08-KantarTNS.html) | Kantar TNS <br> TV2 | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
 | [4–6 January 2021](2021-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [5–6 January 2021](2021-01-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.5% | 2.7–4.5% | 2.5–4.7% | 2.4–5.0% | 2.1–5.5% |
-| [28 December 2020–2 January 2021](2021-01-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.7% | N/A | N/A | N/A | N/A |
+| [28 December 2020–2 January 2021](2021-01-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.7% | 3.1–4.6% | 2.9–4.9% | 2.7–5.2% | 2.4–5.6% |
 | [14–16 December 2020](2020-12-16-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3.8% | 3.0–4.9% | 2.8–5.2% | 2.7–5.5% | 2.3–6.0% |
 | [7–13 December 2020](2020-12-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.7–5.2% | 2.4–5.7% |
 | [1–7 December 2020](2020-12-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.5% | 2.7–4.5% | 2.5–4.8% | 2.3–5.1% | 2.0–5.7% |
@@ -155,10 +155,10 @@ Last result: **4.2%** (General Election of 8–9 September 2013)
 | [30 July–5 August 2019](2019-08-05-OpinionPerduco.html) | Opinion Perduco | 3.2% | 2.5–4.2% | 2.3–4.5% | 2.1–4.8% | 1.8–5.4% |
 | [2–3 July 2019](2019-07-03-Norfakta.html) | Norfakta | 4.3% | 3.4–5.4% | 3.2–5.7% | 3.0–6.0% | 2.7–6.5% |
 | [24–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS | 3.5% | 2.8–4.5% | 2.5–4.7% | 2.4–5.0% | 2.1–5.5% |
-| [24–26 June 2019](2019-06-26-IpsosMMI.html) | Ipsos MMI | 2.4% | N/A | N/A | N/A | N/A |
-| [18–24 June 2019](2019-06-24-Norstat.html) | Norstat | 4.2% | N/A | N/A | N/A | N/A |
-| [11–17 June 2019](2019-06-17-Sentio.html) | Sentio | 2.7% | N/A | N/A | N/A | N/A |
-| [4–10 June 2019](2019-06-10-OpinionPerduco.html) | Opinion Perduco | 2.5% | N/A | N/A | N/A | N/A |
+| [24–26 June 2019](2019-06-26-IpsosMMI.html) | Ipsos MMI | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.2–4.2% |
+| [18–24 June 2019](2019-06-24-Norstat.html) | Norstat | 4.2% | 3.5–5.2% | 3.3–5.4% | 3.1–5.7% | 2.8–6.2% |
+| [11–17 June 2019](2019-06-17-Sentio.html) | Sentio | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [4–10 June 2019](2019-06-10-OpinionPerduco.html) | Opinion Perduco | 2.5% | 1.9–3.5% | 1.8–3.7% | 1.6–4.0% | 1.4–4.5% |
 | [3–6 June 2019](2019-06-06-ResponsAnalyse.html) | Respons Analyse | 3.6% | N/A | N/A | N/A | N/A |
 | [4–5 June 2019](2019-06-05-Norfakta.html) | Norfakta | 3.2% | N/A | N/A | N/A | N/A |
 | [28 May–3 June 2019](2019-06-03-Norstat.html) | Norstat | 3.5% | N/A | N/A | N/A | N/A |
@@ -328,11 +328,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 17% | 99.9% |  |
-| 2.5–3.5% | 50% | 83% | Median |
-| 3.5–4.5% | 22% | 33% | Last Result |
+| 1.5–2.5% | 15% | 99.9% |  |
+| 2.5–3.5% | 49% | 85% | Median |
+| 3.5–4.5% | 25% | 36% | Last Result |
 | 4.5–5.5% | 11% | 11% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -348,7 +348,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–7 | 1–8 | 1–8 | 0–9 |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 0–3 | 0–3 | 0–3 | 0–7 |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 1–7 | 1–8 | 1–8 | 0–9 |
-| [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 1–7 | 1–8 | 1–8 | 0–10 |
 | [25–29 January 2021](2021-01-29-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–3 | 0–3 | 0–6 | 0–7 |
 | [25–27 January 2021](2021-01-27-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 1 | 0–3 | 0–7 | 0–7 | 0–9 |
 | [18–24 January 2021](2021-01-24-Norstat.html) | Norstat <br> Aftenposten and NRK | 1 | 0–2 | 0–3 | 0–3 | 0–8 |
@@ -357,7 +357,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [4–8 January 2021](2021-01-08-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–7 | 1–7 | 1–7 | 0–8 |
 | [4–6 January 2021](2021-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 1–8 | 1–8 | 1–9 | 1–9 |
 | [5–6 January 2021](2021-01-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 1 | 1–2 | 1–8 | 1–9 | 0–9 |
-| [28 December 2020–2 January 2021](2021-01-02-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [28 December 2020–2 January 2021](2021-01-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 1–8 | 1–8 | 1–9 | 1–11 |
 | [14–16 December 2020](2020-12-16-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3 | 1–9 | 1–9 | 1–9 | 1–11 |
 | [7–13 December 2020](2020-12-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 1–8 | 1–9 | 1–9 | 1–10 |
 | [1–7 December 2020](2020-12-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–8 | 1–8 | 1–9 | 0–10 |
@@ -489,10 +489,10 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [30 July–5 August 2019](2019-08-05-OpinionPerduco.html) | Opinion Perduco | 3 | 1–6 | 0–7 | 0–8 | 0–9 |
 | [2–3 July 2019](2019-07-03-Norfakta.html) | Norfakta | 6 | 1–8 | 1–9 | 1–9 | 1–10 |
 | [24–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS | 3 | 1–6 | 1–7 | 1–7 | 0–8 |
-| [24–26 June 2019](2019-06-26-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [18–24 June 2019](2019-06-24-Norstat.html) | Norstat |  |  |  |  |  |
-| [11–17 June 2019](2019-06-17-Sentio.html) | Sentio |  |  |  |  |  |
-| [4–10 June 2019](2019-06-10-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
+| [24–26 June 2019](2019-06-26-IpsosMMI.html) | Ipsos MMI | 1 | 0–2 | 0–3 | 0–3 | 0–5 |
+| [18–24 June 2019](2019-06-24-Norstat.html) | Norstat | 7 | 3–8 | 3–9 | 1–9 | 1–10 |
+| [11–17 June 2019](2019-06-17-Sentio.html) | Sentio | 1 | 1–3 | 0–3 | 0–3 | 0–7 |
+| [4–10 June 2019](2019-06-10-OpinionPerduco.html) | Opinion Perduco | 1 | 0–3 | 0–3 | 0–7 | 0–7 |
 | [3–6 June 2019](2019-06-06-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
 | [4–5 June 2019](2019-06-05-Norfakta.html) | Norfakta |  |  |  |  |  |
 | [28 May–3 June 2019](2019-06-03-Norstat.html) | Norstat |  |  |  |  |  |
@@ -662,15 +662,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 31% | 91% |  |
-| 2 | 18% | 60% | Median |
-| 3 | 23% | 42% |  |
-| 4 | 0% | 20% |  |
-| 5 | 0% | 20% |  |
-| 6 | 0.6% | 20% |  |
-| 7 | 4% | 19% |  |
-| 8 | 9% | 15% | Last Result |
+| 0 | 8% | 100% |  |
+| 1 | 31% | 92% |  |
+| 2 | 18% | 61% | Median |
+| 3 | 24% | 43% |  |
+| 4 | 0% | 19% |  |
+| 5 | 0% | 19% |  |
+| 6 | 0.6% | 19% |  |
+| 7 | 4% | 18% |  |
+| 8 | 8% | 14% | Last Result |
 | 9 | 5% | 6% |  |
 | 10 | 0.9% | 0.9% |  |
 | 11 | 0% | 0% |  |
