@@ -10,8 +10,8 @@ Last result: **3.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 2.0–5.7% | 1.6–6.1% | 1.4–6.4% | 1.1–7.0% |
-| [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 4.7% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.4% | 2.1–5.7% | 1.7–6.0% | 1.4–6.4% | 1.1–7.0% |
+| [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 4.0% | 3.3–5.0% | 3.1–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
@@ -329,12 +329,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 11% | 96% |  |
-| 2.5–3.5% | 11% | 85% | Last Result |
-| 3.5–4.5% | 32% | 74% | Median |
-| 4.5–5.5% | 30% | 43% |  |
+| 1.5–2.5% | 9% | 96% |  |
+| 2.5–3.5% | 9% | 87% | Last Result |
+| 3.5–4.5% | 32% | 78% | Median |
+| 4.5–5.5% | 33% | 46% |  |
 | 5.5–6.5% | 11% | 13% |  |
-| 6.5–7.5% | 2% | 2% |  |
+| 6.5–7.5% | 1.5% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -347,8 +347,8 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 1–10 | 0–10 | 0–11 | 0–12 |
-| [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 8 | 1–10 | 0–10 | 0–11 | 0–12 |
+| [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 8 | 2–10 | 2–11 | 2–11 | 2–12 |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 7 | 2–9 | 2–10 | 1–10 | 1–11 |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 9 | 7–10 | 3–10 | 2–11 | 2–12 |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 2–8 | 1–9 | 1–9 | 1–10 |
@@ -666,20 +666,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 10% | 92% | Last Result |
-| 2 | 17% | 82% |  |
-| 3 | 5% | 65% |  |
-| 4 | 2% | 60% |  |
-| 5 | 0% | 58% |  |
-| 6 | 1.0% | 58% |  |
-| 7 | 7% | 57% | Median |
-| 8 | 15% | 49% |  |
-| 9 | 18% | 34% |  |
-| 10 | 13% | 16% |  |
-| 11 | 2% | 3% |  |
+| 0 | 7% | 100% |  |
+| 1 | 8% | 93% | Last Result |
+| 2 | 16% | 85% |  |
+| 3 | 5% | 68% |  |
+| 4 | 2% | 63% |  |
+| 5 | 0% | 61% |  |
+| 6 | 1.4% | 61% |  |
+| 7 | 8% | 59% |  |
+| 8 | 17% | 51% | Median |
+| 9 | 17% | 34% |  |
+| 10 | 13% | 17% |  |
+| 11 | 3% | 4% |  |
 | 12 | 0.6% | 0.8% |  |
-| 13 | 0.1% | 0.2% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 
