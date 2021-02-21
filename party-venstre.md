@@ -346,14 +346,14 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–7 | 0–8 | 0–8 | 0–10 |
-| [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 1–2 | 1–7 | 1–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 2 | 1–8 | 0–8 | 0–8 | 0–10 |
+| [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 1–2 | 1–2 | 0–3 | 0–8 |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 2–7 | 2–8 | 2–8 | 1–9 |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 2–8 | 2–8 | 2–9 | 2–10 |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 1–2 | 1–2 | 0–2 | 0–7 |
 | [25–29 January 2021](2021-01-29-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 2–8 | 2–9 | 2–10 | 2–11 |
-| [25–27 January 2021](2021-01-27-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 1–2 | 1–3 | 1–6 | 0–8 |
+| [25–27 January 2021](2021-01-27-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 1–2 | 1–2 | 0–3 | 0–8 |
 | [18–24 January 2021](2021-01-24-Norstat.html) | Norstat <br> Aftenposten and NRK | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [12–16 January 2021](2021-01-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 1–2 | 1–2 | 1–2 | 0–7 |
 | [13 January 2021](2021-01-13-InFact.html) | InFact <br> Amedia and Nettavisen | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -665,14 +665,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 13% | 93% |  |
-| 2 | 60% | 80% | Median |
-| 3 | 2% | 20% |  |
-| 4 | 0.3% | 18% |  |
-| 5 | 0% | 18% |  |
-| 6 | 2% | 18% |  |
-| 7 | 6% | 16% |  |
+| 0 | 8% | 100% |  |
+| 1 | 13% | 92% |  |
+| 2 | 60% | 79% | Median |
+| 3 | 2% | 19% |  |
+| 4 | 0.3% | 17% |  |
+| 5 | 0% | 17% |  |
+| 6 | 2% | 17% |  |
+| 7 | 5% | 15% |  |
 | 8 | 8% | 10% | Last Result |
 | 9 | 1.4% | 2% |  |
 | 10 | 0.4% | 0.5% |  |

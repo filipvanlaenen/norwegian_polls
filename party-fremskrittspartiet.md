@@ -349,14 +349,14 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–18 | 10–18 | 10–19 | 8–21 |
-| [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 14 | 11–16 | 10–16 | 10–17 | 9–18 |
+| N/A | [Poll Average](average.html) | 15 | 11–18 | 10–18 | 10–19 | 8–21 |
+| [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 13 | 11–16 | 11–16 | 10–17 | 9–18 |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 15 | 13–17 | 12–18 | 12–19 | 11–19 |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 11 | 10–14 | 9–14 | 9–14 | 8–16 |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 17 | 13–18 | 13–18 | 12–19 | 11–21 |
 | [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 16 | 14–18 | 12–18 | 11–18 | 10–20 |
 | [25–29 January 2021](2021-01-29-KantarTNS.html) | Kantar TNS <br> TV2 | 13 | 10–15 | 9–16 | 9–17 | 8–18 |
-| [25–27 January 2021](2021-01-27-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 17 | 14–19 | 14–20 | 14–21 | 12–22 |
+| [25–27 January 2021](2021-01-27-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 17 | 15–20 | 14–21 | 14–21 | 12–23 |
 | [18–24 January 2021](2021-01-24-Norstat.html) | Norstat <br> Aftenposten and NRK | 19 | 16–21 | 16–21 | 15–22 | 14–23 |
 | [12–16 January 2021](2021-01-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 14 | 11–15 | 11–17 | 11–18 | 10–19 |
 | [13 January 2021](2021-01-13-InFact.html) | InFact <br> Amedia and Nettavisen | 14 | 12–16 | 12–16 | 12–17 | 12–18 |
@@ -671,19 +671,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 0.6% | 99.9% |  |
 | 9 | 2% | 99.3% |  |
-| 10 | 5% | 98% |  |
-| 11 | 7% | 93% |  |
-| 12 | 7% | 85% |  |
+| 10 | 4% | 98% |  |
+| 11 | 8% | 93% |  |
+| 12 | 8% | 86% |  |
 | 13 | 11% | 78% |  |
-| 14 | 18% | 67% | Median |
-| 15 | 13% | 50% |  |
-| 16 | 10% | 36% |  |
-| 17 | 13% | 27% |  |
-| 18 | 11% | 14% |  |
-| 19 | 1.2% | 3% |  |
-| 20 | 1.0% | 2% |  |
-| 21 | 0.2% | 0.6% |  |
-| 22 | 0.3% | 0.4% |  |
+| 14 | 15% | 67% |  |
+| 15 | 13% | 52% | Median |
+| 16 | 11% | 39% |  |
+| 17 | 12% | 28% |  |
+| 18 | 11% | 16% |  |
+| 19 | 2% | 5% |  |
+| 20 | 1.5% | 2% |  |
+| 21 | 0.6% | 1.0% |  |
+| 22 | 0.2% | 0.4% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
