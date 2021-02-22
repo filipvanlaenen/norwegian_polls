@@ -351,7 +351,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–2 | 1–2 | 1–8 | 1–8 |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 2–8 | 2–8 | 2–9 | 1–10 |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 8 | 2–9 | 2–10 | 2–10 | 2–11 |
-| [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 2–9 | 2–10 | 2–10 | 1–11 |
+| [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 7 | 2–9 | 2–9 | 1–10 | 1–11 |
 | [25–29 January 2021](2021-01-29-KantarTNS.html) | Kantar TNS <br> TV2 | 9 | 7–11 | 6–11 | 2–12 | 2–13 |
 | [25–27 January 2021](2021-01-27-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 10 | 8–12 | 7–12 | 2–13 | 2–14 |
 | [18–24 January 2021](2021-01-24-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 2–8 | 2–9 | 2–9 | 1–10 |
@@ -666,15 +666,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 7% | 100% | Last Result |
-| 2 | 39% | 93% |  |
-| 3 | 0.1% | 54% |  |
-| 4 | 0% | 54% |  |
-| 5 | 0% | 54% |  |
-| 6 | 2% | 54% |  |
-| 7 | 9% | 53% | Median |
+| 2 | 37% | 93% |  |
+| 3 | 0.1% | 56% |  |
+| 4 | 0% | 56% |  |
+| 5 | 0% | 56% |  |
+| 6 | 2% | 56% |  |
+| 7 | 10% | 54% | Median |
 | 8 | 19% | 44% |  |
-| 9 | 10% | 25% |  |
-| 10 | 7% | 15% |  |
+| 9 | 11% | 25% |  |
+| 10 | 7% | 14% |  |
 | 11 | 5% | 7% |  |
 | 12 | 2% | 2% |  |
 | 13 | 0.5% | 0.7% |  |
