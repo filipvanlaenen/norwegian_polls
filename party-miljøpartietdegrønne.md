@@ -10,7 +10,9 @@ Last result: **3.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 2.1–5.7% | 1.7–6.0% | 1.4–6.4% | 1.1–7.0% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.4–5.8% | 3.2–6.1% | 3.0–6.4% | 2.6–7.0% |
+| [22–24 February 2021](2021-02-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3.7% | 3.0–4.8% | 2.7–5.0% | 2.6–5.3% | 2.3–5.9% |
+| [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 4.0% | 3.3–5.0% | 3.1–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
@@ -327,14 +329,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 9% | 96% |  |
-| 2.5–3.5% | 9% | 87% | Last Result |
-| 3.5–4.5% | 32% | 78% | Median |
-| 4.5–5.5% | 33% | 46% |  |
-| 5.5–6.5% | 11% | 13% |  |
-| 6.5–7.5% | 1.5% | 2% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.4% | 100% |  |
+| 2.5–3.5% | 12% | 99.6% | Last Result |
+| 3.5–4.5% | 37% | 87% |  |
+| 4.5–5.5% | 35% | 50% | Median |
+| 5.5–6.5% | 13% | 15% |  |
+| 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -347,7 +348,9 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 1–10 | 0–10 | 0–11 | 0–12 |
+| N/A | [Poll Average](average.html) | 8 | 2–10 | 2–10 | 1–11 | 1–12 |
+| [22–24 February 2021](2021-02-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 1–8 | 1–9 | 1–10 | 1–10 |
+| [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 9 | 7–10 | 7–11 | 2–11 | 2–13 |
 | [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 8 | 3–10 | 2–11 | 2–11 | 2–12 |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 7 | 2–9 | 2–10 | 1–10 | 1–11 |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 9 | 7–10 | 3–10 | 2–11 | 2–12 |
@@ -666,19 +669,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 8% | 93% | Last Result |
-| 2 | 14% | 85% |  |
-| 3 | 5% | 71% |  |
-| 4 | 2% | 67% |  |
-| 5 | 0% | 64% |  |
-| 6 | 1.0% | 64% |  |
-| 7 | 9% | 63% |  |
-| 8 | 18% | 54% | Median |
-| 9 | 21% | 36% |  |
-| 10 | 11% | 15% |  |
-| 11 | 3% | 4% |  |
-| 12 | 1.0% | 1.2% |  |
+| 1 | 3% | 100% | Last Result |
+| 2 | 19% | 97% |  |
+| 3 | 5% | 78% |  |
+| 4 | 2% | 74% |  |
+| 5 | 0% | 71% |  |
+| 6 | 1.1% | 71% |  |
+| 7 | 10% | 70% |  |
+| 8 | 21% | 60% | Median |
+| 9 | 22% | 39% |  |
+| 10 | 14% | 17% |  |
+| 11 | 2% | 3% |  |
+| 12 | 0.8% | 1.0% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 

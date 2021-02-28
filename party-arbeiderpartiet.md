@@ -10,7 +10,9 @@ Last result: **27.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.4% | 19.1–24.4% | 18.5–25.3% | 18.0–26.0% | 17.1–27.2% |
+| N/A | [Poll Average](average.html) | 21.3% | 19.1–24.4% | 18.5–25.3% | 18.1–26.0% | 17.1–27.2% |
+| [22–24 February 2021](2021-02-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 20.3% | 18.5–22.2% | 18.0–22.8% | 17.5–23.3% | 16.7–24.3% |
+| [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 20.6% | 19.0–22.4% | 18.5–22.8% | 18.2–23.3% | 17.4–24.1% |
 | [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 24.6% | 22.9–26.4% | 22.4–26.9% | 22.0–27.4% | 21.2–28.3% |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 21.3% | 19.7–23.0% | 19.3–23.5% | 18.9–24.0% | 18.1–24.8% |
@@ -328,15 +330,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 1.0% | 99.8% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.9% | 99.8% |  |
 | 17.5–18.5% | 4% | 98.9% |  |
 | 18.5–19.5% | 10% | 95% |  |
-| 19.5–20.5% | 17% | 85% |  |
-| 20.5–21.5% | 21% | 68% | Median |
-| 21.5–22.5% | 17% | 47% |  |
-| 22.5–23.5% | 12% | 30% |  |
-| 23.5–24.5% | 8% | 18% |  |
+| 19.5–20.5% | 18% | 85% |  |
+| 20.5–21.5% | 21% | 67% | Median |
+| 21.5–22.5% | 17% | 46% |  |
+| 22.5–23.5% | 12% | 29% |  |
+| 23.5–24.5% | 8% | 17% |  |
 | 24.5–25.5% | 5% | 9% |  |
 | 25.5–26.5% | 3% | 4% |  |
 | 26.5–27.5% | 1.0% | 1.3% | Last Result |
@@ -352,7 +354,9 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 35–45 | 33–47 | 32–48 | 30–50 |
+| N/A | [Poll Average](average.html) | 40 | 35–45 | 34–47 | 32–48 | 29–50 |
+| [22–24 February 2021](2021-02-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 39 | 34–41 | 33–42 | 31–43 | 29–45 |
+| [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 38 | 35–41 | 34–41 | 32–41 | 29–43 |
 | [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 40 | 36–42 | 35–43 | 34–43 | 32–45 |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 45 | 41–48 | 41–49 | 41–51 | 39–53 |
 | [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 39 | 37–41 | 37–43 | 35–43 | 31–45 |
@@ -674,24 +678,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0.1% | 100% |  |
 | 28 | 0.1% | 99.9% |  |
 | 29 | 0.3% | 99.8% |  |
-| 30 | 0.6% | 99.6% |  |
-| 31 | 0.9% | 99.0% |  |
-| 32 | 1.0% | 98% |  |
-| 33 | 2% | 97% |  |
-| 34 | 4% | 95% |  |
-| 35 | 4% | 91% |  |
-| 36 | 5% | 87% |  |
+| 30 | 0.6% | 99.5% |  |
+| 31 | 1.1% | 98.8% |  |
+| 32 | 0.8% | 98% |  |
+| 33 | 1.3% | 97% |  |
+| 34 | 3% | 96% |  |
+| 35 | 6% | 93% |  |
+| 36 | 4% | 86% |  |
 | 37 | 9% | 82% |  |
-| 38 | 12% | 73% |  |
-| 39 | 8% | 61% |  |
-| 40 | 12% | 53% | Median |
-| 41 | 11% | 41% |  |
-| 42 | 8% | 30% |  |
-| 43 | 8% | 22% |  |
+| 38 | 13% | 73% |  |
+| 39 | 8% | 60% |  |
+| 40 | 11% | 52% | Median |
+| 41 | 12% | 41% |  |
+| 42 | 8% | 29% |  |
+| 43 | 8% | 21% |  |
 | 44 | 2% | 13% |  |
 | 45 | 4% | 11% |  |
 | 46 | 2% | 7% |  |
-| 47 | 1.4% | 5% |  |
+| 47 | 1.3% | 5% |  |
 | 48 | 2% | 4% |  |
 | 49 | 1.0% | 2% | Last Result |
 | 50 | 0.2% | 0.7% |  |
