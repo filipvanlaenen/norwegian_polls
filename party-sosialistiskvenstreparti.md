@@ -351,10 +351,10 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 8–18 | 7–19 |
 | [22–24 February 2021](2021-02-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 14 | 11–17 | 11–17 | 10–18 | 9–19 |
-| [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 11 | 9–12 | 9–13 | 8–14 | 7–15 |
+| [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 10 | 9–12 | 8–13 | 8–14 | 7–15 |
 | [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 15 | 13–18 | 12–19 | 12–19 | 10–21 |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
-| [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 13 | 11–15 | 11–16 | 11–17 | 10–18 |
+| [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 13 | 11–15 | 11–16 | 10–17 | 9–18 |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 14 | 11–16 | 11–16 | 11–16 | 10–18 |
 | [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
 | [25–29 January 2021](2021-01-29-KantarTNS.html) | Kantar TNS <br> TV2 | 10 | 8–12 | 7–13 | 7–13 | 6–15 |
@@ -675,16 +675,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 99.9% |  |
 | 5 | 0% | 99.9% |  |
 | 6 | 0.2% | 99.9% |  |
-| 7 | 1.0% | 99.7% |  |
+| 7 | 0.9% | 99.7% |  |
 | 8 | 2% | 98.7% |  |
-| 9 | 5% | 97% |  |
-| 10 | 7% | 92% |  |
-| 11 | 16% | 84% | Last Result |
-| 12 | 11% | 68% |  |
+| 9 | 6% | 96% |  |
+| 10 | 9% | 90% |  |
+| 11 | 13% | 82% | Last Result |
+| 12 | 12% | 69% |  |
 | 13 | 13% | 57% | Median |
-| 14 | 17% | 44% |  |
-| 15 | 13% | 28% |  |
-| 16 | 8% | 15% |  |
+| 14 | 16% | 44% |  |
+| 15 | 12% | 28% |  |
+| 16 | 8% | 16% |  |
 | 17 | 4% | 8% |  |
 | 18 | 2% | 3% |  |
 | 19 | 1.0% | 1.3% |  |

@@ -351,10 +351,10 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–9 | 1–10 | 1–11 | 1–12 |
 | [22–24 February 2021](2021-02-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 1 | 1–2 | 1–2 | 1–7 | 1–8 |
-| [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 9 | 7–11 | 2–11 | 2–11 | 2–12 |
+| [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 2–10 | 2–11 | 2–11 | 2–12 |
 | [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 2–8 | 2–9 | 1–9 | 1–10 |
 | [1–8 February 2021](2021-02-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–2 | 1–2 | 1–8 | 1–8 |
-| [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 2–8 | 2–8 | 2–9 | 1–10 |
+| [2–3 February 2021](2021-02-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 2–8 | 1–8 | 1–9 | 1–10 |
 | [27 January–2 February 2021](2021-02-02-ResponsAnalyse.html) | Respons Analyse <br> VG | 8 | 2–9 | 2–10 | 2–10 | 2–11 |
 | [25–31 January 2021](2021-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 7 | 2–9 | 2–9 | 1–10 | 1–11 |
 | [25–29 January 2021](2021-01-29-KantarTNS.html) | Kantar TNS <br> TV2 | 9 | 7–11 | 6–11 | 2–12 | 2–13 |
@@ -670,17 +670,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% | Last Result |
-| 2 | 37% | 86% | Median |
-| 3 | 0.1% | 48% |  |
-| 4 | 0% | 48% |  |
-| 5 | 0% | 48% |  |
-| 6 | 2% | 48% |  |
-| 7 | 9% | 47% |  |
-| 8 | 17% | 38% |  |
-| 9 | 13% | 21% |  |
-| 10 | 4% | 8% |  |
-| 11 | 3% | 4% |  |
+| 1 | 15% | 100% | Last Result |
+| 2 | 35% | 85% | Median |
+| 3 | 0.1% | 50% |  |
+| 4 | 0% | 50% |  |
+| 5 | 0% | 50% |  |
+| 6 | 2% | 50% |  |
+| 7 | 13% | 48% |  |
+| 8 | 17% | 35% |  |
+| 9 | 10% | 18% |  |
+| 10 | 5% | 8% |  |
+| 11 | 2% | 3% |  |
 | 12 | 0.5% | 0.6% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
