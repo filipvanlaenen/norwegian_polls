@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Mon, 01 Mar 2021 09:46:07 +0100</pubDate>
+    <pubDate>Tue, 02 Mar 2021 14:39:02 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos MMI for Dagbladet, 22–24 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-24-IpsosMMI.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2021-02-21T15:16:59.335382+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–8 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–7 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–17 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–10 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 41–51 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 32–40 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–8 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 40–52 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco-seats.png"
+        length="250205"
+        type="image/png"/>
+      <pubDate>Tue, 02 Mar 2021 14:39:02 +0100</pubDate>
+      <dc:date>2021-03-02T14:39:02.542351+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–8 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco-coalitions-seats.png"
+        length="514028"
+        type="image/png"/>
+      <pubDate>Tue, 02 Mar 2021 14:39:02 +0100</pubDate>
+      <dc:date>2021-03-02T14:39:02.542351+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–8 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.0–4.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 22.0–27.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 16.7–21.7%&lt;/li&gt;&lt;li&gt;Venstre: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Høyre: 22.5–27.9%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 6.5–10.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-02-08-OpinionPerduco.png"
         length="295824"
         type="image/png"/>
-      <pubDate>Wed, 17 Feb 2021 23:11:38 +0100</pubDate>
-      <dc:date>2021-02-17T23:11:38.221533+01:00</dc:date>
+      <pubDate>Tue, 02 Mar 2021 14:39:02 +0100</pubDate>
+      <dc:date>2021-03-02T14:39:02.542351+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 2–3 February 2021 – Seat Projections for the Parties</title>
@@ -2759,6 +2779,6 @@
       <pubDate>Wed, 17 Feb 2021 21:10:53 +0100</pubDate>
       <dc:date>2021-02-17T21:10:53.434292+01:00</dc:date>
     </item>
-    <dc:date>2021-03-01T09:46:07.610915+01:00</dc:date>
+    <dc:date>2021-03-02T14:39:02.542351+01:00</dc:date>
   </channel>
 </rss>
