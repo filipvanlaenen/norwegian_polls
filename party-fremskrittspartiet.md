@@ -367,9 +367,9 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 | [12–16 January 2021](2021-01-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 14 | 11–15 | 11–17 | 11–18 | 10–19 |
 | [13 January 2021](2021-01-13-InFact.html) | InFact <br> Amedia and Nettavisen | 14 | 12–16 | 12–16 | 12–17 | 12–18 |
 | [4–8 January 2021](2021-01-08-KantarTNS.html) | Kantar TNS <br> TV2 | 14 | 11–15 | 11–16 | 11–16 | 9–17 |
-| [4–6 January 2021](2021-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 18 | 14–19 | 13–20 | 13–20 | 13–21 |
-| [5–6 January 2021](2021-01-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 22 | 20–24 | 19–25 | 18–25 | 16–26 |
-| [28 December 2020–2 January 2021](2021-01-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 20 | 16–24 | 16–24 | 16–25 | 16–26 |
+| [4–6 January 2021](2021-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 17 | 15–20 | 14–20 | 14–20 | 12–22 |
+| [5–6 January 2021](2021-01-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 21 | 18–23 | 17–24 | 16–25 | 15–27 |
+| [28 December 2020–2 January 2021](2021-01-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 21 | 18–23 | 17–24 | 16–25 | 16–26 |
 | [14–16 December 2020](2020-12-16-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 23 | 20–26 | 19–27 | 18–28 | 17–30 |
 | [7–13 December 2020](2020-12-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 23 | 19–25 | 19–26 | 18–27 | 17–27 |
 | [1–7 December 2020](2020-12-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 19 | 16–22 | 15–23 | 15–24 | 14–26 |
