@@ -357,9 +357,9 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [25–29 January 2021](2021-01-29-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–3 | 0–3 | 0–6 | 0–7 |
 | [25–27 January 2021](2021-01-27-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 1 | 0–3 | 0–7 | 0–7 | 0–8 |
 | [18–24 January 2021](2021-01-24-Norstat.html) | Norstat <br> Aftenposten and NRK | 1 | 0–2 | 0–3 | 0–3 | 0–8 |
-| [12–16 January 2021](2021-01-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 0–3 | 0–3 | 0–7 | 0–8 |
-| [13 January 2021](2021-01-13-InFact.html) | InFact <br> Amedia and Nettavisen | 8 | 7–9 | 7–10 | 3–10 | 3–10 |
-| [4–8 January 2021](2021-01-08-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–7 | 1–7 | 1–7 | 0–8 |
+| [12–16 January 2021](2021-01-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 1 | 0–3 | 0–3 | 0–6 | 0–7 |
+| [13 January 2021](2021-01-13-InFact.html) | InFact <br> Amedia and Nettavisen | 8 | 7–9 | 7–9 | 7–10 | 3–10 |
+| [4–8 January 2021](2021-01-08-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–7 | 1–7 | 1–8 | 0–9 |
 | [4–6 January 2021](2021-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 1–8 | 1–8 | 1–9 | 0–10 |
 | [5–6 January 2021](2021-01-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–8 | 1–8 | 1–9 | 0–10 |
 | [28 December 2020–2 January 2021](2021-01-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 1–8 | 1–9 | 1–9 | 1–10 |
