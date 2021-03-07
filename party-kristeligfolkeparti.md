@@ -10,10 +10,10 @@ Last result: **4.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.1% | 2.3–4.4% | 2.1–4.6% | 1.8–5.1% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.3% | 2.4–4.5% | 2.2–4.8% | 1.9–5.3% |
 | [2–3 March 2021](2021-03-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
-| [22–28 February 2021](2021-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.9% | N/A | N/A | N/A | N/A |
-| [22–26 February 2021](2021-02-26-KantarTNS.html) | Kantar TNS <br> TV2 | 3.3% | N/A | N/A | N/A | N/A |
+| [22–28 February 2021](2021-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.8–5.3% | 2.5–5.8% |
+| [22–26 February 2021](2021-02-26-KantarTNS.html) | Kantar TNS <br> TV2 | 3.3% | 2.6–4.1% | 2.5–4.4% | 2.3–4.6% | 2.0–5.0% |
 | [22–24 February 2021](2021-02-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3.3% | 2.6–4.3% | 2.4–4.6% | 2.3–4.8% | 2.0–5.4% |
 | [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.6% | 3.0–4.5% | 2.8–4.8% | 2.6–5.0% | 2.3–5.5% |
 | [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
@@ -332,12 +332,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 12% | 99.9% |  |
-| 2.5–3.5% | 56% | 88% | Median |
-| 3.5–4.5% | 29% | 32% | Last Result |
-| 4.5–5.5% | 3% | 3% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 9% | 100% |  |
+| 2.5–3.5% | 52% | 90% | Median |
+| 3.5–4.5% | 34% | 39% | Last Result |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -350,9 +350,9 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–7 | 1–8 | 0–8 | 0–9 |
-| [2–3 March 2021](2021-03-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 1 | 0–3 | 0–3 | 0–3 | 0–8 |
-| [22–28 February 2021](2021-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [22–26 February 2021](2021-02-26-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
+| [2–3 March 2021](2021-03-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 1 | 0–3 | 0–3 | 0–3 | 0–7 |
+| [22–28 February 2021](2021-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 1–8 | 1–9 | 1–10 | 1–10 |
+| [22–26 February 2021](2021-02-26-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–3 | 1–7 | 1–7 | 0–8 |
 | [22–24 February 2021](2021-02-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 1–7 | 1–8 | 1–8 | 0–9 |
 | [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 1–7 | 1–8 | 1–8 | 1–9 |
 | [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3 | 1–7 | 1–8 | 1–8 | 0–9 |
@@ -673,17 +673,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 35% | 96% |  |
-| 2 | 17% | 61% | Median |
-| 3 | 32% | 44% |  |
-| 4 | 0% | 12% |  |
-| 5 | 0% | 12% |  |
-| 6 | 0.7% | 12% |  |
-| 7 | 6% | 11% |  |
-| 8 | 4% | 5% | Last Result |
-| 9 | 1.0% | 1.2% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0% |  |
+| 0 | 3% | 100% |  |
+| 1 | 31% | 97% |  |
+| 2 | 18% | 66% | Median |
+| 3 | 32% | 49% |  |
+| 4 | 0% | 16% |  |
+| 5 | 0% | 16% |  |
+| 6 | 0.9% | 16% |  |
+| 7 | 7% | 15% |  |
+| 8 | 6% | 8% | Last Result |
+| 9 | 2% | 2% |  |
+| 10 | 0.4% | 0.5% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
