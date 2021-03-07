@@ -10,7 +10,10 @@ Last result: **2.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.6–5.5% | 2.3–5.9% | 2.1–6.3% | 1.8–7.0% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.5–4.7% | 2.2–5.0% | 2.0–5.2% | 1.7–5.7% |
+| [2–3 March 2021](2021-03-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
+| [22–28 February 2021](2021-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 2.8% | N/A | N/A | N/A | N/A |
+| [22–26 February 2021](2021-02-26-KantarTNS.html) | Kantar TNS <br> TV2 | 6.8% | N/A | N/A | N/A | N/A |
 | [22–24 February 2021](2021-02-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2.6% | 2.0–3.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.5% |
 | [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
@@ -330,15 +333,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 8% | 99.9% | Last Result |
-| 2.5–3.5% | 27% | 92% |  |
-| 3.5–4.5% | 34% | 64% | Median |
-| 4.5–5.5% | 22% | 30% |  |
-| 5.5–6.5% | 7% | 9% |  |
-| 6.5–7.5% | 1.3% | 1.4% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 12% | 99.8% | Last Result |
+| 2.5–3.5% | 37% | 88% |  |
+| 3.5–4.5% | 39% | 51% | Median |
+| 4.5–5.5% | 11% | 12% |  |
+| 5.5–6.5% | 0.9% | 0.9% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -349,7 +350,10 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–9 | 1–10 | 1–11 | 1–12 |
+| N/A | [Poll Average](average.html) | 2 | 1–8 | 1–9 | 1–9 | 1–10 |
+| [2–3 March 2021](2021-03-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 2–8 | 2–9 | 2–9 | 1–10 |
+| [22–28 February 2021](2021-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [22–26 February 2021](2021-02-26-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
 | [22–24 February 2021](2021-02-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 1 | 1–2 | 1–2 | 1–7 | 1–8 |
 | [15–21 February 2021](2021-02-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 2–10 | 2–11 | 2–11 | 2–12 |
 | [9–14 February 2021](2021-02-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 2–8 | 2–9 | 1–9 | 1–10 |
@@ -670,19 +674,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 15% | 100% | Last Result |
-| 2 | 35% | 85% | Median |
-| 3 | 0.1% | 50% |  |
-| 4 | 0% | 50% |  |
-| 5 | 0% | 50% |  |
-| 6 | 2% | 50% |  |
-| 7 | 13% | 48% |  |
-| 8 | 17% | 35% |  |
-| 9 | 10% | 18% |  |
-| 10 | 5% | 8% |  |
-| 11 | 2% | 3% |  |
-| 12 | 0.5% | 0.6% |  |
-| 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 1 | 21% | 100% | Last Result |
+| 2 | 48% | 79% | Median |
+| 3 | 0.1% | 31% |  |
+| 4 | 0% | 31% |  |
+| 5 | 0% | 31% |  |
+| 6 | 0.8% | 31% |  |
+| 7 | 8% | 30% |  |
+| 8 | 15% | 22% |  |
+| 9 | 5% | 7% |  |
+| 10 | 1.4% | 2% |  |
+| 11 | 0.4% | 0.4% |  |
+| 12 | 0% | 0% |  |
 
 
