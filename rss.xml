@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 04 Mar 2021 18:36:53 +0100</pubDate>
+    <pubDate>Sun, 07 Mar 2021 16:49:58 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 2–3 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-03-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.0–9.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.7–27.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 15.5–20.2%&lt;/li&gt;&lt;li&gt;Venstre: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.9–3.9%&lt;/li&gt;&lt;li&gt;Høyre: 21.4–26.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.3–12.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-03-03-Norfakta.png"
+        length="287738"
+        type="image/png"/>
+      <pubDate>Sun, 07 Mar 2021 16:49:58 +0100</pubDate>
+      <dc:date>2021-03-07T16:49:58.602107+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos MMI for Dagbladet, 22–24 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-24-IpsosMMI.html#seats</link>
@@ -2899,6 +2909,6 @@
       <pubDate>Wed, 17 Feb 2021 21:10:53 +0100</pubDate>
       <dc:date>2021-02-17T21:10:53.434292+01:00</dc:date>
     </item>
-    <dc:date>2021-03-04T18:36:53.666969+01:00</dc:date>
+    <dc:date>2021-03-07T16:49:58.602107+01:00</dc:date>
   </channel>
 </rss>
