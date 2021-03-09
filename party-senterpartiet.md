@@ -165,17 +165,17 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 | [18–24 June 2019](2019-06-24-Norstat.html) | Norstat | 14.3% | 12.9–15.9% | 12.6–16.3% | 12.2–16.7% | 11.6–17.5% |
 | [11–17 June 2019](2019-06-17-Sentio.html) | Sentio | 15.2% | 13.8–16.8% | 13.4–17.2% | 13.1–17.6% | 12.5–18.3% |
 | [4–10 June 2019](2019-06-10-OpinionPerduco.html) | Opinion Perduco | 16.8% | 15.1–18.8% | 14.7–19.3% | 14.3–19.8% | 13.5–20.7% |
-| [3–6 June 2019](2019-06-06-ResponsAnalyse.html) | Respons Analyse | 13.3% | N/A | N/A | N/A | N/A |
-| [4–5 June 2019](2019-06-05-Norfakta.html) | Norfakta | 15.8% | N/A | N/A | N/A | N/A |
-| [28 May–3 June 2019](2019-06-03-Norstat.html) | Norstat | 14.9% | N/A | N/A | N/A | N/A |
-| [27–29 May 2019](2019-05-29-IpsosMMI.html) | Ipsos MMI | 15.2% | N/A | N/A | N/A | N/A |
-| [21–27 May 2019](2019-05-27-Norstat.html) | Norstat | 13.3% | N/A | N/A | N/A | N/A |
-| [14–18 May 2019](2019-05-18-Sentio.html) | Sentio | 15.8% | N/A | N/A | N/A | N/A |
-| [7–13 May 2019](2019-05-13-OpinionPerduco.html) | Opinion Perduco | 14.1% | N/A | N/A | N/A | N/A |
-| [7–8 May 2019](2019-05-08-Norfakta.html) | Norfakta | 14.4% | N/A | N/A | N/A | N/A |
-| [30 April–6 May 2019](2019-05-06-Norstat.html) | Norstat | 15.0% | N/A | N/A | N/A | N/A |
-| [29 April–3 May 2019](2019-05-03-KantarTNS.html) | Kantar TNS | 14.7% | N/A | N/A | N/A | N/A |
-| [29 April–2 May 2019](2019-05-02-ResponsAnalyse.html) | Respons Analyse | 12.5% | N/A | N/A | N/A | N/A |
+| [3–6 June 2019](2019-06-06-ResponsAnalyse.html) | Respons Analyse | 13.3% | 11.8–15.0% | 11.4–15.5% | 11.1–15.9% | 10.4–16.7% |
+| [4–5 June 2019](2019-06-05-Norfakta.html) | Norfakta | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
+| [28 May–3 June 2019](2019-06-03-Norstat.html) | Norstat | 14.9% | 13.5–16.5% | 13.1–16.9% | 12.8–17.3% | 12.2–18.1% |
+| [27–29 May 2019](2019-05-29-IpsosMMI.html) | Ipsos MMI | 15.2% | 13.6–17.0% | 13.1–17.5% | 12.7–17.9% | 12.0–18.8% |
+| [21–27 May 2019](2019-05-27-Norstat.html) | Norstat | 13.3% | 12.0–14.8% | 11.6–15.3% | 11.3–15.6% | 10.7–16.4% |
+| [14–18 May 2019](2019-05-18-Sentio.html) | Sentio | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
+| [7–13 May 2019](2019-05-13-OpinionPerduco.html) | Opinion Perduco | 14.1% | 12.7–15.6% | 12.3–16.1% | 12.0–16.5% | 11.4–17.2% |
+| [7–8 May 2019](2019-05-08-Norfakta.html) | Norfakta | 14.4% | 13.0–15.9% | 12.6–16.3% | 12.3–16.7% | 11.7–17.4% |
+| [30 April–6 May 2019](2019-05-06-Norstat.html) | Norstat | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [29 April–3 May 2019](2019-05-03-KantarTNS.html) | Kantar TNS | 14.7% | 13.2–16.4% | 12.7–16.9% | 12.4–17.3% | 11.7–18.2% |
+| [29 April–2 May 2019](2019-05-02-ResponsAnalyse.html) | Respons Analyse | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
 | [2 May 2019](2019-05-02-Norstat.html) | Norstat | 15.6% | N/A | N/A | N/A | N/A |
 | [23–25 April 2019](2019-04-25-IpsosMMI.html) | Ipsos MMI | 14.4% | N/A | N/A | N/A | N/A |
 | [16 April 2019](2019-04-16-Sentio.html) | Sentio | 15.4% | N/A | N/A | N/A | N/A |
@@ -515,17 +515,17 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [18–24 June 2019](2019-06-24-Norstat.html) | Norstat | 28 | 23–33 | 22–33 | 21–34 | 20–35 |
 | [11–17 June 2019](2019-06-17-Sentio.html) | Sentio | 28 | 25–32 | 24–33 | 23–34 | 22–35 |
 | [4–10 June 2019](2019-06-10-OpinionPerduco.html) | Opinion Perduco | 32 | 28–36 | 27–36 | 27–37 | 24–41 |
-| [3–6 June 2019](2019-06-06-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [4–5 June 2019](2019-06-05-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [28 May–3 June 2019](2019-06-03-Norstat.html) | Norstat |  |  |  |  |  |
-| [27–29 May 2019](2019-05-29-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [21–27 May 2019](2019-05-27-Norstat.html) | Norstat |  |  |  |  |  |
-| [14–18 May 2019](2019-05-18-Sentio.html) | Sentio |  |  |  |  |  |
-| [7–13 May 2019](2019-05-13-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
-| [7–8 May 2019](2019-05-08-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [30 April–6 May 2019](2019-05-06-Norstat.html) | Norstat |  |  |  |  |  |
-| [29 April–3 May 2019](2019-05-03-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [29 April–2 May 2019](2019-05-02-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
+| [3–6 June 2019](2019-06-06-ResponsAnalyse.html) | Respons Analyse | 24 | 20–28 | 20–30 | 19–30 | 18–33 |
+| [4–5 June 2019](2019-06-05-Norfakta.html) | Norfakta | 29 | 26–34 | 25–34 | 24–34 | 22–35 |
+| [28 May–3 June 2019](2019-06-03-Norstat.html) | Norstat | 27 | 24–32 | 23–32 | 23–33 | 21–35 |
+| [27–29 May 2019](2019-05-29-IpsosMMI.html) | Ipsos MMI | 27 | 23–32 | 23–33 | 22–34 | 21–35 |
+| [21–27 May 2019](2019-05-27-Norstat.html) | Norstat | 24 | 20–27 | 19–28 | 18–29 | 17–31 |
+| [14–18 May 2019](2019-05-18-Sentio.html) | Sentio | 29 | 26–33 | 25–34 | 24–34 | 22–35 |
+| [7–13 May 2019](2019-05-13-OpinionPerduco.html) | Opinion Perduco | 26 | 23–28 | 23–29 | 21–30 | 21–31 |
+| [7–8 May 2019](2019-05-08-Norfakta.html) | Norfakta | 27 | 23–30 | 23–30 | 23–31 | 21–34 |
+| [30 April–6 May 2019](2019-05-06-Norstat.html) | Norstat | 28 | 25–30 | 24–32 | 23–34 | 21–34 |
+| [29 April–3 May 2019](2019-05-03-KantarTNS.html) | Kantar TNS | 26 | 24–32 | 22–32 | 22–34 | 20–35 |
+| [29 April–2 May 2019](2019-05-02-ResponsAnalyse.html) | Respons Analyse | 23 | 20–24 | 19–26 | 18–26 | 17–27 |
 | [2 May 2019](2019-05-02-Norstat.html) | Norstat |  |  |  |  |  |
 | [23–25 April 2019](2019-04-25-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
 | [16 April 2019](2019-04-16-Sentio.html) | Sentio |  |  |  |  |  |
