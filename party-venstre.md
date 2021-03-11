@@ -179,15 +179,15 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 | [2 May 2019](2019-05-02-Norstat.html) | Norstat | 2.2% | 1.6–3.2% | 1.5–3.5% | 1.3–3.7% | 1.1–4.2% |
 | [23–25 April 2019](2019-04-25-IpsosMMI.html) | Ipsos MMI | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% | 1.2–3.8% |
 | [16 April 2019](2019-04-16-Sentio.html) | Sentio | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
-| [2–8 April 2019](2019-04-08-OpinionPerduco.html) | Opinion Perduco | 2.3% | N/A | N/A | N/A | N/A |
-| [2–4 April 2019](2019-04-04-ResponsAnalyse.html) | Respons Analyse | 4.3% | N/A | N/A | N/A | N/A |
-| [2–3 April 2019](2019-04-03-Norfakta.html) | Norfakta | 3.0% | N/A | N/A | N/A | N/A |
-| [26 March–1 April 2019](2019-04-01-Norstat.html) | Norstat | 2.9% | N/A | N/A | N/A | N/A |
-| [25–29 March 2019](2019-03-29-KantarTNS.html) | Kantar TNS | 3.4% | N/A | N/A | N/A | N/A |
-| [27 March 2019](2019-03-27-Norstat.html) | Norstat | 1.8% | N/A | N/A | N/A | N/A |
-| [18–20 March 2019](2019-03-20-IpsosMMI.html) | Ipsos MMI | 2.0% | N/A | N/A | N/A | N/A |
-| [12–18 March 2019](2019-03-18-Sentio.html) | Sentio | 2.3% | N/A | N/A | N/A | N/A |
-| [5–11 March 2019](2019-03-11-OpinionPerduco.html) | Opinion Perduco | 2.0% | N/A | N/A | N/A | N/A |
+| [2–8 April 2019](2019-04-08-OpinionPerduco.html) | Opinion Perduco | 2.3% | 1.8–3.1% | 1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
+| [2–4 April 2019](2019-04-04-ResponsAnalyse.html) | Respons Analyse | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [2–3 April 2019](2019-04-03-Norfakta.html) | Norfakta | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.7% |
+| [26 March–1 April 2019](2019-04-01-Norstat.html) | Norstat | 2.9% | 2.2–3.9% | 2.0–4.2% | 1.8–4.5% | 1.5–5.0% |
+| [25–29 March 2019](2019-03-29-KantarTNS.html) | Kantar TNS | 3.4% | 2.7–4.4% | 2.5–4.7% | 2.3–4.9% | 2.1–5.4% |
+| [27 March 2019](2019-03-27-Norstat.html) | Norstat | 1.8% | 1.2–2.6% | 1.1–2.9% | 1.0–3.1% | 0.8–3.6% |
+| [18–20 March 2019](2019-03-20-IpsosMMI.html) | Ipsos MMI | 2.0% | 1.5–2.7% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
+| [12–18 March 2019](2019-03-18-Sentio.html) | Sentio | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [5–11 March 2019](2019-03-11-OpinionPerduco.html) | Opinion Perduco | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [5–6 March 2019](2019-03-06-Norfakta.html) | Norfakta | 2.3% | N/A | N/A | N/A | N/A |
 | [28 February–4 March 2019](2019-03-04-ResponsAnalyse.html) | Respons Analyse | 2.8% | N/A | N/A | N/A | N/A |
 | [26 February–4 March 2019](2019-03-04-Norstat.html) | Norstat | 1.8% | N/A | N/A | N/A | N/A |
@@ -520,15 +520,15 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [2 May 2019](2019-05-02-Norstat.html) | Norstat | 1 | 0–2 | 0–2 | 0–2 | 0–7 |
 | [23–25 April 2019](2019-04-25-IpsosMMI.html) | Ipsos MMI | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [16 April 2019](2019-04-16-Sentio.html) | Sentio | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| [2–8 April 2019](2019-04-08-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
-| [2–4 April 2019](2019-04-04-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [2–3 April 2019](2019-04-03-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [26 March–1 April 2019](2019-04-01-Norstat.html) | Norstat |  |  |  |  |  |
-| [25–29 March 2019](2019-03-29-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [27 March 2019](2019-03-27-Norstat.html) | Norstat |  |  |  |  |  |
-| [18–20 March 2019](2019-03-20-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [12–18 March 2019](2019-03-18-Sentio.html) | Sentio |  |  |  |  |  |
-| [5–11 March 2019](2019-03-11-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
+| [2–8 April 2019](2019-04-08-OpinionPerduco.html) | Opinion Perduco | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [2–4 April 2019](2019-04-04-ResponsAnalyse.html) | Respons Analyse | 8 | 2–9 | 2–9 | 2–10 | 2–10 |
+| [2–3 April 2019](2019-04-03-Norfakta.html) | Norfakta | 2 | 2 | 2–3 | 1–8 | 1–8 |
+| [26 March–1 April 2019](2019-04-01-Norstat.html) | Norstat | 2 | 1–2 | 0–3 | 0–7 | 0–9 |
+| [25–29 March 2019](2019-03-29-KantarTNS.html) | Kantar TNS | 2 | 2–7 | 2–8 | 1–8 | 1–9 |
+| [27 March 2019](2019-03-27-Norstat.html) | Norstat | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [18–20 March 2019](2019-03-20-IpsosMMI.html) | Ipsos MMI | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [12–18 March 2019](2019-03-18-Sentio.html) | Sentio | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [5–11 March 2019](2019-03-11-OpinionPerduco.html) | Opinion Perduco | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–6 March 2019](2019-03-06-Norfakta.html) | Norfakta |  |  |  |  |  |
 | [28 February–4 March 2019](2019-03-04-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
 | [26 February–4 March 2019](2019-03-04-Norstat.html) | Norstat |  |  |  |  |  |
