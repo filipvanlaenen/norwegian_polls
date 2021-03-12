@@ -10,7 +10,8 @@ Last result: **4.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.3% | 2.4–4.5% | 2.2–4.8% | 1.9–5.3% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.3% | 2.2–4.5% | 2.1–4.8% | 1.8–5.3% |
+| [1–8 March 2021](2021-03-08-OpinionPerduco.html) | Opinion Perduco | 2.9% | 2.2–3.9% | 2.0–4.1% | 1.9–4.4% | 1.6–4.9% |
 | [2–3 March 2021](2021-03-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [22–28 February 2021](2021-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.8–5.3% | 2.5–5.8% |
 | [22–26 February 2021](2021-02-26-KantarTNS.html) | Kantar TNS <br> TV2 | 3.3% | 2.6–4.1% | 2.5–4.4% | 2.3–4.6% | 2.0–5.0% |
@@ -332,10 +333,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 9% | 100% |  |
-| 2.5–3.5% | 52% | 90% | Median |
-| 3.5–4.5% | 34% | 39% | Last Result |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 13% | 99.9% |  |
+| 2.5–3.5% | 51% | 87% | Median |
+| 3.5–4.5% | 31% | 36% | Last Result |
 | 4.5–5.5% | 5% | 5% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -349,7 +350,8 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–7 | 1–8 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 2 | 1–7 | 1–8 | 0–8 | 0–10 |
+| [1–8 March 2021](2021-03-08-OpinionPerduco.html) | Opinion Perduco | 1 | 0–3 | 0–7 | 0–8 | 0–8 |
 | [2–3 March 2021](2021-03-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 1 | 0–3 | 0–3 | 0–3 | 0–7 |
 | [22–28 February 2021](2021-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 1–8 | 1–9 | 1–10 | 1–10 |
 | [22–26 February 2021](2021-02-26-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–3 | 1–7 | 1–7 | 0–8 |
@@ -673,17 +675,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 31% | 97% |  |
-| 2 | 18% | 66% | Median |
-| 3 | 32% | 49% |  |
+| 0 | 4% | 100% |  |
+| 1 | 35% | 96% |  |
+| 2 | 18% | 61% | Median |
+| 3 | 27% | 43% |  |
 | 4 | 0% | 16% |  |
 | 5 | 0% | 16% |  |
-| 6 | 0.9% | 16% |  |
+| 6 | 1.1% | 16% |  |
 | 7 | 7% | 15% |  |
 | 8 | 6% | 8% | Last Result |
 | 9 | 2% | 2% |  |
-| 10 | 0.4% | 0.5% |  |
+| 10 | 0.5% | 0.5% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
