@@ -193,13 +193,13 @@ Last result: **3.2%** (General Election of 8–9 September 2013)
 | [28 February–4 March 2019](2019-03-04-ResponsAnalyse.html) | Respons Analyse | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [26 February–4 March 2019](2019-03-04-Norstat.html) | Norstat | 4.4% | 3.6–5.7% | 3.3–6.0% | 3.1–6.3% | 2.7–7.0% |
 | [25 February–1 March 2019](2019-03-01-KantarTNS.html) | Kantar TNS | 3.6% | 2.9–4.7% | 2.7–5.0% | 2.5–5.3% | 2.2–5.8% |
-| [19–25 February 2019](2019-02-25-Norstat.html) | Norstat | 3.0% | N/A | N/A | N/A | N/A |
-| [18–20 February 2019](2019-02-20-IpsosMMI.html) | Ipsos MMI | 3.8% | N/A | N/A | N/A | N/A |
-| [12–19 February 2019](2019-02-19-Sentio.html) | Sentio | 3.9% | N/A | N/A | N/A | N/A |
-| [5–11 February 2019](2019-02-11-OpinionPerduco.html) | Opinion Perduco | 2.3% | N/A | N/A | N/A | N/A |
-| [5–6 February 2019](2019-02-06-Norfakta.html) | Norfakta | 3.3% | N/A | N/A | N/A | N/A |
-| [31 January–4 February 2019](2019-02-04-ResponsAnalyse.html) | Respons Analyse | 3.7% | N/A | N/A | N/A | N/A |
-| [29 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 3.2% | N/A | N/A | N/A | N/A |
+| [19–25 February 2019](2019-02-25-Norstat.html) | Norstat | 3.0% | 2.3–4.1% | 2.1–4.4% | 2.0–4.7% | 1.6–5.3% |
+| [18–20 February 2019](2019-02-20-IpsosMMI.html) | Ipsos MMI | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.7–5.2% | 2.4–5.7% |
+| [12–19 February 2019](2019-02-19-Sentio.html) | Sentio | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [5–11 February 2019](2019-02-11-OpinionPerduco.html) | Opinion Perduco | 2.3% | 1.7–3.2% | 1.6–3.5% | 1.4–3.7% | 1.2–4.2% |
+| [5–6 February 2019](2019-02-06-Norfakta.html) | Norfakta | 3.3% | 2.6–4.3% | 2.4–4.6% | 2.3–4.8% | 2.0–5.3% |
+| [31 January–4 February 2019](2019-02-04-ResponsAnalyse.html) | Respons Analyse | 3.7% | 3.0–4.8% | 2.8–5.1% | 2.6–5.4% | 2.3–6.0% |
+| [29 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 3.2% | 2.5–4.3% | 2.3–4.6% | 2.1–4.8% | 1.8–5.4% |
 | [28 January–2 February 2019](2019-02-02-KantarTNS.html) | Kantar TNS | 3.6% | N/A | N/A | N/A | N/A |
 | [22–28 January 2019](2019-01-28-Norstat.html) | Norstat | 3.8% | N/A | N/A | N/A | N/A |
 | [21–23 January 2019](2019-01-23-IpsosMMI.html) | Ipsos MMI | 3.2% | N/A | N/A | N/A | N/A |
@@ -534,13 +534,13 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [28 February–4 March 2019](2019-03-04-ResponsAnalyse.html) | Respons Analyse | 2 | 1–7 | 1–7 | 1–8 | 1–9 |
 | [26 February–4 March 2019](2019-03-04-Norstat.html) | Norstat | 7 | 2–9 | 1–10 | 1–11 | 1–12 |
 | [25 February–1 March 2019](2019-03-01-KantarTNS.html) | Kantar TNS | 2 | 1–8 | 1–9 | 1–9 | 1–10 |
-| [19–25 February 2019](2019-02-25-Norstat.html) | Norstat |  |  |  |  |  |
-| [18–20 February 2019](2019-02-20-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [12–19 February 2019](2019-02-19-Sentio.html) | Sentio |  |  |  |  |  |
-| [5–11 February 2019](2019-02-11-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
-| [5–6 February 2019](2019-02-06-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [31 January–4 February 2019](2019-02-04-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [29 January–4 February 2019](2019-02-04-Norstat.html) | Norstat |  |  |  |  |  |
+| [19–25 February 2019](2019-02-25-Norstat.html) | Norstat | 2 | 1–7 | 1–8 | 0–8 | 0–9 |
+| [18–20 February 2019](2019-02-20-IpsosMMI.html) | Ipsos MMI | 2 | 2–8 | 2–8 | 1–9 | 1–10 |
+| [12–19 February 2019](2019-02-19-Sentio.html) | Sentio | 7 | 2–8 | 1–8 | 1–9 | 1–10 |
+| [5–11 February 2019](2019-02-11-OpinionPerduco.html) | Opinion Perduco | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [5–6 February 2019](2019-02-06-Norfakta.html) | Norfakta | 7 | 1–7 | 1–8 | 1–8 | 1–8 |
+| [31 January–4 February 2019](2019-02-04-ResponsAnalyse.html) | Respons Analyse | 2 | 1–8 | 1–8 | 1–9 | 1–10 |
+| [29 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 1 | 1–8 | 1–8 | 0–9 | 0–10 |
 | [28 January–2 February 2019](2019-02-02-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
 | [22–28 January 2019](2019-01-28-Norstat.html) | Norstat |  |  |  |  |  |
 | [21–23 January 2019](2019-01-23-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
