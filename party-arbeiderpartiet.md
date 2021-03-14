@@ -10,7 +10,8 @@ Last result: **27.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 18.3–24.5% | 17.6–25.3% | 17.0–25.9% | 16.0–27.0% |
+| N/A | [Poll Average](average.html) | 21.4% | 18.5–24.4% | 17.7–25.2% | 17.1–25.8% | 16.1–27.0% |
+| [5–10 March 2021](2021-03-10-ResponsAnalyse.html) | Respons Analyse <br> VG | 22.2% | 20.6–23.9% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
 | [1–8 March 2021](2021-03-08-OpinionPerduco.html) | Opinion Perduco | 22.7% | 20.8–24.8% | 20.2–25.4% | 19.7–26.0% | 18.8–27.0% |
 | [2–3 March 2021](2021-03-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 24.3% | 22.6–26.1% | 22.1–26.6% | 21.7–27.1% | 21.0–27.9% |
 | [22–28 February 2021](2021-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 21.0% | 19.4–22.8% | 18.9–23.3% | 18.5–23.7% | 17.8–24.6% |
@@ -231,14 +232,14 @@ Last result: **27.4%** (General Election of 8–9 September 2013)
 | [4–10 October 2018](2018-10-10-OpinionPerduco.html) | Opinion Perduco | 26.6% | 24.5–28.9% | 23.9–29.5% | 23.4–30.1% | 22.5–31.2% |
 | [9–10 October 2018](2018-10-10-InFact.html) | InFact | 24.4% | 22.7–26.2% | 22.2–26.7% | 21.8–27.1% | 21.0–28.0% |
 | [1–3 October 2018](2018-10-03-ResponsAnalyse.html) | Respons Analyse | 27.7% | 25.9–29.6% | 25.4–30.1% | 25.0–30.6% | 24.2–31.5% |
-| [2–3 October 2018](2018-10-03-Norfakta.html) | Norfakta | 28.2% | N/A | N/A | N/A | N/A |
-| [24–29 September 2018](2018-09-29-Norstat.html) | Norstat | 26.9% | N/A | N/A | N/A | N/A |
-| [24–28 September 2018](2018-09-28-KantarTNS.html) | Kantar TNS | 26.8% | N/A | N/A | N/A | N/A |
-| [24–26 September 2018](2018-09-26-IpsosMMI.html) | Ipsos MMI | 28.6% | N/A | N/A | N/A | N/A |
-| [18–24 September 2018](2018-09-24-Norstat.html) | Norstat | 26.6% | N/A | N/A | N/A | N/A |
-| [11–17 September 2018](2018-09-17-Sentio.html) | Sentio | 28.0% | N/A | N/A | N/A | N/A |
-| [6–10 September 2018](2018-09-10-ResponsAnalyse.html) | Respons Analyse | 25.5% | N/A | N/A | N/A | N/A |
-| [4–10 September 2018](2018-09-10-OpinionPerduco.html) | Opinion Perduco | 27.6% | N/A | N/A | N/A | N/A |
+| [2–3 October 2018](2018-10-03-Norfakta.html) | Norfakta | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.0% | 24.6–32.0% |
+| [24–29 September 2018](2018-09-29-Norstat.html) | Norstat | 26.9% | 25.1–28.9% | 24.6–29.4% | 24.2–29.9% | 23.3–30.8% |
+| [24–28 September 2018](2018-09-28-KantarTNS.html) | Kantar TNS | 26.8% | 24.9–28.9% | 24.3–29.5% | 23.8–30.0% | 22.9–31.0% |
+| [24–26 September 2018](2018-09-26-IpsosMMI.html) | Ipsos MMI | 28.6% | 26.8–30.6% | 26.3–31.2% | 25.8–31.6% | 25.0–32.6% |
+| [18–24 September 2018](2018-09-24-Norstat.html) | Norstat | 26.6% | 24.8–28.5% | 24.3–29.1% | 23.9–29.6% | 23.0–30.5% |
+| [11–17 September 2018](2018-09-17-Sentio.html) | Sentio | 28.0% | 25.9–30.3% | 25.3–30.9% | 24.8–31.4% | 23.8–32.5% |
+| [6–10 September 2018](2018-09-10-ResponsAnalyse.html) | Respons Analyse | 25.5% | 23.8–27.4% | 23.4–27.9% | 22.9–28.3% | 22.1–29.2% |
+| [4–10 September 2018](2018-09-10-OpinionPerduco.html) | Opinion Perduco | 27.6% | 25.5–29.9% | 24.9–30.6% | 24.4–31.1% | 23.4–32.3% |
 | [6 September 2018](2018-09-06-KantarTNS.html) | Kantar TNS | 24.9% | N/A | N/A | N/A | N/A |
 | [4–5 September 2018](2018-09-05-Norfakta.html) | Norfakta | 24.6% | N/A | N/A | N/A | N/A |
 | [28 August–2 September 2018](2018-09-02-Norstat.html) | Norstat | 26.2% | N/A | N/A | N/A | N/A |
@@ -334,19 +335,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 1.1% | 99.8% |  |
-| 16.5–17.5% | 4% | 98.7% |  |
-| 17.5–18.5% | 7% | 95% |  |
-| 18.5–19.5% | 11% | 88% |  |
-| 19.5–20.5% | 15% | 77% |  |
-| 20.5–21.5% | 17% | 62% | Median |
-| 21.5–22.5% | 15% | 44% |  |
-| 22.5–23.5% | 11% | 30% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 1.0% | 99.9% |  |
+| 16.5–17.5% | 3% | 98.9% |  |
+| 17.5–18.5% | 6% | 96% |  |
+| 18.5–19.5% | 10% | 89% |  |
+| 19.5–20.5% | 14% | 80% |  |
+| 20.5–21.5% | 18% | 66% | Median |
+| 21.5–22.5% | 17% | 48% |  |
+| 22.5–23.5% | 13% | 31% |  |
 | 23.5–24.5% | 9% | 18% |  |
-| 24.5–25.5% | 6% | 10% |  |
-| 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 0.9% | 1.1% | Last Result |
+| 24.5–25.5% | 5% | 9% |  |
+| 25.5–26.5% | 2% | 3% |  |
+| 26.5–27.5% | 0.8% | 0.9% | Last Result |
 | 27.5–28.5% | 0.2% | 0.2% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
@@ -359,7 +360,8 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 34–45 | 31–47 | 30–48 | 28–51 |
+| N/A | [Poll Average](average.html) | 40 | 34–45 | 32–47 | 30–48 | 28–50 |
+| [5–10 March 2021](2021-03-10-ResponsAnalyse.html) | Respons Analyse <br> VG | 41 | 38–44 | 37–45 | 36–45 | 34–47 |
 | [1–8 March 2021](2021-03-08-OpinionPerduco.html) | Opinion Perduco | 41 | 38–46 | 36–47 | 35–47 | 34–50 |
 | [2–3 March 2021](2021-03-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 45 | 42–48 | 41–49 | 40–51 | 39–52 |
 | [22–28 February 2021](2021-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 39 | 35–42 | 34–43 | 33–43 | 32–45 |
@@ -579,15 +581,15 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [9–18 October 2018](2018-10-18-Sentio.html) | Sentio | 52 | 48–57 | 47–59 | 46–59 | 45–62 |
 | [4–10 October 2018](2018-10-10-OpinionPerduco.html) | Opinion Perduco | 44 | 43–54 | 42–55 | 41–55 | 40–57 |
 | [9–10 October 2018](2018-10-10-InFact.html) | InFact | 46 | 42–47 | 41–48 | 40–50 | 39–51 |
-| [1–3 October 2018](2018-10-03-ResponsAnalyse.html) | Respons Analyse | 49 | 47–53 | 43–55 | 43–55 | 43–57 |
-| [2–3 October 2018](2018-10-03-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [24–29 September 2018](2018-09-29-Norstat.html) | Norstat |  |  |  |  |  |
-| [24–28 September 2018](2018-09-28-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [24–26 September 2018](2018-09-26-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [18–24 September 2018](2018-09-24-Norstat.html) | Norstat |  |  |  |  |  |
-| [11–17 September 2018](2018-09-17-Sentio.html) | Sentio |  |  |  |  |  |
-| [6–10 September 2018](2018-09-10-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [4–10 September 2018](2018-09-10-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
+| [1–3 October 2018](2018-10-03-ResponsAnalyse.html) | Respons Analyse | 50 | 47–55 | 45–55 | 43–55 | 43–57 |
+| [2–3 October 2018](2018-10-03-Norfakta.html) | Norfakta | 52 | 50–54 | 48–54 | 48–55 | 44–56 |
+| [24–29 September 2018](2018-09-29-Norstat.html) | Norstat | 49 | 45–53 | 44–53 | 43–55 | 42–58 |
+| [24–28 September 2018](2018-09-28-KantarTNS.html) | Kantar TNS | 48 | 44–51 | 44–53 | 42–55 | 41–57 |
+| [24–26 September 2018](2018-09-26-IpsosMMI.html) | Ipsos MMI | 52 | 49–55 | 48–55 | 48–57 | 46–60 |
+| [18–24 September 2018](2018-09-24-Norstat.html) | Norstat | 48 | 44–51 | 43–54 | 41–54 | 41–56 |
+| [11–17 September 2018](2018-09-17-Sentio.html) | Sentio | 52 | 45–54 | 44–58 | 44–58 | 42–59 |
+| [6–10 September 2018](2018-09-10-ResponsAnalyse.html) | Respons Analyse | 45 | 43–50 | 42–51 | 42–52 | 41–55 |
+| [4–10 September 2018](2018-09-10-OpinionPerduco.html) | Opinion Perduco | 51 | 46–56 | 45–58 | 45–59 | 42–60 |
 | [6 September 2018](2018-09-06-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
 | [4–5 September 2018](2018-09-05-Norfakta.html) | Norfakta |  |  |  |  |  |
 | [28 August–2 September 2018](2018-09-02-Norstat.html) | Norstat |  |  |  |  |  |
@@ -684,32 +686,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
-| 27 | 0.3% | 99.9% |  |
-| 28 | 0.5% | 99.6% |  |
-| 29 | 0.8% | 99.1% |  |
-| 30 | 1.4% | 98% |  |
+| 27 | 0.3% | 100% |  |
+| 28 | 0.5% | 99.7% |  |
+| 29 | 0.7% | 99.2% |  |
+| 30 | 1.2% | 98.5% |  |
 | 31 | 2% | 97% |  |
 | 32 | 2% | 95% |  |
-| 33 | 2% | 92% |  |
-| 34 | 4% | 91% |  |
-| 35 | 5% | 87% |  |
-| 36 | 7% | 82% |  |
-| 37 | 7% | 75% |  |
-| 38 | 8% | 68% |  |
-| 39 | 10% | 60% |  |
-| 40 | 8% | 51% | Median |
-| 41 | 12% | 42% |  |
-| 42 | 7% | 30% |  |
-| 43 | 6% | 23% |  |
+| 33 | 2% | 93% |  |
+| 34 | 3% | 92% |  |
+| 35 | 4% | 89% |  |
+| 36 | 6% | 84% |  |
+| 37 | 7% | 78% |  |
+| 38 | 8% | 71% |  |
+| 39 | 10% | 63% |  |
+| 40 | 10% | 54% | Median |
+| 41 | 12% | 44% |  |
+| 42 | 8% | 32% |  |
+| 43 | 7% | 24% |  |
 | 44 | 5% | 17% |  |
-| 45 | 4% | 12% |  |
-| 46 | 3% | 9% |  |
-| 47 | 3% | 6% |  |
+| 45 | 4% | 11% |  |
+| 46 | 2% | 8% |  |
+| 47 | 2% | 5% |  |
 | 48 | 2% | 3% |  |
-| 49 | 0.8% | 2% | Last Result |
-| 50 | 0.3% | 0.8% |  |
-| 51 | 0.4% | 0.5% |  |
+| 49 | 0.7% | 1.4% | Last Result |
+| 50 | 0.3% | 0.7% |  |
+| 51 | 0.3% | 0.4% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0.1% |  |
 | 54 | 0% | 0% |  |
