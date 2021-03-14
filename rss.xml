@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sat, 13 Mar 2021 12:49:40 +0100</pubDate>
+    <pubDate>Sun, 14 Mar 2021 10:40:29 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 5–10 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-10-ResponsAnalyse.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–11 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–17 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 36–45 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 30–39 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–8 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–3 seats&lt;/li&gt;&lt;li&gt;Høyre: 44–56 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-03-10-ResponsAnalyse-seats.png"
+        length="237777"
+        type="image/png"/>
+      <pubDate>Sun, 14 Mar 2021 10:30:12 +0100</pubDate>
+      <dc:date>2021-03-14T10:30:12.149294+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 5–10 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-10-ResponsAnalyse.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-03-10-ResponsAnalyse-coalitions-seats.png"
+        length="489890"
+        type="image/png"/>
+      <pubDate>Sun, 14 Mar 2021 10:30:12 +0100</pubDate>
+      <dc:date>2021-03-14T10:30:12.149294+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 5–10 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-10-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.2–9.5%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 19.7–24.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 16.3–21.1%&lt;/li&gt;&lt;li&gt;Venstre: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Høyre: 25.1–30.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 6.3–9.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-03-10-ResponsAnalyse.png"
+        length="277848"
+        type="image/png"/>
+      <pubDate>Sun, 14 Mar 2021 10:30:12 +0100</pubDate>
+      <dc:date>2021-03-14T10:30:12.149294+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Perduco, 1–8 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-08-OpinionPerduco.html#seats</link>
@@ -3359,6 +3389,396 @@
       <pubDate>Sat, 13 Mar 2021 12:49:40 +0100</pubDate>
       <dc:date>2021-03-13T12:49:40.86461+01:00</dc:date>
     </item>
-    <dc:date>2021-03-13T12:49:40.86461+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Kantar TNS, 28 January–2 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-02-02-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 4.8–8.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.1–11.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.5–5.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.6–29.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.5–12.7%&lt;/li&gt;&lt;li&gt;Venstre: 1.6–3.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.9–5.6%&lt;/li&gt;&lt;li&gt;Høyre: 20.9–26.7%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.6–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-02-02-KantarTNS.png"
+        length="282773"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 13:03:28 +0100</pubDate>
+      <dc:date>2021-03-13T13:03:28.54754+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 22–28 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-01-28-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.1–6.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.5–9.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–5.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.8–32.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.0–13.7%&lt;/li&gt;&lt;li&gt;Venstre: 1.8–4.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.3–5.1%&lt;/li&gt;&lt;li&gt;Høyre: 19.5–25.7%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.1–16.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-01-28-Norstat.png"
+        length="281193"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 13:16:04 +0100</pubDate>
+      <dc:date>2021-03-13T13:16:04.677447+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI, 21–23 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-01-23-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.1–5.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.4–10.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 27.0–32.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.1–13.1%&lt;/li&gt;&lt;li&gt;Venstre: 1.5–3.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.8–3.9%&lt;/li&gt;&lt;li&gt;Høyre: 20.2–25.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.0–15.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-01-23-IpsosMMI.png"
+        length="268683"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 13:29:39 +0100</pubDate>
+      <dc:date>2021-03-13T13:29:39.381778+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio, 15–21 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-01-21-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.0–4.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.2–9.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–5.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.1–29.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.9–16.2%&lt;/li&gt;&lt;li&gt;Venstre: 3.0–6.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Høyre: 20.5–27.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.8–16.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-01-21-Sentio.png"
+        length="289274"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 13:42:30 +0100</pubDate>
+      <dc:date>2021-03-13T13:42:30.763988+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 8–14 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-01-14-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 4.0–7.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.1–10.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.1–4.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.2–31.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.3–15.3%&lt;/li&gt;&lt;li&gt;Venstre: 1.5–3.9%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.5–5.3%&lt;/li&gt;&lt;li&gt;Høyre: 19.9–26.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.6–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-01-14-OpinionPerduco.png"
+        length="284860"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 13:58:37 +0100</pubDate>
+      <dc:date>2021-03-13T13:58:37.633334+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS, 3–10 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-01-10-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.3–6.4%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.6–9.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.8–4.2%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.0–31.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.1–14.8%&lt;/li&gt;&lt;li&gt;Venstre: 2.5–5.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.0–4.5%&lt;/li&gt;&lt;li&gt;Høyre: 21.4–27.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.0–14.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-01-10-KantarTNS.png"
+        length="281105"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 14:11:03 +0100</pubDate>
+      <dc:date>2021-03-13T14:11:03.385681+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta, 8–9 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-01-09-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.9–4.0%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.0–30.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.6–14.7%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Høyre: 22.1–27.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.1–14.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-01-09-Norfakta.png"
+        length="270176"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 14:25:35 +0100</pubDate>
+      <dc:date>2021-03-13T14:25:35.109757+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse, 3–7 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-01-07-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.9–4.0%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 26.9–32.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.7–12.5%&lt;/li&gt;&lt;li&gt;Venstre: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Høyre: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.6–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-01-07-ResponsAnalyse.png"
+        length="270219"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 14:38:56 +0100</pubDate>
+      <dc:date>2021-03-13T14:38:56.807902+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 2–7 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-01-07-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.2–4.8%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.6–9.5%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.5–3.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 24.1–30.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.9–14.8%&lt;/li&gt;&lt;li&gt;Venstre: 2.1–4.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.5–5.3%&lt;/li&gt;&lt;li&gt;Høyre: 23.8–30.4%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.9–14.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-01-07-Norstat.png"
+        length="281780"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 14:49:39 +0100</pubDate>
+      <dc:date>2021-03-13T14:49:39.549744+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI, 17–19 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-12-19-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1.8–3.9%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.5–10.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.7–31.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.6–12.5%&lt;/li&gt;&lt;li&gt;Venstre: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Høyre: 22.0–27.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.8–15.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-12-19-IpsosMMI.png"
+        length="272589"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 15:02:27 +0100</pubDate>
+      <dc:date>2021-03-13T15:02:27.057392+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 11–17 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-12-17-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.0–5.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.4–8.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 24.0–29.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.3–13.4%&lt;/li&gt;&lt;li&gt;Venstre: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Høyre: 23.8–29.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.4–14.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-12-17-Norstat.png"
+        length="277879"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 15:14:30 +0100</pubDate>
+      <dc:date>2021-03-13T15:14:30.127179+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 4–10 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-12-10-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.7–7.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.3–7.8%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.5–5.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.9–30.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.7–14.5%&lt;/li&gt;&lt;li&gt;Venstre: 3.1–6.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.3–5.1%&lt;/li&gt;&lt;li&gt;Høyre: 19.9–26.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.2–17.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-12-10-OpinionPerduco.png"
+        length="289268"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 15:26:53 +0100</pubDate>
+      <dc:date>2021-03-13T15:26:53.724735+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta, 4–5 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-12-05-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.1–4.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.7–9.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.6–3.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.3–31.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.5–14.1%&lt;/li&gt;&lt;li&gt;Venstre: 2.0–4.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.7–5.4%&lt;/li&gt;&lt;li&gt;Høyre: 22.9–29.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.8–14.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-12-05-Norfakta.png"
+        length="279161"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 15:38:54 +0100</pubDate>
+      <dc:date>2021-03-13T15:38:54.346567+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio, 28 November–4 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-12-04-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.5–6.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.1–7.5%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.5–3.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 26.7–33.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.9–14.8%&lt;/li&gt;&lt;li&gt;Venstre: 3.0–6.0%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Høyre: 21.3–27.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.8–14.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-12-04-Sentio.png"
+        length="279596"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 15:50:40 +0100</pubDate>
+      <dc:date>2021-03-13T15:50:40.873368+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse, 29 November–4 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-12-04-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.6–3.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.7–12.6%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Høyre: 23.1–28.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.5–15.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-12-04-ResponsAnalyse.png"
+        length="281553"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 16:03:55 +0100</pubDate>
+      <dc:date>2021-03-13T16:03:55.19522+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS, 3 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-12-03-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.5–6.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.8–8.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.8–4.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 24.4–30.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.9–14.6%&lt;/li&gt;&lt;li&gt;Venstre: 2.5–5.2%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.0–4.6%&lt;/li&gt;&lt;li&gt;Høyre: 21.9–28.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.6–16.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-12-03-KantarTNS.png"
+        length="282553"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 16:16:16 +0100</pubDate>
+      <dc:date>2021-03-13T16:16:16.616719+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 20–25 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-11-25-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.3–4.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.5–8.8%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.9–4.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 26.8–32.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.5–13.6%&lt;/li&gt;&lt;li&gt;Venstre: 1.9–4.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Høyre: 22.0–27.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.1–15.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-11-25-Norstat.png"
+        length="269003"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 16:28:00 +0100</pubDate>
+      <dc:date>2021-03-13T16:28:00.568655+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI, 19–21 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-11-21-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.7–7.8%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 28.3–34.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.7–13.9%&lt;/li&gt;&lt;li&gt;Venstre: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Høyre: 20.5–26.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.7–15.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-11-21-IpsosMMI.png"
+        length="267540"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 16:41:03 +0100</pubDate>
+      <dc:date>2021-03-13T16:41:03.74306+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 13–19 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-11-19-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.3–4.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.1–8.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.0–4.2%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 26.0–31.8%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.0–14.2%&lt;/li&gt;&lt;li&gt;Venstre: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.1–5.8%&lt;/li&gt;&lt;li&gt;Høyre: 21.8–27.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.1–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-11-19-Norstat.png"
+        length="270216"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 16:55:00 +0100</pubDate>
+      <dc:date>2021-03-13T16:55:00.695402+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 6–12 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-11-12-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.5–6.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.5–8.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.2–4.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.1–31.8%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.8–14.6%&lt;/li&gt;&lt;li&gt;Venstre: 2.5–5.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.7–5.5%&lt;/li&gt;&lt;li&gt;Høyre: 23.1–29.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.7–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-11-12-OpinionPerduco.png"
+        length="285891"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 17:07:22 +0100</pubDate>
+      <dc:date>2021-03-13T17:07:22.908565+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse, 5–7 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-11-07-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.7–31.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.6–12.3%&lt;/li&gt;&lt;li&gt;Venstre: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Høyre: 23.9–29.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.9–15.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-11-07-ResponsAnalyse.png"
+        length="274004"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 17:20:53 +0100</pubDate>
+      <dc:date>2021-03-13T17:20:53.910688+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio, 30 October–5 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-11-05-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.1–6.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.8–9.8%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.5–3.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.9–28.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.0–12.5%&lt;/li&gt;&lt;li&gt;Venstre: 3.2–6.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.3–6.5%&lt;/li&gt;&lt;li&gt;Høyre: 23.7–30.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.3–16.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-11-05-Sentio.png"
+        length="289788"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 17:33:45 +0100</pubDate>
+      <dc:date>2021-03-13T17:33:45.35202+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta, 5 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-11-05-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.7–5.4%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 3.7–6.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.4–3.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 26.1–32.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.6–14.1%&lt;/li&gt;&lt;li&gt;Venstre: 2.7–5.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.8–5.6%&lt;/li&gt;&lt;li&gt;Høyre: 23.2–29.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.0–15.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-11-05-Norfakta.png"
+        length="275492"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 17:46:04 +0100</pubDate>
+      <dc:date>2021-03-13T17:46:04.820711+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS, 24–30 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-10-30-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.6–6.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.7–9.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.9–4.2%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 24.7–30.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 7.2–11.3%&lt;/li&gt;&lt;li&gt;Venstre: 1.5–3.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.1–4.5%&lt;/li&gt;&lt;li&gt;Høyre: 23.8–30.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.5–16.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-10-30-KantarTNS.png"
+        length="278854"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 18:01:19 +0100</pubDate>
+      <dc:date>2021-03-13T18:01:19.182332+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 23–28 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-10-28-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.3–5.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.0–8.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.1–4.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.9–30.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.9–14.8%&lt;/li&gt;&lt;li&gt;Venstre: 2.6–5.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.7–5.6%&lt;/li&gt;&lt;li&gt;Høyre: 21.2–27.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.7–16.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-10-28-Norstat.png"
+        length="286178"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 18:13:55 +0100</pubDate>
+      <dc:date>2021-03-13T18:13:55.023539+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI, 22–24 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-10-24-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.2–9.6%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.4–3.4%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.3–28.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.4–14.6%&lt;/li&gt;&lt;li&gt;Venstre: 3.8–6.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Høyre: 23.6–29.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.6–12.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-10-24-IpsosMMI.png"
+        length="276987"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 18:26:44 +0100</pubDate>
+      <dc:date>2021-03-13T18:26:44.897536+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 16–22 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-10-22-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.7–9.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.9–31.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.5–12.4%&lt;/li&gt;&lt;li&gt;Venstre: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Høyre: 22.7–28.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.6–16.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-10-22-Norstat.png"
+        length="273247"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 18:40:05 +0100</pubDate>
+      <dc:date>2021-03-13T18:40:05.160397+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio, 9–18 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-10-18-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.9–8.6%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.5–3.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.5–32.2%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.5–13.0%&lt;/li&gt;&lt;li&gt;Venstre: 1.8–4.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.2–6.4%&lt;/li&gt;&lt;li&gt;Høyre: 22.5–29.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.4–15.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-10-18-Sentio.png"
+        length="280795"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 18:51:55 +0100</pubDate>
+      <dc:date>2021-03-13T18:51:55.75654+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 4–10 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-10-10-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.7–7.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.3–7.9%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.1–4.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.4–30.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.3–15.4%&lt;/li&gt;&lt;li&gt;Venstre: 1.7–4.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.6–6.9%&lt;/li&gt;&lt;li&gt;Høyre: 21.9–28.4%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.6–15.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-10-10-OpinionPerduco.png"
+        length="288261"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 19:05:09 +0100</pubDate>
+      <dc:date>2021-03-13T19:05:09.618294+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by InFact, 9–10 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-10-10-InFact.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.8–3.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.8–27.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.4–13.3%&lt;/li&gt;&lt;li&gt;Venstre: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Høyre: 23.4–28.9%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.6–17.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-10-10-InFact.png"
+        length="273388"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 19:18:39 +0100</pubDate>
+      <dc:date>2021-03-13T19:18:39.804859+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse, 1–3 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-10-03-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.9–3.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.0–30.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.1–11.8%&lt;/li&gt;&lt;li&gt;Venstre: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Høyre: 22.9–28.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.4–16.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-10-03-ResponsAnalyse.png"
+        length="274569"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 19:47:35 +0100</pubDate>
+      <dc:date>2021-03-13T19:47:35.366382+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta, 2–3 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-10-03-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.5–31.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.4–13.3%&lt;/li&gt;&lt;li&gt;Venstre: 1.6–3.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Høyre: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.3–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-10-03-Norfakta.png"
+        length="269603"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 20:07:49 +0100</pubDate>
+      <dc:date>2021-03-13T20:07:49.224732+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 24–29 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-09-29-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.7–9.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.1–5.7%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 24.2–29.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.3–13.4%&lt;/li&gt;&lt;li&gt;Venstre: 2.5–4.9%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.6–5.1%&lt;/li&gt;&lt;li&gt;Høyre: 22.0–27.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.9–16.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-09-29-Norstat.png"
+        length="278853"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 20:22:45 +0100</pubDate>
+      <dc:date>2021-03-13T20:22:45.506042+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS, 24–28 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-09-28-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.9–5.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.0–9.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.6–3.7%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.8–30.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.5–12.8%&lt;/li&gt;&lt;li&gt;Venstre: 2.9–5.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.7–5.4%&lt;/li&gt;&lt;li&gt;Høyre: 23.8–30.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.6–15.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-09-28-KantarTNS.png"
+        length="283834"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 20:35:15 +0100</pubDate>
+      <dc:date>2021-03-13T20:35:15.515228+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI, 24–26 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-09-26-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.4–6.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.7–7.8%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.5–3.4%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.8–31.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.3–12.2%&lt;/li&gt;&lt;li&gt;Venstre: 1.5–3.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Høyre: 23.0–28.7%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.8–17.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-09-26-IpsosMMI.png"
+        length="272906"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 20:47:44 +0100</pubDate>
+      <dc:date>2021-03-13T20:47:44.985629+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 18–24 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-09-24-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.8–8.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.5–3.4%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.9–29.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.1–14.3%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–4.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Høyre: 21.7–27.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13.5–18.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-09-24-Norstat.png"
+        length="277397"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 21:01:12 +0100</pubDate>
+      <dc:date>2021-03-13T21:01:12.361111+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio, 11–17 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-09-17-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.5–6.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.8–8.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–5.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 24.8–31.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 7.1–11.4%&lt;/li&gt;&lt;li&gt;Venstre: 2.0–4.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.8–5.7%&lt;/li&gt;&lt;li&gt;Høyre: 24.3–30.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.7–14.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-09-17-Sentio.png"
+        length="281335"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 21:14:43 +0100</pubDate>
+      <dc:date>2021-03-13T21:14:43.628474+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse, 6–10 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-09-10-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.5–6.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.9–8.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 22.9–28.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.6–12.4%&lt;/li&gt;&lt;li&gt;Venstre: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Høyre: 23.4–28.9%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.1–16.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-09-10-ResponsAnalyse.png"
+        length="282645"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 23:18:30 +0100</pubDate>
+      <dc:date>2021-03-13T23:18:30.177757+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 4–10 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-09-10-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.4–9.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.9–4.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 24.4–31.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.5–13.1%&lt;/li&gt;&lt;li&gt;Venstre: 2.3–5.0%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.9–4.5%&lt;/li&gt;&lt;li&gt;Høyre: 23.3–29.9%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.8–15.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-09-10-OpinionPerduco.png"
+        length="285682"
+        type="image/png"/>
+      <pubDate>Sun, 14 Mar 2021 10:40:29 +0100</pubDate>
+      <dc:date>2021-03-14T10:40:29.739638+01:00</dc:date>
+    </item>
+    <dc:date>2021-03-14T10:40:29.739638+01:00</dc:date>
   </channel>
 </rss>
