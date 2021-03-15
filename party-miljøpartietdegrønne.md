@@ -243,23 +243,23 @@ Last result: **3.2%** (General Election of 8–9 September 2013)
 | [6 September 2018](2018-09-06-KantarTNS.html) | Kantar TNS | 2.4% | 1.8–3.3% | 1.6–3.5% | 1.5–3.7% | 1.2–4.2% |
 | [4–5 September 2018](2018-09-05-Norfakta.html) | Norfakta | 2.1% | 1.5–2.9% | 1.4–3.1% | 1.3–3.3% | 1.1–3.7% |
 | [28 August–2 September 2018](2018-09-02-Norstat.html) | Norstat | 2.8% | 2.1–3.7% | 2.0–4.0% | 1.8–4.3% | 1.5–4.8% |
-| [20–26 August 2018](2018-08-26-Norstat.html) | Norstat | 3.6% | N/A | N/A | N/A | N/A |
-| [20–25 August 2018](2018-08-25-IpsosMMI.html) | Ipsos MMI | 3.2% | N/A | N/A | N/A | N/A |
-| [14–20 August 2018](2018-08-20-Sentio.html) | Sentio | 3.4% | N/A | N/A | N/A | N/A |
-| [16–20 August 2018](2018-08-20-ResponsAnalyse.html) | Respons Analyse | 2.2% | N/A | N/A | N/A | N/A |
-| [7–12 August 2018](2018-08-12-Norstat.html) | Norstat | 3.3% | N/A | N/A | N/A | N/A |
-| [7–8 August 2018](2018-08-08-Norfakta.html) | Norfakta | 2.4% | N/A | N/A | N/A | N/A |
-| [1–7 August 2018](2018-08-07-KantarTNS.html) | Kantar TNS | 2.6% | N/A | N/A | N/A | N/A |
-| [31 July–6 August 2018](2018-08-06-OpinionPerduco.html) | Opinion Perduco | 4.1% | N/A | N/A | N/A | N/A |
-| [3–4 July 2018](2018-07-04-Norfakta.html) | Norfakta | 3.7% | N/A | N/A | N/A | N/A |
-| [25–27 June 2018](2018-06-27-IpsosMMI.html) | Ipsos MMI | 2.4% | N/A | N/A | N/A | N/A |
-| [19–25 June 2018](2018-06-25-Norstat.html) | Norstat | 2.6% | N/A | N/A | N/A | N/A |
-| [12–16 June 2018](2018-06-16-Sentio.html) | Sentio | 2.1% | N/A | N/A | N/A | N/A |
-| [5–11 June 2018](2018-06-11-OpinionPerduco.html) | Opinion Perduco | 4.2% | N/A | N/A | N/A | N/A |
-| [5–6 June 2018](2018-06-06-Norfakta.html) | Norfakta | 3.4% | N/A | N/A | N/A | N/A |
-| [31 May–4 June 2018](2018-06-04-ResponsAnalyse.html) | Respons Analyse | 2.9% | N/A | N/A | N/A | N/A |
-| [27 May–4 June 2018](2018-06-04-Norstat.html) | Norstat | 3.4% | N/A | N/A | N/A | N/A |
-| [28 May–1 June 2018](2018-06-01-KantarTNS.html) | Kantar TNS | 3.2% | N/A | N/A | N/A | N/A |
+| [20–26 August 2018](2018-08-26-Norstat.html) | Norstat | 3.6% | 2.9–4.5% | 2.7–4.7% | 2.5–5.0% | 2.3–5.4% |
+| [20–25 August 2018](2018-08-25-IpsosMMI.html) | Ipsos MMI | 3.2% | 2.6–4.1% | 2.4–4.3% | 2.2–4.5% | 2.0–5.0% |
+| [14–20 August 2018](2018-08-20-Sentio.html) | Sentio | 3.4% | 2.7–4.5% | 2.4–4.8% | 2.3–5.0% | 2.0–5.6% |
+| [16–20 August 2018](2018-08-20-ResponsAnalyse.html) | Respons Analyse | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [7–12 August 2018](2018-08-12-Norstat.html) | Norstat | 3.3% | 2.6–4.4% | 2.4–4.7% | 2.2–5.0% | 1.9–5.6% |
+| [7–8 August 2018](2018-08-08-Norfakta.html) | Norfakta | 2.4% | 1.9–3.1% | 1.7–3.4% | 1.6–3.5% | 1.4–3.9% |
+| [1–7 August 2018](2018-08-07-KantarTNS.html) | Kantar TNS | 2.6% | 2.0–3.5% | 1.8–3.7% | 1.6–4.0% | 1.4–4.5% |
+| [31 July–6 August 2018](2018-08-06-OpinionPerduco.html) | Opinion Perduco | 4.1% | 3.3–5.2% | 3.0–5.5% | 2.8–5.8% | 2.5–6.4% |
+| [3–4 July 2018](2018-07-04-Norfakta.html) | Norfakta | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.6–5.3% | 2.2–5.8% |
+| [25–27 June 2018](2018-06-27-IpsosMMI.html) | Ipsos MMI | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–4.1% |
+| [19–25 June 2018](2018-06-25-Norstat.html) | Norstat | 2.6% | 2.0–3.4% | 1.8–3.6% | 1.7–3.8% | 1.5–4.2% |
+| [12–16 June 2018](2018-06-16-Sentio.html) | Sentio | 2.1% | 1.6–3.0% | 1.4–3.3% | 1.3–3.5% | 1.1–4.0% |
+| [5–11 June 2018](2018-06-11-OpinionPerduco.html) | Opinion Perduco | 4.2% | 3.3–5.3% | 3.1–5.6% | 2.9–5.9% | 2.6–6.5% |
+| [5–6 June 2018](2018-06-06-Norfakta.html) | Norfakta | 3.4% | 2.7–4.4% | 2.5–4.7% | 2.3–4.9% | 2.1–5.4% |
+| [31 May–4 June 2018](2018-06-04-ResponsAnalyse.html) | Respons Analyse | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
+| [27 May–4 June 2018](2018-06-04-Norstat.html) | Norstat | 3.4% | 2.8–4.3% | 2.6–4.6% | 2.4–4.8% | 2.2–5.3% |
+| [28 May–1 June 2018](2018-06-01-KantarTNS.html) | Kantar TNS | 3.2% | 2.5–4.2% | 2.3–4.5% | 2.2–4.8% | 1.9–5.3% |
 | [28–30 May 2018](2018-05-30-IpsosMMI.html) | Ipsos MMI | 3.0% | N/A | N/A | N/A | N/A |
 | [22–28 May 2018](2018-05-28-Norstat.html) | Norstat | 2.7% | N/A | N/A | N/A | N/A |
 | [14–22 May 2018](2018-05-22-Sentio.html) | Sentio | 2.9% | N/A | N/A | N/A | N/A |
@@ -585,23 +585,23 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [6 September 2018](2018-09-06-KantarTNS.html) | Kantar TNS | 1 | 0–1 | 0–2 | 0–2 | 0–7 |
 | [4–5 September 2018](2018-09-05-Norfakta.html) | Norfakta | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [28 August–2 September 2018](2018-09-02-Norstat.html) | Norstat | 1 | 1–2 | 1–2 | 1–2 | 0–8 |
-| [20–26 August 2018](2018-08-26-Norstat.html) | Norstat |  |  |  |  |  |
-| [20–25 August 2018](2018-08-25-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [14–20 August 2018](2018-08-20-Sentio.html) | Sentio |  |  |  |  |  |
-| [16–20 August 2018](2018-08-20-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
+| [20–26 August 2018](2018-08-26-Norstat.html) | Norstat | 2 | 1–8 | 1–9 | 1–9 | 1–10 |
+| [20–25 August 2018](2018-08-25-IpsosMMI.html) | Ipsos MMI | 1 | 1–3 | 1–8 | 1–8 | 1–9 |
+| [14–20 August 2018](2018-08-20-Sentio.html) | Sentio | 2 | 1–8 | 1–9 | 1–9 | 0–9 |
+| [16–20 August 2018](2018-08-20-ResponsAnalyse.html) | Respons Analyse | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [7–12 August 2018](2018-08-12-Norstat.html) | Norstat |  |  |  |  |  |
-| [7–8 August 2018](2018-08-08-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [1–7 August 2018](2018-08-07-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [31 July–6 August 2018](2018-08-06-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
-| [3–4 July 2018](2018-07-04-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [25–27 June 2018](2018-06-27-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [19–25 June 2018](2018-06-25-Norstat.html) | Norstat |  |  |  |  |  |
-| [12–16 June 2018](2018-06-16-Sentio.html) | Sentio |  |  |  |  |  |
-| [5–11 June 2018](2018-06-11-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
-| [5–6 June 2018](2018-06-06-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [31 May–4 June 2018](2018-06-04-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [27 May–4 June 2018](2018-06-04-Norstat.html) | Norstat |  |  |  |  |  |
-| [28 May–1 June 2018](2018-06-01-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
+| [7–8 August 2018](2018-08-08-Norfakta.html) | Norfakta | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [1–7 August 2018](2018-08-07-KantarTNS.html) | Kantar TNS | 1 | 1–2 | 1–2 | 0–2 | 0–8 |
+| [31 July–6 August 2018](2018-08-06-OpinionPerduco.html) | Opinion Perduco | 3 | 2–9 | 1–10 | 1–10 | 1–11 |
+| [3–4 July 2018](2018-07-04-Norfakta.html) | Norfakta | 2 | 1–8 | 1–9 | 1–9 | 1–11 |
+| [25–27 June 2018](2018-06-27-IpsosMMI.html) | Ipsos MMI | 1 | 0–2 | 0–2 | 0–2 | 0–7 |
+| [19–25 June 2018](2018-06-25-Norstat.html) | Norstat | 1 | 1 | 0–2 | 0–2 | 0–7 |
+| [12–16 June 2018](2018-06-16-Sentio.html) | Sentio | 1 | 0–1 | 0–2 | 0–2 | 0–7 |
+| [5–11 June 2018](2018-06-11-OpinionPerduco.html) | Opinion Perduco | 8 | 2–10 | 2–10 | 1–10 | 1–11 |
+| [5–6 June 2018](2018-06-06-Norfakta.html) | Norfakta | 1 | 1–7 | 1–8 | 1–9 | 1–10 |
+| [31 May–4 June 2018](2018-06-04-ResponsAnalyse.html) | Respons Analyse | 1 | 1–2 | 1–7 | 1–8 | 0–9 |
+| [27 May–4 June 2018](2018-06-04-Norstat.html) | Norstat | 2 | 1–3 | 1–7 | 1–8 | 1–9 |
+| [28 May–1 June 2018](2018-06-01-KantarTNS.html) | Kantar TNS | 2 | 1–6 | 0–7 | 0–9 | 0–9 |
 | [28–30 May 2018](2018-05-30-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
 | [22–28 May 2018](2018-05-28-Norstat.html) | Norstat |  |  |  |  |  |
 | [14–22 May 2018](2018-05-22-Sentio.html) | Sentio |  |  |  |  |  |
