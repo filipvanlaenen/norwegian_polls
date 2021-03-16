@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Mon, 15 Mar 2021 23:01:41 +0100</pubDate>
+    <pubDate>Tue, 16 Mar 2021 18:16:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by Respons Analyse for VG, 5–10 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-10-ResponsAnalyse.html#seats</link>
@@ -3850,6 +3850,16 @@
       <dc:date>2021-03-15T08:54:07.582754+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat, 7–12 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-08-12-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.8–7.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.5–8.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.2–5.0%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.7–27.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.6–14.5%&lt;/li&gt;&lt;li&gt;Venstre: 2.3–5.2%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.7–5.7%&lt;/li&gt;&lt;li&gt;Høyre: 24.3–31.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.4–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-08-12-Norstat.png"
+        length="284675"
+        type="image/png"/>
+      <pubDate>Tue, 16 Mar 2021 17:44:38 +0100</pubDate>
+      <dc:date>2021-03-16T17:44:38.082172+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norfakta, 7–8 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2018-08-08-Norfakta.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.7–5.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.6–3.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.1–30.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.4–14.4%&lt;/li&gt;&lt;li&gt;Venstre: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Høyre: 22.0–27.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.9–15.1%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -4059,6 +4069,26 @@
       <pubDate>Mon, 15 Mar 2021 23:01:41 +0100</pubDate>
       <dc:date>2021-03-15T23:01:41.012478+01:00</dc:date>
     </item>
-    <dc:date>2021-03-15T23:01:41.012478+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Ipsos MMI, 23–25 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-04-25-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.5–6.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.7–7.8%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.7–26.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.0–14.1%&lt;/li&gt;&lt;li&gt;Venstre: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.2–5.9%&lt;/li&gt;&lt;li&gt;Høyre: 22.3–27.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13.8–18.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-04-25-IpsosMMI.png"
+        length="281994"
+        type="image/png"/>
+      <pubDate>Tue, 16 Mar 2021 17:58:23 +0100</pubDate>
+      <dc:date>2021-03-16T17:58:23.247877+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio, 17–23 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-04-23-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1.8–4.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.6–9.5%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.0–4.7%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.8–27.2%&lt;/li&gt;&lt;li&gt;Senterpartiet: 9.6–14.5%&lt;/li&gt;&lt;li&gt;Venstre: 2.5–5.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.6–6.9%&lt;/li&gt;&lt;li&gt;Høyre: 22.1–28.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13.1–18.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-04-23-Sentio.png"
+        length="288378"
+        type="image/png"/>
+      <pubDate>Tue, 16 Mar 2021 18:16:37 +0100</pubDate>
+      <dc:date>2021-03-16T18:16:37.394489+01:00</dc:date>
+    </item>
+    <dc:date>2021-03-16T18:16:37.394489+01:00</dc:date>
   </channel>
 </rss>
