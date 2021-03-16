@@ -269,8 +269,8 @@ Last result: **25.0%** (General Election of 8–9 September 2013)
 | [30 April–7 May 2018](2018-05-07-Norstat.html) | Norstat | 25.5% | 23.4–27.7% | 22.9–28.3% | 22.4–28.8% | 21.4–29.9% |
 | [30 April–2 May 2018](2018-05-02-KantarTNS.html) | Kantar TNS | 28.1% | 26.1–30.3% | 25.6–30.9% | 25.1–31.4% | 24.1–32.4% |
 | [26–30 April 2018](2018-04-30-Norstat.html) | Norstat | 26.4% | 24.6–28.3% | 24.1–28.8% | 23.6–29.3% | 22.8–30.2% |
-| [23–25 April 2018](2018-04-25-IpsosMMI.html) | Ipsos MMI | 25.0% | N/A | N/A | N/A | N/A |
-| [17–23 April 2018](2018-04-23-Sentio.html) | Sentio | 25.2% | N/A | N/A | N/A | N/A |
+| [23–25 April 2018](2018-04-25-IpsosMMI.html) | Ipsos MMI | 25.0% | 23.2–26.9% | 22.7–27.4% | 22.3–27.8% | 21.5–28.8% |
+| [17–23 April 2018](2018-04-23-Sentio.html) | Sentio | 25.2% | 23.1–27.4% | 22.6–28.0% | 22.1–28.6% | 21.1–29.7% |
 | [10–16 April 2018](2018-04-16-OpinionPerduco.html) | Opinion Perduco | 26.9% | N/A | N/A | N/A | N/A |
 | [5–9 April 2018](2018-04-09-ResponsAnalyse.html) | Respons Analyse | 25.9% | N/A | N/A | N/A | N/A |
 | [3–9 April 2018](2018-04-09-Norstat.html) | Norstat | 25.1% | N/A | N/A | N/A | N/A |
@@ -597,7 +597,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [20–25 August 2018](2018-08-25-IpsosMMI.html) | Ipsos MMI | 45 | 42–48 | 41–50 | 40–51 | 39–54 |
 | [14–20 August 2018](2018-08-20-Sentio.html) | Sentio | 48 | 44–51 | 42–53 | 41–55 | 39–59 |
 | [16–20 August 2018](2018-08-20-ResponsAnalyse.html) | Respons Analyse | 45 | 41–49 | 41–49 | 41–49 | 39–52 |
-| [7–12 August 2018](2018-08-12-Norstat.html) | Norstat |  |  |  |  |  |
+| [7–12 August 2018](2018-08-12-Norstat.html) | Norstat | 49 | 45–52 | 44–53 | 43–54 | 42–58 |
 | [7–8 August 2018](2018-08-08-Norfakta.html) | Norfakta | 41 | 40–47 | 39–48 | 39–50 | 38–51 |
 | [1–7 August 2018](2018-08-07-KantarTNS.html) | Kantar TNS | 47 | 43–47 | 41–50 | 40–52 | 38–54 |
 | [31 July–6 August 2018](2018-08-06-OpinionPerduco.html) | Opinion Perduco | 42 | 40–47 | 38–47 | 36–47 | 34–48 |
@@ -619,8 +619,8 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [30 April–7 May 2018](2018-05-07-Norstat.html) | Norstat | 46 | 43–51 | 42–52 | 41–52 | 38–54 |
 | [30 April–2 May 2018](2018-05-02-KantarTNS.html) | Kantar TNS | 49 | 47–55 | 45–55 | 44–56 | 42–58 |
 | [26–30 April 2018](2018-04-30-Norstat.html) | Norstat | 48 | 45–51 | 43–53 | 42–54 | 42–56 |
-| [23–25 April 2018](2018-04-25-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [17–23 April 2018](2018-04-23-Sentio.html) | Sentio |  |  |  |  |  |
+| [23–25 April 2018](2018-04-25-IpsosMMI.html) | Ipsos MMI | 46 | 42–47 | 42–48 | 40–48 | 38–51 |
+| [17–23 April 2018](2018-04-23-Sentio.html) | Sentio | 44 | 41–49 | 40–51 | 38–52 | 38–54 |
 | [10–16 April 2018](2018-04-16-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
 | [5–9 April 2018](2018-04-09-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
 | [3–9 April 2018](2018-04-09-Norstat.html) | Norstat |  |  |  |  |  |
