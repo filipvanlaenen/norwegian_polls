@@ -278,37 +278,37 @@ Last result: **25.0%** (General Election of 8–9 September 2013)
 | [3–6 April 2018](2018-04-06-KantarTNS.html) | Kantar TNS | 26.3% | 24.3–28.4% | 23.8–29.0% | 23.3–29.5% | 22.4–30.5% |
 | [3–4 April 2018](2018-04-04-Norfakta.html) | Norfakta | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 22.9–30.1% |
 | [20–24 March 2018](2018-03-24-Norstat.html) | Norstat | 25.3% | 23.6–27.2% | 23.1–27.7% | 22.7–28.2% | 21.9–29.1% |
-| [19–21 March 2018](2018-03-21-IpsosMMI.html) | Ipsos MMI | 23.9% | N/A | N/A | N/A | N/A |
-| [20 March 2018](2018-03-20-KantarTNS.html) | Kantar TNS | 25.9% | N/A | N/A | N/A | N/A |
-| [13–19 March 2018](2018-03-19-Sentio.html) | Sentio | 26.6% | N/A | N/A | N/A | N/A |
-| [15–16 March 2018](2018-03-16-ResponsAnalyse.html) | Respons Analyse | 26.9% | N/A | N/A | N/A | N/A |
-| [6–12 March 2018](2018-03-12-OpinionPerduco.html) | Opinion Perduco | 27.3% | N/A | N/A | N/A | N/A |
-| [6–7 March 2018](2018-03-07-Norfakta.html) | Norfakta | 28.4% | N/A | N/A | N/A | N/A |
-| [1–5 March 2018](2018-03-05-ResponsAnalyse.html) | Respons Analyse | 28.0% | N/A | N/A | N/A | N/A |
-| [27 February–5 March 2018](2018-03-05-Norstat.html) | Norstat | 27.4% | N/A | N/A | N/A | N/A |
-| [26 February–3 March 2018](2018-03-03-KantarTNS.html) | Kantar TNS | 29.3% | N/A | N/A | N/A | N/A |
-| [20–25 February 2018](2018-02-25-Norstat.html) | Norstat | 28.8% | N/A | N/A | N/A | N/A |
-| [19–21 February 2018](2018-02-21-IpsosMMI.html) | Ipsos MMI | 27.3% | N/A | N/A | N/A | N/A |
-| [13–19 February 2018](2018-02-19-Sentio.html) | Sentio | 28.7% | N/A | N/A | N/A | N/A |
-| [6–12 February 2018](2018-02-12-OpinionPerduco.html) | Opinion Perduco | 29.2% | N/A | N/A | N/A | N/A |
-| [5–7 February 2018](2018-02-07-ResponsAnalyse.html) | Respons Analyse | 27.9% | N/A | N/A | N/A | N/A |
-| [30 January–5 February 2018](2018-02-05-Norstat.html) | Norstat | 29.0% | N/A | N/A | N/A | N/A |
-| [29 January–5 February 2018](2018-02-05-KantarTNS.html) | Kantar TNS | 29.2% | N/A | N/A | N/A | N/A |
-| [30–31 January 2018](2018-01-31-Norfakta.html) | Norfakta | 27.8% | N/A | N/A | N/A | N/A |
-| [23–28 January 2018](2018-01-28-Norstat.html) | Norstat | 29.9% | N/A | N/A | N/A | N/A |
-| [22–24 January 2018](2018-01-24-IpsosMMI.html) | Ipsos MMI | 26.2% | N/A | N/A | N/A | N/A |
-| [16–21 January 2018](2018-01-21-Sentio.html) | Sentio | 30.5% | N/A | N/A | N/A | N/A |
-| [9–15 January 2018](2018-01-15-OpinionPerduco.html) | Opinion Perduco | 30.3% | N/A | N/A | N/A | N/A |
-| [10–12 January 2018](2018-01-12-ResponsAnalyse.html) | Respons Analyse | 29.4% | N/A | N/A | N/A | N/A |
-| [8–10 January 2018](2018-01-10-ResponsAnalyse.html) | Respons Analyse | 27.2% | N/A | N/A | N/A | N/A |
-| [3–9 January 2018](2018-01-09-KantarTNS.html) | Kantar TNS | 30.5% | N/A | N/A | N/A | N/A |
-| [2–8 January 2018](2018-01-08-Norstat.html) | Norstat | 28.7% | N/A | N/A | N/A | N/A |
-| [2–3 January 2018](2018-01-03-Norfakta.html) | Norfakta | 29.1% | N/A | N/A | N/A | N/A |
-| [18–20 December 2017](2017-12-20-IpsosMMI.html) | Ipsos MMI | 26.5% | N/A | N/A | N/A | N/A |
-| [12–18 December 2017](2017-12-18-Norstat.html) | Norstat | 26.4% | N/A | N/A | N/A | N/A |
-| [5–11 December 2017](2017-12-11-Sentio.html) | Sentio | 26.6% | N/A | N/A | N/A | N/A |
-| [4–8 December 2017](2017-12-08-KantarTNS.html) | Kantar TNS | 26.6% | N/A | N/A | N/A | N/A |
-| [5–6 December 2017](2017-12-06-Norfakta.html) | Norfakta | 27.5% | N/A | N/A | N/A | N/A |
+| [19–21 March 2018](2018-03-21-IpsosMMI.html) | Ipsos MMI | 23.9% | 22.1–25.7% | 21.6–26.2% | 21.2–26.7% | 20.4–27.6% |
+| [20 March 2018](2018-03-20-KantarTNS.html) | Kantar TNS | 25.9% | 23.5–28.5% | 22.8–29.3% | 22.3–29.9% | 21.1–31.2% |
+| [13–19 March 2018](2018-03-19-Sentio.html) | Sentio | 26.6% | 24.6–28.8% | 24.0–29.5% | 23.5–30.0% | 22.5–31.1% |
+| [15–16 March 2018](2018-03-16-ResponsAnalyse.html) | Respons Analyse | 26.9% | 25.2–28.8% | 24.7–29.3% | 24.3–29.8% | 23.5–30.7% |
+| [6–12 March 2018](2018-03-12-OpinionPerduco.html) | Opinion Perduco | 27.3% | 25.2–29.6% | 24.6–30.2% | 24.1–30.8% | 23.1–31.9% |
+| [6–7 March 2018](2018-03-07-Norfakta.html) | Norfakta | 28.4% | 26.4–30.6% | 25.9–31.2% | 25.4–31.7% | 24.5–32.7% |
+| [1–5 March 2018](2018-03-05-ResponsAnalyse.html) | Respons Analyse | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
+| [27 February–5 March 2018](2018-03-05-Norstat.html) | Norstat | 27.4% | 25.6–29.4% | 25.1–29.9% | 24.6–30.4% | 23.8–31.3% |
+| [26 February–3 March 2018](2018-03-03-KantarTNS.html) | Kantar TNS | 29.3% | 27.3–31.4% | 26.8–32.0% | 26.3–32.5% | 25.3–33.6% |
+| [20–25 February 2018](2018-02-25-Norstat.html) | Norstat | 28.8% | 27.0–30.8% | 26.5–31.4% | 26.0–31.8% | 25.1–32.8% |
+| [19–21 February 2018](2018-02-21-IpsosMMI.html) | Ipsos MMI | 27.3% | 25.5–29.2% | 25.0–29.7% | 24.5–30.2% | 23.7–31.1% |
+| [13–19 February 2018](2018-02-19-Sentio.html) | Sentio | 28.7% | 26.6–30.9% | 26.0–31.5% | 25.5–32.0% | 24.6–33.1% |
+| [6–12 February 2018](2018-02-12-OpinionPerduco.html) | Opinion Perduco | 29.2% | 27.1–31.5% | 26.4–32.1% | 25.9–32.7% | 24.9–33.8% |
+| [5–7 February 2018](2018-02-07-ResponsAnalyse.html) | Respons Analyse | 27.9% | 26.2–29.8% | 25.7–30.3% | 25.2–30.8% | 24.4–31.7% |
+| [30 January–5 February 2018](2018-02-05-Norstat.html) | Norstat | 29.0% | 27.1–30.9% | 26.6–31.5% | 26.1–31.9% | 25.3–32.9% |
+| [29 January–5 February 2018](2018-02-05-KantarTNS.html) | Kantar TNS | 29.2% | 27.2–31.3% | 26.6–31.9% | 26.1–32.4% | 25.2–33.5% |
+| [30–31 January 2018](2018-01-31-Norfakta.html) | Norfakta | 27.8% | 25.8–30.0% | 25.3–30.6% | 24.8–31.1% | 23.9–32.2% |
+| [23–28 January 2018](2018-01-28-Norstat.html) | Norstat | 29.9% | 28.0–31.9% | 27.5–32.5% | 27.1–33.0% | 26.2–33.9% |
+| [22–24 January 2018](2018-01-24-IpsosMMI.html) | Ipsos MMI | 26.2% | 24.4–28.2% | 23.9–28.7% | 23.4–29.2% | 22.6–30.1% |
+| [16–21 January 2018](2018-01-21-Sentio.html) | Sentio | 30.5% | 28.3–32.8% | 27.7–33.4% | 27.2–34.0% | 26.2–35.1% |
+| [9–15 January 2018](2018-01-15-OpinionPerduco.html) | Opinion Perduco | 30.3% | 28.1–32.6% | 27.5–33.2% | 27.0–33.8% | 26.0–34.9% |
+| [10–12 January 2018](2018-01-12-ResponsAnalyse.html) | Respons Analyse | 29.4% | 27.6–31.3% | 27.1–31.8% | 26.7–32.3% | 25.8–33.2% |
+| [8–10 January 2018](2018-01-10-ResponsAnalyse.html) | Respons Analyse | 27.2% | 25.2–29.2% | 24.7–29.8% | 24.2–30.3% | 23.3–31.4% |
+| [3–9 January 2018](2018-01-09-KantarTNS.html) | Kantar TNS | 30.5% | 28.5–32.7% | 27.9–33.3% | 27.4–33.8% | 26.4–34.9% |
+| [2–8 January 2018](2018-01-08-Norstat.html) | Norstat | 28.7% | 26.9–30.6% | 26.3–31.1% | 25.9–31.6% | 25.1–32.5% |
+| [2–3 January 2018](2018-01-03-Norfakta.html) | Norfakta | 29.1% | 27.3–31.0% | 26.8–31.5% | 26.4–32.0% | 25.5–32.9% |
+| [18–20 December 2017](2017-12-20-IpsosMMI.html) | Ipsos MMI | 26.5% | 24.7–28.4% | 24.2–28.9% | 23.7–29.4% | 22.9–30.4% |
+| [12–18 December 2017](2017-12-18-Norstat.html) | Norstat | 26.4% | 24.7–28.3% | 24.2–28.9% | 23.7–29.4% | 22.9–30.3% |
+| [5–11 December 2017](2017-12-11-Sentio.html) | Sentio | 26.6% | 24.6–28.7% | 24.0–29.3% | 23.5–29.8% | 22.6–30.8% |
+| [4–8 December 2017](2017-12-08-KantarTNS.html) | Kantar TNS | 26.6% | 24.6–28.7% | 24.1–29.3% | 23.6–29.8% | 22.7–30.8% |
+| [5–6 December 2017](2017-12-06-Norfakta.html) | Norfakta | 27.5% | 25.5–29.5% | 25.0–30.1% | 24.5–30.6% | 23.6–31.6% |
 | [28 November–4 December 2017](2017-12-04-OpinionPerduco.html) | Opinion Perduco | 25.9% | N/A | N/A | N/A | N/A |
 | [21–27 November 2017](2017-11-27-Norstat.html) | Norstat | 26.8% | N/A | N/A | N/A | N/A |
 | [20–22 November 2017](2017-11-22-IpsosMMI.html) | Ipsos MMI | 25.1% | N/A | N/A | N/A | N/A |
@@ -628,38 +628,38 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [3–9 April 2018](2018-04-09-Norstat.html) | Norstat | 49 | 45–52 | 44–53 | 43–53 | 40–54 |
 | [3–6 April 2018](2018-04-06-KantarTNS.html) | Kantar TNS | 46 | 43–50 | 43–51 | 42–52 | 40–53 |
 | [3–4 April 2018](2018-04-04-Norfakta.html) | Norfakta | 50 | 42–50 | 42–50 | 42–51 | 40–53 |
-| [20–24 March 2018](2018-03-24-Norstat.html) | Norstat | 45 | 42–48 | 41–50 | 39–51 | 38–53 |
-| [19–21 March 2018](2018-03-21-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [20 March 2018](2018-03-20-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [13–19 March 2018](2018-03-19-Sentio.html) | Sentio |  |  |  |  |  |
-| [15–16 March 2018](2018-03-16-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [6–12 March 2018](2018-03-12-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
-| [6–7 March 2018](2018-03-07-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [1–5 March 2018](2018-03-05-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [27 February–5 March 2018](2018-03-05-Norstat.html) | Norstat |  |  |  |  |  |
-| [26 February–3 March 2018](2018-03-03-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [20–25 February 2018](2018-02-25-Norstat.html) | Norstat |  |  |  |  |  |
-| [19–21 February 2018](2018-02-21-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [13–19 February 2018](2018-02-19-Sentio.html) | Sentio |  |  |  |  |  |
-| [6–12 February 2018](2018-02-12-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
-| [5–7 February 2018](2018-02-07-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [30 January–5 February 2018](2018-02-05-Norstat.html) | Norstat |  |  |  |  |  |
-| [29 January–5 February 2018](2018-02-05-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [30–31 January 2018](2018-01-31-Norfakta.html) | Norfakta |  |  |  |  |  |
+| [20–24 March 2018](2018-03-24-Norstat.html) | Norstat | 45 | 42–48 | 41–50 | 40–51 | 38–53 |
+| [19–21 March 2018](2018-03-21-IpsosMMI.html) | Ipsos MMI | 44 | 40–48 | 40–49 | 39–51 | 37–52 |
+| [20 March 2018](2018-03-20-KantarTNS.html) | Kantar TNS | 45 | 40–50 | 39–51 | 37–51 | 36–54 |
+| [13–19 March 2018](2018-03-19-Sentio.html) | Sentio | 48 | 44–53 | 43–55 | 42–55 | 40–55 |
+| [15–16 March 2018](2018-03-16-ResponsAnalyse.html) | Respons Analyse | 48 | 46–54 | 46–54 | 44–54 | 42–55 |
+| [6–12 March 2018](2018-03-12-OpinionPerduco.html) | Opinion Perduco | 49 | 44–52 | 43–54 | 42–54 | 40–57 |
+| [6–7 March 2018](2018-03-07-Norfakta.html) | Norfakta | 51 | 47–55 | 47–56 | 46–58 | 44–59 |
+| [1–5 March 2018](2018-03-05-ResponsAnalyse.html) | Respons Analyse | 50 | 47–53 | 47–54 | 46–55 | 45–57 |
+| [27 February–5 March 2018](2018-03-05-Norstat.html) | Norstat | 49 | 47–54 | 45–57 | 45–57 | 43–57 |
+| [26 February–3 March 2018](2018-03-03-KantarTNS.html) | Kantar TNS | 53 | 49–57 | 48–57 | 47–58 | 45–59 |
+| [20–25 February 2018](2018-02-25-Norstat.html) | Norstat | 52 | 50–56 | 49–58 | 48–58 | 45–60 |
+| [19–21 February 2018](2018-02-21-IpsosMMI.html) | Ipsos MMI | 50 | 47–54 | 46–56 | 45–56 | 43–58 |
+| [13–19 February 2018](2018-02-19-Sentio.html) | Sentio | 51 | 48–53 | 47–55 | 46–57 | 42–60 |
+| [6–12 February 2018](2018-02-12-OpinionPerduco.html) | Opinion Perduco | 53 | 49–55 | 47–58 | 45–60 | 43–60 |
+| [5–7 February 2018](2018-02-07-ResponsAnalyse.html) | Respons Analyse | 49 | 48–54 | 46–55 | 45–55 | 44–56 |
+| [30 January–5 February 2018](2018-02-05-Norstat.html) | Norstat | 53 | 49–58 | 48–58 | 47–58 | 46–60 |
+| [29 January–5 February 2018](2018-02-05-KantarTNS.html) | Kantar TNS | 53 | 48–56 | 47–57 | 47–58 | 44–61 |
+| [30–31 January 2018](2018-01-31-Norfakta.html) | Norfakta | 49 | 45–54 | 43–55 | 43–56 | 42–61 |
 | [23–28 January 2018](2018-01-28-Norstat.html) | Norstat |  |  |  |  |  |
-| [22–24 January 2018](2018-01-24-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [16–21 January 2018](2018-01-21-Sentio.html) | Sentio |  |  |  |  |  |
-| [9–15 January 2018](2018-01-15-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
-| [10–12 January 2018](2018-01-12-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [8–10 January 2018](2018-01-10-ResponsAnalyse.html) | Respons Analyse |  |  |  |  |  |
-| [3–9 January 2018](2018-01-09-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [2–8 January 2018](2018-01-08-Norstat.html) | Norstat |  |  |  |  |  |
-| [2–3 January 2018](2018-01-03-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [18–20 December 2017](2017-12-20-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [12–18 December 2017](2017-12-18-Norstat.html) | Norstat |  |  |  |  |  |
-| [5–11 December 2017](2017-12-11-Sentio.html) | Sentio |  |  |  |  |  |
-| [4–8 December 2017](2017-12-08-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [5–6 December 2017](2017-12-06-Norfakta.html) | Norfakta |  |  |  |  |  |
+| [22–24 January 2018](2018-01-24-IpsosMMI.html) | Ipsos MMI | 47 | 45–53 | 42–53 | 42–53 | 40–54 |
+| [16–21 January 2018](2018-01-21-Sentio.html) | Sentio | 54 | 51–60 | 50–61 | 49–63 | 45–65 |
+| [9–15 January 2018](2018-01-15-OpinionPerduco.html) | Opinion Perduco | 52 | 49–57 | 48–60 | 47–61 | 46–63 |
+| [10–12 January 2018](2018-01-12-ResponsAnalyse.html) | Respons Analyse | 52 | 48–55 | 47–57 | 47–58 | 45–59 |
+| [8–10 January 2018](2018-01-10-ResponsAnalyse.html) | Respons Analyse | 49 | 44–52 | 43–55 | 43–58 | 42–60 |
+| [3–9 January 2018](2018-01-09-KantarTNS.html) | Kantar TNS | 55 | 51–60 | 51–61 | 50–61 | 48–63 |
+| [2–8 January 2018](2018-01-08-Norstat.html) | Norstat | 51 | 47–57 | 46–58 | 46–58 | 45–60 |
+| [2–3 January 2018](2018-01-03-Norfakta.html) | Norfakta | 50 | 48–55 | 47–56 | 46–58 | 45–62 |
+| [18–20 December 2017](2017-12-20-IpsosMMI.html) | Ipsos MMI | 45 | 44–51 | 43–53 | 43–53 | 40–55 |
+| [12–18 December 2017](2017-12-18-Norstat.html) | Norstat | 47 | 45–52 | 44–53 | 42–54 | 41–55 |
+| [5–11 December 2017](2017-12-11-Sentio.html) | Sentio | 49 | 44–51 | 43–53 | 42–54 | 41–55 |
+| [4–8 December 2017](2017-12-08-KantarTNS.html) | Kantar TNS | 48 | 44–51 | 43–52 | 42–52 | 40–55 |
+| [5–6 December 2017](2017-12-06-Norfakta.html) | Norfakta | 49 | 45–52 | 45–53 | 44–55 | 42–56 |
 | [28 November–4 December 2017](2017-12-04-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
 | [21–27 November 2017](2017-11-27-Norstat.html) | Norstat |  |  |  |  |  |
 | [20–22 November 2017](2017-11-22-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
