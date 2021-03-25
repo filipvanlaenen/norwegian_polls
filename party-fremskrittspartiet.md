@@ -309,18 +309,18 @@ Last result: **15.2%** (General Election of 8–9 September 2013)
 | [5–11 December 2017](2017-12-11-Sentio.html) | Sentio | 14.8% | 13.3–16.6% | 12.9–17.1% | 12.5–17.5% | 11.8–18.4% |
 | [4–8 December 2017](2017-12-08-KantarTNS.html) | Kantar TNS | 14.8% | 13.3–16.6% | 12.9–17.1% | 12.5–17.5% | 11.8–18.4% |
 | [5–6 December 2017](2017-12-06-Norfakta.html) | Norfakta | 13.6% | 12.2–15.3% | 11.8–15.7% | 11.4–16.1% | 10.8–16.9% |
-| [28 November–4 December 2017](2017-12-04-OpinionPerduco.html) | Opinion Perduco | 14.9% | 13.3–16.9% | 12.9–17.3% | 12.5–17.8% | 11.8–18.7% |
-| [21–27 November 2017](2017-11-27-Norstat.html) | Norstat | 14.7% | N/A | N/A | N/A | N/A |
-| [20–22 November 2017](2017-11-22-IpsosMMI.html) | Ipsos MMI | 15.9% | N/A | N/A | N/A | N/A |
-| [14–20 November 2017](2017-11-20-Norstat.html) | Norstat | 16.1% | N/A | N/A | N/A | N/A |
-| [7–13 November 2017](2017-11-13-Sentio.html) | Sentio | 13.3% | N/A | N/A | N/A | N/A |
-| [6–10 November 2017](2017-11-10-KantarTNS.html) | Kantar TNS | 12.7% | N/A | N/A | N/A | N/A |
-| [7–8 November 2017](2017-11-08-Norfakta.html) | Norfakta | 14.7% | N/A | N/A | N/A | N/A |
-| [31 October–6 November 2017](2017-11-06-OpinionPerduco.html) | Opinion Perduco | 14.8% | N/A | N/A | N/A | N/A |
-| [25–31 October 2017](2017-10-31-Norstat.html) | Norstat | 14.5% | N/A | N/A | N/A | N/A |
-| [23–25 October 2017](2017-10-25-IpsosMMI.html) | Ipsos MMI | 13.5% | N/A | N/A | N/A | N/A |
-| [17–23 October 2017](2017-10-23-Norstat.html) | Norstat | 13.7% | N/A | N/A | N/A | N/A |
-| [10–16 October 2017](2017-10-16-Sentio.html) | Sentio | 14.6% | N/A | N/A | N/A | N/A |
+| [28 November–4 December 2017](2017-12-04-OpinionPerduco.html) | Opinion Perduco | 14.9% | 13.4–16.8% | 12.9–17.3% | 12.5–17.7% | 11.8–18.6% |
+| [21–27 November 2017](2017-11-27-Norstat.html) | Norstat | 14.7% | 13.3–16.3% | 12.9–16.7% | 12.6–17.1% | 11.9–17.9% |
+| [20–22 November 2017](2017-11-22-IpsosMMI.html) | Ipsos MMI | 15.9% | 14.4–17.5% | 14.0–18.0% | 13.7–18.4% | 13.0–19.2% |
+| [14–20 November 2017](2017-11-20-Norstat.html) | Norstat | 16.1% | 14.7–17.7% | 14.3–18.2% | 13.9–18.6% | 13.3–19.4% |
+| [7–13 November 2017](2017-11-13-Sentio.html) | Sentio | 13.3% | 11.8–14.9% | 11.4–15.4% | 11.1–15.8% | 10.4–16.6% |
+| [6–10 November 2017](2017-11-10-KantarTNS.html) | Kantar TNS | 12.7% | 11.3–14.3% | 10.9–14.7% | 10.6–15.1% | 9.9–15.9% |
+| [7–8 November 2017](2017-11-08-Norfakta.html) | Norfakta | 14.7% | 13.2–16.3% | 12.8–16.8% | 12.4–17.2% | 11.8–18.0% |
+| [31 October–6 November 2017](2017-11-06-OpinionPerduco.html) | Opinion Perduco | 14.8% | 13.3–16.6% | 12.8–17.1% | 12.5–17.6% | 11.8–18.4% |
+| [25–31 October 2017](2017-10-31-Norstat.html) | Norstat | 14.5% | 13.1–16.1% | 12.7–16.5% | 12.4–16.9% | 11.8–17.7% |
+| [23–25 October 2017](2017-10-25-IpsosMMI.html) | Ipsos MMI | 13.5% | 12.2–15.0% | 11.8–15.5% | 11.5–15.9% | 10.9–16.6% |
+| [17–23 October 2017](2017-10-23-Norstat.html) | Norstat | 13.7% | 12.3–15.2% | 12.0–15.7% | 11.6–16.0% | 11.0–16.8% |
+| [10–16 October 2017](2017-10-16-Sentio.html) | Sentio | 14.6% | 13.1–16.4% | 12.7–16.8% | 12.4–17.3% | 11.7–18.1% |
 | [3–9 October 2017](2017-10-09-OpinionPerduco.html) | Opinion Perduco | 14.9% | N/A | N/A | N/A | N/A |
 | [2–6 October 2017](2017-10-06-KantarTNS.html) | Kantar TNS | 13.1% | N/A | N/A | N/A | N/A |
 | [3–4 October 2017](2017-10-04-Norfakta.html) | Norfakta | 13.4% | N/A | N/A | N/A | N/A |
@@ -658,18 +658,18 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 | [5–11 December 2017](2017-12-11-Sentio.html) | Sentio | 27 | 25–31 | 23–32 | 22–32 | 20–34 |
 | [4–8 December 2017](2017-12-08-KantarTNS.html) | Kantar TNS | 27 | 24–28 | 23–29 | 22–30 | 21–33 |
 | [5–6 December 2017](2017-12-06-Norfakta.html) | Norfakta | 25 | 22–29 | 21–29 | 20–29 | 19–30 |
-| [28 November–4 December 2017](2017-12-04-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
-| [21–27 November 2017](2017-11-27-Norstat.html) | Norstat |  |  |  |  |  |
-| [20–22 November 2017](2017-11-22-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [14–20 November 2017](2017-11-20-Norstat.html) | Norstat |  |  |  |  |  |
-| [7–13 November 2017](2017-11-13-Sentio.html) | Sentio |  |  |  |  |  |
-| [6–10 November 2017](2017-11-10-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
-| [7–8 November 2017](2017-11-08-Norfakta.html) | Norfakta |  |  |  |  |  |
-| [31 October–6 November 2017](2017-11-06-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
-| [25–31 October 2017](2017-10-31-Norstat.html) | Norstat |  |  |  |  |  |
-| [23–25 October 2017](2017-10-25-IpsosMMI.html) | Ipsos MMI |  |  |  |  |  |
-| [17–23 October 2017](2017-10-23-Norstat.html) | Norstat |  |  |  |  |  |
-| [10–16 October 2017](2017-10-16-Sentio.html) | Sentio |  |  |  |  |  |
+| [28 November–4 December 2017](2017-12-04-OpinionPerduco.html) | Opinion Perduco | 28 | 23–31 | 23–31 | 22–33 | 20–34 |
+| [21–27 November 2017](2017-11-27-Norstat.html) | Norstat | 27 | 25–29 | 24–29 | 23–30 | 22–33 |
+| [20–22 November 2017](2017-11-22-IpsosMMI.html) | Ipsos MMI | 27 | 26–32 | 26–32 | 26–33 | 24–34 |
+| [14–20 November 2017](2017-11-20-Norstat.html) | Norstat | 29 | 28–31 | 26–33 | 26–34 | 24–35 |
+| [7–13 November 2017](2017-11-13-Sentio.html) | Sentio | 23 | 21–26 | 20–27 | 20–27 | 19–28 |
+| [6–10 November 2017](2017-11-10-KantarTNS.html) | Kantar TNS | 23 | 19–25 | 19–26 | 18–27 | 17–30 |
+| [7–8 November 2017](2017-11-08-Norfakta.html) | Norfakta | 28 | 23–31 | 23–31 | 22–32 | 21–33 |
+| [31 October–6 November 2017](2017-11-06-OpinionPerduco.html) | Opinion Perduco | 26 | 25–29 | 24–30 | 23–31 | 21–33 |
+| [25–31 October 2017](2017-10-31-Norstat.html) | Norstat | 25 | 24–29 | 24–30 | 23–30 | 22–31 |
+| [23–25 October 2017](2017-10-25-IpsosMMI.html) | Ipsos MMI | 26 | 22–28 | 22–29 | 21–30 | 20–31 |
+| [17–23 October 2017](2017-10-23-Norstat.html) | Norstat | 24 | 23–27 | 22–28 | 21–29 | 19–30 |
+| [10–16 October 2017](2017-10-16-Sentio.html) | Sentio | 27 | 23–30 | 23–30 | 22–30 | 21–33 |
 | [3–9 October 2017](2017-10-09-OpinionPerduco.html) | Opinion Perduco |  |  |  |  |  |
 | [2–6 October 2017](2017-10-06-KantarTNS.html) | Kantar TNS |  |  |  |  |  |
 | [3–4 October 2017](2017-10-04-Norfakta.html) | Norfakta |  |  |  |  |  |
