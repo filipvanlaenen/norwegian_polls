@@ -475,7 +475,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 34 | 32–36 | 31–38 | 30–38 | 28–40 |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 39 | 34–44 | 34–46 | 34–46 | 33–48 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 37 | 35–41 | 34–41 | 33–42 | 31–45 |
-| [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 38 | 34–42 | 34–42 | 33–44 | 32–45 |
+| [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 41 | 35–43 | 34–43 | 34–44 | 32–47 |
 | [30 December 2019–5 January 2020](2020-01-05-Norstat.html) | Norstat <br> Aftenposten and NRK | 40 | 37–44 | 36–44 | 35–45 | 33–47 |
 | [16–18 December 2019](2019-12-18-IpsosMMI.html) | Ipsos MMI | 39 | 36–43 | 34–44 | 33–44 | 32–47 |
 | [9–15 December 2019](2019-12-15-Norstat.html) | Norstat | 37 | 33–40 | 33–41 | 32–42 | 31–44 |
@@ -485,30 +485,30 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [28 November–2 December 2019](2019-12-02-ResponsAnalyse.html) | Respons Analyse | 38 | 34–42 | 33–43 | 33–43 | 32–45 |
 | [25–29 November 2019](2019-11-29-KantarTNS.html) | Kantar TNS | 33 | 30–36 | 29–38 | 29–39 | 28–41 |
 | [19–25 November 2019](2019-11-25-Norstat.html) | Norstat | 36 | 32–38 | 30–38 | 29–41 | 29–41 |
-| [18–20 November 2019](2019-11-20-IpsosMMI.html) | Ipsos MMI | 35 | 29–35 | 29–35 | 29–35 | 29–35 |
+| [18–20 November 2019](2019-11-20-IpsosMMI.html) | Ipsos MMI | 36 | 33–41 | 33–41 | 32–43 | 30–44 |
 | [12–18 November 2019](2019-11-18-Norstat.html) | Norstat | 36 | 32–40 | 31–41 | 31–42 | 31–45 |
 | [5–11 November 2019](2019-11-11-OpinionPerduco.html) | Opinion Perduco | 35 | 33–40 | 32–40 | 31–41 | 30–42 |
 | [5–6 November 2019](2019-11-06-Norfakta.html) | Norfakta | 38 | 36–44 | 35–46 | 34–47 | 33–47 |
-| [31 October–4 November 2019](2019-11-04-ResponsAnalyse.html) | Respons Analyse | 36 | 35–42 | 35–42 | 35–42 | 33–42 |
-| [29 October–2 November 2019](2019-11-02-Sentio.html) | Sentio | 35 | 34–41 | 34–41 | 34–41 | 34–43 |
+| [31 October–4 November 2019](2019-11-04-ResponsAnalyse.html) | Respons Analyse | 37 | 34–40 | 33–41 | 33–42 | 31–44 |
+| [29 October–2 November 2019](2019-11-02-Sentio.html) | Sentio | 38 | 35–40 | 34–42 | 32–42 | 32–43 |
 | [28 October–1 November 2019](2019-11-01-KantarTNS.html) | Kantar TNS | 36 | 34–39 | 34–42 | 34–42 | 31–43 |
-| [22–28 October 2019](2019-10-28-Norstat.html) | Norstat | 39 | 38–46 | 33–46 | 33–46 | 33–46 |
+| [22–28 October 2019](2019-10-28-Norstat.html) | Norstat | 36 | 35–40 | 35–41 | 34–42 | 32–45 |
 | [21–23 October 2019](2019-10-23-IpsosMMI.html) | Ipsos MMI | 36 | 34–40 | 32–41 | 31–42 | 29–44 |
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 35 | 32–37 | 31–39 | 31–39 | 29–41 |
 | [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 37 | 34–40 | 33–41 | 32–42 | 31–45 |
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 41 | 38–43 | 37–43 | 35–44 | 33–46 |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 35 | 32–38 | 31–40 | 31–40 | 29–41 |
-| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 37 | 35–42 | 33–45 | 33–45 | 32–45 |
+| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 38 | 35–39 | 35–41 | 34–42 | 33–42 |
 | [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 35 | 32–37 | 31–39 | 31–40 | 29–42 |
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 36 | 33–41 | 33–42 | 32–42 | 30–42 |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 37 | 33–40 | 32–42 | 32–42 | 31–44 |
 | [17–19 September 2019](2019-09-19-Norstat.html) | Norstat | 37 | 33–41 | 32–42 | 31–43 | 30–45 |
 | [10–16 September 2019](2019-09-16-Sentio.html) | Sentio | 38 | 33–41 | 33–41 | 33–43 | 32–44 |
 | [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | 43 | 37–44 | 36–45 | 35–46 | 33–48 |
-| [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat | 32 | 32–34 | 32–34 | 32–37 | 32–44 |
-| [20–26 August 2019](2019-08-26-Norstat.html) | Norstat | 38 | 38 | 37–38 | 37–38 | 37–38 |
-| [19–21 August 2019](2019-08-21-IpsosMMI.html) | Ipsos MMI | 38 | 37–44 | 37–47 | 36–47 | 34–47 |
-| [13–18 August 2019](2019-08-18-Sentio.html) | Sentio | 36 | 36–37 | 36–42 | 36–42 | 35–42 |
+| [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat | 35 | 33–39 | 32–41 | 31–42 | 29–47 |
+| [20–26 August 2019](2019-08-26-Norstat.html) | Norstat | 40 | 37–43 | 36–43 | 36–44 | 34–48 |
+| [19–21 August 2019](2019-08-21-IpsosMMI.html) | Ipsos MMI | 37 | 35–41 | 33–43 | 32–45 | 29–46 |
+| [13–18 August 2019](2019-08-18-Sentio.html) | Sentio | 37 | 36–39 | 35–40 | 34–40 | 32–45 |
 | [6–12 August 2019](2019-08-12-Norstat.html) | Norstat | 41 | 36–46 | 35–46 | 35–48 | 34–50 |
 | [5–9 August 2019](2019-08-09-KantarTNS.html) | Kantar TNS | 40 | 36–46 | 34–47 | 34–49 | 33–49 |
 | [6–7 August 2019](2019-08-07-Norfakta.html) | Norfakta | 44 | 40–46 | 38–47 | 37–49 | 35–52 |
