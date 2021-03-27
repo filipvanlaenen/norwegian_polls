@@ -8,7 +8,47 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Fri, 26 Mar 2021 20:21:49 +0100</pubDate>
+    <pubDate>Sat, 27 Mar 2021 20:19:56 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos MMI for Dagbladet, 22–24 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-24-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.6–6.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.8–9.5%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.3–4.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.4–27.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 14.3–19.6%&lt;/li&gt;&lt;li&gt;Venstre: 1.9–4.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.9–4.3%&lt;/li&gt;&lt;li&gt;Høyre: 18.2–23.9%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.5–14.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-03-24-IpsosMMI.png"
+        length="290507"
+        type="image/png"/>
+      <pubDate>Sat, 27 Mar 2021 20:19:56 +0100</pubDate>
+      <dc:date>2021-03-27T20:19:56.427144+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 16–21 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-21-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–17 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 32–43 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 33–44 seats&lt;/li&gt;&lt;li&gt;Venstre: 0–2 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 37–49 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-03-21-Norstat-seats.png"
+        length="259472"
+        type="image/png"/>
+      <pubDate>Sat, 27 Mar 2021 19:48:35 +0100</pubDate>
+      <dc:date>2021-03-27T19:48:35.478891+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 16–21 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-21-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-03-21-Norstat-coalitions-seats.png"
+        length="522303"
+        type="image/png"/>
+      <pubDate>Sat, 27 Mar 2021 19:48:35 +0100</pubDate>
+      <dc:date>2021-03-27T19:48:35.478891+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 16–21 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-21-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.0–9.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 18.1–23.2%&lt;/li&gt;&lt;li&gt;Senterpartiet: 18.1–23.2%&lt;/li&gt;&lt;li&gt;Venstre: 1.6–3.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Høyre: 21.1–26.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.2–11.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-03-21-Norstat.png"
+        length="288480"
+        type="image/png"/>
+      <pubDate>Sat, 27 Mar 2021 19:48:35 +0100</pubDate>
+      <dc:date>2021-03-27T19:48:35.478891+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sentio for Amedia and Nettavisen, 9–14 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-03-14-Sentio.html#seats</link>
@@ -4679,6 +4719,6 @@
       <pubDate>Thu, 25 Mar 2021 22:52:56 +0100</pubDate>
       <dc:date>2021-03-25T22:52:56.056972+01:00</dc:date>
     </item>
-    <dc:date>2021-03-26T20:21:49.615218+01:00</dc:date>
+    <dc:date>2021-03-27T20:19:56.427144+01:00</dc:date>
   </channel>
 </rss>
