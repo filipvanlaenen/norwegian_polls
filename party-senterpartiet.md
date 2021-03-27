@@ -364,8 +364,8 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 31–40 | 29–41 | 28–42 | 26–44 |
-| [22–24 March 2021](2021-03-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 32 | 28–35 | 27–35 | 26–36 | 25–38 |
+| N/A | [Poll Average](average.html) | 35 | 31–40 | 30–41 | 28–42 | 26–44 |
+| [22–24 March 2021](2021-03-24-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 32 | 28–35 | 27–36 | 26–36 | 25–38 |
 | [16–21 March 2021](2021-03-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 38 | 35–42 | 34–43 | 33–44 | 32–45 |
 | [9–14 March 2021](2021-03-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 35 | 31–39 | 31–40 | 30–40 | 28–41 |
 | [5–10 March 2021](2021-03-10-ResponsAnalyse.html) | Respons Analyse <br> VG | 35 | 31–37 | 30–38 | 30–39 | 28–40 |
@@ -699,17 +699,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.2% | 100% |  |
-| 26 | 0.5% | 99.8% |  |
-| 27 | 0.8% | 99.3% |  |
-| 28 | 2% | 98% |  |
+| 25 | 0.1% | 100% |  |
+| 26 | 0.4% | 99.8% |  |
+| 27 | 0.8% | 99.4% |  |
+| 28 | 2% | 98.6% |  |
 | 29 | 2% | 97% |  |
 | 30 | 3% | 95% |  |
 | 31 | 4% | 92% |  |
-| 32 | 4% | 88% |  |
+| 32 | 5% | 88% |  |
 | 33 | 10% | 83% |  |
-| 34 | 13% | 73% |  |
-| 35 | 12% | 60% | Median |
+| 34 | 12% | 73% |  |
+| 35 | 12% | 61% | Median |
 | 36 | 16% | 49% |  |
 | 37 | 9% | 33% |  |
 | 38 | 8% | 24% |  |
