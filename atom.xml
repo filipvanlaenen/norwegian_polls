@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/norwegian_polls</id>
   <title>All Registered Polls for the Norwegian Parliament</title>
-  <updated>2021-03-22T17:12:05.017279+01:00</updated>
+  <updated>2021-03-27T19:48:35.478891+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.0–5.5%, 2–10 seats</li><li>Sosialistisk Venstreparti: 6.0–9.3%, 10–17 seats</li><li>Miljøpartiet De Grønne: 2.4–4.7%, 1–8 seats</li><li>Arbeiderpartiet: 18.1–23.2%, 32–43 seats</li><li>Senterpartiet: 18.1–23.2%, 33–44 seats</li><li>Venstre: 1.6–3.6%, 0–2 seats</li><li>Kristelig Folkeparti: 3.0–5.5%, 1–9 seats</li><li>Høyre: 21.1–26.5%, 37–49 seats</li><li>Fremskrittspartiet: 8.2–11.9%, 13–21 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2021-03-21-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2021-03-21-Norstat.html"/>
+    <title>Opinion Poll by Norstat for Aftenposten and NRK, 16–21 March 2021</title>
+    <updated>2021-03-27T19:48:35.478891+01:00</updated>
+    <dc:date>2021-03-27T19:48:35.478891+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.0–5.5%, 2–10 seats</li><li>Sosialistisk Venstreparti: 6.3–9.6%, 12–18 seats</li><li>Miljøpartiet De Grønne: 2.4–4.6%, 1–8 seats</li><li>Arbeiderpartiet: 21.0–26.2%, 39–49 seats</li><li>Senterpartiet: 16.3–21.1%, 30–40 seats</li><li>Venstre: 2.0–4.1%, 1–8 seats</li><li>Kristelig Folkeparti: 1.6–3.6%, 0–2 seats</li><li>Høyre: 20.2–25.4%, 37–47 seats</li><li>Fremskrittspartiet: 10.1–14.2%, 18–27 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2021-03-14-Sentio.html</id>
@@ -607,5 +615,5 @@
     <updated>2020-01-02T20:39:32.986732+01:00</updated>
     <dc:date>2020-01-02T20:39:32.986732+01:00</dc:date>
   </entry>
-  <dc:date>2021-03-22T17:12:05.017279+01:00</dc:date>
+  <dc:date>2021-03-27T19:48:35.478891+01:00</dc:date>
 </feed>
