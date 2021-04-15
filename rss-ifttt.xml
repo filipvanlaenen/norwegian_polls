@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Norwegian Parliament</description>
     <pubDate>Sat, 3 Oct 2020 12:45:19 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Respons Analyse for VG, 7–12 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-04-12-ResponsAnalyse.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Respons Analyse for VG, 7–12 April 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-04-12-ResponsAnalyse.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-04-12-ResponsAnalyse.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-04-12-ResponsAnalyse.png" length="287172" type="image/png"/>
+      <pubDate>Thu, 15 Apr 2021 16:55:42 +0200</pubDate>
+      <dc:date>2021-04-15T16:55:42.070975+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 6–7 April 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-04-07-Norfakta.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 6–7 April 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-04-07-Norfakta.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-04-07-Norfakta-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-03-03-Norfakta.png" length="287738" type="image/png"/>
       <pubDate>Sun, 7 Mar 2021 18:05:38 +0100</pubDate>
       <dc:date>2021-03-07T18:05:38.841092+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 22–28 February 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norstat for Aftenposten and NRK, 22–28 February 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat-seating-plan.png" length="603580" type="image/png"/>
-      <pubDate>Sun, 7 Mar 2021 19:27:13 +0100</pubDate>
-      <dc:date>2021-03-07T19:27:13.05629+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 22–28 February 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norstat for Aftenposten and NRK, 22–28 February 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat-seats.png" length="239969" type="image/png"/>
-      <pubDate>Sun, 7 Mar 2021 19:27:13 +0100</pubDate>
-      <dc:date>2021-03-07T19:27:13.05629+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Aftenposten and NRK, 22–28 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Aftenposten and NRK, 22–28 February 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-02-28-Norstat.png" length="290134" type="image/png"/>
-      <pubDate>Sun, 7 Mar 2021 19:27:13 +0100</pubDate>
-      <dc:date>2021-03-07T19:27:13.05629+01:00</dc:date>
     </item>
   </channel>
 </rss>
