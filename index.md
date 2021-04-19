@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
-| N/A | [Poll Average](average.html) | 19–27% <br> 35–50 | 19–28% <br> 35–52 | 7–14% <br> 12–25 | 13–21% <br> 22–39 | 6–11% <br> 10–20 | 2–5% <br> 0–8 | 2–5% <br> 0–8 | 3–6% <br> 1–10 | 3–6% <br> 2–11 |
-| [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 22–29% <br> 41–52 | 23–30% <br> 42–56 | 6–10% <br> 11–18 | 12–17% <br> 19–31 | 6–10% <br> 10–18 | 2–5% <br> 1–7 | 2–5% <br> 0–8 | 3–6% <br> 1–11 | 3–7% <br> 2–11 |
+| N/A | [Poll Average](average.html) | 19–27% <br> 35–50 | 19–28% <br> 35–52 | 7–14% <br> 13–25 | 13–21% <br> 22–39 | 6–11% <br> 10–20 | 2–5% <br> 0–8 | 2–5% <br> 0–9 | 3–6% <br> 1–10 | 3–6% <br> 2–11 |
+| [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 22–29% <br> 41–53 | 23–30% <br> 41–55 | 6–10% <br> 11–19 | 12–17% <br> 20–32 | 6–10% <br> 10–18 | 2–5% <br> 1–8 | 2–5% <br> 0–8 | 3–6% <br> 1–11 | 3–7% <br> 2–12 |
 | [6–7 April 2021](2021-04-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 20–26% <br> 35–47 | 21–27% <br> 38–50 | 9–13% <br> 15–23 | 16–22% <br> 29–40 | 8–12% <br> 14–22 | 1–3% <br> 0–2 | 2–4% <br> 0–3 | 3–6% <br> 1–10 | 3–6% <br> 1–10 |
 | [29 March–7 April 2021](2021-04-07-KantarTNS.html) | Kantar TNS <br> TV2 | 18–23% <br> 33–43 | 22–27% <br> 38–50 | 9–12% <br> 15–22 | 16–21% <br> 29–40 | 7–10% <br> 12–19 | 2–3% <br> 0–2 | 3–6% <br> 1–10 | 3–6% <br> 2–10 | 3–5% <br> 2–9 |
 | [23–28 March 2021](2021-03-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 21–26% <br> 38–47 | 23–28% <br> 39–51 | 8–12% <br> 14–22 | 14–19% <br> 26–36 | 5–9% <br> 9–16 | 3–5% <br> 2–9 | 2–5% <br> 0–8 | 4–6% <br> 2–11 | 3–5% <br> 1–9 |
