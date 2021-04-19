@@ -368,8 +368,8 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43 | 37–49 | 35–51 | 35–52 | 32–55 |
-| [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 48 | 44–53 | 43–54 | 42–56 | 40–56 |
+| N/A | [Poll Average](average.html) | 43 | 37–49 | 35–51 | 35–52 | 32–54 |
+| [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 49 | 44–53 | 42–54 | 41–55 | 39–57 |
 | [6–7 April 2021](2021-04-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 44 | 40–48 | 39–49 | 38–50 | 36–52 |
 | [29 March–7 April 2021](2021-04-07-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 40–48 | 39–49 | 38–50 | 36–51 |
 | [23–28 March 2021](2021-03-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 44 | 41–49 | 40–50 | 39–51 | 37–53 |
@@ -711,23 +711,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 2% | 91% |  |
 | 38 | 3% | 89% |  |
 | 39 | 4% | 86% |  |
-| 40 | 7% | 82% |  |
-| 41 | 7% | 75% |  |
+| 40 | 7% | 81% |  |
+| 41 | 8% | 74% |  |
 | 42 | 9% | 67% |  |
 | 43 | 9% | 58% | Median |
 | 44 | 10% | 49% |  |
-| 45 | 6% | 39% | Last Result |
-| 46 | 11% | 32% |  |
-| 47 | 4% | 22% |  |
-| 48 | 5% | 17% |  |
-| 49 | 3% | 12% |  |
+| 45 | 7% | 38% | Last Result |
+| 46 | 8% | 32% |  |
+| 47 | 5% | 24% |  |
+| 48 | 5% | 18% |  |
+| 49 | 4% | 14% |  |
 | 50 | 4% | 9% |  |
-| 51 | 2% | 6% |  |
-| 52 | 1.0% | 3% |  |
-| 53 | 1.1% | 2% |  |
-| 54 | 0.7% | 1.2% |  |
-| 55 | 0.1% | 0.5% |  |
-| 56 | 0.4% | 0.4% |  |
+| 51 | 2% | 5% |  |
+| 52 | 1.4% | 4% |  |
+| 53 | 0.7% | 2% |  |
+| 54 | 1.1% | 2% |  |
+| 55 | 0.2% | 0.5% |  |
+| 56 | 0.2% | 0.2% |  |
 | 57 | 0% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
