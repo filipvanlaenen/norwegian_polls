@@ -366,9 +366,9 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–21 | 13–22 | 13–24 | 11–25 |
+| N/A | [Poll Average](average.html) | 18 | 15–21 | 14–22 | 13–24 | 11–25 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 18 | 16–20 | 15–21 | 14–22 | 13–23 |
-| [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 17 | 15–19 | 14–19 | 13–20 | 12–22 |
+| [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 17 | 14–20 | 14–20 | 13–21 | 12–22 |
 | [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
 | [6–7 April 2021](2021-04-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
 | [29 March–7 April 2021](2021-04-07-KantarTNS.html) | Kantar TNS <br> TV2 | 19 | 16–21 | 15–22 | 15–22 | 14–24 |
@@ -703,17 +703,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
-| 11 | 0.5% | 99.8% |  |
-| 12 | 1.5% | 99.3% |  |
+| 11 | 0.4% | 99.8% |  |
+| 12 | 1.5% | 99.4% |  |
 | 13 | 3% | 98% |  |
 | 14 | 4% | 95% |  |
 | 15 | 8% | 91% |  |
-| 16 | 11% | 83% |  |
-| 17 | 15% | 71% |  |
-| 18 | 17% | 56% | Median |
-| 19 | 13% | 40% |  |
-| 20 | 11% | 26% |  |
-| 21 | 6% | 15% |  |
+| 16 | 12% | 83% |  |
+| 17 | 13% | 71% |  |
+| 18 | 17% | 58% | Median |
+| 19 | 14% | 41% |  |
+| 20 | 11% | 27% |  |
+| 21 | 7% | 15% |  |
 | 22 | 4% | 9% |  |
 | 23 | 2% | 5% |  |
 | 24 | 2% | 3% |  |

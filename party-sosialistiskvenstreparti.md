@@ -367,7 +367,7 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–17 | 11–19 | 10–20 | 9–22 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 14 | 11–16 | 11–16 | 10–17 | 10–18 |
-| [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 13 | 11–16 | 11–17 | 10–17 | 9–18 |
+| [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 13 | 12–15 | 11–16 | 11–16 | 10–18 |
 | [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 13 | 11–17 | 11–18 | 10–18 | 10–20 |
 | [6–7 April 2021](2021-04-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 17 | 15–20 | 14–21 | 14–22 | 13–23 |
 | [29 March–7 April 2021](2021-04-07-KantarTNS.html) | Kantar TNS <br> TV2 | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
@@ -703,15 +703,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
 | 9 | 1.0% | 99.9% |  |
-| 10 | 4% | 98.9% |  |
-| 11 | 11% | 95% | Last Result |
-| 12 | 14% | 84% |  |
-| 13 | 16% | 71% |  |
-| 14 | 15% | 54% | Median |
-| 15 | 11% | 39% |  |
-| 16 | 11% | 27% |  |
-| 17 | 7% | 17% |  |
-| 18 | 4% | 10% |  |
+| 10 | 3% | 98.9% |  |
+| 11 | 10% | 96% | Last Result |
+| 12 | 14% | 85% |  |
+| 13 | 18% | 71% |  |
+| 14 | 18% | 53% | Median |
+| 15 | 10% | 35% |  |
+| 16 | 9% | 25% |  |
+| 17 | 7% | 16% |  |
+| 18 | 4% | 9% |  |
 | 19 | 3% | 6% |  |
 | 20 | 1.4% | 3% |  |
 | 21 | 0.6% | 1.1% |  |

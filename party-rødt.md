@@ -363,9 +363,9 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 2–10 | 2–10 | 1–11 | 1–12 |
+| N/A | [Poll Average](average.html) | 8 | 2–10 | 2–10 | 2–11 | 1–12 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 7 | 2–9 | 2–9 | 2–10 | 1–11 |
-| [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 7 | 1–10 | 1–10 | 1–10 | 1–11 |
+| [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 7 | 2–9 | 2–10 | 1–10 | 1–11 |
 | [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 9 | 2–11 | 2–11 | 2–12 | 2–13 |
 | [6–7 April 2021](2021-04-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8 | 2–10 | 2–10 | 1–10 | 1–11 |
 | [29 March–7 April 2021](2021-04-07-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2–9 | 2–9 | 2–9 | 1–11 |
@@ -699,18 +699,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% | Last Result |
-| 2 | 33% | 97% |  |
-| 3 | 0% | 63% |  |
-| 4 | 0% | 63% |  |
-| 5 | 0% | 63% |  |
-| 6 | 0.6% | 63% |  |
-| 7 | 14% | 63% | Median |
-| 8 | 22% | 48% |  |
+| 1 | 2% | 100% | Last Result |
+| 2 | 34% | 98% |  |
+| 3 | 0% | 64% |  |
+| 4 | 0% | 64% |  |
+| 5 | 0% | 64% |  |
+| 6 | 0.7% | 64% |  |
+| 7 | 13% | 63% |  |
+| 8 | 24% | 50% | Median |
 | 9 | 15% | 26% |  |
-| 10 | 8% | 12% |  |
+| 10 | 8% | 11% |  |
 | 11 | 2% | 3% |  |
-| 12 | 0.6% | 0.8% |  |
+| 12 | 0.5% | 0.8% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 

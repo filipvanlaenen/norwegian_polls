@@ -372,7 +372,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 43 | 38–47 | 37–49 | 36–50 | 33–53 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 44 | 43–48 | 42–49 | 41–51 | 39–53 |
-| [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 42 | 40–45 | 38–47 | 38–48 | 36–50 |
+| [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 42 | 39–45 | 39–45 | 38–46 | 36–48 |
 | [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 45 | 42–50 | 42–51 | 41–53 | 39–56 |
 | [6–7 April 2021](2021-04-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 41 | 37–44 | 36–46 | 35–47 | 33–50 |
 | [29 March–7 April 2021](2021-04-07-KantarTNS.html) | Kantar TNS <br> TV2 | 39 | 34–41 | 33–42 | 33–43 | 31–44 |
@@ -707,27 +707,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
-| 32 | 0.3% | 99.9% |  |
+| 32 | 0.2% | 99.9% |  |
 | 33 | 0.4% | 99.6% |  |
 | 34 | 0.9% | 99.2% |  |
 | 35 | 0.8% | 98% |  |
 | 36 | 2% | 98% |  |
 | 37 | 2% | 96% |  |
 | 38 | 4% | 94% |  |
-| 39 | 7% | 89% |  |
-| 40 | 8% | 82% |  |
-| 41 | 10% | 74% |  |
+| 39 | 7% | 90% |  |
+| 40 | 7% | 82% |  |
+| 41 | 10% | 75% |  |
 | 42 | 10% | 64% |  |
-| 43 | 10% | 54% | Median |
+| 43 | 11% | 54% | Median |
 | 44 | 16% | 44% |  |
-| 45 | 10% | 28% |  |
+| 45 | 10% | 27% |  |
 | 46 | 6% | 18% |  |
-| 47 | 5% | 13% |  |
+| 47 | 4% | 12% |  |
 | 48 | 3% | 8% |  |
 | 49 | 2% | 5% | Last Result |
 | 50 | 1.0% | 3% |  |
-| 51 | 0.9% | 2% |  |
-| 52 | 0.7% | 1.2% |  |
+| 51 | 0.7% | 2% |  |
+| 52 | 0.6% | 1.1% |  |
 | 53 | 0.2% | 0.6% |  |
 | 54 | 0.1% | 0.3% |  |
 | 55 | 0.1% | 0.2% |  |

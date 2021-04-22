@@ -371,9 +371,9 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43 | 36–49 | 35–50 | 34–52 | 33–54 |
+| N/A | [Poll Average](average.html) | 43 | 36–49 | 35–50 | 34–52 | 32–54 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 44 | 40–47 | 39–48 | 38–49 | 36–51 |
-| [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 39 | 35–42 | 34–42 | 34–44 | 33–45 |
+| [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 39 | 35–42 | 34–43 | 34–44 | 32–45 |
 | [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 49 | 44–53 | 42–54 | 41–55 | 39–57 |
 | [6–7 April 2021](2021-04-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 44 | 40–48 | 39–49 | 38–50 | 36–52 |
 | [29 March–7 April 2021](2021-04-07-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 40–48 | 39–49 | 38–50 | 36–51 |
@@ -708,28 +708,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
-| 32 | 0.3% | 99.8% |  |
+| 32 | 0.4% | 99.8% |  |
 | 33 | 0.4% | 99.5% |  |
-| 34 | 2% | 99.1% |  |
+| 34 | 2% | 99.0% |  |
 | 35 | 5% | 97% |  |
 | 36 | 2% | 92% |  |
 | 37 | 4% | 90% |  |
-| 38 | 4% | 86% |  |
-| 39 | 4% | 82% |  |
-| 40 | 7% | 78% |  |
-| 41 | 10% | 71% |  |
+| 38 | 3% | 86% |  |
+| 39 | 5% | 82% |  |
+| 40 | 7% | 77% |  |
+| 41 | 9% | 70% |  |
 | 42 | 8% | 61% |  |
-| 43 | 9% | 53% | Median |
-| 44 | 9% | 44% |  |
-| 45 | 7% | 36% | Last Result |
-| 46 | 8% | 29% |  |
-| 47 | 5% | 21% |  |
-| 48 | 4% | 16% |  |
+| 43 | 9% | 54% | Median |
+| 44 | 9% | 45% |  |
+| 45 | 6% | 36% | Last Result |
+| 46 | 8% | 30% |  |
+| 47 | 5% | 22% |  |
+| 48 | 5% | 17% |  |
 | 49 | 4% | 12% |  |
 | 50 | 3% | 8% |  |
 | 51 | 1.5% | 5% |  |
 | 52 | 1.2% | 3% |  |
-| 53 | 0.7% | 2% |  |
+| 53 | 0.6% | 2% |  |
 | 54 | 0.9% | 1.3% |  |
 | 55 | 0.2% | 0.4% |  |
 | 56 | 0.1% | 0.2% |  |
