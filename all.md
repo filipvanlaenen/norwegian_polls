@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
+| [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 23–25% <br> 42–46 | 24–26% <br> 44–48 | 11–12% <br> 20–22 | 17–18% <br> 31–34 | 7–8% <br> 12–14 | 3% <br> 2 | 3–4% <br> 2–3 | 4% <br> 2–8 | 3–4% <br> 2–7 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 22–28% <br> 41–51 | 22–27% <br> 38–49 | 8–12% <br> 14–22 | 15–20% <br> 27–36 | 6–9% <br> 10–17 | 2–4% <br> 1–7 | 2–4% <br> 0–8 | 3–6% <br> 2–11 | 3–6% <br> 2–10 |
 | [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 20–26% <br> 38–46 | 19–24% <br> 34–44 | 8–11% <br> 13–21 | 17–22% <br> 32–40 | 6–10% <br> 11–16 | 2–5% <br> 2–8 | 2–4% <br> 0–7 | 4–7% <br> 8–13 | 3–6% <br> 1–10 |
 | [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 22–29% <br> 41–53 | 23–30% <br> 41–55 | 6–10% <br> 11–19 | 12–17% <br> 20–32 | 6–10% <br> 10–18 | 2–5% <br> 1–8 | 2–5% <br> 0–8 | 3–6% <br> 1–11 | 3–7% <br> 2–12 |
