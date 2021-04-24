@@ -11,7 +11,7 @@ Last result: **6.0%** (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.8% | 6.7–9.8% | 6.4–10.5% | 6.1–11.0% | 5.6–12.0% |
-| [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 7.1% | 6.8–7.5% | 6.7–7.5% | 6.7–7.6% | 6.5–7.8% |
+| [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 7.0% | 6.7–7.3% | 6.6–7.4% | 6.5–7.5% | 6.4–7.6% |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 7.6% | 6.6–8.9% | 6.4–9.2% | 6.1–9.5% | 5.7–10.2% |
 | [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 7.7% | 6.6–9.1% | 6.3–9.5% | 6.0–9.9% | 5.5–10.6% |
@@ -349,7 +349,7 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0.4% | 100% |  |
 | 5.5–6.5% | 7% | 99.6% | Last Result |
 | 6.5–7.5% | 36% | 93% |  |
-| 7.5–8.5% | 28% | 57% | Median |
+| 7.5–8.5% | 27% | 56% | Median |
 | 8.5–9.5% | 17% | 29% |  |
 | 9.5–10.5% | 8% | 12% |  |
 | 10.5–11.5% | 3% | 5% |  |
@@ -367,7 +367,7 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–17 | 11–19 | 10–20 | 9–22 |
-| [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 13 | 12–14 | 12–14 | 12–14 | 12–15 |
+| [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 14 | 11–16 | 11–16 | 10–17 | 10–18 |
 | [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 13 | 12–15 | 11–16 | 11–16 | 10–18 |
 | [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 13 | 11–17 | 11–18 | 10–18 | 10–20 |
@@ -707,10 +707,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.6% | 99.9% |  |
 | 10 | 2% | 99.4% |  |
 | 11 | 8% | 97% | Last Result |
-| 12 | 17% | 90% |  |
-| 13 | 22% | 73% |  |
-| 14 | 17% | 51% | Median |
-| 15 | 9% | 34% |  |
+| 12 | 13% | 90% |  |
+| 13 | 25% | 77% |  |
+| 14 | 19% | 52% | Median |
+| 15 | 9% | 33% |  |
 | 16 | 8% | 24% |  |
 | 17 | 7% | 16% |  |
 | 18 | 4% | 9% |  |

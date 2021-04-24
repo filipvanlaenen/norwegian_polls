@@ -10,8 +10,8 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 14.5–19.9% | 13.6–20.5% | 12.9–21.0% | 11.9–22.0% |
-| [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 17.4% | 16.9–17.9% | 16.8–18.0% | 16.7–18.1% | 16.5–18.4% |
+| N/A | [Poll Average](average.html) | 17.4% | 14.5–19.9% | 13.6–20.5% | 12.9–21.0% | 11.9–22.0% |
+| [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 17.1% | 16.6–17.6% | 16.5–17.7% | 16.4–17.8% | 16.2–18.0% |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
 | [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 19.0% | 17.4–20.7% | 17.0–21.2% | 16.6–21.6% | 15.9–22.5% |
 | [7–12 April 2021](2021-04-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 14.0% | 12.5–15.7% | 12.1–16.2% | 11.7–16.7% | 11.0–17.5% |
@@ -352,8 +352,8 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 5% | 95% |  |
 | 14.5–15.5% | 6% | 90% |  |
 | 15.5–16.5% | 10% | 84% |  |
-| 16.5–17.5% | 23% | 74% |  |
-| 17.5–18.5% | 22% | 51% | Median |
+| 16.5–17.5% | 26% | 73% | Median |
+| 17.5–18.5% | 18% | 48% |  |
 | 18.5–19.5% | 15% | 29% |  |
 | 19.5–20.5% | 9% | 14% |  |
 | 20.5–21.5% | 4% | 5% |  |
@@ -721,8 +721,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 5% | 81% |  |
 | 31 | 8% | 76% |  |
 | 32 | 8% | 68% |  |
-| 33 | 14% | 60% | Median |
-| 34 | 17% | 47% |  |
+| 33 | 13% | 60% | Median |
+| 34 | 18% | 47% |  |
 | 35 | 8% | 30% |  |
 | 36 | 11% | 21% |  |
 | 37 | 4% | 10% |  |
