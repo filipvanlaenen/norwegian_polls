@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Tue, 27 Apr 2021 07:24:19 +0200</pubDate>
+    <pubDate>Sun, 02 May 2021 00:17:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos MMI for Dagbladet, 26–28 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-04-28-IpsosMMI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.2–6.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.7–10.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.7–5.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.6–26.8%&lt;/li&gt;&lt;li&gt;Senterpartiet: 14.9–20.5%&lt;/li&gt;&lt;li&gt;Venstre: 2.5–5.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.8–5.7%&lt;/li&gt;&lt;li&gt;Høyre: 17.6–23.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 7.5–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-04-28-IpsosMMI.png"
+        length="299836"
+        type="image/png"/>
+      <pubDate>Sat, 01 May 2021 21:31:34 +0200</pubDate>
+      <dc:date>2021-05-01T21:31:34.715185+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Vårt Land, 20–24 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-04-24-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.0–28.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 15.5–20.3%&lt;/li&gt;&lt;li&gt;Venstre: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.8–5.3%&lt;/li&gt;&lt;li&gt;Høyre: 19.3–24.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.2–12.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-04-24-Norstat.png"
+        length="282576"
+        type="image/png"/>
+      <pubDate>Sun, 02 May 2021 00:17:11 +0200</pubDate>
+      <dc:date>2021-05-02T00:17:11.490987+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for NRK, 7–20 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-04-20-Norstat.html#seats</link>
@@ -4959,6 +4979,6 @@
       <pubDate>Thu, 25 Mar 2021 22:52:56 +0100</pubDate>
       <dc:date>2021-03-25T22:52:56.056972+01:00</dc:date>
     </item>
-    <dc:date>2021-04-27T07:24:19.144485+02:00</dc:date>
+    <dc:date>2021-05-02T00:17:11.490987+02:00</dc:date>
   </channel>
 </rss>
