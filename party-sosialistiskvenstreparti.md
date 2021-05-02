@@ -368,9 +368,9 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–17 | 11–19 | 11–20 | 10–22 |
-| [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 14 | 12–16 | 11–17 | 10–18 | 9–21 |
-| [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–18 | 11–19 | 11–20 | 10–22 |
+| [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 14 | 11–17 | 11–18 | 10–19 | 9–20 |
+| [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 14 | 12–16 | 11–16 | 10–17 | 10–18 |
 | [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 14 | 11–16 | 11–16 | 10–17 | 10–18 |
 | [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 13 | 12–15 | 11–16 | 11–16 | 10–18 |
@@ -709,16 +709,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.3% | 100% |  |
 | 10 | 2% | 99.7% |  |
-| 11 | 6% | 98% | Last Result |
-| 12 | 11% | 92% |  |
-| 13 | 18% | 80% |  |
-| 14 | 19% | 62% | Median |
-| 15 | 15% | 43% |  |
-| 16 | 11% | 28% |  |
-| 17 | 7% | 17% |  |
-| 18 | 4% | 10% |  |
+| 11 | 7% | 98% | Last Result |
+| 12 | 12% | 91% |  |
+| 13 | 19% | 79% |  |
+| 14 | 18% | 60% | Median |
+| 15 | 13% | 42% |  |
+| 16 | 10% | 29% |  |
+| 17 | 8% | 19% |  |
+| 18 | 5% | 11% |  |
 | 19 | 3% | 6% |  |
-| 20 | 1.4% | 3% |  |
+| 20 | 1.5% | 3% |  |
 | 21 | 0.6% | 1.2% |  |
 | 22 | 0.4% | 0.6% |  |
 | 23 | 0.1% | 0.2% |  |

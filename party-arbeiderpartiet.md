@@ -373,9 +373,9 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43 | 38–49 | 37–50 | 36–52 | 33–54 |
-| [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 43 | 40–45 | 40–46 | 39–48 | 38–51 |
-| [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 48 | 44–52 | 44–52 | 43–54 | 41–56 |
+| N/A | [Poll Average](average.html) | 44 | 39–49 | 37–50 | 36–52 | 33–54 |
+| [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 44 | 41–46 | 40–47 | 39–49 | 37–51 |
+| [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 48 | 44–52 | 44–53 | 43–54 | 41–56 |
 | [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 44 | 42–46 | 42–46 | 42–46 | 42–46 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 44 | 43–48 | 42–49 | 41–51 | 39–53 |
 | [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 42 | 39–45 | 39–45 | 38–46 | 36–48 |
@@ -714,31 +714,31 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
 | 32 | 0.2% | 99.9% |  |
-| 33 | 0.5% | 99.6% |  |
+| 33 | 0.4% | 99.6% |  |
 | 34 | 0.9% | 99.2% |  |
 | 35 | 0.8% | 98% |  |
 | 36 | 2% | 98% |  |
 | 37 | 2% | 96% |  |
 | 38 | 4% | 94% |  |
 | 39 | 7% | 90% |  |
-| 40 | 7% | 83% |  |
-| 41 | 9% | 76% |  |
-| 42 | 8% | 67% |  |
-| 43 | 11% | 59% | Median |
-| 44 | 15% | 48% |  |
+| 40 | 6% | 83% |  |
+| 41 | 9% | 77% |  |
+| 42 | 7% | 68% |  |
+| 43 | 9% | 60% |  |
+| 44 | 18% | 51% | Median |
 | 45 | 8% | 33% |  |
-| 46 | 5% | 25% |  |
-| 47 | 5% | 20% |  |
-| 48 | 5% | 15% |  |
-| 49 | 3% | 10% | Last Result |
+| 46 | 6% | 26% |  |
+| 47 | 5% | 19% |  |
+| 48 | 4% | 14% |  |
+| 49 | 4% | 10% | Last Result |
 | 50 | 2% | 7% |  |
-| 51 | 1.3% | 5% |  |
+| 51 | 2% | 5% |  |
 | 52 | 2% | 3% |  |
-| 53 | 0.4% | 1.1% |  |
-| 54 | 0.4% | 0.7% |  |
-| 55 | 0.1% | 0.3% |  |
+| 53 | 0.4% | 1.3% |  |
+| 54 | 0.4% | 0.9% |  |
+| 55 | 0.3% | 0.5% |  |
 | 56 | 0.1% | 0.2% |  |
-| 57 | 0% | 0.1% |  |
+| 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
 

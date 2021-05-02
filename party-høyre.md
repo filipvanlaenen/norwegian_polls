@@ -375,8 +375,8 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 42 | 35–49 | 34–50 | 34–52 | 32–54 |
-| [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 35 | 33–39 | 32–40 | 32–41 | 29–45 |
-| [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 40 | 36–42 | 35–43 | 34–45 | 33–49 |
+| [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 35 | 33–40 | 32–41 | 32–42 | 30–44 |
+| [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 40 | 37–43 | 35–44 | 35–46 | 33–48 |
 | [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 46 | 45–48 | 45–48 | 44–49 | 43–49 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 44 | 40–47 | 39–48 | 38–49 | 36–51 |
 | [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 39 | 35–42 | 34–43 | 34–44 | 32–45 |
@@ -714,22 +714,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.1% | 100% |  |
-| 30 | 0% | 99.9% |  |
-| 31 | 0.2% | 99.9% |  |
-| 32 | 0.5% | 99.7% |  |
-| 33 | 1.2% | 99.1% |  |
-| 34 | 4% | 98% |  |
-| 35 | 7% | 94% |  |
-| 36 | 3% | 87% |  |
-| 37 | 4% | 84% |  |
-| 38 | 4% | 79% |  |
-| 39 | 7% | 76% |  |
-| 40 | 9% | 69% |  |
-| 41 | 8% | 60% |  |
-| 42 | 9% | 52% | Median |
-| 43 | 7% | 43% |  |
-| 44 | 7% | 36% |  |
-| 45 | 5% | 29% | Last Result |
+| 30 | 0.1% | 99.9% |  |
+| 31 | 0.1% | 99.9% |  |
+| 32 | 0.7% | 99.8% |  |
+| 33 | 1.1% | 99.1% |  |
+| 34 | 3% | 98% |  |
+| 35 | 6% | 95% |  |
+| 36 | 4% | 89% |  |
+| 37 | 4% | 85% |  |
+| 38 | 4% | 81% |  |
+| 39 | 7% | 77% |  |
+| 40 | 8% | 69% |  |
+| 41 | 9% | 62% |  |
+| 42 | 9% | 53% | Median |
+| 43 | 8% | 44% |  |
+| 44 | 7% | 37% |  |
+| 45 | 5% | 30% | Last Result |
 | 46 | 7% | 24% |  |
 | 47 | 4% | 18% |  |
 | 48 | 3% | 14% |  |
