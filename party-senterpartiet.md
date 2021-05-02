@@ -10,7 +10,9 @@ Last result: **10.3%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.4% | 14.5–19.9% | 13.6–20.5% | 12.9–21.0% | 11.9–22.0% |
+| N/A | [Poll Average](average.html) | 17.9% | 14.6–20.0% | 13.6–20.6% | 12.9–21.1% | 11.9–22.1% |
+| [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 17.5% | 15.8–19.4% | 15.3–20.0% | 14.9–20.5% | 14.2–21.4% |
+| [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 17.8% | 16.2–19.4% | 15.8–19.9% | 15.5–20.3% | 14.8–21.1% |
 | [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 17.1% | 16.6–17.6% | 16.5–17.7% | 16.4–17.8% | 16.2–18.0% |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
 | [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 19.0% | 17.4–20.7% | 17.0–21.2% | 16.6–21.6% | 15.9–22.5% |
@@ -351,13 +353,13 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 3% | 98% |  |
 | 13.5–14.5% | 5% | 95% |  |
 | 14.5–15.5% | 6% | 90% |  |
-| 15.5–16.5% | 10% | 84% |  |
-| 16.5–17.5% | 26% | 73% | Median |
-| 17.5–18.5% | 18% | 48% |  |
-| 18.5–19.5% | 15% | 29% |  |
-| 19.5–20.5% | 9% | 14% |  |
+| 15.5–16.5% | 10% | 85% |  |
+| 16.5–17.5% | 17% | 75% |  |
+| 17.5–18.5% | 22% | 58% | Median |
+| 18.5–19.5% | 19% | 35% |  |
+| 19.5–20.5% | 11% | 16% |  |
 | 20.5–21.5% | 4% | 5% |  |
-| 21.5–22.5% | 0.9% | 1.1% |  |
+| 21.5–22.5% | 1.0% | 1.2% |  |
 | 22.5–23.5% | 0.2% | 0.2% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -370,7 +372,9 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 27–37 | 24–38 | 22–39 | 20–41 |
+| N/A | [Poll Average](average.html) | 34 | 27–37 | 24–38 | 22–39 | 20–41 |
+| [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 35 | 30–37 | 30–37 | 28–37 | 27–40 |
+| [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 33 | 31–37 | 30–38 | 29–39 | 27–39 |
 | [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 33 | 32–34 | 31–34 | 31–34 | 30–34 |
 | [13–19 April 2021](2021-04-19-Sentio.html) | Sentio <br> Amedia and Nettavisen | 33 | 29–35 | 28–36 | 27–36 | 26–37 |
 | [14 April 2021](2021-04-14-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 36 | 34–38 | 33–39 | 32–40 | 30–42 |
@@ -713,25 +717,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 1.2% | 98.5% |  |
 | 23 | 1.2% | 97% |  |
 | 24 | 1.2% | 96% |  |
-| 25 | 1.2% | 95% |  |
-| 26 | 3% | 94% |  |
-| 27 | 3% | 91% |  |
-| 28 | 3% | 88% |  |
-| 29 | 3% | 85% |  |
-| 30 | 5% | 81% |  |
-| 31 | 8% | 76% |  |
-| 32 | 8% | 68% |  |
-| 33 | 13% | 60% | Median |
-| 34 | 18% | 47% |  |
-| 35 | 8% | 30% |  |
-| 36 | 11% | 21% |  |
-| 37 | 4% | 10% |  |
-| 38 | 3% | 6% |  |
-| 39 | 2% | 3% |  |
-| 40 | 0.7% | 1.4% |  |
+| 25 | 1.1% | 95% |  |
+| 26 | 2% | 94% |  |
+| 27 | 3% | 92% |  |
+| 28 | 2% | 89% |  |
+| 29 | 3% | 86% |  |
+| 30 | 5% | 84% |  |
+| 31 | 9% | 79% |  |
+| 32 | 7% | 69% |  |
+| 33 | 10% | 62% |  |
+| 34 | 12% | 52% | Median |
+| 35 | 13% | 40% |  |
+| 36 | 13% | 27% |  |
+| 37 | 7% | 15% |  |
+| 38 | 4% | 8% |  |
+| 39 | 2% | 4% |  |
+| 40 | 0.9% | 2% |  |
 | 41 | 0.4% | 0.7% |  |
-| 42 | 0.1% | 0.3% |  |
+| 42 | 0.2% | 0.3% |  |
 | 43 | 0.1% | 0.1% |  |
-| 44 | 0% | 0% |  |
+| 44 | 0% | 0.1% |  |
+| 45 | 0% | 0% |  |
 
 
