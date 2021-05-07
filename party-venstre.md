@@ -11,6 +11,7 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.0% | 2.0–4.1% | 1.7–4.4% | 1.5–4.7% | 1.2–5.3% |
+| [27 April–3 May 2021](2021-05-03-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.1% | 2.5–4.0% | 2.3–4.2% | 2.2–4.5% | 1.9–4.9% |
 | [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3.7% | 2.9–4.8% | 2.7–5.1% | 2.5–5.3% | 2.2–5.9% |
 | [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 3.1% | 2.5–4.0% | 2.3–4.2% | 2.2–4.4% | 1.9–4.9% |
 | [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 2.9% | 2.7–3.1% | 2.7–3.2% | 2.6–3.2% | 2.5–3.3% |
@@ -351,7 +352,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 3% | 100% |  |
 | 1.5–2.5% | 26% | 97% |  |
 | 2.5–3.5% | 46% | 71% | Median |
-| 3.5–4.5% | 22% | 25% | Last Result |
+| 3.5–4.5% | 22% | 26% | Last Result |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -366,6 +367,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–7 | 0–7 | 0–8 | 0–9 |
+| [27 April–3 May 2021](2021-05-03-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 2–7 | 2–7 | 2–8 | 1–8 |
 | [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 2–7 | 2–8 | 2–8 | 1–10 |
 | [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 2 | 2–3 | 2–8 | 2–8 | 1–9 |
 | [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 2 | 2 | 2 | 2 | 2 |
@@ -706,12 +708,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% |  |
 | 1 | 15% | 93% |  |
-| 2 | 62% | 79% | Median |
-| 3 | 3% | 16% |  |
+| 2 | 63% | 79% | Median |
+| 3 | 2% | 16% |  |
 | 4 | 0.1% | 13% |  |
 | 5 | 0% | 13% |  |
 | 6 | 2% | 13% |  |
-| 7 | 7% | 11% |  |
+| 7 | 8% | 12% |  |
 | 8 | 3% | 4% | Last Result |
 | 9 | 0.8% | 0.9% |  |
 | 10 | 0.1% | 0.1% |  |
