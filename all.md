@@ -5,7 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
-| [27 April–3 May 2021](2021-05-03-Norstat.html) | Norstat <br> Aftenposten and NRK | 21–26% <br> 38–47 | 19–24% <br> 33–43 | 9–13% <br> 16–24 | 15–20% <br> 28–37 | 7–11% <br> 12–19 | 2–4% <br> 2–8 | 3–6% <br> 2–10 | 3–5% <br> 1–9 | 3–6% <br> 2–11 |
+| [4–5 May 2021](2021-05-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 22–27% <br> 40–51 | 21–27% <br> 37–50 | 8–12% <br> 14–22 | 13–17% <br> 23–33 | 6–10% <br> 11–18 | 3–5% <br> 2–9 | 3–5% <br> 1–9 | 3–5% <br> 1–9 | 3–6% <br> 2–10 |
+| [27 April–3 May 2021](2021-05-03-Norstat.html) | Norstat <br> Aftenposten and NRK | 21–26% <br> 38–48 | 19–24% <br> 33–43 | 9–13% <br> 16–25 | 15–20% <br> 27–37 | 7–11% <br> 12–19 | 2–4% <br> 1–8 | 3–6% <br> 1–10 | 3–5% <br> 1–9 | 3–6% <br> 2–10 |
+| [26–30 April 2021](2021-04-30-KantarTNS.html) | Kantar TNS <br> TV2 | 19–24% <br> 34–44 | 22–27% <br> 37–49 | 7–11% <br> 10–18 | 16–21% <br> 30–39 | 7–10% <br> 10–17 | 3–6% <br> 2–9 | 3–6% <br> 2–10 | 1–3% <br> 0–2 | 3–6% <br> 2–10 |
 | [26–28 April 2021](2021-04-28-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 21–27% <br> 39–49 | 18–24% <br> 32–42 | 8–12% <br> 12–21 | 15–20% <br> 28–38 | 7–11% <br> 10–19 | 3–5% <br> 2–8 | 3–6% <br> 1–9 | 3–6% <br> 1–9 | 3–6% <br> 2–10 |
 | [20–24 April 2021](2021-04-24-Norstat.html) | Norstat <br> Vårt Land | 23–29% <br> 43–54 | 19–25% <br> 35–46 | 8–12% <br> 14–22 | 15–20% <br> 29–38 | 6–9% <br> 10–17 | 2–4% <br> 2–8 | 3–5% <br> 1–10 | 3–5% <br> 1–9 | 3–5% <br> 1–9 |
 | [7–20 April 2021](2021-04-20-Norstat.html) | Norstat <br> NRK | 23–24% <br> 42–46 | 24–25% <br> 44–49 | 11–12% <br> 19–22 | 16–18% <br> 31–34 | 7% <br> 12–14 | 3% <br> 2 | 3–4% <br> 2–3 | 4% <br> 2–8 | 3–4% <br> 2–8 |
