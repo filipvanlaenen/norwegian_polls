@@ -516,7 +516,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [25–29 November 2019](2019-11-29-KantarTNS.html) | Kantar TNS | 33 | 30–36 | 29–38 | 29–39 | 28–41 |
 | [19–25 November 2019](2019-11-25-Norstat.html) | Norstat | 36 | 32–39 | 30–39 | 30–40 | 28–42 |
 | [18–20 November 2019](2019-11-20-IpsosMMI.html) | Ipsos MMI | 36 | 33–41 | 33–41 | 32–43 | 30–44 |
-| [12–18 November 2019](2019-11-18-Norstat.html) | Norstat | 36 | 32–40 | 31–41 | 31–42 | 31–45 |
+| [12–18 November 2019](2019-11-18-Norstat.html) | Norstat | 37 | 33–42 | 32–43 | 31–43 | 30–46 |
 | [5–11 November 2019](2019-11-11-OpinionPerduco.html) | Opinion Perduco | 35 | 33–40 | 32–40 | 31–41 | 30–42 |
 | [5–6 November 2019](2019-11-06-Norfakta.html) | Norfakta | 38 | 36–44 | 35–46 | 34–47 | 33–47 |
 | [31 October–4 November 2019](2019-11-04-ResponsAnalyse.html) | Respons Analyse | 37 | 34–40 | 33–41 | 33–42 | 31–44 |
@@ -528,7 +528,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 37 | 34–40 | 33–41 | 33–42 | 31–44 |
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 41 | 37–44 | 37–44 | 35–45 | 34–46 |
 | [30 September–4 October 2019](2019-10-04-KantarTNS.html) | Kantar TNS | 35 | 32–38 | 31–40 | 31–40 | 29–41 |
-| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 39 | 34–41 | 34–43 | 34–43 | 31–45 |
+| [1–2 October 2019](2019-10-02-Norfakta.html) | Norfakta | 38 | 34–42 | 34–43 | 33–43 | 31–45 |
 | [24–30 September 2019](2019-09-30-Norstat.html) | Norstat | 35 | 32–37 | 31–39 | 31–40 | 29–42 |
 | [23–25 September 2019](2019-09-25-ResponsAnalyse.html) | Respons Analyse | 36 | 33–41 | 33–42 | 32–42 | 30–42 |
 | [23–25 September 2019](2019-09-25-IpsosMMI.html) | Ipsos MMI | 37 | 33–40 | 32–42 | 32–42 | 31–44 |
