@@ -690,7 +690,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [12–18 December 2017](2017-12-18-Norstat.html) | Norstat | 19 | 16–21 | 16–22 | 15–22 | 15–26 |
 | [5–11 December 2017](2017-12-11-Sentio.html) | Sentio | 19 | 17–22 | 17–23 | 16–23 | 14–25 |
 | [4–8 December 2017](2017-12-08-KantarTNS.html) | Kantar TNS | 19 | 16–20 | 15–21 | 14–21 | 13–22 |
-| [5–6 December 2017](2017-12-06-Norfakta.html) | Norfakta | 18 | 15–20 | 15–21 | 15–22 | 14–25 |
+| [5–6 December 2017](2017-12-06-Norfakta.html) | Norfakta | 18 | 16–21 | 15–23 | 15–23 | 14–24 |
 | [28 November–4 December 2017](2017-12-04-OpinionPerduco.html) | Opinion Perduco | 21 | 18–24 | 17–26 | 16–26 | 16–27 |
 | [21–27 November 2017](2017-11-27-Norstat.html) | Norstat | 19 | 19–22 | 17–23 | 17–23 | 16–25 |
 | [20–22 November 2017](2017-11-22-IpsosMMI.html) | Ipsos MMI | 15 | 14–18 | 14–18 | 13–18 | 12–19 |
