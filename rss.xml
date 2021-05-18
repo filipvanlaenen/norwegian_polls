@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Mon, 17 May 2021 20:26:03 +0200</pubDate>
+    <pubDate>Tue, 18 May 2021 19:05:14 +0200</pubDate>
     <item>
       <title>Opinion Poll by Respons Analyse for VG, 5–10 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-05-10-ResponsAnalyse.html#seats</link>
@@ -3310,14 +3310,34 @@
       <dc:date>2020-07-21T07:13:17.634803+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norfakta, 5–6 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-11-06-Norfakta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–16 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 8–14 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 36–45 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 32–41 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 35–46 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-11-06-Norfakta-seats.png"
+        length="253454"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 15:11:51 +0200</pubDate>
+      <dc:date>2021-05-18T15:11:51.497717+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta, 5–6 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-11-06-Norfakta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-11-06-Norfakta-coalitions-seats.png"
+        length="498607"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 15:11:51 +0200</pubDate>
+      <dc:date>2021-05-18T15:11:51.497717+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norfakta, 5–6 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-11-06-Norfakta.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.0–5.8%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.5–9.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.6–8.0%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 19.5–25.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 16.6–22.1%&lt;/li&gt;&lt;li&gt;Venstre: 3.1–6.0%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–4.9%&lt;/li&gt;&lt;li&gt;Høyre: 20.1–26.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 6.6–10.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-11-06-Norfakta.png"
         length="291559"
         type="image/png"/>
-      <pubDate>Wed, 22 Jul 2020 08:04:52 +0200</pubDate>
-      <dc:date>2020-07-22T08:04:52.466721+02:00</dc:date>
+      <pubDate>Tue, 18 May 2021 15:11:51 +0200</pubDate>
+      <dc:date>2021-05-18T15:11:51.497717+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse, 31 October–4 November 2019 – Voting Intentions</title>
@@ -3670,14 +3690,34 @@
       <dc:date>2020-09-15T08:48:44.255034+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar TNS, 24–28 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-06-28-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 6–11 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–16 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–10 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 41–57 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 19–34 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–7 seats&lt;/li&gt;&lt;li&gt;Høyre: 34–47 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-06-28-KantarTNS-seats.png"
+        length="250211"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 18:43:35 +0200</pubDate>
+      <dc:date>2021-05-18T18:43:35.305328+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS, 24–28 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-06-28-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-06-28-KantarTNS-coalitions-seats.png"
+        length="550880"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 18:43:35 +0200</pubDate>
+      <dc:date>2021-05-18T18:43:35.305328+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar TNS, 24–28 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-06-28-KantarTNS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 4.2–7.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.1–9.9%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.6–6.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 22.6–28.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 11.1–15.9%&lt;/li&gt;&lt;li&gt;Venstre: 3.7–6.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–5.0%&lt;/li&gt;&lt;li&gt;Høyre: 19.3–25.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 5.8–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-06-28-KantarTNS.png"
         length="284148"
         type="image/png"/>
-      <pubDate>Tue, 22 Sep 2020 08:02:52 +0200</pubDate>
-      <dc:date>2020-09-22T08:02:52.533064+02:00</dc:date>
+      <pubDate>Tue, 18 May 2021 18:43:35 +0200</pubDate>
+      <dc:date>2021-05-18T18:43:35.305328+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MMI, 24–26 June 2019 – Voting Intentions</title>
@@ -3690,14 +3730,34 @@
       <dc:date>2021-02-17T20:30:40.638046+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat, 18–24 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-06-24-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 7–12 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–15 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 7–13 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 42–56 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 20–34 seats&lt;/li&gt;&lt;li&gt;Venstre: 0–2 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–10 seats&lt;/li&gt;&lt;li&gt;Høyre: 36–46 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-06-24-Norstat-seats.png"
+        length="234520"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 16:54:40 +0200</pubDate>
+      <dc:date>2021-05-18T16:54:40.82258+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 18–24 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-06-24-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-06-24-Norstat-coalitions-seats.png"
+        length="514046"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 16:54:40 +0200</pubDate>
+      <dc:date>2021-05-18T16:54:40.82258+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat, 18–24 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-06-24-Norstat.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 4.1–7.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.3–28.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 12.2–16.7%&lt;/li&gt;&lt;li&gt;Venstre: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.1–5.7%&lt;/li&gt;&lt;li&gt;Høyre: 20.4–25.7%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 7.3–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-06-24-Norstat.png"
         length="275170"
         type="image/png"/>
-      <pubDate>Wed, 17 Feb 2021 20:43:38 +0100</pubDate>
-      <dc:date>2021-02-17T20:43:38.283833+01:00</dc:date>
+      <pubDate>Tue, 18 May 2021 16:54:40 +0200</pubDate>
+      <dc:date>2021-05-18T16:54:40.82258+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio, 11–17 June 2019 – Voting Intentions</title>
@@ -4010,14 +4070,34 @@
       <dc:date>2021-03-11T09:00:15.036822+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norfakta, 5–6 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-03-06-Norfakta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–11 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–19 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 43–57 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 21–31 seats&lt;/li&gt;&lt;li&gt;Venstre: 0–2 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 38–51 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 15–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-03-06-Norfakta-seats.png"
+        length="238901"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 14:05:44 +0200</pubDate>
+      <dc:date>2021-05-18T14:05:44.835364+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta, 5–6 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-03-06-Norfakta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-03-06-Norfakta-coalitions-seats.png"
+        length="529499"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 14:05:44 +0200</pubDate>
+      <dc:date>2021-05-18T14:05:44.835364+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norfakta, 5–6 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-03-06-Norfakta.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.2–6.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.3–10.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.5–5.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.9–30.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 11.7–16.7%&lt;/li&gt;&lt;li&gt;Venstre: 1.4–3.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.2–4.8%&lt;/li&gt;&lt;li&gt;Høyre: 21.6–27.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.6–13.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-03-06-Norfakta.png"
         length="281656"
         type="image/png"/>
-      <pubDate>Fri, 12 Mar 2021 20:39:00 +0100</pubDate>
-      <dc:date>2021-03-12T20:39:00.329858+01:00</dc:date>
+      <pubDate>Tue, 18 May 2021 14:05:44 +0200</pubDate>
+      <dc:date>2021-05-18T14:05:44.835364+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse, 28 February–4 March 2019 – Voting Intentions</title>
@@ -4100,14 +4180,34 @@
       <dc:date>2021-03-13T12:18:36.80525+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Respons Analyse, 31 January–4 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-02-04-ResponsAnalyse.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–18 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–10 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 48–61 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 17–27 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–10 seats&lt;/li&gt;&lt;li&gt;Høyre: 35–48 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 15–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-02-04-ResponsAnalyse-seats.png"
+        length="240274"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 07:33:48 +0200</pubDate>
+      <dc:date>2021-05-18T07:33:48.164038+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse, 31 January–4 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-02-04-ResponsAnalyse.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-02-04-ResponsAnalyse-coalitions-seats.png"
+        length="551963"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 07:33:48 +0200</pubDate>
+      <dc:date>2021-05-18T07:33:48.164038+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Respons Analyse, 31 January–4 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-02-04-ResponsAnalyse.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.5–5.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.0–10.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–5.4%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 26.5–33.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.0–14.8%&lt;/li&gt;&lt;li&gt;Venstre: 2.7–5.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.6–5.4%&lt;/li&gt;&lt;li&gt;Høyre: 20.0–26.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.5–13.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-02-04-ResponsAnalyse.png"
         length="285735"
         type="image/png"/>
-      <pubDate>Sat, 13 Mar 2021 12:31:37 +0100</pubDate>
-      <dc:date>2021-03-13T12:31:37.65904+01:00</dc:date>
+      <pubDate>Tue, 18 May 2021 07:33:48 +0200</pubDate>
+      <dc:date>2021-05-18T07:33:48.164038+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat, 29 January–4 February 2019 – Voting Intentions</title>
@@ -4726,8 +4826,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-07-04-Norfakta.png"
         length="283867"
         type="image/png"/>
-      <pubDate>Mon, 15 Mar 2021 17:04:51 +0100</pubDate>
-      <dc:date>2021-03-15T17:04:51.19602+01:00</dc:date>
+      <pubDate>Tue, 18 May 2021 19:05:14 +0200</pubDate>
+      <dc:date>2021-05-18T19:05:14.819864+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MMI, 25–27 June 2018 – Voting Intentions</title>
@@ -4760,14 +4860,34 @@
       <dc:date>2021-03-15T17:43:58.639221+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinion Perduco, 5–11 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-06-11-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–12 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8–15 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–10 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 39–50 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 15–24 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–10 seats&lt;/li&gt;&lt;li&gt;Høyre: 43–56 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 18–28 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-06-11-OpinionPerduco-seats.png"
+        length="252824"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 08:21:14 +0200</pubDate>
+      <dc:date>2021-05-18T08:21:14.622665+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco, 5–11 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-06-11-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-06-11-OpinionPerduco-coalitions-seats.png"
+        length="526381"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 08:21:14 +0200</pubDate>
+      <dc:date>2021-05-18T08:21:14.622665+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinion Perduco, 5–11 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2018-06-11-OpinionPerduco.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.4–6.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.9–8.6%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.9–5.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.0–27.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.6–13.2%&lt;/li&gt;&lt;li&gt;Venstre: 2.9–5.9%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.6–5.4%&lt;/li&gt;&lt;li&gt;Høyre: 24.0–30.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.6–15.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-06-11-OpinionPerduco.png"
         length="285651"
         type="image/png"/>
-      <pubDate>Mon, 15 Mar 2021 18:04:23 +0100</pubDate>
-      <dc:date>2021-03-15T18:04:23.039974+01:00</dc:date>
+      <pubDate>Tue, 18 May 2021 08:21:14 +0200</pubDate>
+      <dc:date>2021-05-18T08:21:14.622665+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norfakta, 5–6 June 2018 – Voting Intentions</title>
@@ -4916,8 +5036,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-05-09-Norfakta.png"
         length="281229"
         type="image/png"/>
-      <pubDate>Mon, 15 Mar 2021 20:52:24 +0100</pubDate>
-      <dc:date>2021-03-15T20:52:24.194662+01:00</dc:date>
+      <pubDate>Mon, 17 May 2021 23:22:38 +0200</pubDate>
+      <dc:date>2021-05-17T23:22:38.795015+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse, 3–7 May 2018 – Voting Intentions</title>
@@ -5096,8 +5216,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-03-20-KantarTNS.png"
         length="296922"
         type="image/png"/>
-      <pubDate>Tue, 23 Mar 2021 20:38:11 +0100</pubDate>
-      <dc:date>2021-03-23T20:38:11.155247+01:00</dc:date>
+      <pubDate>Tue, 18 May 2021 08:42:47 +0200</pubDate>
+      <dc:date>2021-05-18T08:42:47.175059+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio, 13–19 March 2018 – Seat Projections for the Parties</title>
@@ -5370,14 +5490,54 @@
       <dc:date>2021-03-24T18:09:41.245288+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norfakta, 2–3 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-01-03-Norfakta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8–13 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 39–49 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 16–23 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–11 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 47–59 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 22–30 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-01-03-Norfakta-seats.png"
+        length="230070"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 17:41:25 +0200</pubDate>
+      <dc:date>2021-05-18T17:41:25.337424+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta, 2–3 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2018-01-03-Norfakta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-01-03-Norfakta-coalitions-seats.png"
+        length="478752"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 17:41:25 +0200</pubDate>
+      <dc:date>2021-05-18T17:41:25.337424+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norfakta, 2–3 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2018-01-03-Norfakta.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 21.6–27.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.6–12.3%&lt;/li&gt;&lt;li&gt;Venstre: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Høyre: 26.4–32.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.5–16.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-01-03-Norfakta.png"
         length="268880"
         type="image/png"/>
-      <pubDate>Wed, 24 Mar 2021 18:22:39 +0100</pubDate>
-      <dc:date>2021-03-24T18:22:39.635958+01:00</dc:date>
+      <pubDate>Tue, 18 May 2021 17:41:25 +0200</pubDate>
+      <dc:date>2021-05-18T17:41:25.337424+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI, 18–20 December 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2017-12-20-IpsosMMI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 0–2 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 12–18 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 0–2 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 42–53 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 15–22 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–12 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–10 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–53 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 21–29 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2017-12-20-IpsosMMI-seats.png"
+        length="243543"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 16:03:21 +0200</pubDate>
+      <dc:date>2021-05-18T16:03:21.050912+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI, 18–20 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2017-12-20-IpsosMMI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2017-12-20-IpsosMMI-coalitions-seats.png"
+        length="468585"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 16:03:21 +0200</pubDate>
+      <dc:date>2021-05-18T16:03:21.050912+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MMI, 18–20 December 2017 – Voting Intentions</title>
@@ -5386,8 +5546,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2017-12-20-IpsosMMI.png"
         length="273770"
         type="image/png"/>
-      <pubDate>Wed, 24 Mar 2021 18:35:44 +0100</pubDate>
-      <dc:date>2021-03-24T18:35:44.798511+01:00</dc:date>
+      <pubDate>Tue, 18 May 2021 16:03:21 +0200</pubDate>
+      <dc:date>2021-05-18T16:03:21.050912+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat, 12–18 December 2017 – Voting Intentions</title>
@@ -5480,14 +5640,34 @@
       <dc:date>2021-03-24T20:11:24.596005+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat, 14–20 November 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2017-11-20-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–2 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–16 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–7 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 44–54 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 14–20 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–9 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–52 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 25–33 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2017-11-20-Norstat-seats.png"
+        length="217609"
+        type="image/png"/>
+      <pubDate>Mon, 17 May 2021 21:16:43 +0200</pubDate>
+      <dc:date>2021-05-17T21:16:43.343673+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 14–20 November 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2017-11-20-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2017-11-20-Norstat-coalitions-seats.png"
+        length="463675"
+        type="image/png"/>
+      <pubDate>Mon, 17 May 2021 21:16:43 +0200</pubDate>
+      <dc:date>2021-05-17T21:16:43.343673+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat, 14–20 November 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2017-11-20-Norstat.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.0–4.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.0–4.2%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 24.4–30.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 7.6–11.3%&lt;/li&gt;&lt;li&gt;Venstre: 2.7–5.2%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Høyre: 23.4–29.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13.9–18.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2017-11-20-Norstat.png"
         length="273992"
         type="image/png"/>
-      <pubDate>Mon, 17 May 2021 20:26:03 +0200</pubDate>
-      <dc:date>2021-05-17T20:26:03.681989+02:00</dc:date>
+      <pubDate>Mon, 17 May 2021 21:16:43 +0200</pubDate>
+      <dc:date>2021-05-17T21:16:43.343673+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio, 7–13 November 2017 – Voting Intentions</title>
@@ -5660,14 +5840,34 @@
       <dc:date>2021-05-14T15:53:22.79706+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat, 27 September–1 October 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2017-10-01-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–2 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–17 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 43–54 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 16–23 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–10 seats&lt;/li&gt;&lt;li&gt;Høyre: 41–53 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 22–31 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2017-10-01-Norstat-seats.png"
+        length="236872"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 13:08:23 +0200</pubDate>
+      <dc:date>2021-05-18T13:08:23.994984+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 27 September–1 October 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2017-10-01-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2017-10-01-Norstat-coalitions-seats.png"
+        length="499249"
+        type="image/png"/>
+      <pubDate>Tue, 18 May 2021 13:08:23 +0200</pubDate>
+      <dc:date>2021-05-18T13:08:23.994984+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat, 27 September–1 October 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2017-10-01-Norstat.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 1.7–3.8%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.0–9.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 23.7–29.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 8.8–12.8%&lt;/li&gt;&lt;li&gt;Venstre: 3.1–5.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Høyre: 22.9–28.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.2–16.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2017-10-01-Norstat.png"
         length="278496"
         type="image/png"/>
-      <pubDate>Thu, 25 Mar 2021 21:06:43 +0100</pubDate>
-      <dc:date>2021-03-25T21:06:43.801167+01:00</dc:date>
+      <pubDate>Tue, 18 May 2021 13:08:23 +0200</pubDate>
+      <dc:date>2021-05-18T13:08:23.994984+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MMI, 25–27 September 2017 – Voting Intentions</title>
@@ -5719,6 +5919,6 @@
       <pubDate>Thu, 13 May 2021 16:49:21 +0200</pubDate>
       <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
     </item>
-    <dc:date>2021-05-17T20:26:03.681989+02:00</dc:date>
+    <dc:date>2021-05-18T19:05:14.819864+02:00</dc:date>
   </channel>
 </rss>
