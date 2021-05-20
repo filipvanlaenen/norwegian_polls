@@ -379,7 +379,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 39 | 35–45 | 34–46 | 33–47 | 32–50 |
 | [11–16 May 2021](2021-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 39 | 36–43 | 35–44 | 34–45 | 33–46 |
-| [13 May 2021](2021-05-13-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 37 | 35–39 | 35–42 | 34–43 | 33–46 |
+| [13 May 2021](2021-05-13-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 37 | 35–39 | 34–41 | 34–43 | 33–46 |
 | [5–10 May 2021](2021-05-10-ResponsAnalyse.html) | Respons Analyse <br> VG | 40 | 35–42 | 34–43 | 34–44 | 33–47 |
 | [4–5 May 2021](2021-05-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 44 | 40–47 | 39–49 | 37–50 | 36–52 |
 | [27 April–3 May 2021](2021-05-03-Norstat.html) | Norstat <br> Aftenposten and NRK | 37 | 34–41 | 34–42 | 33–43 | 32–45 |
@@ -541,7 +541,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | 43 | 37–44 | 36–45 | 35–46 | 33–48 |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat | 37 | 34–41 | 32–42 | 32–43 | 30–45 |
 | [20–26 August 2019](2019-08-26-Norstat.html) | Norstat | 40 | 37–43 | 36–43 | 36–44 | 34–48 |
-| [19–21 August 2019](2019-08-21-IpsosMMI.html) | Ipsos MMI | 37 | 35–41 | 33–43 | 32–45 | 29–46 |
+| [19–21 August 2019](2019-08-21-IpsosMMI.html) | Ipsos MMI | 37 | 34–41 | 33–42 | 32–43 | 30–45 |
 | [13–18 August 2019](2019-08-18-Sentio.html) | Sentio | 37 | 36–39 | 35–40 | 34–40 | 32–45 |
 | [6–12 August 2019](2019-08-12-Norstat.html) | Norstat | 41 | 36–46 | 35–46 | 35–48 | 34–50 |
 | [5–9 August 2019](2019-08-09-KantarTNS.html) | Kantar TNS | 40 | 36–46 | 34–47 | 34–49 | 33–49 |
@@ -727,11 +727,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0.1% | 99.9% |  |
 | 32 | 0.8% | 99.7% |  |
 | 33 | 2% | 98.9% |  |
-| 34 | 5% | 97% |  |
-| 35 | 9% | 92% |  |
+| 34 | 6% | 97% |  |
+| 35 | 7% | 92% |  |
 | 36 | 11% | 84% |  |
-| 37 | 12% | 72% |  |
-| 38 | 6% | 61% |  |
+| 37 | 9% | 73% |  |
+| 38 | 10% | 64% |  |
 | 39 | 8% | 54% | Median |
 | 40 | 11% | 46% |  |
 | 41 | 9% | 35% |  |

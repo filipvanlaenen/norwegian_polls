@@ -374,7 +374,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 1–9 | 1–10 | 0–11 | 0–12 |
 | [11–16 May 2021](2021-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 9 | 7–11 | 7–11 | 2–12 | 2–13 |
-| [13 May 2021](2021-05-13-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 9 | 7–10 | 3–11 | 2–11 | 2–12 |
+| [13 May 2021](2021-05-13-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 8 | 7–10 | 2–10 | 2–11 | 2–12 |
 | [5–10 May 2021](2021-05-10-ResponsAnalyse.html) | Respons Analyse <br> VG | 7 | 2–9 | 2–9 | 2–10 | 1–11 |
 | [4–5 May 2021](2021-05-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 2–8 | 1–9 | 1–9 | 1–10 |
 | [27 April–3 May 2021](2021-05-03-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 2–9 | 1–9 | 1–9 | 1–10 |
@@ -536,7 +536,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [3–4 September 2019](2019-09-04-Norfakta.html) | Norfakta | 11 | 10–13 | 10–14 | 9–15 | 8–16 |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat | 9 | 7–11 | 6–12 | 3–12 | 2–14 |
 | [20–26 August 2019](2019-08-26-Norstat.html) | Norstat | 10 | 8–12 | 8–13 | 7–13 | 7–13 |
-| [19–21 August 2019](2019-08-21-IpsosMMI.html) | Ipsos MMI | 10 | 9–14 | 8–14 | 8–14 | 7–16 |
+| [19–21 August 2019](2019-08-21-IpsosMMI.html) | Ipsos MMI | 12 | 9–14 | 9–15 | 8–15 | 7–17 |
 | [13–18 August 2019](2019-08-18-Sentio.html) | Sentio | 8 | 7–10 | 7–10 | 7–11 | 4–12 |
 | [6–12 August 2019](2019-08-12-Norstat.html) | Norstat | 9 | 7–11 | 7–12 | 3–12 | 2–13 |
 | [5–9 August 2019](2019-08-09-KantarTNS.html) | Kantar TNS | 11 | 9–13 | 9–14 | 8–15 | 8–16 |
@@ -724,13 +724,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.6% | 57% |  |
 | 5 | 0% | 57% |  |
 | 6 | 1.4% | 57% |  |
-| 7 | 16% | 55% | Median |
-| 8 | 17% | 39% |  |
-| 9 | 14% | 22% |  |
-| 10 | 5% | 8% |  |
-| 11 | 3% | 3% |  |
-| 12 | 0.6% | 0.7% |  |
-| 13 | 0.1% | 0.1% |  |
+| 7 | 17% | 55% | Median |
+| 8 | 18% | 39% |  |
+| 9 | 13% | 20% |  |
+| 10 | 4% | 7% |  |
+| 11 | 2% | 3% |  |
+| 12 | 0.6% | 0.8% |  |
+| 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 
 
