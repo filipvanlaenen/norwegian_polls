@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 20 May 2021 19:10:57 +0200</pubDate>
+    <pubDate>Thu, 20 May 2021 20:19:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Amedia and Nettavisen, 11–16 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-05-16-Sentio.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2021-05-20T19:01:18.833199+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 13 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-05-13-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 13–20 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–11 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 42–51 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 26–35 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–8 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 34–43 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-05-13-OpinionPerduco-seats.png"
+        length="266250"
+        type="image/png"/>
+      <pubDate>Thu, 20 May 2021 19:55:04 +0200</pubDate>
+      <dc:date>2021-05-20T19:55:04.913982+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 13 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-05-13-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-05-13-OpinionPerduco-coalitions-seats.png"
+        length="498706"
+        type="image/png"/>
+      <pubDate>Thu, 20 May 2021 19:55:04 +0200</pubDate>
+      <dc:date>2021-05-20T19:55:04.913982+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 13 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-05-13-OpinionPerduco.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.2–5.9%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.6–11.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 22.9–28.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 14.0–18.7%&lt;/li&gt;&lt;li&gt;Venstre: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.0–5.6%&lt;/li&gt;&lt;li&gt;Høyre: 19.4–24.7%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 7.1–10.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-05-13-OpinionPerduco.png"
         length="296813"
         type="image/png"/>
-      <pubDate>Thu, 20 May 2021 19:10:57 +0200</pubDate>
-      <dc:date>2021-05-20T19:10:57.649911+02:00</dc:date>
+      <pubDate>Thu, 20 May 2021 19:55:04 +0200</pubDate>
+      <dc:date>2021-05-20T19:55:04.913982+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse for VG, 5–10 May 2021 – Seat Projections for the Parties</title>
@@ -3686,8 +3706,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-08-21-IpsosMMI.png"
         length="294634"
         type="image/png"/>
-      <pubDate>Fri, 26 Mar 2021 17:33:12 +0100</pubDate>
-      <dc:date>2021-03-26T17:33:12.430075+01:00</dc:date>
+      <pubDate>Thu, 20 May 2021 20:19:22 +0200</pubDate>
+      <dc:date>2021-05-20T20:19:22.931668+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio, 13–18 August 2019 – Voting Intentions</title>
@@ -6179,6 +6199,6 @@
       <pubDate>Thu, 13 May 2021 16:49:21 +0200</pubDate>
       <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
     </item>
-    <dc:date>2021-05-20T19:10:57.649911+02:00</dc:date>
+    <dc:date>2021-05-20T20:19:22.931668+02:00</dc:date>
   </channel>
 </rss>
