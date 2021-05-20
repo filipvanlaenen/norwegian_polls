@@ -370,9 +370,9 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 2–9 | 2–10 | 2–10 | 1–11 |
+| N/A | [Poll Average](average.html) | 8 | 2–9 | 2–10 | 2–10 | 2–11 |
 | [11–16 May 2021](2021-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 8 | 2–10 | 2–10 | 2–11 | 2–12 |
-| [13 May 2021](2021-05-13-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 8 | 2–9 | 2–9 | 2–10 | 1–11 |
+| [13 May 2021](2021-05-13-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 8 | 2–9 | 2–10 | 2–11 | 1–11 |
 | [5–10 May 2021](2021-05-10-ResponsAnalyse.html) | Respons Analyse <br> VG | 7 | 2–8 | 2–9 | 2–9 | 1–10 |
 | [4–5 May 2021](2021-05-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 7 | 2–9 | 2–10 | 2–10 | 1–11 |
 | [27 April–3 May 2021](2021-05-03-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 2–9 | 2–10 | 2–10 | 2–11 |
@@ -715,18 +715,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.7% | 100% | Last Result |
-| 2 | 27% | 99.3% |  |
+| 1 | 0.5% | 100% | Last Result |
+| 2 | 26% | 99.5% |  |
 | 3 | 0% | 73% |  |
 | 4 | 0% | 73% |  |
 | 5 | 0% | 73% |  |
 | 6 | 3% | 73% |  |
 | 7 | 20% | 70% |  |
-| 8 | 28% | 50% | Median |
-| 9 | 15% | 22% |  |
+| 8 | 29% | 50% | Median |
+| 9 | 14% | 22% |  |
 | 10 | 5% | 7% |  |
 | 11 | 2% | 2% |  |
-| 12 | 0.3% | 0.3% |  |
+| 12 | 0.2% | 0.3% |  |
 | 13 | 0% | 0% |  |
 
 

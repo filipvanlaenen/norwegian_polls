@@ -375,9 +375,9 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 13–22 | 12–23 | 12–24 | 10–25 |
+| N/A | [Poll Average](average.html) | 17 | 13–22 | 13–23 | 12–24 | 11–26 |
 | [11–16 May 2021](2021-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 21 | 18–24 | 17–25 | 17–25 | 16–27 |
-| [13 May 2021](2021-05-13-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 13 | 12–18 | 12–18 | 11–20 | 10–20 |
+| [13 May 2021](2021-05-13-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 15 | 13–17 | 12–19 | 12–20 | 11–21 |
 | [5–10 May 2021](2021-05-10-ResponsAnalyse.html) | Respons Analyse <br> VG | 19 | 16–23 | 15–23 | 15–24 | 13–26 |
 | [4–5 May 2021](2021-05-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 18 | 16–21 | 15–21 | 14–22 | 13–23 |
 | [27 April–3 May 2021](2021-05-03-Norstat.html) | Norstat <br> Aftenposten and NRK | 20 | 17–23 | 17–24 | 16–25 | 15–26 |
@@ -723,21 +723,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.1% | 100% |  |
 | 10 | 0.4% | 99.9% |  |
 | 11 | 1.3% | 99.5% |  |
-| 12 | 4% | 98% |  |
-| 13 | 9% | 94% |  |
-| 14 | 6% | 85% |  |
-| 15 | 8% | 79% |  |
-| 16 | 10% | 71% |  |
-| 17 | 11% | 61% |  |
-| 18 | 11% | 50% | Median |
-| 19 | 11% | 39% |  |
-| 20 | 9% | 29% |  |
+| 12 | 3% | 98% |  |
+| 13 | 6% | 95% |  |
+| 14 | 6% | 89% |  |
+| 15 | 10% | 84% |  |
+| 16 | 13% | 74% |  |
+| 17 | 11% | 61% | Median |
+| 18 | 10% | 50% |  |
+| 19 | 12% | 40% |  |
+| 20 | 8% | 29% |  |
 | 21 | 8% | 20% |  |
-| 22 | 4% | 12% |  |
+| 22 | 5% | 13% |  |
 | 23 | 4% | 8% |  |
-| 24 | 2% | 3% |  |
-| 25 | 1.3% | 2% |  |
-| 26 | 0.3% | 0.4% |  |
+| 24 | 2% | 4% |  |
+| 25 | 1.2% | 2% |  |
+| 26 | 0.4% | 0.6% |  |
 | 27 | 0.1% | 0.1% | Last Result |
 | 28 | 0% | 0% |  |
 
