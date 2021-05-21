@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 20 May 2021 20:19:22 +0200</pubDate>
+    <pubDate>Thu, 20 May 2021 23:11:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Amedia and Nettavisen, 11–16 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-05-16-Sentio.html#seats</link>
@@ -3700,14 +3700,34 @@
       <dc:date>2021-03-26T18:52:38.537391+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos MMI, 19–21 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-08-21-IpsosMMI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–11 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–18 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 8–15 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 37–49 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 24–36 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–8 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–6 seats&lt;/li&gt;&lt;li&gt;Høyre: 32–43 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 15–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-08-21-IpsosMMI-seats.png"
+        length="260605"
+        type="image/png"/>
+      <pubDate>Thu, 20 May 2021 20:49:52 +0200</pubDate>
+      <dc:date>2021-05-20T20:49:52.078543+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MMI, 19–21 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-08-21-IpsosMMI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-08-21-IpsosMMI-coalitions-seats.png"
+        length="520566"
+        type="image/png"/>
+      <pubDate>Thu, 20 May 2021 20:49:52 +0200</pubDate>
+      <dc:date>2021-05-20T20:49:52.078543+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos MMI, 19–21 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-08-21-IpsosMMI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.2–6.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.2–10.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 5.1–8.7%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.4–26.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 13.6–19.0%&lt;/li&gt;&lt;li&gt;Venstre: 2.0–4.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.7–4.1%&lt;/li&gt;&lt;li&gt;Høyre: 18.0–24.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.0–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-08-21-IpsosMMI.png"
         length="294634"
         type="image/png"/>
-      <pubDate>Thu, 20 May 2021 20:19:22 +0200</pubDate>
-      <dc:date>2021-05-20T20:19:22.931668+02:00</dc:date>
+      <pubDate>Thu, 20 May 2021 20:49:52 +0200</pubDate>
+      <dc:date>2021-05-20T20:49:52.078543+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio, 13–18 August 2019 – Voting Intentions</title>
@@ -5286,8 +5306,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2018-04-16-OpinionPerduco.png"
         length="283995"
         type="image/png"/>
-      <pubDate>Tue, 23 Mar 2021 18:42:42 +0100</pubDate>
-      <dc:date>2021-03-23T18:42:42.731529+01:00</dc:date>
+      <pubDate>Thu, 20 May 2021 23:11:13 +0200</pubDate>
+      <dc:date>2021-05-20T23:11:13.302005+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse, 5–9 April 2018 – Voting Intentions</title>
@@ -6199,6 +6219,6 @@
       <pubDate>Thu, 13 May 2021 16:49:21 +0200</pubDate>
       <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
     </item>
-    <dc:date>2021-05-20T20:19:22.931668+02:00</dc:date>
+    <dc:date>2021-05-20T23:11:13.302005+02:00</dc:date>
   </channel>
 </rss>
