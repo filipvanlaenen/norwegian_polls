@@ -10,9 +10,9 @@ Last result: **2.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.9% | 3.3–6.4% | 3.1–6.8% | 2.8–7.5% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.6–6.6% | 3.3–7.0% | 3.1–7.4% | 2.8–8.0% |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.5–7.6% | 4.2–8.1% |
-| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 6.5% | N/A | N/A | N/A | N/A |
+| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 6.5% | 5.7–7.6% | 5.5–7.8% | 5.3–8.1% | 4.9–8.6% |
 | [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 4.1% | 3.3–5.2% | 3.0–5.5% | 2.9–5.7% | 2.5–6.3% |
 | [18–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> Vårt Land | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.3–6.9% |
 | [20–24 May 2021](2021-05-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
@@ -359,14 +359,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% | Last Result |
-| 2.5–3.5% | 10% | 99.8% |  |
-| 3.5–4.5% | 43% | 89% | Median |
-| 4.5–5.5% | 31% | 46% |  |
-| 5.5–6.5% | 12% | 16% |  |
-| 6.5–7.5% | 3% | 4% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% | Last Result |
+| 2.5–3.5% | 9% | 99.9% |  |
+| 3.5–4.5% | 37% | 91% |  |
+| 4.5–5.5% | 27% | 54% | Median |
+| 5.5–6.5% | 16% | 27% |  |
+| 6.5–7.5% | 9% | 11% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -377,9 +378,9 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 2–10 | 2–11 | 2–12 | 1–14 |
+| N/A | [Poll Average](average.html) | 8 | 2–11 | 2–12 | 2–13 | 1–14 |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 11 | 9–13 | 8–13 | 8–14 | 2–15 |
-| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
+| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 6 | 2–8 | 2–9 | 2–10 | 1–10 |
 | [18–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> Vårt Land | 9 | 7–10 | 2–11 | 2–11 | 2–12 |
 | [20–24 May 2021](2021-05-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 7 | 2–8 | 2–9 | 1–9 | 1–10 |
@@ -727,21 +728,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.7% | 100% | Last Result |
-| 2 | 25% | 99.3% |  |
-| 3 | 0% | 75% |  |
-| 4 | 0% | 75% |  |
-| 5 | 0% | 75% |  |
-| 6 | 2% | 75% |  |
-| 7 | 18% | 72% |  |
-| 8 | 26% | 54% | Median |
-| 9 | 11% | 28% |  |
-| 10 | 7% | 17% |  |
-| 11 | 5% | 10% |  |
-| 12 | 2% | 4% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0.4% | 0.5% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 1 | 0.6% | 100% | Last Result |
+| 2 | 21% | 99.4% |  |
+| 3 | 0% | 78% |  |
+| 4 | 0% | 78% |  |
+| 5 | 0% | 78% |  |
+| 6 | 2% | 78% |  |
+| 7 | 15% | 76% |  |
+| 8 | 23% | 61% | Median |
+| 9 | 11% | 38% |  |
+| 10 | 10% | 28% |  |
+| 11 | 8% | 17% |  |
+| 12 | 5% | 10% |  |
+| 13 | 3% | 5% |  |
+| 14 | 1.2% | 2% |  |
+| 15 | 0.3% | 0.3% |  |
+| 16 | 0% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 

@@ -10,9 +10,9 @@ Last result: **4.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.8–4.8% | 2.6–5.1% | 2.4–5.3% | 2.1–5.8% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.8–4.7% | 2.6–5.0% | 2.4–5.3% | 2.1–5.8% |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 3.0% | 2.4–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.8% |
-| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 3.4% | N/A | N/A | N/A | N/A |
+| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 3.4% | 2.8–4.2% | 2.6–4.4% | 2.5–4.6% | 2.2–5.0% |
 | [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3.2% | 2.5–4.3% | 2.3–4.5% | 2.2–4.8% | 1.9–5.3% |
 | [18–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> Vårt Land | 3.6% | 3.0–4.5% | 2.8–4.8% | 2.6–5.0% | 2.3–5.5% |
 | [20–24 May 2021](2021-05-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
@@ -360,10 +360,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 33% | 96% |  |
-| 3.5–4.5% | 47% | 62% | Last Result, Median |
-| 4.5–5.5% | 15% | 16% |  |
-| 5.5–6.5% | 1.2% | 1.2% |  |
+| 2.5–3.5% | 36% | 96% |  |
+| 3.5–4.5% | 46% | 60% | Last Result, Median |
+| 4.5–5.5% | 13% | 14% |  |
+| 5.5–6.5% | 1.0% | 1.0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -375,9 +375,9 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–8 | 1–9 | 1–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 3 | 1–8 | 1–8 | 1–9 | 0–10 |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 1 | 1–3 | 1–7 | 0–8 | 0–8 |
-| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
+| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–7 | 1–7 | 1–8 | 1–9 |
 | [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 1–6 | 1–7 | 1–8 | 0–9 |
 | [18–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> Vårt Land | 3 | 1–8 | 1–8 | 1–9 | 1–9 |
 | [20–24 May 2021](2021-05-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 1 | 0–3 | 0–3 | 0–7 | 0–8 |
@@ -725,18 +725,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% |  |
-| 1 | 20% | 99.0% |  |
-| 2 | 12% | 79% |  |
-| 3 | 31% | 67% | Median |
-| 4 | 0% | 36% |  |
-| 5 | 0% | 36% |  |
-| 6 | 2% | 36% |  |
-| 7 | 14% | 34% |  |
-| 8 | 14% | 20% | Last Result |
-| 9 | 5% | 6% |  |
-| 10 | 0.9% | 1.1% |  |
-| 11 | 0.2% | 0.2% |  |
+| 0 | 0.9% | 100% |  |
+| 1 | 21% | 99.1% |  |
+| 2 | 12% | 78% |  |
+| 3 | 31% | 66% | Median |
+| 4 | 0% | 35% |  |
+| 5 | 0% | 35% |  |
+| 6 | 2% | 35% |  |
+| 7 | 15% | 33% |  |
+| 8 | 13% | 18% | Last Result |
+| 9 | 4% | 5% |  |
+| 10 | 0.8% | 1.0% |  |
+| 11 | 0.1% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
