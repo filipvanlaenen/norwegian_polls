@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 03 Jun 2021 22:01:38 +0200</pubDate>
+    <pubDate>Fri, 04 Jun 2021 07:31:39 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for NRK, 25–31 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 8–14 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–17 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–10 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 40–52 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 26–37 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–8 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 33–44 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 16–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-Norstat-seats.png"
+        length="247371"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jun 2021 07:31:39 +0200</pubDate>
+      <dc:date>2021-06-04T07:31:39.122519+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for NRK, 25–31 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-Norstat-coalitions-seats.png"
+        length="508143"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jun 2021 07:31:39 +0200</pubDate>
+      <dc:date>2021-06-04T07:31:39.122519+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for NRK, 25–31 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-Norstat.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-Norstat.png"
         length="284297"
         type="image/png"/>
-      <pubDate>Thu, 03 Jun 2021 22:01:38 +0200</pubDate>
-      <dc:date>2021-06-03T22:01:38.192584+02:00</dc:date>
+      <pubDate>Fri, 04 Jun 2021 07:31:39 +0200</pubDate>
+      <dc:date>2021-06-04T07:31:39.122519+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MMI for Dagbladet, 24–26 May 2021 – Seat Projections for the Parties</title>
@@ -6319,6 +6339,6 @@
       <pubDate>Thu, 13 May 2021 16:49:21 +0200</pubDate>
       <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
     </item>
-    <dc:date>2021-06-03T22:01:38.192584+02:00</dc:date>
+    <dc:date>2021-06-04T07:31:39.122519+02:00</dc:date>
   </channel>
 </rss>
