@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/norwegian_polls</id>
   <title>All Registered Polls for the Norwegian Parliament</title>
-  <updated>2021-06-04T10:06:01.629802+02:00</updated>
+  <updated>2021-06-06T14:48:53.137611+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 4.3–7.2%, 8–13 seats</li><li>Sosialistisk Venstreparti: 6.6–10.1%, 12–18 seats</li><li>Miljøpartiet De Grønne: 2.9–5.4%, 1–9 seats</li><li>Arbeiderpartiet: 21.2–26.4%, 39–48 seats</li><li>Senterpartiet: 15.5–20.2%, 28–37 seats</li><li>Venstre: 2.0–4.1%, 1–7 seats</li><li>Kristelig Folkeparti: 2.0–4.1%, 0–7 seats</li><li>Høyre: 20.0–25.2%, 35–46 seats</li><li>Fremskrittspartiet: 8.4–12.1%, 15–22 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.html"/>
+    <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 31 May–4 June 2021</title>
+    <updated>2021-06-06T14:48:53.137611+02:00</updated>
+    <dc:date>2021-06-06T14:48:53.137611+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 4.5–7.6%, 8–14 seats</li><li>Sosialistisk Venstreparti: 5.8–9.1%, 10–17 seats</li><li>Miljøpartiet De Grønne: 3.1–5.7%, 2–10 seats</li><li>Arbeiderpartiet: 22.0–27.5%, 40–52 seats</li><li>Senterpartiet: 14.7–19.5%, 26–37 seats</li><li>Venstre: 2.2–4.5%, 1–8 seats</li><li>Kristelig Folkeparti: 2.1–4.3%, 0–8 seats</li><li>Høyre: 18.7–23.9%, 33–44 seats</li><li>Fremskrittspartiet: 8.9–12.8%, 16–24 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-Norstat.html</id>
@@ -1191,5 +1199,5 @@
     <updated>2021-05-13T16:49:21.471247+02:00</updated>
     <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
   </entry>
-  <dc:date>2021-06-04T10:06:01.629802+02:00</dc:date>
+  <dc:date>2021-06-06T14:48:53.137611+02:00</dc:date>
 </feed>
