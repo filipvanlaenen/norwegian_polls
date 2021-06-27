@@ -384,12 +384,12 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–17 | 11–18 | 10–19 | 9–19 |
-| [15–20 June 2021](2021-06-20-Norstat.html) | Norstat <br> Vårt Land | 13 | 13–19 | 13–19 | 13–19 | 13–19 |
+| N/A | [Poll Average](average.html) | 14 | 10–17 | 10–17 | 9–18 | 8–19 |
+| [15–20 June 2021](2021-06-20-Norstat.html) | Norstat <br> Vårt Land | 16 | 13–18 | 12–18 | 12–19 | 12–20 |
 | [9–14 June 2021](2021-06-14-Respons.html) | Respons <br> Bergens Tidende and VG | 16 | 12–17 | 12–18 | 11–19 | 10–20 |
-| [8–13 June 2021](2021-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 12 | 10–14 | 10–15 | 9–16 | 9–17 |
+| [8–13 June 2021](2021-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 13 | 10–15 | 10–15 | 10–16 | 9–17 |
 | [26 May–11 June 2021](2021-06-11-Norstat.html) | Norstat <br> NRK | 15 | 14–15 | 14–15 | 14–16 | 13–16 |
-| [1–7 June 2021](2021-06-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 11 | 9–12 | 9–12 | 8–14 | 3–14 |
+| [1–7 June 2021](2021-06-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 10 | 9–13 | 8–13 | 8–14 | 7–16 |
 | [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 15 | 13–17 | 13–18 | 12–18 | 11–19 |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
 | [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
@@ -740,19 +740,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.2% | 100% |  |
-| 9 | 1.0% | 99.8% |  |
-| 10 | 3% | 98.8% |  |
-| 11 | 20% | 95% | Last Result |
-| 12 | 10% | 76% |  |
-| 13 | 18% | 65% | Median |
-| 14 | 13% | 47% |  |
-| 15 | 11% | 34% |  |
-| 16 | 13% | 23% |  |
-| 17 | 4% | 10% |  |
-| 18 | 2% | 6% |  |
-| 19 | 4% | 4% |  |
-| 20 | 0.1% | 0.2% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 99.9% |  |
+| 5 | 0% | 99.9% |  |
+| 6 | 0% | 99.9% |  |
+| 7 | 0.2% | 99.9% |  |
+| 8 | 0.9% | 99.7% |  |
+| 9 | 3% | 98.8% |  |
+| 10 | 8% | 96% |  |
+| 11 | 8% | 88% | Last Result |
+| 12 | 13% | 81% |  |
+| 13 | 13% | 68% |  |
+| 14 | 14% | 55% | Median |
+| 15 | 14% | 41% |  |
+| 16 | 16% | 28% |  |
+| 17 | 7% | 12% |  |
+| 18 | 3% | 5% |  |
+| 19 | 1.3% | 2% |  |
+| 20 | 0.2% | 0.3% |  |
 | 21 | 0% | 0.1% |  |
 | 22 | 0% | 0% |  |
 

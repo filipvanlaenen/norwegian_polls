@@ -387,12 +387,12 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44 | 42–46 | 40–48 | 40–50 | 38–53 |
-| [15–20 June 2021](2021-06-20-Norstat.html) | Norstat <br> Vårt Land | 44 | 44–45 | 43–45 | 38–50 | 38–50 |
+| N/A | [Poll Average](average.html) | 44 | 41–47 | 40–49 | 40–51 | 38–53 |
+| [15–20 June 2021](2021-06-20-Norstat.html) | Norstat <br> Vårt Land | 45 | 43–48 | 42–50 | 42–51 | 40–53 |
 | [9–14 June 2021](2021-06-14-Respons.html) | Respons <br> Bergens Tidende and VG | 43 | 40–45 | 40–46 | 40–47 | 38–49 |
-| [8–13 June 2021](2021-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 44 | 40–46 | 40–47 | 40–48 | 38–50 |
+| [8–13 June 2021](2021-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 44 | 40–45 | 40–46 | 40–47 | 38–49 |
 | [26 May–11 June 2021](2021-06-11-Norstat.html) | Norstat <br> NRK | 45 | 44–46 | 44–46 | 44–46 | 43–48 |
-| [1–7 June 2021](2021-06-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 45 | 43–47 | 43–48 | 42–48 | 41–50 |
+| [1–7 June 2021](2021-06-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 45 | 41–48 | 40–49 | 39–50 | 37–52 |
 | [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 43 | 40–46 | 40–47 | 39–48 | 38–50 |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 44 | 41–49 | 40–50 | 40–52 | 39–53 |
 | [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 44 | 42–47 | 42–48 | 41–49 | 39–51 |
@@ -743,26 +743,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.9% | 99.9% |  |
-| 39 | 0.7% | 99.0% |  |
-| 40 | 4% | 98% |  |
-| 41 | 4% | 94% |  |
-| 42 | 8% | 90% |  |
-| 43 | 10% | 82% |  |
-| 44 | 27% | 73% | Median |
-| 45 | 30% | 45% |  |
-| 46 | 5% | 15% |  |
-| 47 | 4% | 10% |  |
-| 48 | 2% | 6% |  |
-| 49 | 0.9% | 5% | Last Result |
-| 50 | 1.4% | 4% |  |
-| 51 | 1.0% | 2% |  |
-| 52 | 0.4% | 1.3% |  |
-| 53 | 0.5% | 0.9% |  |
-| 54 | 0.1% | 0.4% |  |
-| 55 | 0.1% | 0.3% |  |
-| 56 | 0.1% | 0.2% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.1% | 99.9% |  |
+| 38 | 0.5% | 99.8% |  |
+| 39 | 1.1% | 99.3% |  |
+| 40 | 6% | 98% |  |
+| 41 | 5% | 92% |  |
+| 42 | 9% | 88% |  |
+| 43 | 14% | 78% |  |
+| 44 | 20% | 64% | Median |
+| 45 | 20% | 44% |  |
+| 46 | 10% | 24% |  |
+| 47 | 5% | 15% |  |
+| 48 | 4% | 9% |  |
+| 49 | 1.4% | 6% | Last Result |
+| 50 | 1.5% | 4% |  |
+| 51 | 1.3% | 3% |  |
+| 52 | 0.6% | 1.5% |  |
+| 53 | 0.6% | 0.9% |  |
+| 54 | 0.2% | 0.4% |  |
+| 55 | 0.1% | 0.2% |  |
+| 56 | 0.1% | 0.1% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
