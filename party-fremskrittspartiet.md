@@ -385,17 +385,17 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–21 | 15–21 | 14–22 | 13–24 |
+| N/A | [Poll Average](average.html) | 17 | 15–20 | 14–21 | 14–22 | 12–24 |
 | [17–23 June 2021](2021-06-23-Norstat.html) | Norstat <br> Dagens Næringsliv | 17 | 15–20 | 14–21 | 13–21 | 12–24 |
 | [15–20 June 2021](2021-06-20-Norstat.html) | Norstat <br> Vårt Land | 17 | 15–20 | 14–21 | 14–21 | 13–23 |
 | [9–14 June 2021](2021-06-14-Respons.html) | Respons <br> Bergens Tidende and VG | 19 | 16–21 | 16–23 | 15–23 | 14–25 |
 | [8–13 June 2021](2021-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 18 | 15–20 | 15–21 | 14–22 | 13–23 |
 | [26 May–11 June 2021](2021-06-11-Norstat.html) | Norstat <br> NRK | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [1–7 June 2021](2021-06-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 18 | 15–21 | 15–22 | 14–22 | 13–25 |
-| [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 17 | 15–20 | 15–21 | 15–22 | 14–23 |
+| [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 17 | 16–20 | 15–21 | 15–22 | 14–23 |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 19 | 17–23 | 16–24 | 16–24 | 14–25 |
-| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 16 | 15–19 | 14–19 | 14–21 | 13–22 |
-| [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 17 | 15–21 | 14–22 | 13–23 | 12–24 |
+| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
+| [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 17 | 15–21 | 14–22 | 13–22 | 12–24 |
 | [18–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> Vårt Land | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
 | [20–24 May 2021](2021-05-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 19 | 16–22 | 16–23 | 15–24 | 14–26 |
 | [11–16 May 2021](2021-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 21 | 18–24 | 17–25 | 17–25 | 16–27 |
@@ -743,19 +743,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
-| 12 | 0.3% | 99.9% |  |
-| 13 | 1.1% | 99.6% |  |
-| 14 | 3% | 98% |  |
-| 15 | 11% | 95% |  |
-| 16 | 18% | 84% |  |
-| 17 | 16% | 66% |  |
-| 18 | 13% | 51% | Median |
-| 19 | 18% | 37% |  |
-| 20 | 10% | 20% |  |
+| 12 | 0.4% | 99.9% |  |
+| 13 | 1.0% | 99.4% |  |
+| 14 | 4% | 98% |  |
+| 15 | 8% | 95% |  |
+| 16 | 16% | 86% |  |
+| 17 | 21% | 71% | Median |
+| 18 | 17% | 50% |  |
+| 19 | 14% | 33% |  |
+| 20 | 9% | 19% |  |
 | 21 | 5% | 10% |  |
-| 22 | 3% | 5% |  |
+| 22 | 3% | 4% |  |
 | 23 | 1.2% | 2% |  |
-| 24 | 0.5% | 0.8% |  |
+| 24 | 0.5% | 0.7% |  |
 | 25 | 0.2% | 0.3% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% | Last Result |

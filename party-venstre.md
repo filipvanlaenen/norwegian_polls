@@ -390,10 +390,10 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [8–13 June 2021](2021-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 1–2 | 1–2 | 1–6 | 0–8 |
 | [26 May–11 June 2021](2021-06-11-Norstat.html) | Norstat <br> NRK | 2 | 2 | 2 | 2 | 1–2 |
 | [1–7 June 2021](2021-06-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 1 | 0–2 | 0–2 | 0–2 | 0–6 |
-| [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–2 | 1–7 | 1–7 | 0–8 |
+| [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–2 | 1–2 | 1–7 | 0–8 |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 2 | 2–7 | 1–8 | 1–8 | 1–9 |
-| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 2–9 | 2–9 | 2–9 | 2–10 |
-| [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 1–2 | 0–3 | 0–6 | 0–8 |
+| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 2–8 | 2–9 | 2–9 | 2–10 |
+| [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 1–2 | 0–2 | 0–3 | 0–7 |
 | [18–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> Vårt Land | 2 | 1–2 | 1–2 | 1–3 | 0–7 |
 | [20–24 May 2021](2021-05-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 2 | 2–7 | 2–8 | 1–8 | 1–9 |
 | [11–16 May 2021](2021-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 2–7 | 2–8 | 1–8 | 1–9 |
@@ -740,17 +740,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 17% | 95% |  |
-| 2 | 66% | 78% | Median |
-| 3 | 1.0% | 12% |  |
+| 0 | 4% | 100% |  |
+| 1 | 17% | 96% |  |
+| 2 | 67% | 79% | Median |
+| 3 | 0.9% | 12% |  |
 | 4 | 0% | 11% |  |
 | 5 | 0% | 11% |  |
-| 6 | 0.4% | 11% |  |
-| 7 | 4% | 11% |  |
-| 8 | 6% | 7% | Last Result |
-| 9 | 1.2% | 1.5% |  |
-| 10 | 0.2% | 0.3% |  |
+| 6 | 0.2% | 11% |  |
+| 7 | 5% | 10% |  |
+| 8 | 4% | 5% | Last Result |
+| 9 | 0.9% | 1.1% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
 

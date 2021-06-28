@@ -397,10 +397,10 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [8–13 June 2021](2021-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 35 | 32–37 | 32–38 | 31–39 | 29–40 |
 | [26 May–11 June 2021](2021-06-11-Norstat.html) | Norstat <br> NRK | 33 | 32–34 | 32–35 | 32–35 | 31–35 |
 | [1–7 June 2021](2021-06-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 34 | 32–37 | 31–38 | 30–40 | 27–41 |
-| [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 34 | 29–36 | 28–37 | 28–37 | 27–38 |
+| [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 34 | 30–36 | 29–37 | 28–37 | 27–38 |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 33 | 28–36 | 27–36 | 26–37 | 25–38 |
-| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 33 | 31–36 | 30–36 | 29–36 | 27–39 |
-| [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 31 | 25–34 | 25–35 | 25–36 | 23–37 |
+| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 33 | 30–36 | 29–36 | 28–37 | 26–39 |
+| [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 31 | 26–35 | 25–35 | 25–36 | 23–38 |
 | [18–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> Vårt Land | 31 | 27–34 | 26–35 | 26–35 | 24–36 |
 | [20–24 May 2021](2021-05-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 33 | 28–35 | 26–35 | 26–36 | 24–37 |
 | [11–16 May 2021](2021-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 27 | 23–30 | 23–31 | 22–32 | 20–33 |
@@ -752,18 +752,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.2% | 100% |  |
 | 22 | 0.2% | 99.8% |  |
 | 23 | 0.6% | 99.6% |  |
-| 24 | 0.7% | 99.0% |  |
-| 25 | 3% | 98% |  |
-| 26 | 4% | 95% |  |
-| 27 | 3% | 91% |  |
-| 28 | 4% | 88% |  |
-| 29 | 4% | 85% |  |
-| 30 | 3% | 81% |  |
-| 31 | 6% | 77% |  |
-| 32 | 7% | 71% |  |
-| 33 | 15% | 64% | Median |
-| 34 | 17% | 49% |  |
-| 35 | 14% | 32% |  |
+| 24 | 0.6% | 99.0% |  |
+| 25 | 2% | 98% |  |
+| 26 | 5% | 97% |  |
+| 27 | 3% | 92% |  |
+| 28 | 3% | 89% |  |
+| 29 | 4% | 86% |  |
+| 30 | 5% | 82% |  |
+| 31 | 7% | 77% |  |
+| 32 | 9% | 70% |  |
+| 33 | 13% | 61% | Median |
+| 34 | 16% | 47% |  |
+| 35 | 13% | 32% |  |
 | 36 | 11% | 18% |  |
 | 37 | 4% | 8% |  |
 | 38 | 2% | 3% |  |

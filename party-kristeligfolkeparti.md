@@ -391,8 +391,8 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [1–7 June 2021](2021-06-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3 | 1–8 | 1–8 | 1–9 | 1–10 |
 | [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 1 | 1–3 | 1–3 | 0–7 | 0–8 |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 1 | 1–3 | 1–7 | 0–8 | 0–8 |
-| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–7 | 1–7 | 1–8 | 1–8 |
-| [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 1 | 1–7 | 0–7 | 0–8 | 0–9 |
+| [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 1–7 | 1–7 | 1–8 | 1–9 |
+| [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 1–6 | 1–7 | 1–8 | 0–9 |
 | [18–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> Vårt Land | 3 | 1–8 | 1–8 | 1–9 | 1–9 |
 | [20–24 May 2021](2021-05-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 1 | 0–3 | 0–3 | 0–7 | 0–8 |
 | [11–16 May 2021](2021-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3 | 1–8 | 1–9 | 1–9 | 1–10 |
@@ -739,17 +739,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 41% | 98% |  |
-| 2 | 16% | 57% | Median |
-| 3 | 26% | 41% |  |
-| 4 | 0% | 14% |  |
-| 5 | 0% | 14% |  |
-| 6 | 0.8% | 14% |  |
-| 7 | 7% | 14% |  |
-| 8 | 5% | 7% | Last Result |
-| 9 | 1.1% | 1.3% |  |
+| 0 | 1.1% | 100% |  |
+| 1 | 37% | 98.9% |  |
+| 2 | 17% | 62% | Median |
+| 3 | 29% | 45% |  |
+| 4 | 0% | 16% |  |
+| 5 | 0% | 16% |  |
+| 6 | 1.4% | 16% |  |
+| 7 | 8% | 15% |  |
+| 8 | 5% | 6% | Last Result |
+| 9 | 1.0% | 1.3% |  |
 | 10 | 0.2% | 0.3% |  |
-| 11 | 0% | 0% |  |
+| 11 | 0% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 

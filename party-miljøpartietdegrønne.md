@@ -391,10 +391,10 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [8–13 June 2021](2021-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 9 | 7–11 | 7–11 | 2–12 | 2–12 |
 | [26 May–11 June 2021](2021-06-11-Norstat.html) | Norstat <br> NRK | 2 | 2–4 | 2–7 | 2–7 | 2–8 |
 | [1–7 June 2021](2021-06-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 8 | 2–10 | 2–11 | 2–11 | 2–12 |
-| [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8 | 2–9 | 1–9 | 1–9 | 1–10 |
+| [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 7 | 2–9 | 2–9 | 1–9 | 1–10 |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 8 | 2–9 | 2–10 | 2–10 | 1–11 |
 | [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 2–9 | 2–10 | 2–10 | 2–11 |
-| [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 8 | 3–10 | 2–11 | 2–11 | 2–11 |
+| [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 8 | 4–10 | 2–11 | 2–11 | 2–12 |
 | [18–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> Vårt Land | 1 | 1–2 | 1–2 | 0–3 | 0–7 |
 | [20–24 May 2021](2021-05-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 10 | 8–12 | 8–13 | 7–13 | 2–14 |
 | [11–16 May 2021](2021-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 9 | 7–11 | 7–11 | 2–12 | 2–13 |
@@ -742,18 +742,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% | Last Result |
-| 2 | 17% | 98% |  |
-| 3 | 4% | 81% |  |
-| 4 | 1.4% | 76% |  |
+| 2 | 18% | 98% |  |
+| 3 | 4% | 80% |  |
+| 4 | 2% | 76% |  |
 | 5 | 0% | 75% |  |
-| 6 | 0.4% | 75% |  |
-| 7 | 14% | 75% |  |
-| 8 | 33% | 61% | Median |
+| 6 | 0.5% | 75% |  |
+| 7 | 18% | 74% |  |
+| 8 | 28% | 56% | Median |
 | 9 | 18% | 28% |  |
-| 10 | 7% | 11% |  |
+| 10 | 6% | 10% |  |
 | 11 | 3% | 4% |  |
-| 12 | 0.8% | 1.0% |  |
-| 13 | 0.1% | 0.2% |  |
+| 12 | 0.9% | 1.0% |  |
+| 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 
 
