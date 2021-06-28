@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/norwegian_polls</id>
   <title>All Registered Polls for the Norwegian Parliament</title>
-  <updated>2021-06-28T13:27:05.753616+02:00</updated>
+  <updated>2021-06-28T16:34:53.322179+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.6–6.7%, 2–12 seats</li><li>Sosialistisk Venstreparti: 7.0–11.1%, 12–20 seats</li><li>Miljøpartiet De Grønne: 3.0–6.0%, 1–11 seats</li><li>Arbeiderpartiet: 24.0–30.4%, 44–57 seats</li><li>Senterpartiet: 12.7–17.8%, 23–34 seats</li><li>Venstre: 1.6–3.9%, 0–2 seats</li><li>Kristelig Folkeparti: 2.4–5.0%, 1–8 seats</li><li>Høyre: 18.3–24.1%, 33–43 seats</li><li>Fremskrittspartiet: 7.6–11.8%, 13–21 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2021-06-23-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2021-06-23-Norstat.html"/>
+    <title>Opinion Poll by Norstat for Dagens Næringsliv, 17–23 June 2021</title>
+    <updated>2021-06-28T16:34:53.322179+02:00</updated>
+    <dc:date>2021-06-28T16:34:53.322179+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 4.5–7.5%, 8–14 seats</li><li>Sosialistisk Venstreparti: 6.8–10.3%, 12–19 seats</li><li>Miljøpartiet De Grønne: 1.9–4.1%, 0–4 seats</li><li>Arbeiderpartiet: 22.3–27.8%, 41–51 seats</li><li>Senterpartiet: 15.2–20.1%, 28–37 seats</li><li>Venstre: 1.7–3.8%, 0–2 seats</li><li>Kristelig Folkeparti: 1.8–3.9%, 0–7 seats</li><li>Høyre: 19.6–24.9%, 35–46 seats</li><li>Fremskrittspartiet: 7.8–11.6%, 14–21 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2021-06-20-Norstat.html</id>
@@ -48,36 +56,12 @@
     <dc:date>2021-06-27T22:42:19.404845+02:00</dc:date>
   </entry>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 4.3–7.2%, 8–13 seats</li><li>Sosialistisk Venstreparti: 6.6–10.1%, 12–18 seats</li><li>Miljøpartiet De Grønne: 2.9–5.4%, 1–9 seats</li><li>Arbeiderpartiet: 21.2–26.4%, 39–48 seats</li><li>Senterpartiet: 15.5–20.2%, 28–37 seats</li><li>Venstre: 2.0–4.1%, 1–7 seats</li><li>Kristelig Folkeparti: 2.0–4.1%, 0–7 seats</li><li>Høyre: 20.0–25.2%, 35–46 seats</li><li>Fremskrittspartiet: 8.4–12.1%, 15–22 seats</li></ul></div></content>
-    <id>https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.html</id>
-    <link href="https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.html"/>
-    <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 31 May–4 June 2021</title>
-    <updated>2021-06-06T14:48:53.137611+02:00</updated>
-    <dc:date>2021-06-06T14:48:53.137611+02:00</dc:date>
-  </entry>
-  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 4.5–7.6%, 8–14 seats</li><li>Sosialistisk Venstreparti: 5.8–9.1%, 10–17 seats</li><li>Miljøpartiet De Grønne: 3.1–5.7%, 2–10 seats</li><li>Arbeiderpartiet: 22.0–27.5%, 40–52 seats</li><li>Senterpartiet: 14.7–19.5%, 26–37 seats</li><li>Venstre: 2.2–4.5%, 1–8 seats</li><li>Kristelig Folkeparti: 2.1–4.3%, 0–8 seats</li><li>Høyre: 18.7–23.9%, 33–44 seats</li><li>Fremskrittspartiet: 8.9–12.8%, 16–24 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-Norstat.html</id>
     <link href="https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-Norstat.html"/>
     <title>Opinion Poll by Norstat for NRK, 25–31 May 2021</title>
     <updated>2021-06-04T07:31:39.122519+02:00</updated>
     <dc:date>2021-06-04T07:31:39.122519+02:00</dc:date>
-  </entry>
-  <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 5.3–8.1%, 9–14 seats</li><li>Sosialistisk Venstreparti: 7.1–10.3%, 12–18 seats</li><li>Miljøpartiet De Grønne: 3.4–5.8%, 2–10 seats</li><li>Arbeiderpartiet: 22.2–27.1%, 41–49 seats</li><li>Senterpartiet: 15.5–19.8%, 28–37 seats</li><li>Venstre: 3.1–5.4%, 2–9 seats</li><li>Kristelig Folkeparti: 2.5–4.6%, 1–8 seats</li><li>Høyre: 16.1–20.5%, 28–36 seats</li><li>Fremskrittspartiet: 8.3–11.7%, 14–21 seats</li></ul></div></content>
-    <id>https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-KantarTNS.html</id>
-    <link href="https://filipvanlaenen.github.io/norwegian_polls/2021-05-31-KantarTNS.html"/>
-    <title>Opinion Poll by Kantar TNS for TV2, 25–31 May 2021</title>
-    <updated>2021-06-04T10:06:01.629802+02:00</updated>
-    <dc:date>2021-06-04T10:06:01.629802+02:00</dc:date>
-  </entry>
-  <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 2.9–5.7%, 2–10 seats</li><li>Sosialistisk Venstreparti: 5.9–9.7%, 9–17 seats</li><li>Miljøpartiet De Grønne: 3.4–6.5%, 2–11 seats</li><li>Arbeiderpartiet: 22.6–29.0%, 42–53 seats</li><li>Senterpartiet: 13.9–19.2%, 25–36 seats</li><li>Venstre: 1.6–4.0%, 0–3 seats</li><li>Kristelig Folkeparti: 2.2–4.8%, 1–8 seats</li><li>Høyre: 18.3–24.2%, 33–43 seats</li><li>Fremskrittspartiet: 8.2–12.5%, 13–22 seats</li></ul></div></content>
-    <id>https://filipvanlaenen.github.io/norwegian_polls/2021-05-26-IpsosMMI.html</id>
-    <link href="https://filipvanlaenen.github.io/norwegian_polls/2021-05-26-IpsosMMI.html"/>
-    <title>Opinion Poll by Ipsos MMI for Dagbladet, 24–26 May 2021</title>
-    <updated>2021-06-02T20:26:20.708414+02:00</updated>
-    <dc:date>2021-06-02T20:26:20.708414+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.7–6.4%, 2–11 seats</li><li>Sosialistisk Venstreparti: 5.9–9.3%, 10–17 seats</li><li>Miljøpartiet De Grønne: 1.8–3.8%, 0–3 seats</li><li>Arbeiderpartiet: 22.4–27.9%, 41–52 seats</li><li>Senterpartiet: 13.9–18.6%, 26–35 seats</li><li>Venstre: 1.8–3.9%, 1–3 seats</li><li>Kristelig Folkeparti: 2.6–5.0%, 1–9 seats</li><li>Høyre: 21.1–26.5%, 37–48 seats</li><li>Fremskrittspartiet: 8.2–12.0%, 14–22 seats</li></ul></div></content>
@@ -1431,5 +1415,5 @@
     <updated>2021-05-13T16:49:21.471247+02:00</updated>
     <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
   </entry>
-  <dc:date>2021-06-28T13:27:05.753616+02:00</dc:date>
+  <dc:date>2021-06-28T16:34:53.322179+02:00</dc:date>
 </feed>
