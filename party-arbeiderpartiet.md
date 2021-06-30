@@ -702,7 +702,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [13–19 February 2018](2018-02-19-Sentio.html) | Sentio | 42 | 39–45 | 38–46 | 38–47 | 36–48 |
 | [6–12 February 2018](2018-02-12-OpinionPerduco.html) | Opinion Perduco | 39 | 35–42 | 34–43 | 33–44 | 31–46 |
 | [5–7 February 2018](2018-02-07-ResponsAnalyse.html) | Respons Analyse | 44 | 41–45 | 40–47 | 39–48 | 38–50 |
-| [30 January–5 February 2018](2018-02-05-Norstat.html) | Norstat | 41 | 37–45 | 36–46 | 35–47 | 35–47 |
+| [30 January–5 February 2018](2018-02-05-Norstat.html) | Norstat | 41 | 38–44 | 37–45 | 36–47 | 35–48 |
 | [29 January–5 February 2018](2018-02-05-KantarTNS.html) | Kantar TNS | 43 | 40–46 | 38–48 | 38–49 | 36–50 |
 | [30–31 January 2018](2018-01-31-Norfakta.html) | Norfakta | 43 | 41–47 | 40–48 | 39–49 | 36–52 |
 | [23–28 January 2018](2018-01-28-Norstat.html) | Norstat | 43 | 40–45 | 38–46 | 37–47 | 37–48 |
