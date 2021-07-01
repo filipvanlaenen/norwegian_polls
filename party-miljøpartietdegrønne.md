@@ -602,7 +602,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [19–25 February 2019](2019-02-25-Norstat.html) | Norstat | 2 | 1–7 | 1–8 | 0–8 | 0–9 |
 | [18–20 February 2019](2019-02-20-IpsosMMI.html) | Ipsos MMI | 2 | 2–8 | 2–8 | 1–9 | 1–10 |
 | [12–19 February 2019](2019-02-19-Sentio.html) | Sentio | 3 | 2–8 | 1–9 | 1–9 | 1–10 |
-| [5–11 February 2019](2019-02-11-OpinionPerduco.html) | Opinion Perduco | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [5–11 February 2019](2019-02-11-OpinionPerduco.html) | Opinion Perduco | 1 | 1–2 | 0–2 | 0–2 | 0–8 |
 | [5–6 February 2019](2019-02-06-Norfakta.html) | Norfakta | 7 | 1–7 | 1–8 | 1–8 | 1–8 |
 | [31 January–4 February 2019](2019-02-04-ResponsAnalyse.html) | Respons Analyse | 3 | 1–8 | 1–9 | 1–10 | 1–10 |
 | [29 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 1 | 1–8 | 1–8 | 0–9 | 0–10 |
@@ -637,7 +637,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [4–10 October 2018](2018-10-10-OpinionPerduco.html) | Opinion Perduco | 2 | 1–7 | 1–7 | 1–8 | 0–9 |
 | [9–10 October 2018](2018-10-10-InFact.html) | InFact | 1 | 1–2 | 0–2 | 0–2 | 0–7 |
 | [1–3 October 2018](2018-10-03-ResponsAnalyse.html) | Respons Analyse | 1 | 1–2 | 1–2 | 0–3 | 0–8 |
-| [2–3 October 2018](2018-10-03-Norfakta.html) | Norfakta | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [2–3 October 2018](2018-10-03-Norfakta.html) | Norfakta | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [24–29 September 2018](2018-09-29-Norstat.html) | Norstat | 7 | 2–9 | 2–10 | 1–10 | 1–12 |
 | [24–28 September 2018](2018-09-28-KantarTNS.html) | Kantar TNS | 1 | 0–2 | 0–2 | 0–2 | 0–7 |
 | [24–26 September 2018](2018-09-26-IpsosMMI.html) | Ipsos MMI | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -696,7 +696,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [13–19 February 2018](2018-02-19-Sentio.html) | Sentio | 1 | 1–7 | 1–8 | 1–8 | 0–9 |
 | [6–12 February 2018](2018-02-12-OpinionPerduco.html) | Opinion Perduco | 7 | 2–9 | 1–10 | 1–10 | 1–11 |
 | [5–7 February 2018](2018-02-07-ResponsAnalyse.html) | Respons Analyse | 3 | 1–8 | 1–8 | 1–9 | 1–10 |
-| [30 January–5 February 2018](2018-02-05-Norstat.html) | Norstat | 2 | 1–8 | 1–9 | 1–9 | 1–10 |
+| [30 January–5 February 2018](2018-02-05-Norstat.html) | Norstat | 2 | 1–9 | 1–9 | 1–9 | 1–10 |
 | [29 January–5 February 2018](2018-02-05-KantarTNS.html) | Kantar TNS | 2 | 1–8 | 1–8 | 1–9 | 0–9 |
 | [30–31 January 2018](2018-01-31-Norfakta.html) | Norfakta | 2 | 1–8 | 1–8 | 1–9 | 1–10 |
 | [23–28 January 2018](2018-01-28-Norstat.html) | Norstat | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
