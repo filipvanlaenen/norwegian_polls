@@ -10,7 +10,8 @@ Last result: **3.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.6% | 3.2–5.9% | 3.0–6.2% | 2.7–6.8% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.6% | 3.3–5.9% | 3.0–6.2% | 2.7–6.8% |
+| [28–30 June 2021](2021-06-30-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [17–23 June 2021](2021-06-23-Norstat.html) | Norstat <br> Dagens Næringsliv | 4.3% | 3.5–5.4% | 3.2–5.7% | 3.0–6.0% | 2.7–6.5% |
 | [15–20 June 2021](2021-06-20-Norstat.html) | Norstat <br> Vårt Land | 2.8% | 2.2–3.6% | 2.0–3.9% | 1.9–4.1% | 1.7–4.5% |
 | [9–14 June 2021](2021-06-14-Respons.html) | Respons <br> Bergens Tidende and VG | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
@@ -367,13 +368,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 12% | 99.8% | Last Result |
-| 3.5–4.5% | 43% | 88% | Median |
-| 4.5–5.5% | 35% | 46% |  |
+| 2.5–3.5% | 11% | 99.8% | Last Result |
+| 3.5–4.5% | 41% | 89% |  |
+| 4.5–5.5% | 36% | 48% | Median |
 | 5.5–6.5% | 10% | 11% |  |
 | 6.5–7.5% | 1.0% | 1.0% |  |
 | 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -384,7 +384,8 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 2–10 | 2–10 | 2–11 | 1–12 |
+| N/A | [Poll Average](average.html) | 8 | 2–9 | 2–10 | 2–11 | 1–12 |
+| [28–30 June 2021](2021-06-30-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 8 | 6–9 | 6–9 | 3–10 | 2–11 |
 | [17–23 June 2021](2021-06-23-Norstat.html) | Norstat <br> Dagens Næringsliv | 8 | 2–9 | 2–10 | 1–11 | 1–12 |
 | [15–20 June 2021](2021-06-20-Norstat.html) | Norstat <br> Vårt Land | 1 | 1–2 | 1–2 | 0–4 | 0–8 |
 | [9–14 June 2021](2021-06-14-Respons.html) | Respons <br> Bergens Tidende and VG | 3 | 2–8 | 1–9 | 1–9 | 1–10 |
@@ -742,18 +743,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% | Last Result |
-| 2 | 18% | 98% |  |
-| 3 | 4% | 80% |  |
-| 4 | 2% | 76% |  |
-| 5 | 0% | 75% |  |
-| 6 | 0.5% | 75% |  |
-| 7 | 18% | 74% |  |
-| 8 | 28% | 56% | Median |
-| 9 | 18% | 28% |  |
-| 10 | 6% | 10% |  |
-| 11 | 3% | 4% |  |
-| 12 | 0.9% | 1.0% |  |
-| 13 | 0.2% | 0.2% |  |
+| 2 | 17% | 98% |  |
+| 3 | 4% | 81% |  |
+| 4 | 1.4% | 77% |  |
+| 5 | 0% | 76% |  |
+| 6 | 1.4% | 76% |  |
+| 7 | 20% | 74% |  |
+| 8 | 28% | 54% | Median |
+| 9 | 17% | 26% |  |
+| 10 | 6% | 9% |  |
+| 11 | 2% | 3% |  |
+| 12 | 0.8% | 0.9% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 
