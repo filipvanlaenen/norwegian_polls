@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
+| [28–30 June 2021](2021-06-30-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 21–27% <br> 40–50 | 18–23% <br> 34–42 | 6–9% <br> 8–14 | 17–22% <br> 34–41 | 5–8% <br> 8–13 | 2–5% <br> 2–7 | 2–4% <br> 0–3 | 4–7% <br> 3–10 | 4–7% <br> 6–11 |
 | [17–23 June 2021](2021-06-23-Norstat.html) | Norstat <br> Dagens Næringsliv | 24–30% <br> 44–57 | 18–24% <br> 33–43 | 8–12% <br> 13–21 | 13–18% <br> 23–34 | 7–11% <br> 12–20 | 2–4% <br> 0–2 | 2–5% <br> 1–8 | 3–6% <br> 1–11 | 4–7% <br> 2–12 |
 | [15–20 June 2021](2021-06-20-Norstat.html) | Norstat <br> Vårt Land | 22–28% <br> 41–51 | 20–25% <br> 35–46 | 8–12% <br> 14–21 | 15–20% <br> 28–37 | 7–10% <br> 12–19 | 2–4% <br> 0–2 | 2–4% <br> 0–7 | 2–4% <br> 0–4 | 4–8% <br> 8–14 |
 | [9–14 June 2021](2021-06-14-Respons.html) | Respons <br> Bergens Tidende and VG | 21–26% <br> 39–49 | 19–24% <br> 34–44 | 9–13% <br> 15–23 | 16–21% <br> 29–39 | 7–10% <br> 12–19 | 2–4% <br> 1–3 | 2–5% <br> 1–8 | 3–5% <br> 1–9 | 3–6% <br> 2–11 |
