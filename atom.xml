@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/norwegian_polls</id>
   <title>All Registered Polls for the Norwegian Parliament</title>
-  <updated>2021-07-15T14:15:33.236123+02:00</updated>
+  <updated>2021-07-15T19:42:50.977116+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 4.5–7.9%, 8–14 seats</li><li>Sosialistisk Venstreparti: 7.0–11.1%, 12–20 seats</li><li>Miljøpartiet De Grønne: 2.7–5.5%, 1–9 seats</li><li>Arbeiderpartiet: 20.9–26.9%, 39–49 seats</li><li>Senterpartiet: 14.4–19.7%, 26–36 seats</li><li>Venstre: 2.9–5.7%, 2–10 seats</li><li>Kristelig Folkeparti: 2.1–4.6%, 0–8 seats</li><li>Høyre: 17.6–23.3%, 31–42 seats</li><li>Fremskrittspartiet: 8.3–12.6%, 14–23 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2021-07-07-Norfakta.html</id>
@@ -984,6 +984,14 @@
     <dc:date>2021-05-13T20:28:34.744044+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.2–5.8%, 2–10 seats</li><li>Sosialistisk Venstreparti: 6.8–10.3%, 11–18 seats</li><li>Miljøpartiet De Grønne: 5.1–8.3%, 9–14 seats</li><li>Arbeiderpartiet: 19.2–24.4%, 34–44 seats</li><li>Senterpartiet: 18.4–23.5%, 35–43 seats</li><li>Venstre: 2.1–4.3%, 1–7 seats</li><li>Kristelig Folkeparti: 2.8–5.3%, 1–9 seats</li><li>Høyre: 18.2–23.3%, 32–41 seats</li><li>Fremskrittspartiet: 7.3–10.9%, 12–19 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2019-11-11-OpinionPerduco.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2019-11-11-OpinionPerduco.html"/>
+    <title>Opinion Poll by Opinion Perduco, 5–11 November 2019</title>
+    <updated>2021-07-15T18:20:50.559652+02:00</updated>
+    <dc:date>2021-07-15T18:20:50.559652+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.0–5.8%, 1–10 seats</li><li>Sosialistisk Venstreparti: 5.5–9.1%, 9–16 seats</li><li>Miljøpartiet De Grønne: 4.6–8.0%, 8–14 seats</li><li>Arbeiderpartiet: 19.5–25.3%, 36–45 seats</li><li>Senterpartiet: 16.6–22.1%, 32–41 seats</li><li>Venstre: 3.1–6.0%, 2–10 seats</li><li>Kristelig Folkeparti: 2.4–4.9%, 0–8 seats</li><li>Høyre: 20.1–26.0%, 35–46 seats</li><li>Fremskrittspartiet: 6.6–10.5%, 11–18 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2019-11-06-Norfakta.html</id>
     <link href="https://filipvanlaenen.github.io/norwegian_polls/2019-11-06-Norfakta.html"/>
@@ -1496,6 +1504,14 @@
     <dc:date>2021-06-19T12:56:55.124341+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 2.3–4.6%, 1–8 seats</li><li>Sosialistisk Venstreparti: 5.7–9.0%, 10–16 seats</li><li>Miljøpartiet De Grønne: 2.6–4.9%, 1–9 seats</li><li>Arbeiderpartiet: 21.4–26.7%, 39–48 seats</li><li>Senterpartiet: 9.1–13.0%, 17–23 seats</li><li>Venstre: 3.4–6.0%, 2–11 seats</li><li>Kristelig Folkeparti: 2.6–4.9%, 1–9 seats</li><li>Høyre: 25.2–30.8%, 45–56 seats</li><li>Fremskrittspartiet: 11.6–15.8%, 21–29 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2018-02-07-ResponsAnalyse.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2018-02-07-ResponsAnalyse.html"/>
+    <title>Opinion Poll by Respons Analyse, 5–7 February 2018</title>
+    <updated>2021-07-15T19:42:50.977116+02:00</updated>
+    <dc:date>2021-07-15T19:42:50.977116+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 2.0–4.1%, 1–7 seats</li><li>Sosialistisk Venstreparti: 7.0–10.6%, 13–19 seats</li><li>Miljøpartiet De Grønne: 2.7–5.1%, 1–9 seats</li><li>Arbeiderpartiet: 19.8–25.1%, 36–47 seats</li><li>Senterpartiet: 9.4–13.4%, 17–24 seats</li><li>Venstre: 2.8–5.2%, 2–9 seats</li><li>Kristelig Folkeparti: 2.9–5.4%, 1–9 seats</li><li>Høyre: 26.1–31.9%, 47–58 seats</li><li>Fremskrittspartiet: 11.1–15.5%, 20–28 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2018-02-05-Norstat.html</id>
     <link href="https://filipvanlaenen.github.io/norwegian_polls/2018-02-05-Norstat.html"/>
@@ -1671,5 +1687,5 @@
     <updated>2021-05-13T16:49:21.471247+02:00</updated>
     <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
   </entry>
-  <dc:date>2021-07-15T14:15:33.236123+02:00</dc:date>
+  <dc:date>2021-07-15T19:42:50.977116+02:00</dc:date>
 </feed>
