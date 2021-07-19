@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/norwegian_polls</id>
   <title>All Registered Polls for the Norwegian Parliament</title>
-  <updated>2021-07-17T10:57:18.253498+02:00</updated>
+  <updated>2021-07-19T19:57:43.496975+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 4.5–7.9%, 8–14 seats</li><li>Sosialistisk Venstreparti: 7.0–11.1%, 12–20 seats</li><li>Miljøpartiet De Grønne: 2.7–5.5%, 1–9 seats</li><li>Arbeiderpartiet: 20.9–26.9%, 39–49 seats</li><li>Senterpartiet: 14.4–19.7%, 26–36 seats</li><li>Venstre: 2.9–5.7%, 2–10 seats</li><li>Kristelig Folkeparti: 2.1–4.6%, 0–8 seats</li><li>Høyre: 17.6–23.3%, 31–42 seats</li><li>Fremskrittspartiet: 8.3–12.6%, 14–23 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2021-07-07-Norfakta.html</id>
@@ -952,6 +952,14 @@
     <dc:date>2021-07-11T23:31:53.225831+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.9–6.6%, 2–11 seats</li><li>Sosialistisk Venstreparti: 5.2–8.3%, 9–14 seats</li><li>Miljøpartiet De Grønne: 4.8–7.8%, 8–14 seats</li><li>Arbeiderpartiet: 21.4–26.7%, 39–48 seats</li><li>Senterpartiet: 13.7–18.2%, 24–34 seats</li><li>Venstre: 1.7–3.7%, 0–2 seats</li><li>Kristelig Folkeparti: 3.1–5.6%, 1–9 seats</li><li>Høyre: 19.9–25.1%, 34–44 seats</li><li>Fremskrittspartiet: 9.6–13.5%, 16–24 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2020-01-06-ResponsAnalyse.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2020-01-06-ResponsAnalyse.html"/>
+    <title>Opinion Poll by Respons Analyse for VG, 6 January 2020</title>
+    <updated>2021-07-19T11:11:18.032175+02:00</updated>
+    <dc:date>2021-07-19T11:11:18.032175+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 2.6–5.0%, 1–9 seats</li><li>Sosialistisk Venstreparti: 5.7–9.0%, 10–16 seats</li><li>Miljøpartiet De Grønne: 4.7–7.7%, 8–14 seats</li><li>Arbeiderpartiet: 23.5–29.0%, 43–53 seats</li><li>Senterpartiet: 13.6–18.2%, 25–35 seats</li><li>Venstre: 1.5–3.5%, 0–2 seats</li><li>Kristelig Folkeparti: 2.6–5.0%, 1–9 seats</li><li>Høyre: 19.9–25.1%, 35–45 seats</li><li>Fremskrittspartiet: 8.5–12.4%, 15–22 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2020-01-05-Norstat.html</id>
     <link href="https://filipvanlaenen.github.io/norwegian_polls/2020-01-05-Norstat.html"/>
@@ -1054,6 +1062,14 @@
     <title>Opinion Poll by Ipsos MMI, 23–25 September 2019</title>
     <updated>2021-05-19T19:02:02.257854+02:00</updated>
     <dc:date>2021-05-19T19:02:02.257854+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.1–6.1%, 2–11 seats</li><li>Sosialistisk Venstreparti: 7.2–11.5%, 12–20 seats</li><li>Miljøpartiet De Grønne: 6.7–10.9%, 12–19 seats</li><li>Arbeiderpartiet: 18.0–23.9%, 32–44 seats</li><li>Senterpartiet: 13.2–18.6%, 23–34 seats</li><li>Venstre: 1.9–4.5%, 1–7 seats</li><li>Kristelig Folkeparti: 2.5–5.3%, 1–9 seats</li><li>Høyre: 18.2–24.2%, 32–43 seats</li><li>Fremskrittspartiet: 9.1–13.8%, 16–25 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2019-09-19-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2019-09-19-Norstat.html"/>
+    <title>Opinion Poll by Norstat, 17–19 September 2019</title>
+    <updated>2021-07-19T12:38:54.287889+02:00</updated>
+    <dc:date>2021-07-19T12:38:54.287889+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 2.9–5.4%, 2–9 seats</li><li>Sosialistisk Venstreparti: 5.5–8.7%, 9–15 seats</li><li>Miljøpartiet De Grønne: 4.8–7.8%, 8–14 seats</li><li>Arbeiderpartiet: 20.1–25.3%, 37–46 seats</li><li>Senterpartiet: 14.6–19.3%, 26–36 seats</li><li>Venstre: 2.1–4.3%, 1–7 seats</li><li>Kristelig Folkeparti: 2.4–4.7%, 1–8 seats</li><li>Høyre: 18.7–23.7%, 33–43 seats</li><li>Fremskrittspartiet: 10.5–14.6%, 17–27 seats</li></ul></div></content>
@@ -1320,6 +1336,14 @@
     <dc:date>2021-07-13T20:57:09.27331+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 2.3–4.7%, 1–8 seats</li><li>Sosialistisk Venstreparti: 5.1–8.3%, 9–15 seats</li><li>Miljøpartiet De Grønne: 2.0–4.2%, 1–7 seats</li><li>Arbeiderpartiet: 26.0–31.8%, 47–59 seats</li><li>Senterpartiet: 10.0–14.2%, 18–26 seats</li><li>Venstre: 2.3–4.5%, 1–8 seats</li><li>Kristelig Folkeparti: 3.1–5.8%, 2–10 seats</li><li>Høyre: 21.8–27.3%, 39–50 seats</li><li>Fremskrittspartiet: 11.1–15.5%, 20–29 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2018-11-19-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2018-11-19-Norstat.html"/>
+    <title>Opinion Poll by Norstat, 13–19 November 2018</title>
+    <updated>2021-07-19T19:57:43.496975+02:00</updated>
+    <dc:date>2021-07-19T19:57:43.496975+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 2.9–5.3%, 1–9 seats</li><li>Sosialistisk Venstreparti: 4.7–7.7%, 8–14 seats</li><li>Miljøpartiet De Grønne: 2.0–4.1%, 1–7 seats</li><li>Arbeiderpartiet: 25.7–31.3%, 45–58 seats</li><li>Senterpartiet: 8.6–12.3%, 15–22 seats</li><li>Venstre: 3.0–5.5%, 2–10 seats</li><li>Kristelig Folkeparti: 3.1–5.6%, 1–11 seats</li><li>Høyre: 23.9–29.3%, 42–54 seats</li><li>Fremskrittspartiet: 10.9–15.0%, 18–28 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2018-11-07-ResponsAnalyse.html</id>
     <link href="https://filipvanlaenen.github.io/norwegian_polls/2018-11-07-ResponsAnalyse.html"/>
@@ -1390,6 +1414,14 @@
     <title>Opinion Poll by Opinion Perduco, 4–10 September 2018</title>
     <updated>2021-07-16T17:31:53.493672+02:00</updated>
     <dc:date>2021-07-16T17:31:53.493672+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.2–6.2%, 2–11 seats</li><li>Sosialistisk Venstreparti: 4.5–7.9%, 8–15 seats</li><li>Miljøpartiet De Grønne: 1.8–4.3%, 0–7 seats</li><li>Arbeiderpartiet: 23.1–29.6%, 42–55 seats</li><li>Senterpartiet: 9.1–13.8%, 16–25 seats</li><li>Venstre: 2.2–4.9%, 1–9 seats</li><li>Kristelig Folkeparti: 2.4–5.1%, 1–9 seats</li><li>Høyre: 23.4–29.8%, 42–55 seats</li><li>Fremskrittspartiet: 11.5–16.6%, 21–31 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2018-09-02-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2018-09-02-Norstat.html"/>
+    <title>Opinion Poll by Norstat, 28 August–2 September 2018</title>
+    <updated>2021-07-18T18:12:22.115982+02:00</updated>
+    <dc:date>2021-07-18T18:12:22.115982+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Rødt: 3.1–5.7%, 2–10 seats</li><li>Sosialistisk Venstreparti: 5.4–8.7%, 10–17 seats</li><li>Miljøpartiet De Grønne: 2.5–5.0%, 1–9 seats</li><li>Arbeiderpartiet: 21.8–27.3%, 40–51 seats</li><li>Senterpartiet: 10.5–14.8%, 19–27 seats</li><li>Venstre: 2.1–4.3%, 1–8 seats</li><li>Kristelig Folkeparti: 2.5–5.0%, 1–9 seats</li><li>Høyre: 24.7–30.5%, 44–56 seats</li><li>Fremskrittspartiet: 10.9–15.3%, 20–28 seats</li></ul></div></content>
@@ -1759,5 +1791,5 @@
     <updated>2021-05-13T16:49:21.471247+02:00</updated>
     <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
   </entry>
-  <dc:date>2021-07-17T10:57:18.253498+02:00</dc:date>
+  <dc:date>2021-07-19T19:57:43.496975+02:00</dc:date>
 </feed>
