@@ -529,7 +529,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 26 | 25–30 | 24–30 | 23–31 | 22–32 |
 | [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 29 | 26–30 | 25–32 | 25–33 | 23–35 |
 | [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | 24 | 22–28 | 21–29 | 21–29 | 20–30 |
-| [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 31 | 29–34 | 28–35 | 27–36 | 26–38 |
+| [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 31 | 28–34 | 28–35 | 27–35 | 25–37 |
 | [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 | 28 | 23–30 | 22–31 | 21–32 | 20–33 |
 | [24–27 January 2020](2020-01-27-Sentio.html) | Sentio <br> Amedia and Nettavisen | 22 | 20–26 | 19–26 | 19–26 | 18–28 |
 | [21–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> Vårt Land | 23 | 20–26 | 19–27 | 18–28 | 17–30 |
@@ -624,7 +624,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [15–21 January 2019](2019-01-21-Sentio.html) | Sentio | 24 | 19–27 | 19–28 | 19–30 | 18–32 |
 | [8–14 January 2019](2019-01-14-OpinionPerduco.html) | Opinion Perduco | 23 | 20–26 | 19–27 | 18–28 | 17–30 |
 | [3–10 January 2019](2019-01-10-KantarTNS.html) | Kantar TNS | 22 | 20–25 | 19–26 | 18–26 | 17–29 |
-| [8–9 January 2019](2019-01-09-Norfakta.html) | Norfakta | 21 | 20–25 | 20–26 | 20–27 | 18–28 |
+| [8–9 January 2019](2019-01-09-Norfakta.html) | Norfakta | 24 | 20–25 | 20–26 | 19–27 | 18–28 |
 | [3–7 January 2019](2019-01-07-ResponsAnalyse.html) | Respons Analyse | 19 | 17–21 | 16–22 | 15–23 | 15–24 |
 | [2–7 January 2019](2019-01-07-Norstat.html) | Norstat | 23 | 19–26 | 18–27 | 18–27 | 17–29 |
 | [17–19 December 2018](2018-12-19-IpsosMMI.html) | Ipsos MMI | 19 | 17–22 | 16–22 | 16–23 | 15–24 |
@@ -642,9 +642,9 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [30 October–5 November 2018](2018-11-05-Sentio.html) | Sentio | 18 | 16–20 | 15–21 | 14–22 | 12–23 |
 | [5 November 2018](2018-11-05-Norfakta.html) | Norfakta | 21 | 18–24 | 18–25 | 17–26 | 16–27 |
 | [24–30 October 2018](2018-10-30-KantarTNS.html) | Kantar TNS | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
-| [23–28 October 2018](2018-10-28-Norstat.html) | Norstat | 22 | 19–25 | 18–26 | 17–26 | 17–29 |
+| [23–28 October 2018](2018-10-28-Norstat.html) | Norstat | 23 | 19–25 | 18–26 | 18–27 | 16–28 |
 | [22–24 October 2018](2018-10-24-IpsosMMI.html) | Ipsos MMI | 21 | 19–25 | 18–26 | 18–26 | 17–28 |
-| [16–22 October 2018](2018-10-22-Norstat.html) | Norstat | 19 | 16–22 | 16–22 | 15–23 | 15–24 |
+| [16–22 October 2018](2018-10-22-Norstat.html) | Norstat | 18 | 16–21 | 16–22 | 15–23 | 14–24 |
 | [9–18 October 2018](2018-10-18-Sentio.html) | Sentio | 19 | 17–22 | 16–23 | 15–23 | 15–25 |
 | [4–10 October 2018](2018-10-10-OpinionPerduco.html) | Opinion Perduco | 22 | 21–25 | 20–26 | 19–26 | 17–28 |
 | [9–10 October 2018](2018-10-10-InFact.html) | InFact | 20 | 18–23 | 17–23 | 17–25 | 16–27 |
@@ -667,7 +667,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [7–12 August 2018](2018-08-12-Norstat.html) | Norstat | 21 | 18–26 | 17–27 | 17–28 | 16–28 |
 | [7–8 August 2018](2018-08-08-Norfakta.html) | Norfakta | 21 | 19–24 | 19–24 | 18–25 | 17–27 |
 | [1–7 August 2018](2018-08-07-KantarTNS.html) | Kantar TNS | 23 | 23–28 | 21–28 | 20–28 | 19–30 |
-| [31 July–6 August 2018](2018-08-06-OpinionPerduco.html) | Opinion Perduco | 19 | 17–22 | 17–23 | 16–23 | 15–25 |
+| [31 July–6 August 2018](2018-08-06-OpinionPerduco.html) | Opinion Perduco | 19 | 17–22 | 16–23 | 16–24 | 15–26 |
 | [3–4 July 2018](2018-07-04-Norfakta.html) | Norfakta | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
 | [25–27 June 2018](2018-06-27-IpsosMMI.html) | Ipsos MMI | 20 | 17–23 | 17–24 | 17–25 | 17–26 |
 | [19–25 June 2018](2018-06-25-Norstat.html) | Norstat | 18 | 17–20 | 16–21 | 16–22 | 14–24 |

@@ -530,7 +530,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [4–10 February 2020](2020-02-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 45 | 42–47 | 42–49 | 42–49 | 40–52 |
 | [4–5 February 2020](2020-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 42 | 39–43 | 37–43 | 36–44 | 35–46 |
 | [30 January–3 February 2020](2020-02-03-ResponsAnalyse.html) | Respons Analyse <br> VG | 45 | 43–47 | 42–48 | 41–50 | 40–51 |
-| [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 43 | 40–44 | 39–45 | 38–46 | 37–48 |
+| [27 January–2 February 2020](2020-02-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 43 | 40–45 | 38–46 | 38–46 | 36–48 |
 | [27–31 January 2020](2020-01-31-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 41–45 | 40–47 | 40–48 | 37–50 |
 | [24–27 January 2020](2020-01-27-Sentio.html) | Sentio <br> Amedia and Nettavisen | 46 | 44–50 | 43–50 | 42–52 | 41–54 |
 | [21–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> Vårt Land | 47 | 44–52 | 43–54 | 42–55 | 40–57 |
@@ -625,7 +625,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [15–21 January 2019](2019-01-21-Sentio.html) | Sentio | 49 | 44–52 | 43–54 | 43–55 | 40–58 |
 | [8–14 January 2019](2019-01-14-OpinionPerduco.html) | Opinion Perduco | 52 | 48–56 | 46–58 | 46–59 | 43–61 |
 | [3–10 January 2019](2019-01-10-KantarTNS.html) | Kantar TNS | 51 | 47–54 | 46–54 | 44–57 | 43–59 |
-| [8–9 January 2019](2019-01-09-Norfakta.html) | Norfakta | 51 | 46–54 | 44–55 | 44–56 | 44–58 |
+| [8–9 January 2019](2019-01-09-Norfakta.html) | Norfakta | 51 | 48–55 | 46–55 | 45–56 | 44–59 |
 | [3–7 January 2019](2019-01-07-ResponsAnalyse.html) | Respons Analyse | 55 | 51–58 | 49–60 | 48–60 | 47–62 |
 | [2–7 January 2019](2019-01-07-Norstat.html) | Norstat | 50 | 46–54 | 45–56 | 43–56 | 42–60 |
 | [17–19 December 2018](2018-12-19-IpsosMMI.html) | Ipsos MMI | 53 | 48–57 | 48–58 | 47–58 | 45–60 |
@@ -643,9 +643,9 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [30 October–5 November 2018](2018-11-05-Sentio.html) | Sentio | 45 | 41–49 | 40–50 | 39–51 | 38–54 |
 | [5 November 2018](2018-11-05-Norfakta.html) | Norfakta | 53 | 49–57 | 48–58 | 46–59 | 45–61 |
 | [24–30 October 2018](2018-10-30-KantarTNS.html) | Kantar TNS | 50 | 47–55 | 46–56 | 45–58 | 43–59 |
-| [23–28 October 2018](2018-10-28-Norstat.html) | Norstat | 51 | 44–54 | 43–55 | 43–55 | 41–60 |
+| [23–28 October 2018](2018-10-28-Norstat.html) | Norstat | 50 | 45–54 | 44–56 | 43–56 | 41–58 |
 | [22–24 October 2018](2018-10-24-IpsosMMI.html) | Ipsos MMI | 47 | 44–50 | 43–52 | 42–53 | 41–55 |
-| [16–22 October 2018](2018-10-22-Norstat.html) | Norstat | 53 | 48–58 | 47–58 | 46–59 | 44–61 |
+| [16–22 October 2018](2018-10-22-Norstat.html) | Norstat | 52 | 48–57 | 47–58 | 46–58 | 45–60 |
 | [9–18 October 2018](2018-10-18-Sentio.html) | Sentio | 52 | 48–57 | 47–59 | 46–59 | 45–62 |
 | [4–10 October 2018](2018-10-10-OpinionPerduco.html) | Opinion Perduco | 44 | 43–54 | 42–55 | 41–55 | 40–57 |
 | [9–10 October 2018](2018-10-10-InFact.html) | InFact | 46 | 42–47 | 41–48 | 40–50 | 39–51 |
@@ -668,7 +668,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [7–12 August 2018](2018-08-12-Norstat.html) | Norstat | 42 | 40–47 | 39–48 | 38–49 | 36–52 |
 | [7–8 August 2018](2018-08-08-Norfakta.html) | Norfakta | 52 | 46–55 | 44–55 | 44–55 | 43–57 |
 | [1–7 August 2018](2018-08-07-KantarTNS.html) | Kantar TNS | 45 | 43–45 | 41–47 | 41–48 | 38–51 |
-| [31 July–6 August 2018](2018-08-06-OpinionPerduco.html) | Opinion Perduco | 53 | 47–56 | 46–56 | 44–57 | 43–58 |
+| [31 July–6 August 2018](2018-08-06-OpinionPerduco.html) | Opinion Perduco | 52 | 47–55 | 46–56 | 45–57 | 43–58 |
 | [3–4 July 2018](2018-07-04-Norfakta.html) | Norfakta | 43 | 40–46 | 39–48 | 38–49 | 37–51 |
 | [25–27 June 2018](2018-06-27-IpsosMMI.html) | Ipsos MMI | 42 | 40–45 | 38–45 | 37–46 | 35–47 |
 | [19–25 June 2018](2018-06-25-Norstat.html) | Norstat | 39 | 35–42 | 35–42 | 34–43 | 32–45 |
