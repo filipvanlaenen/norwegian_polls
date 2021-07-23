@@ -575,7 +575,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [20–26 August 2019](2019-08-26-Norstat.html) | Norstat | 41 | 37–44 | 37–44 | 37–45 | 35–47 |
 | [19–21 August 2019](2019-08-21-IpsosMMI.html) | Ipsos MMI | 43 | 39–46 | 38–47 | 37–49 | 36–51 |
 | [13–18 August 2019](2019-08-18-Sentio.html) | Sentio | 51 | 46–56 | 45–58 | 45–58 | 44–59 |
-| [6–12 August 2019](2019-08-12-Norstat.html) | Norstat | 44 | 40–52 | 39–54 | 39–54 | 38–56 |
+| [6–12 August 2019](2019-08-12-Norstat.html) | Norstat | 45 | 41–50 | 40–51 | 40–53 | 38–54 |
 | [5–9 August 2019](2019-08-09-KantarTNS.html) | Kantar TNS | 44 | 40–49 | 38–51 | 37–51 | 35–53 |
 | [6–7 August 2019](2019-08-07-Norfakta.html) | Norfakta | 44 | 42–48 | 41–50 | 40–51 | 39–54 |
 | [30 July–5 August 2019](2019-08-05-OpinionPerduco.html) | Opinion Perduco | 40 | 37–45 | 37–46 | 36–47 | 34–49 |
@@ -712,7 +712,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [30 January–5 February 2018](2018-02-05-Norstat.html) | Norstat | 41 | 38–45 | 37–46 | 36–47 | 35–48 |
 | [29 January–5 February 2018](2018-02-05-KantarTNS.html) | Kantar TNS | 43 | 40–46 | 38–48 | 38–49 | 36–50 |
 | [30–31 January 2018](2018-01-31-Norfakta.html) | Norfakta | 43 | 41–47 | 40–48 | 39–49 | 36–52 |
-| [23–28 January 2018](2018-01-28-Norstat.html) | Norstat | 43 | 40–45 | 38–46 | 37–47 | 37–48 |
+| [23–28 January 2018](2018-01-28-Norstat.html) | Norstat | 42 | 39–46 | 38–46 | 37–47 | 36–48 |
 | [22–24 January 2018](2018-01-24-IpsosMMI.html) | Ipsos MMI | 45 | 43–51 | 42–52 | 42–53 | 40–54 |
 | [16–21 January 2018](2018-01-21-Sentio.html) | Sentio | 39 | 38–47 | 37–47 | 36–48 | 36–50 |
 | [9–15 January 2018](2018-01-15-OpinionPerduco.html) | Opinion Perduco | 38 | 35–42 | 34–43 | 33–43 | 31–45 |
