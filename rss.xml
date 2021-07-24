@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Fri, 23 Jul 2021 17:44:38 +0200</pubDate>
+    <pubDate>Sat, 24 Jul 2021 00:17:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 6–7 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-07-07-Norfakta.html#seats</link>
@@ -5096,8 +5096,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-04-08-OpinionPerduco.png"
         length="275250"
         type="image/png"/>
-      <pubDate>Thu, 11 Mar 2021 07:18:14 +0100</pubDate>
-      <dc:date>2021-03-11T07:18:14.780742+01:00</dc:date>
+      <pubDate>Sat, 24 Jul 2021 00:17:01 +0200</pubDate>
+      <dc:date>2021-07-24T00:17:01.467538+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse, 2–4 April 2019 – Voting Intentions</title>
@@ -5440,14 +5440,34 @@
       <dc:date>2021-06-30T22:08:06.551994+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norfakta, 5–6 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-02-06-Norfakta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 1–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–17 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 47–61 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 19–28 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–8 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–10 seats&lt;/li&gt;&lt;li&gt;Høyre: 36–48 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 15–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-02-06-Norfakta-seats.png"
+        length="231604"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jul 2021 23:57:21 +0200</pubDate>
+      <dc:date>2021-07-23T23:57:21.626256+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta, 5–6 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2019-02-06-Norfakta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-02-06-Norfakta-coalitions-seats.png"
+        length="562853"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jul 2021 23:57:21 +0200</pubDate>
+      <dc:date>2021-07-23T23:57:21.626256+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norfakta, 5–6 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2019-02-06-Norfakta.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rødt: 2.8–5.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.5–9.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.3–4.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 26.2–32.6%&lt;/li&gt;&lt;li&gt;Senterpartiet: 10.6–15.3%&lt;/li&gt;&lt;li&gt;Venstre: 2.3–4.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.9–5.7%&lt;/li&gt;&lt;li&gt;Høyre: 20.1–26.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 8.9–13.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2019-02-06-Norfakta.png"
         length="277285"
         type="image/png"/>
-      <pubDate>Sat, 13 Mar 2021 12:18:36 +0100</pubDate>
-      <dc:date>2021-03-13T12:18:36.80525+01:00</dc:date>
+      <pubDate>Fri, 23 Jul 2021 23:57:21 +0200</pubDate>
+      <dc:date>2021-07-23T23:57:21.626256+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse, 31 January–4 February 2019 – Seat Projections for the Parties</title>
@@ -8249,6 +8269,6 @@
       <pubDate>Thu, 13 May 2021 16:49:21 +0200</pubDate>
       <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
     </item>
-    <dc:date>2021-07-23T17:44:38.519822+02:00</dc:date>
+    <dc:date>2021-07-24T00:17:01.467538+02:00</dc:date>
   </channel>
 </rss>
