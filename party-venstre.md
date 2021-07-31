@@ -10,7 +10,8 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.1–4.1% | 1.9–4.5% | 1.7–4.9% | 1.4–5.5% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.5–4.5% | 2.2–4.9% | 2.1–5.2% | 1.8–5.8% |
+| [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 3.6% | 2.9–4.7% | 2.7–5.0% | 2.5–5.3% | 2.2–5.8% |
 | [6–7 July 2021](2021-07-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 4.0% | 3.2–5.1% | 3.0–5.4% | 2.9–5.7% | 2.5–6.2% |
 | [28 June–2 July 2021](2021-07-02-KantarTNS.html) | Kantar TNS <br> TV2 | 2.7% | 2.2–3.6% | 2.0–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [28–30 June 2021](2021-06-30-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
@@ -368,13 +369,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.1% | 100% |  |
-| 1.5–2.5% | 27% | 98.9% |  |
-| 2.5–3.5% | 48% | 72% | Median |
-| 3.5–4.5% | 19% | 24% | Last Result |
-| 4.5–5.5% | 4% | 5% |  |
-| 5.5–6.5% | 0.5% | 0.5% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 13% | 99.9% |  |
+| 2.5–3.5% | 46% | 87% | Median |
+| 3.5–4.5% | 32% | 41% | Last Result |
+| 4.5–5.5% | 8% | 9% |  |
+| 5.5–6.5% | 0.9% | 0.9% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -386,7 +386,8 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–6 | 1–8 | 0–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 2 | 2–8 | 2–8 | 1–9 | 0–10 |
+| [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 2 | 2–8 | 2–9 | 2–9 | 1–10 |
 | [6–7 July 2021](2021-07-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 7 | 2–9 | 2–10 | 2–10 | 2–11 |
 | [28 June–2 July 2021](2021-07-02-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–2 | 1–2 | 1–3 | 0–7 |
 | [28–30 June 2021](2021-06-30-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 2 | 2–6 | 2–7 | 2–7 | 1–8 |
@@ -496,7 +497,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [19–25 May 2020](2020-05-25-Norstat.html) | Norstat <br> Aftenposten and NRK | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [12–16 May 2020](2020-05-16-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 2–7 | 2–8 | 2–8 | 1–9 |
 | [5–10 May 2020](2020-05-10-OpinionPerduco.html) | Opinion Perduco | 2 | 1–2 | 1–2 | 0–2 | 0–8 |
-| [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–7 | 1–7 | 1–8 | 1–9 |
+| [5–6 May 2020](2020-05-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 2–7 | 1–8 | 1–8 | 1–9 |
 | [30 April–5 May 2020](2020-05-05-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 2 | 1–7 | 1–7 | 1–8 |
 | [27 April–4 May 2020](2020-05-04-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 1–7 | 1–8 | 1–8 | 1–8 |
 | [27–29 April 2020](2020-04-29-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2–7 | 2–8 | 1–8 | 1–9 |
@@ -593,7 +594,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [16 April 2019](2019-04-16-Sentio.html) | Sentio | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | [2–8 April 2019](2019-04-08-OpinionPerduco.html) | Opinion Perduco | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | [2–4 April 2019](2019-04-04-ResponsAnalyse.html) | Respons Analyse | 8 | 2–9 | 2–9 | 2–10 | 2–11 |
-| [2–3 April 2019](2019-04-03-Norfakta.html) | Norfakta | 2 | 2 | 2–3 | 1–8 | 1–8 |
+| [2–3 April 2019](2019-04-03-Norfakta.html) | Norfakta | 2 | 2 | 1–3 | 1–8 | 1–8 |
 | [26 March–1 April 2019](2019-04-01-Norstat.html) | Norstat | 2 | 1–2 | 1–7 | 1–8 | 0–9 |
 | [25–29 March 2019](2019-03-29-KantarTNS.html) | Kantar TNS | 2 | 2–7 | 2–8 | 1–8 | 1–9 |
 | [27 March 2019](2019-03-27-Norstat.html) | Norstat | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -679,7 +680,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [30 April–7 May 2018](2018-05-07-Norstat.html) | Norstat | 2 | 2–9 | 2–9 | 2–10 | 1–11 |
 | [30 April–2 May 2018](2018-05-02-KantarTNS.html) | Kantar TNS | 2 | 2–9 | 2–9 | 2–9 | 2–10 |
 | [26–30 April 2018](2018-04-30-Norstat.html) | Norstat | 2 | 2–8 | 2–9 | 2–9 | 1–10 |
-| [23–25 April 2018](2018-04-25-IpsosMMI.html) | Ipsos MMI | 7 | 2–8 | 2–9 | 2–9 | 2–10 |
+| [23–25 April 2018](2018-04-25-IpsosMMI.html) | Ipsos MMI | 7 | 2–9 | 2–9 | 2–9 | 2–10 |
 | [17–23 April 2018](2018-04-23-Sentio.html) | Sentio | 2 | 2–8 | 2–9 | 2–10 | 1–10 |
 | [10–16 April 2018](2018-04-16-OpinionPerduco.html) | Opinion Perduco | 7 | 2–9 | 2–9 | 2–10 | 2–11 |
 | [5–9 April 2018](2018-04-09-ResponsAnalyse.html) | Respons Analyse | 7 | 2–9 | 2–9 | 2–10 | 2–10 |
@@ -746,18 +747,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 13% | 96% |  |
-| 2 | 69% | 83% | Median |
-| 3 | 2% | 14% |  |
-| 4 | 0.1% | 12% |  |
-| 5 | 0% | 12% |  |
-| 6 | 3% | 12% |  |
-| 7 | 4% | 9% |  |
-| 8 | 2% | 5% | Last Result |
-| 9 | 2% | 3% |  |
-| 10 | 0.7% | 0.8% |  |
-| 11 | 0.1% | 0.1% |  |
+| 0 | 0.5% | 100% |  |
+| 1 | 4% | 99.5% |  |
+| 2 | 69% | 95% | Median |
+| 3 | 5% | 26% |  |
+| 4 | 0.1% | 21% |  |
+| 5 | 0% | 21% |  |
+| 6 | 4% | 21% |  |
+| 7 | 7% | 17% |  |
+| 8 | 6% | 11% | Last Result |
+| 9 | 3% | 5% |  |
+| 10 | 1.1% | 1.4% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
