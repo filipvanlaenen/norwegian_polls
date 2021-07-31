@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Norwegian Parliament</description>
     <pubDate>Sat, 3 Oct 2020 12:45:19 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Norstat for Dagens Næringsliv, 22–28 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Dagens Næringsliv, 22–28 July 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.png" length="290264" type="image/png"/>
+      <pubDate>Sat, 31 Jul 2021 19:44:47 +0200</pubDate>
+      <dc:date>2021-07-31T19:44:47.293443+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 6–7 July 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-07-07-Norfakta.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 6–7 July 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-07-07-Norfakta.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-07-07-Norfakta-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-06-07-OpinionPerduco.png" length="311004" type="image/png"/>
       <pubDate>Sun, 27 Jun 2021 22:42:19 +0200</pubDate>
       <dc:date>2021-06-27T22:42:19.404845+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 31 May–4 June 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 31 May–4 June 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta-seating-plan.png" length="606291" type="image/png"/>
-      <pubDate>Mon, 28 Jun 2021 18:17:19 +0200</pubDate>
-      <dc:date>2021-06-28T18:17:19.73809+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 31 May–4 June 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 31 May–4 June 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta-seats.png" length="251400" type="image/png"/>
-      <pubDate>Mon, 28 Jun 2021 18:17:19 +0200</pubDate>
-      <dc:date>2021-06-28T18:17:19.73809+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 31 May–4 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norfakta for Klassekampen and Nationen, 31 May–4 June 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-06-04-Norfakta.png" length="290192" type="image/png"/>
-      <pubDate>Mon, 28 Jun 2021 18:17:19 +0200</pubDate>
-      <dc:date>2021-06-28T18:17:19.73809+02:00</dc:date>
     </item>
   </channel>
 </rss>
