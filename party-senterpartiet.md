@@ -394,8 +394,8 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 28–38 | 26–39 | 25–40 | 23–42 |
-| [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 28 | 25–31 | 24–32 | 23–33 | 21–34 |
+| N/A | [Poll Average](average.html) | 34 | 27–38 | 26–39 | 25–40 | 23–42 |
+| [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 27 | 24–32 | 24–33 | 23–34 | 21–35 |
 | [6–7 July 2021](2021-07-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 32 | 28–35 | 27–36 | 26–36 | 24–38 |
 | [28 June–2 July 2021](2021-07-02-KantarTNS.html) | Kantar TNS <br> TV2 | 36 | 33–38 | 32–39 | 31–40 | 30–42 |
 | [28–30 June 2021](2021-06-30-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 36 | 35–40 | 35–41 | 34–41 | 33–43 |
@@ -756,22 +756,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0% | 100% | Last Result |
-| 20 | 0.1% | 100% |  |
+| 20 | 0% | 100% |  |
 | 21 | 0.2% | 99.9% |  |
-| 22 | 0.1% | 99.7% |  |
-| 23 | 0.3% | 99.5% |  |
-| 24 | 0.9% | 99.3% |  |
-| 25 | 2% | 98% |  |
-| 26 | 3% | 97% |  |
-| 27 | 4% | 94% |  |
-| 28 | 6% | 90% |  |
+| 22 | 0.2% | 99.8% |  |
+| 23 | 0.5% | 99.5% |  |
+| 24 | 1.2% | 99.0% |  |
+| 25 | 3% | 98% |  |
+| 26 | 2% | 95% |  |
+| 27 | 5% | 93% |  |
+| 28 | 4% | 88% |  |
 | 29 | 4% | 84% |  |
-| 30 | 6% | 80% |  |
-| 31 | 5% | 74% |  |
-| 32 | 6% | 69% |  |
-| 33 | 11% | 63% |  |
-| 34 | 8% | 52% | Median |
-| 35 | 10% | 44% |  |
+| 30 | 5% | 80% |  |
+| 31 | 5% | 75% |  |
+| 32 | 6% | 70% |  |
+| 33 | 11% | 64% |  |
+| 34 | 8% | 53% | Median |
+| 35 | 11% | 44% |  |
 | 36 | 14% | 34% |  |
 | 37 | 8% | 19% |  |
 | 38 | 5% | 11% |  |

@@ -395,8 +395,8 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44 | 40–49 | 39–51 | 39–53 | 36–56 |
-| [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 48 | 45–53 | 44–55 | 43–56 | 42–58 |
+| N/A | [Poll Average](average.html) | 44 | 40–50 | 39–52 | 39–53 | 36–56 |
+| [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 49 | 45–54 | 44–55 | 43–56 | 42–58 |
 | [6–7 July 2021](2021-07-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 43 | 40–46 | 39–47 | 39–49 | 37–52 |
 | [28 June–2 July 2021](2021-07-02-KantarTNS.html) | Kantar TNS <br> TV2 | 42 | 39–44 | 38–44 | 37–45 | 35–47 |
 | [28–30 June 2021](2021-06-30-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 45 | 42–48 | 41–49 | 40–50 | 39–52 |
@@ -765,22 +765,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 5% | 94% |  |
 | 41 | 6% | 89% |  |
 | 42 | 9% | 84% |  |
-| 43 | 11% | 75% |  |
-| 44 | 23% | 64% | Median |
-| 45 | 13% | 41% |  |
-| 46 | 6% | 28% |  |
-| 47 | 6% | 22% |  |
-| 48 | 4% | 16% |  |
-| 49 | 3% | 12% | Last Result |
-| 50 | 3% | 9% |  |
-| 51 | 2% | 6% |  |
-| 52 | 1.2% | 4% |  |
-| 53 | 0.8% | 3% |  |
-| 54 | 0.5% | 2% |  |
-| 55 | 0.8% | 2% |  |
-| 56 | 0.3% | 0.7% |  |
+| 43 | 10% | 74% |  |
+| 44 | 24% | 64% | Median |
+| 45 | 11% | 41% |  |
+| 46 | 7% | 29% |  |
+| 47 | 5% | 23% |  |
+| 48 | 3% | 18% |  |
+| 49 | 4% | 15% | Last Result |
+| 50 | 4% | 11% |  |
+| 51 | 2% | 7% |  |
+| 52 | 2% | 5% |  |
+| 53 | 0.9% | 3% |  |
+| 54 | 1.0% | 2% |  |
+| 55 | 0.5% | 1.1% |  |
+| 56 | 0.3% | 0.6% |  |
 | 57 | 0.2% | 0.3% |  |
-| 58 | 0.1% | 0.1% |  |
+| 58 | 0% | 0.1% |  |
 | 59 | 0% | 0.1% |  |
 | 60 | 0% | 0% |  |
 
