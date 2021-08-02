@@ -586,7 +586,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [27–29 May 2019](2019-05-29-IpsosMMI.html) | Ipsos MMI | 9 | 7–10 | 6–11 | 2–12 | 2–13 |
 | [21–27 May 2019](2019-05-27-Norstat.html) | Norstat | 8 | 2–10 | 2–10 | 2–10 | 2–11 |
 | [14–18 May 2019](2019-05-18-Sentio.html) | Sentio | 12 | 10–13 | 9–14 | 9–14 | 8–16 |
-| [7–13 May 2019](2019-05-13-OpinionPerduco.html) | Opinion Perduco | 10 | 8–11 | 8–11 | 2–11 | 2–13 |
+| [7–13 May 2019](2019-05-13-OpinionPerduco.html) | Opinion Perduco | 10 | 8–11 | 7–12 | 2–12 | 2–13 |
 | [7–8 May 2019](2019-05-08-Norfakta.html) | Norfakta | 9 | 7–11 | 2–11 | 2–12 | 2–13 |
 | [30 April–6 May 2019](2019-05-06-Norstat.html) | Norstat | 9 | 7–11 | 2–11 | 2–12 | 2–13 |
 | [29 April–3 May 2019](2019-05-03-KantarTNS.html) | Kantar TNS | 9 | 7–11 | 7–12 | 2–13 | 2–15 |
@@ -617,7 +617,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [28 January–2 February 2019](2019-02-02-KantarTNS.html) | Kantar TNS | 11 | 9–13 | 9–14 | 8–14 | 7–16 |
 | [22–28 January 2019](2019-01-28-Norstat.html) | Norstat | 8 | 2–10 | 2–11 | 2–11 | 1–12 |
 | [21–23 January 2019](2019-01-23-IpsosMMI.html) | Ipsos MMI | 8 | 2–9 | 2–10 | 2–10 | 1–11 |
-| [15–21 January 2019](2019-01-21-Sentio.html) | Sentio | 2 | 1–6 | 1–8 | 1–8 | 1–9 |
+| [15–21 January 2019](2019-01-21-Sentio.html) | Sentio | 2 | 1–7 | 1–8 | 1–8 | 1–9 |
 | [8–14 January 2019](2019-01-14-OpinionPerduco.html) | Opinion Perduco | 10 | 8–13 | 8–13 | 2–14 | 2–15 |
 | [3–10 January 2019](2019-01-10-KantarTNS.html) | Kantar TNS | 8 | 7–10 | 2–11 | 2–11 | 1–13 |
 | [8–9 January 2019](2019-01-09-Norfakta.html) | Norfakta | 2 | 2–9 | 2–9 | 2–9 | 1–10 |
@@ -728,7 +728,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | [7–13 November 2017](2017-11-13-Sentio.html) | Sentio | 1 | 1–2 | 1–2 | 1–7 | 1–8 |
 | [6–10 November 2017](2017-11-10-KantarTNS.html) | Kantar TNS | 2 | 2–8 | 1–9 | 1–9 | 1–10 |
 | [7–8 November 2017](2017-11-08-Norfakta.html) | Norfakta | 2 | 1–7 | 1–8 | 1–8 | 1–10 |
-| [31 October–6 November 2017](2017-11-06-OpinionPerduco.html) | Opinion Perduco | 2 | 1–2 | 1–7 | 1–7 | 1–8 |
+| [31 October–6 November 2017](2017-11-06-OpinionPerduco.html) | Opinion Perduco | 2 | 1–2 | 1–2 | 1–7 | 1–8 |
 | [25–31 October 2017](2017-10-31-Norstat.html) | Norstat | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–25 October 2017](2017-10-25-IpsosMMI.html) | Ipsos MMI | 2 | 1–8 | 1–8 | 1–9 | 1–9 |
 | [17–23 October 2017](2017-10-23-Norstat.html) | Norstat | 2 | 1–2 | 1–6 | 1–7 | 1–9 |

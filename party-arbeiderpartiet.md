@@ -593,7 +593,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [27–29 May 2019](2019-05-29-IpsosMMI.html) | Ipsos MMI | 49 | 45–54 | 44–55 | 43–56 | 41–58 |
 | [21–27 May 2019](2019-05-27-Norstat.html) | Norstat | 43 | 40–47 | 40–49 | 39–51 | 38–53 |
 | [14–18 May 2019](2019-05-18-Sentio.html) | Sentio | 42 | 39–45 | 38–47 | 37–48 | 36–48 |
-| [7–13 May 2019](2019-05-13-OpinionPerduco.html) | Opinion Perduco | 50 | 46–53 | 45–53 | 43–55 | 42–56 |
+| [7–13 May 2019](2019-05-13-OpinionPerduco.html) | Opinion Perduco | 48 | 45–52 | 44–53 | 43–54 | 42–56 |
 | [7–8 May 2019](2019-05-08-Norfakta.html) | Norfakta | 46 | 43–50 | 42–51 | 41–52 | 40–54 |
 | [30 April–6 May 2019](2019-05-06-Norstat.html) | Norstat | 49 | 45–52 | 44–53 | 43–55 | 42–56 |
 | [29 April–3 May 2019](2019-05-03-KantarTNS.html) | Kantar TNS | 46 | 43–51 | 42–53 | 41–53 | 40–54 |
@@ -624,7 +624,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [28 January–2 February 2019](2019-02-02-KantarTNS.html) | Kantar TNS | 48 | 44–53 | 43–54 | 42–54 | 41–56 |
 | [22–28 January 2019](2019-01-28-Norstat.html) | Norstat | 54 | 48–58 | 47–59 | 46–60 | 44–62 |
 | [21–23 January 2019](2019-01-23-IpsosMMI.html) | Ipsos MMI | 55 | 52–59 | 51–59 | 50–60 | 47–63 |
-| [15–21 January 2019](2019-01-21-Sentio.html) | Sentio | 49 | 44–52 | 43–54 | 43–55 | 40–58 |
+| [15–21 January 2019](2019-01-21-Sentio.html) | Sentio | 48 | 43–53 | 43–54 | 42–55 | 40–59 |
 | [8–14 January 2019](2019-01-14-OpinionPerduco.html) | Opinion Perduco | 52 | 48–56 | 46–58 | 46–59 | 43–61 |
 | [3–10 January 2019](2019-01-10-KantarTNS.html) | Kantar TNS | 51 | 47–54 | 46–54 | 44–57 | 43–59 |
 | [8–9 January 2019](2019-01-09-Norfakta.html) | Norfakta | 51 | 48–55 | 46–55 | 45–56 | 44–59 |
@@ -735,7 +735,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [7–13 November 2017](2017-11-13-Sentio.html) | Sentio | 47 | 44–51 | 44–52 | 42–52 | 41–55 |
 | [6–10 November 2017](2017-11-10-KantarTNS.html) | Kantar TNS | 46 | 42–50 | 42–51 | 41–52 | 39–54 |
 | [7–8 November 2017](2017-11-08-Norfakta.html) | Norfakta | 49 | 46–53 | 44–53 | 43–55 | 42–57 |
-| [31 October–6 November 2017](2017-11-06-OpinionPerduco.html) | Opinion Perduco | 46 | 43–49 | 41–49 | 41–50 | 39–50 |
+| [31 October–6 November 2017](2017-11-06-OpinionPerduco.html) | Opinion Perduco | 45 | 42–49 | 41–49 | 41–50 | 39–54 |
 | [25–31 October 2017](2017-10-31-Norstat.html) | Norstat | 47 | 44–50 | 43–51 | 42–52 | 41–54 |
 | [23–25 October 2017](2017-10-25-IpsosMMI.html) | Ipsos MMI | 51 | 47–55 | 46–56 | 45–57 | 43–59 |
 | [17–23 October 2017](2017-10-23-Norstat.html) | Norstat | 48 | 45–52 | 43–53 | 43–55 | 41–56 |
