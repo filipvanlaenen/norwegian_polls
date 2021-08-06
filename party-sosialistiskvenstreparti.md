@@ -617,7 +617,7 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 | [29 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 14 | 12–16 | 11–17 | 11–18 | 10–20 |
 | [28 January–2 February 2019](2019-02-02-KantarTNS.html) | Kantar TNS | 16 | 14–18 | 13–19 | 12–20 | 11–21 |
 | [22–28 January 2019](2019-01-28-Norstat.html) | Norstat | 13 | 11–15 | 10–17 | 10–17 | 9–19 |
-| [21–23 January 2019](2019-01-23-IpsosMMI.html) | Ipsos MMI | 15 | 12–17 | 12–18 | 11–19 | 11–20 |
+| [21–23 January 2019](2019-01-23-IpsosMMI.html) | Ipsos MMI | 17 | 15–17 | 14–19 | 14–19 | 12–19 |
 | [15–21 January 2019](2019-01-21-Sentio.html) | Sentio | 13 | 10–15 | 10–16 | 9–17 | 8–18 |
 | [8–14 January 2019](2019-01-14-OpinionPerduco.html) | Opinion Perduco | 14 | 12–17 | 11–18 | 11–18 | 10–20 |
 | [3–10 January 2019](2019-01-10-KantarTNS.html) | Kantar TNS | 13 | 12–15 | 10–16 | 10–17 | 9–19 |
@@ -738,7 +738,7 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 | [2–6 October 2017](2017-10-06-KantarTNS.html) | Kantar TNS | 11 | 10–14 | 9–14 | 9–15 | 8–16 |
 | [3–4 October 2017](2017-10-04-Norfakta.html) | Norfakta | 12 | 10–14 | 10–15 | 9–15 | 8–16 |
 | [27 September–1 October 2017](2017-10-01-Norstat.html) | Norstat | 14 | 12–16 | 11–17 | 11–17 | 10–18 |
-| [25–27 September 2017](2017-09-27-IpsosMMI.html) | Ipsos MMI | 13 | 11–15 | 10–16 | 10–16 | 10–18 |
+| [25–27 September 2017](2017-09-27-IpsosMMI.html) | Ipsos MMI | 13 | 11–15 | 11–16 | 10–17 | 10–18 |
 | [19–25 September 2017](2017-09-25-Norstat.html) | Norstat | 14 | 11–15 | 11–16 | 11–17 | 10–18 |
 | [12–18 September 2017](2017-09-18-Sentio.html) | Sentio | 12 | 10–14 | 9–14 | 9–15 | 8–16 |
 
