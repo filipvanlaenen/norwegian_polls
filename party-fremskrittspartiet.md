@@ -653,7 +653,7 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 | [24–29 September 2018](2018-09-29-Norstat.html) | Norstat | 25 | 23–28 | 22–29 | 21–30 | 20–31 |
 | [24–28 September 2018](2018-09-28-KantarTNS.html) | Kantar TNS | 23 | 19–26 | 19–26 | 19–28 | 17–30 |
 | [24–26 September 2018](2018-09-26-IpsosMMI.html) | Ipsos MMI | 27 | 24–29 | 24–30 | 23–31 | 21–33 |
-| [18–24 September 2018](2018-09-24-Norstat.html) | Norstat | 28 | 25–33 | 25–34 | 24–35 | 22–36 |
+| [18–24 September 2018](2018-09-24-Norstat.html) | Norstat | 29 | 26–32 | 25–33 | 25–34 | 23–35 |
 | [11–17 September 2018](2018-09-17-Sentio.html) | Sentio | 21 | 18–25 | 17–25 | 17–26 | 15–28 |
 | [6–10 September 2018](2018-09-10-ResponsAnalyse.html) | Respons Analyse | 26 | 23–28 | 22–29 | 21–30 | 20–31 |
 | [4–10 September 2018](2018-09-10-OpinionPerduco.html) | Opinion Perduco | 25 | 21–28 | 20–29 | 20–29 | 18–31 |
