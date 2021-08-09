@@ -681,12 +681,12 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [28 May–1 June 2018](2018-06-01-KantarTNS.html) | Kantar TNS | 19 | 17–23 | 17–23 | 16–24 | 15–26 |
 | [28–30 May 2018](2018-05-30-IpsosMMI.html) | Ipsos MMI | 20 | 18–22 | 17–23 | 17–24 | 16–25 |
 | [22–28 May 2018](2018-05-28-Norstat.html) | Norstat | 22 | 19–24 | 18–25 | 17–26 | 16–27 |
-| [14–22 May 2018](2018-05-22-Sentio.html) | Sentio | 21 | 18–23 | 17–23 | 16–24 | 15–26 |
+| [14–22 May 2018](2018-05-22-Sentio.html) | Sentio | 20 | 17–23 | 16–24 | 16–24 | 14–26 |
 | [8–14 May 2018](2018-05-14-OpinionPerduco.html) | Opinion Perduco | 18 | 16–21 | 15–22 | 14–23 | 13–25 |
 | [8–9 May 2018](2018-05-09-Norfakta.html) | Norfakta | 19 | 17–22 | 17–22 | 16–22 | 15–25 |
 | [3–7 May 2018](2018-05-07-ResponsAnalyse.html) | Respons Analyse | 18 | 15–20 | 15–21 | 14–21 | 13–23 |
 | [30 April–7 May 2018](2018-05-07-Norstat.html) | Norstat | 20 | 18–23 | 17–24 | 16–24 | 15–26 |
-| [30 April–2 May 2018](2018-05-02-KantarTNS.html) | Kantar TNS | 19 | 16–20 | 15–22 | 15–23 | 14–23 |
+| [30 April–2 May 2018](2018-05-02-KantarTNS.html) | Kantar TNS | 18 | 16–21 | 15–22 | 15–23 | 13–24 |
 | [26–30 April 2018](2018-04-30-Norstat.html) | Norstat | 20 | 18–23 | 17–24 | 17–24 | 15–25 |
 | [23–25 April 2018](2018-04-25-IpsosMMI.html) | Ipsos MMI | 21 | 19–24 | 18–24 | 17–25 | 17–27 |
 | [17–23 April 2018](2018-04-23-Sentio.html) | Sentio | 21 | 18–25 | 18–26 | 17–26 | 16–28 |
@@ -701,7 +701,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [13–19 March 2018](2018-03-19-Sentio.html) | Sentio | 21 | 18–24 | 18–25 | 17–26 | 16–28 |
 | [15–16 March 2018](2018-03-16-ResponsAnalyse.html) | Respons Analyse | 20 | 18–23 | 17–24 | 17–24 | 15–25 |
 | [6–12 March 2018](2018-03-12-OpinionPerduco.html) | Opinion Perduco | 19 | 17–22 | 16–23 | 15–23 | 14–25 |
-| [6–7 March 2018](2018-03-07-Norfakta.html) | Norfakta | 22 | 20–26 | 20–26 | 20–27 | 17–28 |
+| [6–7 March 2018](2018-03-07-Norfakta.html) | Norfakta | 23 | 20–26 | 20–27 | 19–28 | 18–30 |
 | [1–5 March 2018](2018-03-05-ResponsAnalyse.html) | Respons Analyse | 19 | 18–23 | 17–24 | 17–25 | 17–27 |
 | [27 February–5 March 2018](2018-03-05-Norstat.html) | Norstat | 23 | 20–25 | 19–26 | 19–26 | 18–28 |
 | [26 February–3 March 2018](2018-03-03-KantarTNS.html) | Kantar TNS | 21 | 18–24 | 18–24 | 18–25 | 16–28 |

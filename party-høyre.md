@@ -678,12 +678,12 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [28 May–1 June 2018](2018-06-01-KantarTNS.html) | Kantar TNS | 44 | 39–47 | 38–48 | 37–49 | 36–50 |
 | [28–30 May 2018](2018-05-30-IpsosMMI.html) | Ipsos MMI | 49 | 46–53 | 44–53 | 44–54 | 42–56 |
 | [22–28 May 2018](2018-05-28-Norstat.html) | Norstat | 48 | 45–52 | 44–53 | 43–54 | 41–55 |
-| [14–22 May 2018](2018-05-22-Sentio.html) | Sentio | 50 | 47–55 | 46–58 | 45–59 | 44–61 |
+| [14–22 May 2018](2018-05-22-Sentio.html) | Sentio | 52 | 48–56 | 47–58 | 46–60 | 44–61 |
 | [8–14 May 2018](2018-05-14-OpinionPerduco.html) | Opinion Perduco | 46 | 43–51 | 42–53 | 41–53 | 39–56 |
 | [8–9 May 2018](2018-05-09-Norfakta.html) | Norfakta | 48 | 45–53 | 44–53 | 43–54 | 41–57 |
 | [3–7 May 2018](2018-05-07-ResponsAnalyse.html) | Respons Analyse | 48 | 45–52 | 43–53 | 42–54 | 41–56 |
 | [30 April–7 May 2018](2018-05-07-Norstat.html) | Norstat | 47 | 43–50 | 42–52 | 40–53 | 39–55 |
-| [30 April–2 May 2018](2018-05-02-KantarTNS.html) | Kantar TNS | 49 | 47–55 | 45–55 | 44–56 | 42–58 |
+| [30 April–2 May 2018](2018-05-02-KantarTNS.html) | Kantar TNS | 50 | 46–53 | 45–55 | 44–56 | 42–58 |
 | [26–30 April 2018](2018-04-30-Norstat.html) | Norstat | 48 | 45–53 | 43–53 | 43–54 | 41–56 |
 | [23–25 April 2018](2018-04-25-IpsosMMI.html) | Ipsos MMI | 45 | 42–48 | 41–49 | 39–50 | 37–52 |
 | [17–23 April 2018](2018-04-23-Sentio.html) | Sentio | 45 | 42–51 | 40–51 | 40–52 | 37–53 |
@@ -698,7 +698,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [13–19 March 2018](2018-03-19-Sentio.html) | Sentio | 48 | 44–52 | 43–53 | 42–55 | 40–57 |
 | [15–16 March 2018](2018-03-16-ResponsAnalyse.html) | Respons Analyse | 49 | 46–54 | 45–54 | 43–57 | 42–57 |
 | [6–12 March 2018](2018-03-12-OpinionPerduco.html) | Opinion Perduco | 49 | 44–52 | 43–54 | 42–54 | 40–57 |
-| [6–7 March 2018](2018-03-07-Norfakta.html) | Norfakta | 51 | 47–55 | 47–56 | 46–58 | 44–59 |
+| [6–7 March 2018](2018-03-07-Norfakta.html) | Norfakta | 51 | 47–55 | 46–56 | 46–57 | 44–59 |
 | [1–5 March 2018](2018-03-05-ResponsAnalyse.html) | Respons Analyse | 50 | 47–53 | 47–54 | 46–55 | 45–57 |
 | [27 February–5 March 2018](2018-03-05-Norstat.html) | Norstat | 50 | 46–54 | 45–54 | 44–56 | 43–57 |
 | [26 February–3 March 2018](2018-03-03-KantarTNS.html) | Kantar TNS | 53 | 49–57 | 48–57 | 47–58 | 45–59 |
