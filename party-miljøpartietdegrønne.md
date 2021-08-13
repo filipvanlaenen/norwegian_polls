@@ -10,7 +10,12 @@ Last result: **3.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.3–5.6% | 3.1–5.9% | 2.9–6.2% | 2.5–6.7% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.5–6.3% | 3.1–6.7% | 2.9–7.1% | 2.4–7.8% |
+| [5–11 August 2021](2021-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
+| [6–11 August 2021](2021-08-11-Norstat.html) | Norstat <br> Dagens Næringsliv | 5.9% | 5.0–7.2% | 4.7–7.5% | 4.5–7.8% | 4.1–8.5% |
+| [3–8 August 2021](2021-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.5% | 2.8–4.6% | 2.6–4.9% | 2.4–5.2% | 2.1–5.7% |
+| [2–6 August 2021](2021-08-06-KantarTNS.html) | Kantar TNS <br> TV2 | 4.5% | 3.7–5.5% | 3.6–5.8% | 3.4–6.0% | 3.0–6.5% |
+| [3–4 August 2021](2021-08-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 4.5% | 3.7–5.7% | 3.5–6.0% | 3.3–6.2% | 2.9–6.8% |
 | [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 4.1% | 3.3–5.2% | 3.0–5.5% | 2.9–5.7% | 2.5–6.3% |
 | [6–7 July 2021](2021-07-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.9% | 3.1–5.0% | 2.9–5.2% | 2.7–5.5% | 2.4–6.1% |
 | [28 June–2 July 2021](2021-07-02-KantarTNS.html) | Kantar TNS <br> TV2 | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
@@ -370,13 +375,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.5% | 100% |  |
-| 2.5–3.5% | 16% | 99.5% | Last Result |
-| 3.5–4.5% | 41% | 83% | Median |
-| 4.5–5.5% | 32% | 42% |  |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 0.8% | 0.9% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.8% | 100% |  |
+| 2.5–3.5% | 11% | 99.2% | Last Result |
+| 3.5–4.5% | 30% | 89% |  |
+| 4.5–5.5% | 34% | 59% | Median |
+| 5.5–6.5% | 18% | 25% |  |
+| 6.5–7.5% | 5% | 6% |  |
+| 7.5–8.5% | 0.9% | 1.0% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -387,7 +394,12 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 2–9 | 2–10 | 1–10 | 1–11 |
+| N/A | [Poll Average](average.html) | 8 | 2–11 | 2–12 | 1–13 | 1–13 |
+| [5–11 August 2021](2021-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 10 | 7–11 | 2–11 | 2–11 | 2–13 |
+| [6–11 August 2021](2021-08-11-Norstat.html) | Norstat <br> Dagens Næringsliv | 11 | 8–13 | 8–13 | 7–13 | 7–15 |
+| [3–8 August 2021](2021-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–8 | 1–8 | 1–8 | 1–10 |
+| [2–6 August 2021](2021-08-06-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 2–8 | 2–9 | 2–9 | 2–10 |
+| [3–4 August 2021](2021-08-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 7 | 2–10 | 2–10 | 2–10 | 1–12 |
 | [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 7 | 2–9 | 1–10 | 1–10 | 1–11 |
 | [6–7 July 2021](2021-07-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3 | 2–9 | 1–9 | 1–9 | 1–11 |
 | [28 June–2 July 2021](2021-07-02-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 7–10 | 3–11 | 2–11 | 2–12 |
@@ -749,17 +761,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% | Last Result |
-| 2 | 22% | 96% |  |
-| 3 | 5% | 73% |  |
-| 4 | 2% | 68% |  |
-| 5 | 0% | 66% |  |
-| 6 | 3% | 66% |  |
-| 7 | 20% | 64% | Median |
-| 8 | 28% | 44% |  |
-| 9 | 11% | 16% |  |
-| 10 | 4% | 6% |  |
-| 11 | 1.4% | 2% |  |
-| 12 | 0.2% | 0.3% |  |
-| 13 | 0% | 0% |  |
+| 2 | 16% | 96% |  |
+| 3 | 4% | 80% |  |
+| 4 | 2% | 76% |  |
+| 5 | 0% | 75% |  |
+| 6 | 3% | 75% |  |
+| 7 | 19% | 72% |  |
+| 8 | 13% | 53% | Median |
+| 9 | 8% | 40% |  |
+| 10 | 14% | 32% |  |
+| 11 | 9% | 18% |  |
+| 12 | 6% | 9% |  |
+| 13 | 2% | 3% |  |
+| 14 | 0.3% | 0.5% |  |
+| 15 | 0.1% | 0.2% |  |
+| 16 | 0% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 

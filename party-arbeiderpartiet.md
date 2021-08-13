@@ -10,7 +10,12 @@ Last result: **27.4%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.9% | 21.7–27.1% | 21.2–28.1% | 20.7–28.8% | 19.8–30.2% |
+| N/A | [Poll Average](average.html) | 23.8% | 21.7–25.9% | 21.1–26.5% | 20.6–27.0% | 19.6–28.0% |
+| [5–11 August 2021](2021-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 24.8% | 23.1–26.6% | 22.6–27.1% | 22.2–27.6% | 21.4–28.5% |
+| [6–11 August 2021](2021-08-11-Norstat.html) | Norstat <br> Dagens Næringsliv | 24.1% | 22.2–26.1% | 21.6–26.7% | 21.2–27.2% | 20.3–28.2% |
+| [3–8 August 2021](2021-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 22.6% | 20.7–24.7% | 20.2–25.3% | 19.8–25.8% | 18.9–26.8% |
+| [2–6 August 2021](2021-08-06-KantarTNS.html) | Kantar TNS <br> TV2 | 23.5% | 21.9–25.3% | 21.4–25.9% | 21.0–26.3% | 20.2–27.2% |
+| [3–4 August 2021](2021-08-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 23.7% | 21.8–25.8% | 21.3–26.4% | 20.9–26.9% | 20.0–27.9% |
 | [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 26.9% | 24.9–29.1% | 24.3–29.7% | 23.8–30.2% | 22.9–31.3% |
 | [6–7 July 2021](2021-07-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 23.8% | 21.9–25.8% | 21.3–26.4% | 20.9–26.9% | 20.0–27.9% |
 | [28 June–2 July 2021](2021-07-02-KantarTNS.html) | Kantar TNS <br> TV2 | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.1–26.0% |
@@ -370,21 +375,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.3% | 100% |  |
-| 19.5–20.5% | 2% | 99.7% |  |
+| 18.5–19.5% | 0.4% | 99.9% |  |
+| 19.5–20.5% | 2% | 99.6% |  |
 | 20.5–21.5% | 6% | 98% |  |
 | 21.5–22.5% | 14% | 92% |  |
-| 22.5–23.5% | 20% | 78% |  |
-| 23.5–24.5% | 20% | 58% | Median |
-| 24.5–25.5% | 15% | 38% |  |
-| 25.5–26.5% | 9% | 23% |  |
-| 26.5–27.5% | 6% | 14% | Last Result |
-| 27.5–28.5% | 4% | 7% |  |
-| 28.5–29.5% | 2% | 3% |  |
-| 29.5–30.5% | 0.8% | 1.2% |  |
-| 30.5–31.5% | 0.2% | 0.3% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 22.5–23.5% | 21% | 78% |  |
+| 23.5–24.5% | 24% | 57% | Median |
+| 24.5–25.5% | 18% | 33% |  |
+| 25.5–26.5% | 10% | 14% |  |
+| 26.5–27.5% | 4% | 5% | Last Result |
+| 27.5–28.5% | 0.9% | 1.0% |  |
+| 28.5–29.5% | 0.1% | 0.2% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -395,7 +397,12 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44 | 40–50 | 39–52 | 39–53 | 36–56 |
+| N/A | [Poll Average](average.html) | 44 | 41–48 | 40–50 | 39–50 | 36–54 |
+| [5–11 August 2021](2021-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 43 | 42–47 | 41–48 | 41–50 | 40–53 |
+| [6–11 August 2021](2021-08-11-Norstat.html) | Norstat <br> Dagens Næringsliv | 45 | 42–50 | 40–50 | 40–53 | 37–54 |
+| [3–8 August 2021](2021-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 44 | 39–47 | 38–49 | 37–50 | 34–50 |
+| [2–6 August 2021](2021-08-06-KantarTNS.html) | Kantar TNS <br> TV2 | 44 | 42–45 | 41–47 | 40–49 | 37–51 |
+| [3–4 August 2021](2021-08-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 43 | 40–46 | 40–49 | 39–49 | 36–50 |
 | [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 49 | 45–54 | 44–55 | 43–56 | 42–58 |
 | [6–7 July 2021](2021-07-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 43 | 40–46 | 39–47 | 39–49 | 37–52 |
 | [28 June–2 July 2021](2021-07-02-KantarTNS.html) | Kantar TNS <br> TV2 | 42 | 39–44 | 38–44 | 37–45 | 35–47 |
@@ -756,32 +763,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 34 | 0% | 100% |  |
-| 35 | 0.1% | 99.9% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0.1% | 99.9% |  |
+| 35 | 0% | 99.8% |  |
 | 36 | 0.4% | 99.8% |  |
-| 37 | 0.4% | 99.5% |  |
-| 38 | 1.5% | 99.0% |  |
-| 39 | 3% | 98% |  |
-| 40 | 5% | 94% |  |
-| 41 | 6% | 89% |  |
-| 42 | 9% | 84% |  |
-| 43 | 10% | 74% |  |
-| 44 | 24% | 64% | Median |
-| 45 | 11% | 41% |  |
-| 46 | 7% | 29% |  |
-| 47 | 5% | 23% |  |
-| 48 | 3% | 18% |  |
-| 49 | 4% | 15% | Last Result |
-| 50 | 4% | 11% |  |
-| 51 | 2% | 7% |  |
-| 52 | 2% | 5% |  |
-| 53 | 0.9% | 3% |  |
-| 54 | 1.0% | 2% |  |
-| 55 | 0.5% | 1.1% |  |
-| 56 | 0.3% | 0.6% |  |
-| 57 | 0.2% | 0.3% |  |
-| 58 | 0% | 0.1% |  |
-| 59 | 0% | 0.1% |  |
-| 60 | 0% | 0% |  |
+| 37 | 0.6% | 99.4% |  |
+| 38 | 0.8% | 98.8% |  |
+| 39 | 2% | 98% |  |
+| 40 | 6% | 96% |  |
+| 41 | 5% | 91% |  |
+| 42 | 8% | 86% |  |
+| 43 | 20% | 78% |  |
+| 44 | 29% | 57% | Median |
+| 45 | 9% | 28% |  |
+| 46 | 3% | 19% |  |
+| 47 | 5% | 16% |  |
+| 48 | 1.3% | 11% |  |
+| 49 | 3% | 10% | Last Result |
+| 50 | 6% | 7% |  |
+| 51 | 0.5% | 2% |  |
+| 52 | 0.2% | 1.1% |  |
+| 53 | 0.3% | 0.9% |  |
+| 54 | 0.5% | 0.6% |  |
+| 55 | 0.1% | 0.1% |  |
+| 56 | 0% | 0% |  |
 
 
