@@ -395,12 +395,12 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 2–11 | 2–12 | 2–14 | 1–15 |
-| [5–11 August 2021](2021-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 7 | 2–10 | 2–10 | 2–10 | 1–11 |
+| N/A | [Poll Average](average.html) | 8 | 2–12 | 2–13 | 2–13 | 1–15 |
+| [5–11 August 2021](2021-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 7 | 2–9 | 2–10 | 2–10 | 2–11 |
 | [6–11 August 2021](2021-08-11-Norstat.html) | Norstat <br> Dagens Næringsliv | 8 | 2–9 | 2–10 | 2–10 | 2–11 |
-| [3–8 August 2021](2021-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 2–8 | 1–8 | 1–9 | 1–10 |
-| [2–6 August 2021](2021-08-06-KantarTNS.html) | Kantar TNS <br> TV2 | 11 | 9–14 | 9–14 | 9–15 | 8–17 |
-| [3–4 August 2021](2021-08-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 10 | 8–11 | 7–12 | 7–13 | 2–14 |
+| [3–8 August 2021](2021-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 2–9 | 1–9 | 1–10 | 1–11 |
+| [2–6 August 2021](2021-08-06-KantarTNS.html) | Kantar TNS <br> TV2 | 12 | 10–14 | 9–14 | 9–15 | 8–16 |
+| [3–4 August 2021](2021-08-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 9 | 8–11 | 7–12 | 7–12 | 2–14 |
 | [22–28 July 2021](2021-07-28-Norstat.html) | Norstat <br> Dagens Næringsliv | 10 | 8–12 | 8–13 | 7–13 | 2–15 |
 | [6–7 July 2021](2021-07-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 11 | 9–13 | 8–13 | 8–14 | 7–15 |
 | [28 June–2 July 2021](2021-07-02-KantarTNS.html) | Kantar TNS <br> TV2 | 9 | 7–11 | 7–11 | 6–12 | 2–13 |
@@ -761,23 +761,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% | Last Result |
-| 2 | 20% | 98% |  |
-| 3 | 0% | 78% |  |
-| 4 | 0% | 78% |  |
-| 5 | 0% | 78% |  |
-| 6 | 2% | 78% |  |
-| 7 | 12% | 77% |  |
-| 8 | 22% | 64% | Median |
-| 9 | 12% | 42% |  |
-| 10 | 9% | 30% |  |
-| 11 | 12% | 21% |  |
-| 12 | 4% | 8% |  |
-| 13 | 1.3% | 4% |  |
-| 14 | 2% | 3% |  |
-| 15 | 0.4% | 0.7% |  |
-| 16 | 0.2% | 0.4% |  |
-| 17 | 0.1% | 0.2% |  |
+| 1 | 1.2% | 100% | Last Result |
+| 2 | 20% | 98.8% |  |
+| 3 | 0.1% | 79% |  |
+| 4 | 0% | 79% |  |
+| 5 | 0% | 79% |  |
+| 6 | 2% | 79% |  |
+| 7 | 13% | 77% |  |
+| 8 | 20% | 65% | Median |
+| 9 | 14% | 44% |  |
+| 10 | 8% | 30% |  |
+| 11 | 8% | 23% |  |
+| 12 | 8% | 14% |  |
+| 13 | 4% | 6% |  |
+| 14 | 1.3% | 2% |  |
+| 15 | 0.7% | 0.9% |  |
+| 16 | 0.1% | 0.2% |  |
+| 17 | 0% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
 
