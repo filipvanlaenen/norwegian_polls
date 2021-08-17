@@ -10,7 +10,8 @@ Last result: **4.2%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.6–4.5% | 2.4–4.8% | 2.2–5.1% | 1.9–5.7% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.6–5.3% | 2.4–5.7% | 2.2–6.0% | 1.9–6.7% |
+| [9–13 August 2021](2021-08-13-KantarTNS.html) | Kantar TNS <br> TV2 | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.2% |
 | [5–11 August 2021](2021-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [6–11 August 2021](2021-08-11-Norstat.html) | Norstat <br> Dagens Næringsliv | 3.2% | 2.5–4.1% | 2.3–4.4% | 2.1–4.6% | 1.9–5.1% |
 | [3–8 August 2021](2021-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.4–6.2% |
@@ -376,11 +377,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 9% | 99.9% |  |
-| 2.5–3.5% | 45% | 91% | Median |
-| 3.5–4.5% | 37% | 46% | Last Result |
-| 4.5–5.5% | 8% | 9% |  |
-| 5.5–6.5% | 0.8% | 0.8% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 2.5–3.5% | 39% | 91% |  |
+| 3.5–4.5% | 30% | 52% | Last Result, Median |
+| 4.5–5.5% | 16% | 22% |  |
+| 5.5–6.5% | 6% | 6% |  |
+| 6.5–7.5% | 0.6% | 0.7% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -391,7 +393,8 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–7 | 1–8 | 0–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 3 | 1–8 | 1–9 | 0–10 | 0–11 |
+| [9–13 August 2021](2021-08-13-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 6–9 | 6–10 | 3–10 | 3–11 |
 | [5–11 August 2021](2021-08-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 1–7 | 1–7 | 1–8 | 0–9 |
 | [6–11 August 2021](2021-08-11-Norstat.html) | Norstat <br> Dagens Næringsliv | 3 | 1–6 | 1–7 | 0–7 | 0–8 |
 | [3–8 August 2021](2021-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3 | 2–9 | 1–9 | 1–10 | 1–11 |
@@ -758,17 +761,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% |  |
-| 1 | 28% | 97% |  |
-| 2 | 10% | 70% |  |
-| 3 | 36% | 60% | Median |
-| 4 | 0% | 24% |  |
-| 5 | 0.2% | 24% |  |
-| 6 | 5% | 24% |  |
-| 7 | 12% | 19% |  |
-| 8 | 5% | 7% | Last Result |
-| 9 | 2% | 3% |  |
-| 10 | 0.7% | 1.0% |  |
-| 11 | 0.3% | 0.3% |  |
-| 12 | 0% | 0% |  |
+| 1 | 27% | 97% |  |
+| 2 | 10% | 71% |  |
+| 3 | 26% | 61% | Median |
+| 4 | 0% | 35% |  |
+| 5 | 0.2% | 35% |  |
+| 6 | 6% | 34% |  |
+| 7 | 12% | 29% |  |
+| 8 | 8% | 17% | Last Result |
+| 9 | 5% | 8% |  |
+| 10 | 2% | 3% |  |
+| 11 | 0.6% | 0.7% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
