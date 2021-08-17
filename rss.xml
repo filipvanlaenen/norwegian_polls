@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sun, 15 Aug 2021 22:59:11 +0200</pubDate>
+    <pubDate>Tue, 17 Aug 2021 19:13:25 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for TV2, 9–13 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-08-13-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.6–11.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 5.0–8.0%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 20.3–25.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 11.6–15.9%&lt;/li&gt;&lt;li&gt;Venstre: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Høyre: 18.7–23.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 6.2–9.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-08-13-KantarTNS.png"
+        length="284882"
+        type="image/png"/>
+      <pubDate>Tue, 17 Aug 2021 19:13:25 +0200</pubDate>
+      <dc:date>2021-08-17T19:13:25.56142+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Respons Analyse for VG, 5–11 August 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-08-11-ResponsAnalyse.html#seats</link>
@@ -9069,6 +9079,6 @@
       <pubDate>Thu, 13 May 2021 16:49:21 +0200</pubDate>
       <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
     </item>
-    <dc:date>2021-08-15T22:59:11.333734+02:00</dc:date>
+    <dc:date>2021-08-17T19:13:25.56142+02:00</dc:date>
   </channel>
 </rss>
