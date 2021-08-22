@@ -297,6 +297,7 @@
 | Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti | 79 | 88 | 89% | 84–90 | 83–92 | 82–94 | 80–95 |
 | Arbeiderpartiet – Senterpartiet – Kristelig Folkeparti | 76 | 81 | 20% | 77–87 | 75–87 | 74–87 | 72–88 |
 | Arbeiderpartiet – Senterpartiet | 68 | 79 | 0.4% | 75–80 | 74–82 | 73–83 | 71–84 |
+| Arbeiderpartiet – Miljøpartiet De Grønne – Rødt – Sosialistisk Venstreparti | 62 | 74 | 0% | 71–78 | 71–79 | 68–80 | 65–82 |
 | Høyre – Fremskrittspartiet – Miljøpartiet De Grønne – Venstre – Kristelig Folkeparti | 89 | 69 | 0% | 66–73 | 65–75 | 64–76 | 62–78 |
 | Høyre – Fremskrittspartiet – Venstre – Kristelig Folkeparti | 88 | 57 | 0% | 54–62 | 53–63 | 53–63 | 51–66 |
 | Høyre – Fremskrittspartiet – Venstre | 80 | 55 | 0% | 53–60 | 52–61 | 51–62 | 49–65 |
@@ -612,6 +613,37 @@
 | 86 | 0% | 0.1% |  |
 | 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0% |  |
+
+### Arbeiderpartiet – Miljøpartiet De Grønne – Rødt – Sosialistisk Venstreparti
+
+![Graph with seats probability mass function not yet produced](2019-11-01-KantarTNS-coalitions-seats-pmf-ap–mdg–r–sv.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 62 | 0% | 100% | Last Result |
+| 63 | 0% | 100% |  |
+| 64 | 0% | 100% |  |
+| 65 | 0.9% | 99.9% |  |
+| 66 | 0.3% | 99.0% |  |
+| 67 | 0.5% | 98.7% |  |
+| 68 | 0.9% | 98% |  |
+| 69 | 0.8% | 97% |  |
+| 70 | 1.4% | 97% |  |
+| 71 | 6% | 95% |  |
+| 72 | 4% | 89% |  |
+| 73 | 21% | 86% |  |
+| 74 | 30% | 65% |  |
+| 75 | 2% | 35% | Median |
+| 76 | 12% | 34% |  |
+| 77 | 3% | 22% |  |
+| 78 | 12% | 19% |  |
+| 79 | 3% | 7% |  |
+| 80 | 2% | 4% |  |
+| 81 | 0.7% | 2% |  |
+| 82 | 0.9% | 1.2% |  |
+| 83 | 0.2% | 0.3% |  |
+| 84 | 0.1% | 0.1% |  |
+| 85 | 0% | 0% | Majority |
 
 ### Høyre – Fremskrittspartiet – Miljøpartiet De Grønne – Venstre – Kristelig Folkeparti
 

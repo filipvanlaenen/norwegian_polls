@@ -554,7 +554,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [20–21 January 2020](2020-01-21-ResponsAnalyse.html) | Respons Analyse <br> VG | 47 | 44–49 | 43–49 | 42–49 | 40–51 |
 | [21 January 2020](2020-01-21-KantarTNS.html) | Kantar TNS <br> TV2 | 44 | 41–49 | 40–50 | 39–53 | 38–54 |
 | [14–18 January 2020](2020-01-18-Sentio.html) | Sentio <br> Amedia and Nettavisen | 44 | 43–49 | 42–50 | 42–50 | 40–53 |
-| [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 47 | 44–49 | 43–49 | 42–50 | 40–52 |
+| [15 January 2020](2020-01-15-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå and Dagsavisen and FriFagbevegelse | 46 | 43–49 | 42–50 | 41–51 | 40–53 |
 | [6–10 January 2020](2020-01-10-KantarTNS.html) | Kantar TNS <br> TV2 | 43 | 40–45 | 39–46 | 38–47 | 36–50 |
 | [7–8 January 2020](2020-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 48 | 45–53 | 44–54 | 43–56 | 42–58 |
 | [6 January 2020](2020-01-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 44 | 40–46 | 39–47 | 39–48 | 37–50 |
@@ -687,7 +687,7 @@ Last result: **49** seats (General Election of 8–9 September 2013)
 | [31 July–6 August 2018](2018-08-06-OpinionPerduco.html) | Opinion Perduco | 52 | 47–55 | 46–56 | 45–57 | 43–58 |
 | [3–4 July 2018](2018-07-04-Norfakta.html) | Norfakta | 43 | 40–46 | 39–48 | 38–49 | 37–51 |
 | [25–27 June 2018](2018-06-27-IpsosMMI.html) | Ipsos MMI | 41 | 38–44 | 37–45 | 36–46 | 35–47 |
-| [19–25 June 2018](2018-06-25-Norstat.html) | Norstat | 39 | 35–42 | 35–42 | 34–43 | 32–45 |
+| [19–25 June 2018](2018-06-25-Norstat.html) | Norstat | 40 | 37–42 | 36–43 | 35–43 | 32–45 |
 | [12–16 June 2018](2018-06-16-Sentio.html) | Sentio | 45 | 42–49 | 41–51 | 40–51 | 39–54 |
 | [5–11 June 2018](2018-06-11-OpinionPerduco.html) | Opinion Perduco | 43 | 40–48 | 40–49 | 39–50 | 37–52 |
 | [5–6 June 2018](2018-06-06-Norfakta.html) | Norfakta | 43 | 40–47 | 39–49 | 38–50 | 37–52 |
