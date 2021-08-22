@@ -570,7 +570,7 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 | [5–6 November 2019](2019-11-06-Norfakta.html) | Norfakta | 12 | 10–15 | 10–15 | 9–16 | 8–17 |
 | [31 October–4 November 2019](2019-11-04-ResponsAnalyse.html) | Respons Analyse | 11 | 9–13 | 8–14 | 8–14 | 8–15 |
 | [29 October–2 November 2019](2019-11-02-Sentio.html) | Sentio | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
-| [28 October–1 November 2019](2019-11-01-KantarTNS.html) | Kantar TNS | 10 | 8–11 | 8–12 | 8–13 | 7–13 |
+| [28 October–1 November 2019](2019-11-01-KantarTNS.html) | Kantar TNS | 10 | 8–11 | 8–12 | 7–13 | 2–14 |
 | [22–28 October 2019](2019-10-28-Norstat.html) | Norstat | 13 | 10–15 | 10–16 | 9–16 | 8–18 |
 | [21–23 October 2019](2019-10-23-IpsosMMI.html) | Ipsos MMI | 11 | 9–13 | 9–14 | 8–15 | 7–15 |
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 14 | 12–16 | 11–17 | 10–17 | 9–18 |
