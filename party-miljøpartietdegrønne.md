@@ -403,7 +403,7 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 2–11 | 2–12 | 1–13 | 1–14 |
-| [22–25 August 2021](2021-08-25-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 7–10 | 7–10 | 6–11 | 2–11 |
+| [22–25 August 2021](2021-08-25-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 7–10 | 6–10 | 3–11 | 2–12 |
 | [16–22 August 2021](2021-08-22-Norstat.html) | Norstat <br> Aftenposten | 9 | 7–11 | 6–12 | 2–12 | 2–13 |
 | [16–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 6–9 | 3–10 | 2–10 | 2–11 |
 | [17–18 August 2021](2021-08-18-Sentio.html) | Sentio <br> Nettavisen | 11 | 10–13 | 9–14 | 9–14 | 8–16 |
@@ -777,12 +777,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% | Last Result |
 | 2 | 12% | 97% |  |
-| 3 | 1.1% | 86% |  |
-| 4 | 0.7% | 85% |  |
+| 3 | 1.2% | 86% |  |
+| 4 | 0.7% | 84% |  |
 | 5 | 0% | 84% |  |
 | 6 | 1.4% | 84% |  |
-| 7 | 12% | 83% |  |
-| 8 | 20% | 71% |  |
+| 7 | 11% | 82% |  |
+| 8 | 21% | 71% |  |
 | 9 | 15% | 50% | Median |
 | 10 | 14% | 35% |  |
 | 11 | 12% | 21% |  |
