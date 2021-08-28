@@ -411,13 +411,13 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 18–35 | 18–37 | 17–38 | 17–41 |
-| [20–25 August 2021](2021-08-25-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 21 | 18–24 | 17–25 | 17–26 | 17–31 |
+| N/A | [Poll Average](average.html) | 23 | 19–35 | 18–37 | 17–38 | 17–41 |
+| [20–25 August 2021](2021-08-25-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 20 | 18–24 | 17–25 | 17–26 | 17–30 |
 | [22–25 August 2021](2021-08-25-KantarTNS.html) | Kantar TNS <br> TV2 | 20 | 18–22 | 17–23 | 17–24 | 15–25 |
-| [23–25 August 2021](2021-08-25-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 22 | 19–26 | 18–28 | 17–28 | 17–29 |
+| [23–25 August 2021](2021-08-25-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 22 | 19–26 | 18–27 | 17–28 | 17–30 |
 | [19–24 August 2021](2021-08-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 21 | 18–25 | 17–27 | 17–27 | 16–31 |
 | [16–22 August 2021](2021-08-22-Norstat.html) | Norstat <br> Aftenposten | 23 | 20–27 | 19–28 | 18–29 | 17–31 |
-| [17–21 August 2021](2021-08-21-Sentio.html) | Sentio <br> Nettavisen | 21 | 21–28 | 20–29 | 20–29 | 18–33 |
+| [17–21 August 2021](2021-08-21-Sentio.html) | Sentio <br> Nettavisen | 25 | 21–28 | 20–29 | 20–31 | 18–32 |
 | [16–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> TV2 | 24 | 20–28 | 19–29 | 18–30 | 18–33 |
 | [13–18 August 2021](2021-08-18-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 20 | 18–21 | 17–22 | 17–24 | 15–26 |
 | [10–13 August 2021](2021-08-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 34 | 31–36 | 30–37 | 29–38 | 26–38 |
@@ -612,7 +612,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [5–9 August 2019](2019-08-09-KantarTNS.html) | Kantar TNS | 26 | 23–32 | 21–34 | 21–36 | 20–36 |
 | [6–7 August 2019](2019-08-07-Norfakta.html) | Norfakta | 30 | 26–35 | 25–35 | 24–35 | 22–36 |
 | [30 July–5 August 2019](2019-08-05-OpinionPerduco.html) | Opinion Perduco | 27 | 23–32 | 22–33 | 20–34 | 19–36 |
-| [2–3 July 2019](2019-07-03-Norfakta.html) | Norfakta | 29 | 25–34 | 24–35 | 23–36 | 20–38 |
+| [2–3 July 2019](2019-07-03-Norfakta.html) | Norfakta | 30 | 24–34 | 23–35 | 21–36 | 20–36 |
 | [24–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS | 25 | 19–31 | 19–33 | 19–34 | 18–34 |
 | [24–26 June 2019](2019-06-26-IpsosMMI.html) | Ipsos MMI | 27 | 23–30 | 21–33 | 21–33 | 18–34 |
 | [18–24 June 2019](2019-06-24-Norstat.html) | Norstat | 26 | 22–33 | 21–34 | 20–34 | 19–35 |
@@ -788,21 +788,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.1% | 100% |  |
-| 16 | 0.3% | 99.8% |  |
+| 16 | 0.3% | 99.9% |  |
 | 17 | 3% | 99.5% |  |
 | 18 | 7% | 97% |  |
 | 19 | 7% | 90% | Last Result |
-| 20 | 10% | 83% |  |
-| 21 | 15% | 73% |  |
-| 22 | 9% | 58% | Median |
-| 23 | 6% | 49% |  |
-| 24 | 4% | 43% |  |
-| 25 | 3% | 39% |  |
-| 26 | 4% | 35% |  |
-| 27 | 4% | 32% |  |
-| 28 | 2% | 28% |  |
+| 20 | 12% | 83% |  |
+| 21 | 13% | 71% |  |
+| 22 | 8% | 58% |  |
+| 23 | 5% | 51% | Median |
+| 24 | 4% | 45% |  |
+| 25 | 6% | 41% |  |
+| 26 | 3% | 35% |  |
+| 27 | 4% | 31% |  |
+| 28 | 2% | 27% |  |
 | 29 | 4% | 25% |  |
-| 30 | 1.4% | 21% |  |
+| 30 | 2% | 22% |  |
 | 31 | 3% | 20% |  |
 | 32 | 3% | 17% |  |
 | 33 | 2% | 15% |  |
