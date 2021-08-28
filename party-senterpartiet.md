@@ -431,7 +431,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [8–13 June 2021](2021-06-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 35 | 32–37 | 32–38 | 31–39 | 29–40 |
 | [26 May–11 June 2021](2021-06-11-Norstat.html) | Norstat <br> NRK | 33 | 32–34 | 32–35 | 32–35 | 31–35 |
 | [1–7 June 2021](2021-06-07-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 34 | 32–37 | 31–38 | 30–40 | 27–41 |
-| [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 33 | 32–35 | 31–36 | 30–36 | 28–37 |
+| [31 May–4 June 2021](2021-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 33 | 30–35 | 29–36 | 28–36 | 27–38 |
 | [25–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> NRK | 33 | 28–36 | 27–36 | 26–37 | 25–38 |
 | [25–31 May 2021](2021-05-31-KantarTNS.html) | Kantar TNS <br> TV2 | 33 | 30–36 | 29–36 | 28–37 | 26–39 |
 | [24–26 May 2021](2021-05-26-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 31 | 26–35 | 25–35 | 25–36 | 23–38 |
