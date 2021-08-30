@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Norwegian Parliament</description>
     <pubDate>Sat, 3 Oct 2020 12:45:19 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Kantar TNS for TV2, 23–27 August 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Kantar TNS for TV2, 23–27 August 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS-seating-plan.png" length="613266" type="image/png"/>
+      <pubDate>Mon, 30 Aug 2021 18:13:05 +0200</pubDate>
+      <dc:date>2021-08-30T18:13:05.900338+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for TV2, 23–27 August 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS.html#seats</link>
+      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Kantar TNS for TV2, 23–27 August 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS-seats.png" length="254471" type="image/png"/>
+      <pubDate>Mon, 30 Aug 2021 18:13:05 +0200</pubDate>
+      <dc:date>2021-08-30T18:13:05.900338+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for TV2, 23–27 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS.html</link>
+      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Kantar TNS for TV2, 23–27 August 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-08-27-KantarTNS.png" length="287020" type="image/png"/>
+      <pubDate>Mon, 30 Aug 2021 18:13:05 +0200</pubDate>
+      <dc:date>2021-08-30T18:13:05.900338+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos MMI for Dagbladet, 23–25 August 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-08-25-IpsosMMI.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Ipsos MMI for Dagbladet, 23–25 August 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-08-25-IpsosMMI.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-08-25-IpsosMMI-seating-plan.png"/>]]></description>
@@ -364,30 +388,6 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-08-04-Norfakta.png" length="300212" type="image/png"/>
       <pubDate>Sat, 14 Aug 2021 19:38:38 +0200</pubDate>
       <dc:date>2021-08-14T19:38:38.414213+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Dagens Næringsliv, 22–28 July 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norstat for Dagens Næringsliv, 22–28 July 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat-seating-plan.png" length="610882" type="image/png"/>
-      <pubDate>Sat, 31 Jul 2021 20:35:11 +0200</pubDate>
-      <dc:date>2021-07-31T20:35:11.011437+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Dagens Næringsliv, 22–28 July 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.html#seats</link>
-      <description><![CDATA[Seat projections for the Norwegian Parliament<br/>85 seats needed for a majority<br/>Opinion poll by Norstat for Dagens Næringsliv, 22–28 July 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat-seats.png" length="245413" type="image/png"/>
-      <pubDate>Sat, 31 Jul 2021 20:35:11 +0200</pubDate>
-      <dc:date>2021-07-31T20:35:11.011437+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for Dagens Næringsliv, 22–28 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Norwegian Parliament<br/>Opinion poll by Norstat for Dagens Næringsliv, 22–28 July 2021<br/>Details on https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.html<br/>#valg21 #valg2021<br/><img src="https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-07-28-Norstat.png" length="290264" type="image/png"/>
-      <pubDate>Sat, 31 Jul 2021 20:35:11 +0200</pubDate>
-      <dc:date>2021-07-31T20:35:11.011437+02:00</dc:date>
     </item>
   </channel>
 </rss>
