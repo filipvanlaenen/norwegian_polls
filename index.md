@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
-| N/A | [Poll Average](average.html) | 20–29% <br> 39–55 | 17–24% <br> 30–43 | 8–14% <br> 13–25 | 10–21% <br> 17–38 | 6–11% <br> 9–19 | 3–6% <br> 2–10 | 2–5% <br> 0–9 | 3–8% <br> 2–14 | 3–7% <br> 2–12 |
+| N/A | [Poll Average](average.html) | 21–29% <br> 39–55 | 17–24% <br> 30–43 | 8–14% <br> 13–25 | 10–21% <br> 17–38 | 6–12% <br> 9–20 | 3–6% <br> 2–10 | 2–5% <br> 0–9 | 3–8% <br> 2–14 | 3–8% <br> 2–14 |
+| [23–27 August 2021](2021-08-27-KantarTNS.html) | Kantar TNS <br> TV2 | 20–25% <br> 38–46 | 17–22% <br> 30–39 | 10–14% <br> 17–25 | 10–14% <br> 17–25 | 9–12% <br> 13–21 | 3–6% <br> 2–10 | 3–5% <br> 1–9 | 4–7% <br> 2–11 | 6–9% <br> 9–15 |
 | [20–25 August 2021](2021-08-25-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 24–30% <br> 44–57 | 18–24% <br> 33–45 | 8–12% <br> 11–21 | 10–14% <br> 17–26 | 5–9% <br> 8–15 | 3–6% <br> 2–10 | 3–6% <br> 1–10 | 5–9% <br> 8–14 | 4–7% <br> 2–11 |
-| [22–25 August 2021](2021-08-25-KantarTNS.html) | Kantar TNS <br> TV2 | 20–25% <br> 38–46 | 18–23% <br> 33–42 | 9–13% <br> 15–22 | 9–13% <br> 17–24 | 8–12% <br> 12–19 | 4–6% <br> 2–10 | 3–5% <br> 2–8 | 4–7% <br> 3–11 | 5–8% <br> 8–12 |
 | [23–25 August 2021](2021-08-25-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 21–27% <br> 39–49 | 17–23% <br> 30–42 | 10–15% <br> 17–27 | 10–15% <br> 17–28 | 8–12% <br> 12–21 | 2–5% <br> 2–8 | 2–4% <br> 0–3 | 5–8% <br> 8–14 | 3–6% <br> 2–11 |
 | [19–24 August 2021](2021-08-24-Norstat.html) | Norstat <br> Dagens Næringsliv | 23–30% <br> 41–56 | 17–23% <br> 29–42 | 9–14% <br> 15–25 | 10–15% <br> 17–27 | 6–10% <br> 9–18 | 4–7% <br> 2–12 | 2–5% <br> 0–8 | 4–8% <br> 7–13 | 4–7% <br> 2–11 |
 | [17–21 August 2021](2021-08-21-Sentio.html) | Sentio <br> Nettavisen | 21–27% <br> 41–50 | 17–22% <br> 29–38 | 8–12% <br> 13–20 | 11–15% <br> 20–31 | 7–11% <br> 11–18 | 3–5% <br> 2–8 | 3–5% <br> 1–8 | 6–9% <br> 9–14 | 4–7% <br> 6–11 |
