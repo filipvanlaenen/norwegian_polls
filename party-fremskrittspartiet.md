@@ -597,7 +597,7 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 | [29 October–2 November 2019](2019-11-02-Sentio.html) | Sentio | 16 | 14–19 | 14–19 | 13–20 | 12–21 |
 | [28 October–1 November 2019](2019-11-01-KantarTNS.html) | Kantar TNS | 16 | 14–19 | 13–19 | 13–20 | 11–21 |
 | [22–28 October 2019](2019-10-28-Norstat.html) | Norstat | 14 | 12–18 | 11–18 | 11–19 | 10–20 |
-| [21–23 October 2019](2019-10-23-IpsosMMI.html) | Ipsos MMI | 18 | 15–21 | 14–23 | 13–23 | 13–24 |
+| [21–23 October 2019](2019-10-23-IpsosMMI.html) | Ipsos MMI | 18 | 15–21 | 15–22 | 14–22 | 13–24 |
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat | 21 | 18–24 | 17–24 | 17–25 | 15–26 |
 | [8–14 October 2019](2019-10-14-Sentio.html) | Sentio | 15 | 14–18 | 13–19 | 12–20 | 12–21 |
 | [1–7 October 2019](2019-10-07-OpinionPerduco.html) | Opinion Perduco | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
