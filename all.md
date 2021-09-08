@@ -5,7 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
-| [25 August–3 September 2021](2021-09-03-KantarTNS.html) | Kantar TNS <br> TV2 | 21–26% <br> 40–46 | 18–23% <br> 32–39 | 9–12% <br> 14–20 | 12–16% <br> 21–31 | 8–11% <br> 12–19 | 4–6% <br> 2–9 | 3–5% <br> 1–7 | 3–6% <br> 2–9 | 4–7% <br> 6–11 |
+| [1–6 September 2021](2021-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 21–25% <br> 41–46 | 18–21% <br> 31–38 | 10–12% <br> 16–22 | 12–16% <br> 21–30 | 8–11% <br> 12–19 | 4–6% <br> 2–10 | 3–5% <br> 2–8 | 4–6% <br> 2–10 | 5–7% <br> 7–12 |
+| [25 August–3 September 2021](2021-09-03-KantarTNS.html) | Kantar TNS <br> TV2 | 21–26% <br> 40–46 | 18–23% <br> 32–39 | 9–12% <br> 14–20 | 12–16% <br> 21–31 | 8–11% <br> 12–18 | 4–6% <br> 2–9 | 3–5% <br> 1–7 | 3–6% <br> 2–9 | 4–7% <br> 6–11 |
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 21–25% <br> 40–47 | 19–23% <br> 35–44 | 8–11% <br> 12–18 | 11–14% <br> 18–27 | 8–11% <br> 11–18 | 4–6% <br> 2–9 | 3–5% <br> 3–8 | 4–6% <br> 3–9 | 4–6% <br> 6–10 |
 | [27 August–1 September 2021](2021-09-01-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 20–26% <br> 39–47 | 17–23% <br> 31–41 | 9–14% <br> 16–25 | 10–15% <br> 18–27 | 8–13% <br> 14–22 | 4–7% <br> 7–12 | 2–5% <br> 1–8 | 4–7% <br> 2–11 | 3–6% <br> 2–11 |
 | [25–31 August 2021](2021-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 21–26% <br> 40–47 | 19–24% <br> 36–44 | 9–13% <br> 15–22 | 9–13% <br> 17–23 | 8–11% <br> 12–18 | 4–6% <br> 2–10 | 3–5% <br> 2–8 | 4–6% <br> 3–10 | 4–6% <br> 2–10 |
