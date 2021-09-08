@@ -10,7 +10,8 @@ Last result: **25.0%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.1% | 18.2–22.2% | 17.7–22.8% | 17.2–23.3% | 16.4–24.4% |
+| N/A | [Poll Average](average.html) | 19.8% | 18.0–21.9% | 17.6–22.5% | 17.2–23.1% | 16.4–24.3% |
+| [1–6 September 2021](2021-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 19.4% | 18.2–20.7% | 17.9–21.0% | 17.6–21.4% | 17.0–22.0% |
 | [25 August–3 September 2021](2021-09-03-KantarTNS.html) | Kantar TNS <br> TV2 | 20.5% | 19.1–21.9% | 18.7–22.3% | 18.4–22.7% | 17.8–23.4% |
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 21.2% | 19.9–22.6% | 19.5–23.0% | 19.2–23.4% | 18.6–24.1% |
 | [27 August–1 September 2021](2021-09-01-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 20.1% | 18.4–22.0% | 17.9–22.6% | 17.5–23.0% | 16.7–24.0% |
@@ -390,18 +391,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.6% | 99.9% |  |
-| 16.5–17.5% | 3% | 99.4% |  |
-| 17.5–18.5% | 11% | 96% |  |
-| 18.5–19.5% | 20% | 85% |  |
-| 19.5–20.5% | 25% | 65% | Median |
-| 20.5–21.5% | 21% | 40% |  |
-| 21.5–22.5% | 12% | 18% |  |
-| 22.5–23.5% | 5% | 7% |  |
-| 23.5–24.5% | 1.5% | 2% |  |
-| 24.5–25.5% | 0.3% | 0.4% | Last Result |
-| 25.5–26.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 0.7% | 99.9% |  |
+| 16.5–17.5% | 4% | 99.2% |  |
+| 17.5–18.5% | 14% | 95% |  |
+| 18.5–19.5% | 25% | 81% |  |
+| 19.5–20.5% | 25% | 56% | Median |
+| 20.5–21.5% | 17% | 30% |  |
+| 21.5–22.5% | 9% | 13% |  |
+| 22.5–23.5% | 3% | 5% |  |
+| 23.5–24.5% | 1.1% | 1.4% |  |
+| 24.5–25.5% | 0.3% | 0.3% | Last Result |
+| 25.5–26.5% | 0% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -413,8 +414,9 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 33–39 | 31–41 | 30–42 | 29–45 |
-| [25 August–3 September 2021](2021-09-03-KantarTNS.html) | Kantar TNS <br> TV2 | 36 | 34–37 | 33–38 | 32–39 | 32–41 |
+| N/A | [Poll Average](average.html) | 36 | 32–39 | 31–41 | 30–42 | 28–45 |
+| [1–6 September 2021](2021-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 35 | 32–36 | 32–37 | 31–38 | 29–39 |
+| [25 August–3 September 2021](2021-09-03-KantarTNS.html) | Kantar TNS <br> TV2 | 36 | 34–37 | 34–38 | 32–39 | 32–41 |
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 36 | 36–40 | 36–42 | 35–44 | 34–45 |
 | [27 August–1 September 2021](2021-09-01-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 36 | 33–39 | 32–40 | 31–41 | 29–43 |
 | [25–31 August 2021](2021-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 38 | 36–42 | 36–43 | 36–44 | 35–45 |
@@ -795,26 +797,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0% | 100% |  |
-| 28 | 0.4% | 99.9% |  |
-| 29 | 1.1% | 99.5% |  |
+| 27 | 0.1% | 100% |  |
+| 28 | 0.5% | 99.9% |  |
+| 29 | 1.3% | 99.5% |  |
 | 30 | 2% | 98% |  |
-| 31 | 2% | 97% |  |
-| 32 | 4% | 94% |  |
-| 33 | 6% | 90% |  |
-| 34 | 8% | 84% |  |
-| 35 | 16% | 76% |  |
-| 36 | 30% | 59% | Median |
-| 37 | 9% | 30% |  |
-| 38 | 7% | 21% |  |
-| 39 | 4% | 14% |  |
-| 40 | 4% | 10% |  |
-| 41 | 2% | 6% |  |
-| 42 | 2% | 4% |  |
-| 43 | 1.1% | 2% |  |
+| 31 | 3% | 96% |  |
+| 32 | 5% | 93% |  |
+| 33 | 7% | 88% |  |
+| 34 | 9% | 81% |  |
+| 35 | 19% | 71% |  |
+| 36 | 28% | 53% | Median |
+| 37 | 7% | 25% |  |
+| 38 | 5% | 18% |  |
+| 39 | 4% | 13% |  |
+| 40 | 4% | 9% |  |
+| 41 | 2% | 5% |  |
+| 42 | 2% | 3% |  |
+| 43 | 1.0% | 2% |  |
 | 44 | 0.3% | 0.8% |  |
 | 45 | 0.3% | 0.5% | Last Result |
-| 46 | 0.2% | 0.2% |  |
+| 46 | 0.1% | 0.2% |  |
 | 47 | 0% | 0.1% |  |
 | 48 | 0% | 0% |  |
 
