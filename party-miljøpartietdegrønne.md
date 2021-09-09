@@ -415,8 +415,8 @@ Last result: **1** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–12 | 3–13 | 2–13 | 2–15 |
-| [3–8 September 2021](2021-09-08-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 7 | 2–9 | 2–9 | 2–10 | 1–11 |
+| N/A | [Poll Average](average.html) | 9 | 7–12 | 2–13 | 2–13 | 2–15 |
+| [3–8 September 2021](2021-09-08-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 7 | 2–9 | 2–9 | 2–9 | 1–11 |
 | [3–8 September 2021](2021-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 9 | 7–9 | 7–9 | 2–9 | 2–10 |
 | [1–7 September 2021](2021-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 7–10 | 7–10 | 7–10 | 2–11 |
 | [30 August–6 September 2021](2021-09-06-Norstat.html) | Norstat <br> Aftenposten | 8 | 7–10 | 7–11 | 7–11 | 2–12 |
@@ -802,16 +802,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% | Last Result |
-| 2 | 5% | 99.8% |  |
-| 3 | 1.1% | 95% |  |
-| 4 | 0% | 94% |  |
-| 5 | 0% | 94% |  |
-| 6 | 2% | 94% |  |
-| 7 | 15% | 92% |  |
-| 8 | 14% | 77% |  |
-| 9 | 25% | 63% | Median |
-| 10 | 10% | 39% |  |
+| 1 | 0.4% | 100% | Last Result |
+| 2 | 5% | 99.6% |  |
+| 3 | 0.9% | 94% |  |
+| 4 | 0% | 93% |  |
+| 5 | 0% | 93% |  |
+| 6 | 2% | 93% |  |
+| 7 | 14% | 91% |  |
+| 8 | 14% | 76% |  |
+| 9 | 24% | 63% | Median |
+| 10 | 10% | 38% |  |
 | 11 | 14% | 28% |  |
 | 12 | 7% | 14% |  |
 | 13 | 5% | 7% |  |
