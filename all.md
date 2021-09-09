@@ -5,6 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ap | H | FrP | Sp | SV | V | KrF | MDG | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8–9 September 2013 | General Election | 27.4% <br> 49 | 25.0% <br> 45 | 15.2% <br> 27 | 10.3% <br> 19 | 6.0% <br> 11 | 4.4% <br> 8 | 4.2% <br> 8 | 3.2% <br> 1 | 2.4% <br> 1 |
+| [3–8 September 2021](2021-09-08-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 24–29% <br> 43–55 | 16–21% <br> 27–38 | 11–15% <br> 17–27 | 9–13% <br> 16–24 | 8–11% <br> 12–19 | 3–5% <br> 2–9 | 3–6% <br> 3–10 | 3–6% <br> 2–10 | 5–8% <br> 7–13 |
+| [3–8 September 2021](2021-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 22–25% <br> 41–46 | 18–21% <br> 31–36 | 10–12% <br> 17–21 | 12–15% <br> 21–26 | 8–10% <br> 13–17 | 4–5% <br> 2–9 | 4–5% <br> 3–9 | 4–6% <br> 2–9 | 6–7% <br> 9–12 |
+| [1–7 September 2021](2021-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 22–26% <br> 41–47 | 17–20% <br> 29–36 | 10–12% <br> 16–23 | 12–15% <br> 21–30 | 8–10% <br> 12–18 | 4–6% <br> 2–10 | 4–5% <br> 2–9 | 4–6% <br> 7–10 | 5–7% <br> 8–12 |
+| [30 August–6 September 2021](2021-09-06-Norstat.html) | Norstat <br> Aftenposten | 21–27% <br> 40–49 | 16–21% <br> 28–37 | 10–15% <br> 17–26 | 12–17% <br> 21–31 | 7–11% <br> 11–17 | 3–5% <br> 2–8 | 2–5% <br> 1–7 | 4–7% <br> 7–11 | 4–7% <br> 2–11 |
 | [1–6 September 2021](2021-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 21–25% <br> 41–46 | 18–21% <br> 31–38 | 10–12% <br> 16–22 | 12–16% <br> 21–30 | 8–11% <br> 12–19 | 4–6% <br> 2–10 | 3–5% <br> 2–8 | 4–6% <br> 2–10 | 5–7% <br> 7–12 |
 | [25 August–3 September 2021](2021-09-03-KantarTNS.html) | Kantar TNS <br> TV2 | 21–26% <br> 40–46 | 18–23% <br> 32–39 | 9–12% <br> 14–20 | 12–16% <br> 21–31 | 8–11% <br> 12–18 | 4–6% <br> 2–9 | 3–5% <br> 1–7 | 3–6% <br> 2–9 | 4–7% <br> 6–11 |
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 21–25% <br> 40–47 | 19–23% <br> 35–44 | 8–11% <br> 12–18 | 11–14% <br> 18–27 | 8–11% <br> 11–18 | 4–6% <br> 2–9 | 3–5% <br> 3–8 | 4–6% <br> 3–9 | 4–6% <br> 6–10 |
