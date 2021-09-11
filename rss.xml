@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sat, 11 Sep 2021 15:38:32 +0200</pubDate>
+    <pubDate>Sat, 11 Sep 2021 16:25:05 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–10 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-09-10-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rødt: 2–11 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–17 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–11 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 44–55 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 22–32 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 29–39 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 17–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-09-10-OpinionPerduco-seats.png"
+        length="270563"
+        type="image/png"/>
+      <pubDate>Sat, 11 Sep 2021 16:25:05 +0200</pubDate>
+      <dc:date>2021-09-11T16:25:05.428929+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–10 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2021-09-10-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-09-10-OpinionPerduco-coalitions-seats.png"
+        length="553547"
+        type="image/png"/>
+      <pubDate>Sat, 11 Sep 2021 16:25:05 +0200</pubDate>
+      <dc:date>2021-09-11T16:25:05.428929+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 1–10 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2021-09-10-OpinionPerduco.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2021-09-10-OpinionPerduco.png"
         length="296036"
         type="image/png"/>
-      <pubDate>Sat, 11 Sep 2021 15:38:32 +0200</pubDate>
-      <dc:date>2021-09-11T15:38:32.203595+02:00</dc:date>
+      <pubDate>Sat, 11 Sep 2021 16:25:05 +0200</pubDate>
+      <dc:date>2021-09-11T16:25:05.428929+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for TV2, 8–10 September 2021 – Seat Projections for the Parties</title>
@@ -10129,6 +10149,6 @@
       <pubDate>Thu, 13 May 2021 16:49:21 +0200</pubDate>
       <dc:date>2021-05-13T16:49:21.471247+02:00</dc:date>
     </item>
-    <dc:date>2021-09-11T15:38:32.203595+02:00</dc:date>
+    <dc:date>2021-09-11T16:25:05.428929+02:00</dc:date>
   </channel>
 </rss>
