@@ -10,18 +10,23 @@ Last result: **6.0%** (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 8.3–10.4% | 7.9–10.9% | 7.7–11.3% | 7.1–12.1% |
+| N/A | [Poll Average](average.html) | 9.0% | 7.6–11.3% | 7.1–12.3% | 6.8–13.0% | 6.2–14.2% |
+| [1–10 September 2021](2021-09-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 7.7% | 6.7–9.0% | 6.4–9.3% | 6.2–9.6% | 5.7–10.3% |
+| [8–10 September 2021](2021-09-10-KantarTNS.html) | Kantar TNS <br> TV2 | 9.1% | 8.3–10.0% | 8.1–10.2% | 7.9–10.4% | 7.5–10.9% |
 | [7–9 September 2021](2021-09-09-KantarTNS.html) | Kantar TNS <br> TV2 | 9.2% | 8.4–10.1% | 8.1–10.3% | 8.0–10.5% | 7.6–11.0% |
 | [3–8 September 2021](2021-09-08-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.7–11.4% | 7.2–12.0% |
 | [31 August–8 September 2021](2021-09-08-Norstat.html) | Norstat <br> NRK | 8.9% | 8.6–9.3% | 8.5–9.4% | 8.4–9.4% | 8.2–9.6% |
+| [7–8 September 2021](2021-09-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8.2% | 7.1–9.5% | 6.8–9.9% | 6.5–10.2% | 6.0–10.9% |
 | [3–8 September 2021](2021-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 9.3% | 8.6–10.0% | 8.4–10.3% | 8.2–10.4% | 7.9–10.8% |
+| [6–8 September 2021](2021-09-08-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 11.8% | 10.3–13.5% | 10.0–13.9% | 9.6–14.4% | 9.0–15.2% |
 | [1–7 September 2021](2021-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 8.9% | 8.1–9.7% | 7.9–10.0% | 7.8–10.2% | 7.4–10.6% |
-| [30 August–6 September 2021](2021-09-06-Norstat.html) | Norstat <br> Aftenposten | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [30 August–6 September 2021](2021-09-06-Norstat.html) | Norstat <br> Aftenposten and NRK | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [1–6 September 2021](2021-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 9.5% | 8.6–10.5% | 8.4–10.7% | 8.2–11.0% | 7.8–11.5% |
 | [25 August–3 September 2021](2021-09-03-KantarTNS.html) | Kantar TNS <br> TV2 | 9.4% | 8.4–10.4% | 8.2–10.7% | 7.9–11.0% | 7.5–11.6% |
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 9.5% | 8.6–10.6% | 8.4–10.9% | 8.1–11.1% | 7.7–11.7% |
 | [27 August–1 September 2021](2021-09-01-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 10.4% | 9.1–11.9% | 8.7–12.3% | 8.4–12.7% | 7.9–13.4% |
 | [25–31 August 2021](2021-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 9.7% | 8.6–10.9% | 8.4–11.2% | 8.1–11.5% | 7.7–12.1% |
+| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 10.7% | 9.2–12.4% | 8.8–12.9% | 8.5–13.3% | 7.8–14.2% |
 | [24–28 August 2021](2021-08-28-Norstat.html) | Norstat <br> Vårt Land | 10.0% | 8.8–11.3% | 8.5–11.7% | 8.2–12.0% | 7.7–12.7% |
 | [23–27 August 2021](2021-08-27-KantarTNS.html) | Kantar TNS <br> TV2 | 10.2% | 9.1–11.6% | 8.8–11.9% | 8.5–12.3% | 8.0–13.0% |
 | [20–25 August 2021](2021-08-25-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 6.7% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.3% |
@@ -397,15 +402,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0.1% | 100% | Last Result |
-| 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 16% | 98% |  |
-| 8.5–9.5% | 51% | 83% | Median |
-| 9.5–10.5% | 23% | 31% |  |
-| 10.5–11.5% | 7% | 9% |  |
-| 11.5–12.5% | 1.4% | 2% |  |
-| 12.5–13.5% | 0.2% | 0.2% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 1.3% | 100% | Last Result |
+| 6.5–7.5% | 8% | 98.6% |  |
+| 7.5–8.5% | 22% | 90% |  |
+| 8.5–9.5% | 39% | 68% | Median |
+| 9.5–10.5% | 14% | 29% |  |
+| 10.5–11.5% | 6% | 15% |  |
+| 11.5–12.5% | 5% | 9% |  |
+| 12.5–13.5% | 3% | 4% |  |
+| 13.5–14.5% | 1.0% | 1.3% |  |
+| 14.5–15.5% | 0.2% | 0.3% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -416,18 +424,23 @@ Last result: **11** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–18 | 12–18 | 12–19 | 10–21 |
+| N/A | [Poll Average](average.html) | 15 | 12–18 | 11–19 | 11–21 | 10–24 |
+| [1–10 September 2021](2021-09-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 14 | 11–15 | 11–17 | 11–17 | 9–18 |
+| [8–10 September 2021](2021-09-10-KantarTNS.html) | Kantar TNS <br> TV2 | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
 | [7–9 September 2021](2021-09-09-KantarTNS.html) | Kantar TNS <br> TV2 | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
 | [3–8 September 2021](2021-09-08-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 15 | 13–18 | 13–19 | 12–20 | 11–22 |
-| [31 August–8 September 2021](2021-09-08-Norstat.html) | Norstat <br> NRK | 15 | 14–16 | 14–16 | 14–16 | 14–17 |
+| [31 August–8 September 2021](2021-09-08-Norstat.html) | Norstat <br> NRK | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
+| [7–8 September 2021](2021-09-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 14 | 11–18 | 11–18 | 10–18 | 9–19 |
 | [3–8 September 2021](2021-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 16 | 14–17 | 13–17 | 13–18 | 12–19 |
+| [6–8 September 2021](2021-09-08-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 18 | 16–22 | 16–23 | 15–25 | 14–27 |
 | [1–7 September 2021](2021-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 15 | 13–17 | 12–17 | 12–18 | 11–18 |
-| [30 August–6 September 2021](2021-09-06-Norstat.html) | Norstat <br> Aftenposten | 14 | 11–16 | 11–17 | 10–18 | 10–19 |
+| [30 August–6 September 2021](2021-09-06-Norstat.html) | Norstat <br> Aftenposten and NRK | 14 | 11–16 | 11–17 | 10–18 | 10–19 |
 | [1–6 September 2021](2021-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 15 | 14–17 | 13–18 | 12–19 | 11–20 |
 | [25 August–3 September 2021](2021-09-03-KantarTNS.html) | Kantar TNS <br> TV2 | 15 | 14–17 | 12–18 | 12–18 | 11–20 |
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 16 | 13–17 | 12–18 | 11–18 | 11–19 |
 | [27 August–1 September 2021](2021-09-01-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 18 | 15–20 | 15–21 | 14–22 | 12–23 |
 | [25–31 August 2021](2021-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 16 | 14–18 | 13–18 | 12–18 | 11–20 |
+| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 19 | 16–21 | 14–22 | 14–22 | 12–24 |
 | [24–28 August 2021](2021-08-28-Norstat.html) | Norstat <br> Vårt Land | 18 | 15–20 | 14–20 | 13–21 | 12–22 |
 | [23–27 August 2021](2021-08-27-KantarTNS.html) | Kantar TNS <br> TV2 | 17 | 15–20 | 14–21 | 13–21 | 11–23 |
 | [20–25 August 2021](2021-08-25-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 11 | 9–13 | 8–14 | 8–15 | 7–16 |
@@ -805,21 +818,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 0.4% | 99.9% |  |
-| 11 | 2% | 99.4% | Last Result |
-| 12 | 5% | 98% |  |
-| 13 | 9% | 93% |  |
-| 14 | 15% | 84% |  |
-| 15 | 25% | 69% | Median |
-| 16 | 23% | 44% |  |
-| 17 | 10% | 22% |  |
-| 18 | 7% | 11% |  |
-| 19 | 3% | 5% |  |
-| 20 | 1.3% | 2% |  |
-| 21 | 0.4% | 0.8% |  |
-| 22 | 0.3% | 0.4% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 0.9% | 99.7% |  |
+| 11 | 4% | 98.9% | Last Result |
+| 12 | 7% | 95% |  |
+| 13 | 9% | 88% |  |
+| 14 | 16% | 80% |  |
+| 15 | 22% | 64% | Median |
+| 16 | 17% | 42% |  |
+| 17 | 10% | 24% |  |
+| 18 | 8% | 15% |  |
+| 19 | 3% | 7% |  |
+| 20 | 2% | 4% |  |
+| 21 | 0.5% | 3% |  |
+| 22 | 1.1% | 2% |  |
+| 23 | 0.2% | 0.9% |  |
+| 24 | 0.3% | 0.7% |  |
+| 25 | 0.2% | 0.4% |  |
+| 26 | 0.1% | 0.2% |  |
+| 27 | 0.1% | 0.1% |  |
+| 28 | 0% | 0% |  |
 
 
