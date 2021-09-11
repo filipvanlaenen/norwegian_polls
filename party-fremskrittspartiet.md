@@ -423,15 +423,15 @@ Last result: **27** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 17–24 | 15–25 | 15–25 | 13–28 |
-| [1–10 September 2021](2021-09-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 22 | 18–24 | 18–25 | 17–26 | 15–27 |
-| [8–10 September 2021](2021-09-10-KantarTNS.html) | Kantar TNS <br> TV2 | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
+| N/A | [Poll Average](average.html) | 20 | 17–24 | 16–25 | 15–25 | 13–27 |
+| [1–10 September 2021](2021-09-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 21 | 18–25 | 18–25 | 17–26 | 15–26 |
+| [8–10 September 2021](2021-09-10-KantarTNS.html) | Kantar TNS <br> TV2 | 19 | 18–22 | 17–22 | 17–23 | 16–24 |
 | [7–9 September 2021](2021-09-09-KantarTNS.html) | Kantar TNS <br> TV2 | 18 | 17–21 | 16–21 | 16–22 | 15–23 |
 | [3–8 September 2021](2021-09-08-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 22 | 19–25 | 18–26 | 17–27 | 16–29 |
 | [31 August–8 September 2021](2021-09-08-Norstat.html) | Norstat <br> NRK | 22 | 20–22 | 20–22 | 20–22 | 19–23 |
-| [7–8 September 2021](2021-09-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 21 | 15–23 | 15–24 | 15–25 | 15–27 |
+| [7–8 September 2021](2021-09-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 21 | 17–24 | 16–24 | 15–25 | 15–27 |
 | [3–8 September 2021](2021-09-08-KantarTNS.html) | Kantar TNS <br> TV2 | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
-| [6–8 September 2021](2021-09-08-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 20 | 17–24 | 17–25 | 16–27 | 14–28 |
+| [6–8 September 2021](2021-09-08-IpsosMMI.html) | Ipsos MMI <br> Dagbladet | 20 | 17–24 | 17–25 | 16–26 | 15–27 |
 | [1–7 September 2021](2021-09-07-KantarTNS.html) | Kantar TNS <br> TV2 | 19 | 17–21 | 17–22 | 16–23 | 15–24 |
 | [30 August–6 September 2021](2021-09-06-Norstat.html) | Norstat <br> Aftenposten and NRK | 23 | 18–25 | 17–25 | 17–26 | 16–27 |
 | [1–6 September 2021](2021-09-06-KantarTNS.html) | Kantar TNS <br> TV2 | 18 | 17–21 | 16–21 | 16–22 | 15–23 |
@@ -820,21 +820,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.1% | 100% |  |
 | 12 | 0.1% | 99.9% |  |
 | 13 | 0.3% | 99.8% |  |
-| 14 | 1.2% | 99.5% |  |
-| 15 | 4% | 98% |  |
-| 16 | 4% | 94% |  |
-| 17 | 6% | 90% |  |
-| 18 | 10% | 84% |  |
-| 19 | 11% | 74% |  |
-| 20 | 11% | 63% |  |
-| 21 | 17% | 52% | Median |
-| 22 | 20% | 35% |  |
-| 23 | 4% | 16% |  |
-| 24 | 6% | 12% |  |
-| 25 | 3% | 5% |  |
-| 26 | 1.2% | 2% |  |
-| 27 | 0.5% | 1.1% | Last Result |
-| 28 | 0.5% | 0.6% |  |
+| 14 | 1.3% | 99.5% |  |
+| 15 | 3% | 98% |  |
+| 16 | 4% | 96% |  |
+| 17 | 6% | 91% |  |
+| 18 | 12% | 85% |  |
+| 19 | 13% | 73% |  |
+| 20 | 12% | 60% | Median |
+| 21 | 14% | 48% |  |
+| 22 | 18% | 35% |  |
+| 23 | 5% | 17% |  |
+| 24 | 5% | 12% |  |
+| 25 | 4% | 6% |  |
+| 26 | 1.3% | 2% |  |
+| 27 | 0.4% | 0.8% | Last Result |
+| 28 | 0.3% | 0.4% |  |
 | 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
 
