@@ -425,8 +425,8 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 29–37 | 28–37 | 27–38 | 25–40 |
-| [1–10 September 2021](2021-09-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 34 | 31–38 | 29–39 | 28–39 | 26–41 |
+| N/A | [Poll Average](average.html) | 34 | 29–36 | 28–37 | 27–38 | 25–40 |
+| [1–10 September 2021](2021-09-10-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 34 | 31–37 | 30–38 | 29–39 | 27–40 |
 | [8–10 September 2021](2021-09-10-KantarTNS.html) | Kantar TNS <br> TV2 | 35 | 32–36 | 31–37 | 30–38 | 29–38 |
 | [7–9 September 2021](2021-09-09-KantarTNS.html) | Kantar TNS <br> TV2 | 34 | 32–35 | 31–36 | 30–36 | 29–37 |
 | [3–8 September 2021](2021-09-08-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 32 | 29–36 | 28–37 | 28–38 | 25–38 |
@@ -823,22 +823,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0.1% | 99.9% |  |
 | 24 | 0.2% | 99.8% |  |
 | 25 | 0.5% | 99.6% |  |
-| 26 | 0.6% | 99.1% |  |
-| 27 | 1.2% | 98.5% |  |
-| 28 | 5% | 97% |  |
-| 29 | 3% | 93% |  |
-| 30 | 6% | 89% |  |
+| 26 | 0.5% | 99.1% |  |
+| 27 | 1.1% | 98.6% |  |
+| 28 | 4% | 97% |  |
+| 29 | 4% | 93% |  |
+| 30 | 7% | 90% |  |
 | 31 | 9% | 83% |  |
 | 32 | 9% | 74% |  |
-| 33 | 9% | 65% |  |
-| 34 | 10% | 56% | Median |
-| 35 | 11% | 47% |  |
-| 36 | 26% | 36% |  |
-| 37 | 5% | 10% |  |
-| 38 | 3% | 5% |  |
+| 33 | 10% | 65% |  |
+| 34 | 10% | 55% | Median |
+| 35 | 12% | 45% |  |
+| 36 | 24% | 32% |  |
+| 37 | 5% | 8% |  |
+| 38 | 2% | 3% |  |
 | 39 | 0.9% | 2% |  |
-| 40 | 0.4% | 0.7% |  |
-| 41 | 0.2% | 0.4% |  |
+| 40 | 0.3% | 0.6% |  |
+| 41 | 0.2% | 0.3% |  |
 | 42 | 0% | 0.1% |  |
 | 43 | 0% | 0.1% |  |
 | 44 | 0% | 0% |  |
