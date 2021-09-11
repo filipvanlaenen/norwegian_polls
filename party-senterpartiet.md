@@ -441,7 +441,7 @@ Last result: **19** seats (General Election of 8–9 September 2013)
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 22 | 19–26 | 18–27 | 18–27 | 18–29 |
 | [27 August–1 September 2021](2021-09-01-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 22 | 20–26 | 19–27 | 18–27 | 17–29 |
 | [25–31 August 2021](2021-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 18 | 18–21 | 17–22 | 17–23 | 16–25 |
-| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 20 | 19–27 | 17–27 | 17–27 | 16–28 |
+| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 20 | 19–26 | 18–27 | 17–28 | 16–29 |
 | [24–28 August 2021](2021-08-28-Norstat.html) | Norstat <br> Vårt Land | 21 | 20–25 | 20–27 | 19–27 | 18–29 |
 | [23–27 August 2021](2021-08-27-KantarTNS.html) | Kantar TNS <br> TV2 | 20 | 18–23 | 18–24 | 17–25 | 16–26 |
 | [20–25 August 2021](2021-08-25-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 20 | 18–24 | 17–25 | 17–26 | 17–30 |
