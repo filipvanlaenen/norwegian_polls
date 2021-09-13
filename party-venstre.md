@@ -27,7 +27,7 @@ Last result: **4.4%** (General Election of 8–9 September 2013)
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 4.8% | 4.1–5.6% | 4.0–5.8% | 3.8–6.0% | 3.5–6.4% |
 | [27 August–1 September 2021](2021-09-01-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 5.6% | 4.6–6.7% | 4.4–7.1% | 4.2–7.4% | 3.8–8.0% |
 | [25–31 August 2021](2021-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.7% |
-| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 4.6% | 3.7–5.9% | 3.4–6.2% | 3.2–6.6% | 2.9–7.2% |
+| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 4.5% | 3.6–5.7% | 3.3–6.1% | 3.1–6.4% | 2.7–7.0% |
 | [24–28 August 2021](2021-08-28-Norstat.html) | Norstat <br> Vårt Land | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.3–7.0% |
 | [23–27 August 2021](2021-08-27-KantarTNS.html) | Kantar TNS <br> TV2 | 4.4% | 3.7–5.4% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [20–25 August 2021](2021-08-25-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 4.5% | 3.7–5.6% | 3.4–5.9% | 3.3–6.2% | 2.9–6.7% |
@@ -440,7 +440,7 @@ Last result: **8** seats (General Election of 8–9 September 2013)
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 6–8 | 2–9 | 2–9 | 2–10 |
 | [27 August–1 September 2021](2021-09-01-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 10 | 8–11 | 7–12 | 7–12 | 2–13 |
 | [25–31 August 2021](2021-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 8 | 6–9 | 2–9 | 2–10 | 2–10 |
-| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 8 | 2–9 | 2–10 | 2–11 | 2–12 |
+| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 7 | 2–9 | 2–10 | 2–10 | 2–11 |
 | [24–28 August 2021](2021-08-28-Norstat.html) | Norstat <br> Vårt Land | 8 | 7–10 | 2–10 | 2–11 | 2–12 |
 | [23–27 August 2021](2021-08-27-KantarTNS.html) | Kantar TNS <br> TV2 | 7 | 2–9 | 2–9 | 2–10 | 2–11 |
 | [20–25 August 2021](2021-08-25-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 7 | 2–9 | 2–10 | 2–10 | 2–11 |

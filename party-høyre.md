@@ -27,7 +27,7 @@ Last result: **25.0%** (General Election of 8–9 September 2013)
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 21.2% | 19.9–22.6% | 19.5–23.0% | 19.2–23.4% | 18.6–24.1% |
 | [27 August–1 September 2021](2021-09-01-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 20.1% | 18.4–22.0% | 17.9–22.6% | 17.5–23.0% | 16.7–24.0% |
 | [25–31 August 2021](2021-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 21.5% | 20.0–23.1% | 19.6–23.5% | 19.3–23.9% | 18.6–24.7% |
-| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 19.1% | 17.2–21.2% | 16.7–21.8% | 16.2–22.4% | 15.3–23.4% |
+| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 19.6% | 17.7–21.7% | 17.1–22.3% | 16.7–22.9% | 15.8–23.9% |
 | [24–28 August 2021](2021-08-28-Norstat.html) | Norstat <br> Vårt Land | 19.0% | 17.5–20.7% | 17.0–21.2% | 16.7–21.6% | 15.9–22.5% |
 | [23–27 August 2021](2021-08-27-KantarTNS.html) | Kantar TNS <br> TV2 | 19.2% | 17.6–20.9% | 17.2–21.3% | 16.8–21.7% | 16.1–22.6% |
 | [20–25 August 2021](2021-08-25-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 21.1% | 19.3–23.0% | 18.8–23.6% | 18.4–24.1% | 17.6–25.0% |
@@ -443,7 +443,7 @@ Last result: **45** seats (General Election of 8–9 September 2013)
 | [27 August–2 September 2021](2021-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 36 | 36–40 | 36–42 | 35–44 | 34–45 |
 | [27 August–1 September 2021](2021-09-01-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 36 | 33–39 | 32–40 | 31–41 | 29–43 |
 | [25–31 August 2021](2021-08-31-KantarTNS.html) | Kantar TNS <br> TV2 | 38 | 36–42 | 36–43 | 36–44 | 35–45 |
-| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 35 | 30–38 | 28–39 | 28–40 | 26–42 |
+| [23–29 August 2021](2021-08-29-Norstat.html) | Norstat <br> Aftenposten | 36 | 31–38 | 30–39 | 29–41 | 28–43 |
 | [24–28 August 2021](2021-08-28-Norstat.html) | Norstat <br> Vårt Land | 35 | 31–36 | 30–37 | 29–38 | 28–39 |
 | [23–27 August 2021](2021-08-27-KantarTNS.html) | Kantar TNS <br> TV2 | 35 | 31–37 | 31–38 | 30–39 | 28–40 |
 | [20–25 August 2021](2021-08-25-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 38 | 35–42 | 34–45 | 33–45 | 30–47 |
