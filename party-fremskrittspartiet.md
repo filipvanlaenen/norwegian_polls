@@ -338,8 +338,8 @@ Last result: **21** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 47–55 | 47–57 | 47–60 | 45–61 |
-| [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 51 | 47–55 | 47–57 | 47–60 | 45–61 |
+| N/A | [Poll Average](average.html) | 52 | 48–57 | 47–58 | 47–59 | 44–61 |
+| [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 52 | 48–57 | 47–58 | 47–59 | 44–61 |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
 | [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
@@ -658,25 +658,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
-| 43 | 0.1% | 100% |  |
-| 44 | 0.2% | 99.9% |  |
-| 45 | 0.4% | 99.7% |  |
-| 46 | 2% | 99.2% |  |
-| 47 | 9% | 98% |  |
-| 48 | 14% | 88% |  |
-| 49 | 12% | 74% |  |
-| 50 | 5% | 62% |  |
-| 51 | 7% | 57% | Median |
-| 52 | 19% | 50% |  |
-| 53 | 6% | 31% |  |
-| 54 | 11% | 25% |  |
-| 55 | 5% | 14% |  |
-| 56 | 2% | 8% |  |
-| 57 | 1.4% | 6% |  |
-| 58 | 0.5% | 5% |  |
-| 59 | 0.8% | 4% |  |
-| 60 | 3% | 3% |  |
-| 61 | 0.5% | 0.5% |  |
-| 62 | 0% | 0% |  |
+| 43 | 0.2% | 100% |  |
+| 44 | 0.5% | 99.8% |  |
+| 45 | 0.5% | 99.3% |  |
+| 46 | 1.1% | 98.8% |  |
+| 47 | 5% | 98% |  |
+| 48 | 12% | 93% |  |
+| 49 | 14% | 81% |  |
+| 50 | 4% | 67% |  |
+| 51 | 6% | 62% |  |
+| 52 | 17% | 56% | Median |
+| 53 | 6% | 39% |  |
+| 54 | 8% | 33% |  |
+| 55 | 6% | 25% |  |
+| 56 | 7% | 19% |  |
+| 57 | 7% | 12% |  |
+| 58 | 2% | 5% |  |
+| 59 | 0.9% | 3% |  |
+| 60 | 2% | 2% |  |
+| 61 | 0.6% | 0.7% |  |
+| 62 | 0.1% | 0.1% |  |
+| 63 | 0% | 0% |  |
 
 

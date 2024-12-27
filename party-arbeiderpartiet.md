@@ -331,8 +331,8 @@ Last result: **48** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 30–37 | 29–37 | 29–38 | 27–40 |
-| [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 33 | 30–37 | 29–37 | 29–38 | 27–40 |
+| N/A | [Poll Average](average.html) | 33 | 30–36 | 29–37 | 29–38 | 27–39 |
+| [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 33 | 30–36 | 29–37 | 29–38 | 27–39 |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
 | [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
@@ -630,22 +630,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.3% | 99.9% |  |
+| 26 | 0.2% | 99.9% |  |
 | 27 | 0.3% | 99.7% |  |
-| 28 | 2% | 99.4% |  |
-| 29 | 7% | 98% |  |
-| 30 | 5% | 91% |  |
-| 31 | 5% | 86% |  |
-| 32 | 13% | 81% |  |
-| 33 | 26% | 67% | Median |
-| 34 | 5% | 41% |  |
-| 35 | 14% | 37% |  |
-| 36 | 8% | 22% |  |
-| 37 | 10% | 14% |  |
-| 38 | 3% | 4% |  |
-| 39 | 0.9% | 1.4% |  |
-| 40 | 0.4% | 0.6% |  |
-| 41 | 0% | 0.2% |  |
+| 28 | 1.3% | 99.4% |  |
+| 29 | 8% | 98% |  |
+| 30 | 10% | 90% |  |
+| 31 | 8% | 80% |  |
+| 32 | 16% | 72% |  |
+| 33 | 16% | 56% | Median |
+| 34 | 11% | 40% |  |
+| 35 | 10% | 29% |  |
+| 36 | 9% | 18% |  |
+| 37 | 7% | 10% |  |
+| 38 | 2% | 3% |  |
+| 39 | 0.6% | 1.0% |  |
+| 40 | 0.2% | 0.4% |  |
+| 41 | 0% | 0.1% |  |
 | 42 | 0.1% | 0.1% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |

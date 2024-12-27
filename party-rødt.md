@@ -324,8 +324,8 @@ Last result: **8** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–13 | 8–13 | 7–13 | 7–15 |
-| [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 10 | 9–13 | 8–13 | 7–13 | 7–15 |
+| N/A | [Poll Average](average.html) | 10 | 8–13 | 8–13 | 8–14 | 7–15 |
+| [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 10 | 8–13 | 8–13 | 8–14 | 7–15 |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
 | [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
@@ -623,16 +623,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.3% | 100% |  |
-| 7 | 3% | 99.7% |  |
-| 8 | 6% | 97% | Last Result |
-| 9 | 22% | 91% |  |
-| 10 | 19% | 69% | Median |
-| 11 | 15% | 49% |  |
-| 12 | 20% | 35% |  |
-| 13 | 12% | 15% |  |
-| 14 | 1.4% | 2% |  |
-| 15 | 0.8% | 1.0% |  |
-| 16 | 0.1% | 0.2% |  |
+| 7 | 2% | 99.7% |  |
+| 8 | 11% | 98% | Last Result |
+| 9 | 24% | 87% |  |
+| 10 | 16% | 64% | Median |
+| 11 | 16% | 48% |  |
+| 12 | 21% | 32% |  |
+| 13 | 7% | 11% |  |
+| 14 | 3% | 4% |  |
+| 15 | 1.1% | 1.3% |  |
+| 16 | 0.2% | 0.3% |  |
 | 17 | 0% | 0% |  |
 
 
