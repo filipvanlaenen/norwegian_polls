@@ -17,7 +17,7 @@ Last result: **11.6%** (General Election of 13 September 2021)
 | [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 27.4% | 25.6–29.3% | 25.1–29.8% | 24.7–30.3% | 23.9–31.2% |
 | [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 23.7% | 21.9–25.7% | 21.4–26.3% | 20.9–26.8% | 20.0–27.8% |
 | [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 26.3% | 24.6–28.1% | 24.2–28.6% | 23.7–29.0% | 23.0–29.9% |
-| [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 24.4% | N/A | N/A | N/A | N/A |
+| [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 24.4% | 22.5–26.5% | 21.9–27.1% | 21.5–27.6% | 20.6–28.7% |
 | [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 24.1% | 22.4–25.9% | 22.0–26.4% | 21.6–26.9% | 20.8–27.8% |
 | [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 25.3% | 23.6–27.1% | 23.1–27.6% | 22.7–28.1% | 21.9–29.0% |
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 22.4% | 20.8–24.2% | 20.3–24.7% | 20.0–25.1% | 19.2–26.0% |
@@ -93,7 +93,7 @@ Last result: **11.6%** (General Election of 13 September 2021)
 | [2–8 January 2024](2024-01-08-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 12.8% | N/A | N/A | N/A | N/A |
 | [2–7 January 2024](2024-01-07-Verian.html) | Verian <br> TV2 | 11.4% | N/A | N/A | N/A | N/A |
 | [3–4 January 2024](2024-01-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 14.2% | N/A | N/A | N/A | N/A |
-| [3 January 2024](2024-01-03-InFact.html) | InFact <br> Nettavisen | 14.4% | N/A | N/A | N/A | N/A |
+| [3 January 2024](2024-01-03-InFact.html) | InFact <br> Nettavisen | 14.4% | 13.2–15.9% | 12.8–16.3% | 12.5–16.7% | 11.9–17.4% |
 | [13 December 2023](2023-12-13-InFact.html) | InFact <br> Nettavisen | 14.2% | N/A | N/A | N/A | N/A |
 | [6–11 December 2023](2023-12-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 12.4% | N/A | N/A | N/A | N/A |
 | [4–8 December 2023](2023-12-08-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 12.2% | N/A | N/A | N/A | N/A |
@@ -342,10 +342,10 @@ Last result: **21** seats (General Election of 13 September 2021)
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 52 | 48–57 | 47–58 | 46–59 | 44–61 |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 43 | 41–47 | 40–48 | 40–49 | 38–50 |
 | [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 46 | 42–50 | 42–51 | 42–52 | 41–54 |
-| [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 51 | 47–55 | 46–56 | 45–57 | 43–58 |
+| [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 51 | 47–55 | 46–56 | 44–57 | 43–58 |
 | [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 43 | 40–47 | 39–48 | 39–50 | 37–51 |
 | [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 48 | 44–51 | 42–53 | 42–54 | 42–55 |
-| [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
+| [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 44 | 41–48 | 40–50 | 40–51 | 38–53 |
 | [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 42 | 41–46 | 40–48 | 39–49 | 37–50 |
 | [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 47 | 43–50 | 42–51 | 42–52 | 41–55 |
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 41 | 38–43 | 37–44 | 36–45 | 35–46 |
@@ -421,7 +421,7 @@ Last result: **21** seats (General Election of 13 September 2021)
 | [2–8 January 2024](2024-01-08-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse |  |  |  |  |  |
 | [2–7 January 2024](2024-01-07-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
 | [3–4 January 2024](2024-01-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [3 January 2024](2024-01-03-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
+| [3 January 2024](2024-01-03-InFact.html) | InFact <br> Nettavisen | 25 | 22–29 | 22–29 | 21–31 | 20–32 |
 | [13 December 2023](2023-12-13-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
 | [6–11 December 2023](2023-12-11-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
 | [4–8 December 2023](2023-12-08-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
