@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/norwegian_polls</id>
   <title>All Registered Polls for the Norwegian Parliament</title>
-  <updated>2024-12-28T20:14:56.896134+01:00</updated>
+  <updated>2024-12-28T21:09:20.519692+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Arbeiderpartiet: 14.6–19.3%, 29–38 seats</li><li>Kristelig Folkeparti: 3.1–5.6%, 2–9 seats</li><li>Høyre: 18.3–23.3%, 33–41 seats</li><li>Venstre: 3.6–6.3%, 3–10 seats</li><li>Fremskrittspartiet: 24.9–30.5%, 46–59 seats</li><li>Miljøpartiet De Grønne: 2.9–5.3%, 2–8 seats</li><li>Sosialistisk Venstreparti: 5.5–8.7%, 8–14 seats</li><li>Rødt: 5.4–8.5%, 8–14 seats</li><li>Senterpartiet: 3.6–6.2%, 1–10 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2024-12-14-Norstat.html</id>
@@ -30,6 +30,14 @@
     <title>Opinion Poll by Opinion Perduco for Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 3–9 December 2024</title>
     <updated>2024-12-28T14:13:00.05329+01:00</updated>
     <dc:date>2024-12-28T14:13:00.05329+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Arbeiderpartiet: 12.2–16.5%, 22–33 seats</li><li>Kristelig Folkeparti: 3.2–5.7%, 2–10 seats</li><li>Høyre: 19.1–24.2%, 34–43 seats</li><li>Venstre: 3.6–6.2%, 2–10 seats</li><li>Fremskrittspartiet: 24.7–30.3%, 44–57 seats</li><li>Miljøpartiet De Grønne: 2.5–4.8%, 1–8 seats</li><li>Sosialistisk Venstreparti: 9.2–13.1%, 14–24 seats</li><li>Rødt: 4.3–7.1%, 6–12 seats</li><li>Senterpartiet: 2.8–5.2%, 0–9 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2024-12-09-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2024-12-09-Norstat.html"/>
+    <title>Opinion Poll by Norstat for Dagbladet and Vårt Land, 2–9 December 2024</title>
+    <updated>2024-12-28T21:09:20.519692+01:00</updated>
+    <dc:date>2024-12-28T21:09:20.519692+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Arbeiderpartiet: 15.6–20.9%, 31–39 seats</li><li>Kristelig Folkeparti: 3.0–5.9%, 1–10 seats</li><li>Høyre: 20.1–25.9%, 35–47 seats</li><li>Venstre: 3.4–6.3%, 2–10 seats</li><li>Industri- og Næringspartiet: 0.1–1.1%, 0 seats</li><li>Fremskrittspartiet: 20.9–26.8%, 39–50 seats</li><li>Miljøpartiet De Grønne: 1.9–4.3%, 1–6 seats</li><li>Sosialistisk Venstreparti: 7.0–10.9%, 10–19 seats</li><li>Rødt: 3.9–7.0%, 1–12 seats</li><li>Senterpartiet: 4.0–7.2%, 6–12 seats</li></ul></div></content>
@@ -95,5 +103,5 @@
     <updated>2024-12-28T20:14:56.896134+01:00</updated>
     <dc:date>2024-12-28T20:14:56.896134+01:00</dc:date>
   </entry>
-  <dc:date>2024-12-28T20:14:56.896134+01:00</dc:date>
+  <dc:date>2024-12-28T21:09:20.519692+01:00</dc:date>
 </feed>
