@@ -23,11 +23,11 @@ Last result: **0.3%** (General Election of 13 September 2021)
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.0% | N/A | N/A | N/A | N/A |
 | [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
-| [4 November 2024](2024-11-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 1.4% | N/A | N/A | N/A | N/A |
+| [4 November 2024](2024-11-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 1.4% | 1.0–2.2% | 0.9–2.5% | 0.8–2.7% | 0.6–3.1% |
 | [4 November 2024](2024-11-04-InFact.html) | InFact <br> Nettavisen | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.7% |
-| [1 November 2024](2024-11-01-Verian.html) | Verian <br> TV2 | 1.0% | N/A | N/A | N/A | N/A |
-| [15–19 October 2024](2024-10-19-Norstat.html) | Norstat <br> Aftenposten and NRK | 1.4% | N/A | N/A | N/A | N/A |
-| [10–14 October 2024](2024-10-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 1.4% | N/A | N/A | N/A | N/A |
+| [1 November 2024](2024-11-01-Verian.html) | Verian <br> TV2 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [15–19 October 2024](2024-10-19-Norstat.html) | Norstat <br> Aftenposten and NRK | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.4% | 0.7–2.7% |
+| [10–14 October 2024](2024-10-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [1–7 October 2024](2024-10-07-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
 | [4 October 2024](2024-10-04-Verian.html) | Verian <br> TV2 | 0.5% | N/A | N/A | N/A | N/A |
 | [3 October 2024](2024-10-03-InFact.html) | InFact <br> Nettavisen | 2.1% | N/A | N/A | N/A | N/A |
@@ -247,7 +247,7 @@ Last result: **0.3%** (General Election of 13 September 2021)
 | [5–6 April 2022](2022-04-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.0% | N/A | N/A | N/A | N/A |
 | [28 March–1 April 2022](2022-04-01-KantarTNS.html) | Kantar TNS <br> TV2 | 0.0% | N/A | N/A | N/A | N/A |
 | [22–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 0.0% | N/A | N/A | N/A | N/A |
-| [21–23 March 2022](2022-03-23-Ipsos.html) | Ipsos <br> Dagbladet | 0.3% | N/A | N/A | N/A | N/A |
+| [21–23 March 2022](2022-03-23-Ipsos.html) | Ipsos <br> Dagbladet | 0.3% | 0.1–0.7% | 0.1–0.9% | 0.1–1.0% | 0.0–1.2% |
 | [15–20 March 2022](2022-03-20-Norstat.html) | Norstat <br> Vårt Land | 0.0% | N/A | N/A | N/A | N/A |
 | [8–14 March 2022](2022-03-14-Sentio.html) | Sentio <br> Nettavisen | 0.5% | N/A | N/A | N/A | N/A |
 | [8–14 March 2022](2022-03-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.0% | N/A | N/A | N/A | N/A |
@@ -328,17 +328,17 @@ Last result: **0** seats (General Election of 13 September 2021)
 | [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
 | [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0 | 0 | 0 | 0 | 0 |
 | [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 0 | 0 | 0 | 0 | 0 |
-| [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0 | 0 | 0 | 0 | 0–1 |
+| [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0 | 0 | 0 | 0 | 0 |
 | [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
 | [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
 | [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0 | 0 | 0 | 0 | 0 |
-| [4 November 2024](2024-11-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
+| [4 November 2024](2024-11-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0 | 0 | 0 | 0–1 | 0–2 |
 | [4 November 2024](2024-11-04-InFact.html) | InFact <br> Nettavisen | 0 | 0 | 0 | 0 | 0–1 |
-| [1 November 2024](2024-11-01-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
-| [15–19 October 2024](2024-10-19-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [10–14 October 2024](2024-10-14-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
+| [1 November 2024](2024-11-01-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
+| [15–19 October 2024](2024-10-19-Norstat.html) | Norstat <br> Aftenposten and NRK | 0 | 0 | 0 | 0 | 0 |
+| [10–14 October 2024](2024-10-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 0 | 0 | 0 | 0–2 | 0–2 |
 | [1–7 October 2024](2024-10-07-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [4 October 2024](2024-10-04-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
 | [3 October 2024](2024-10-03-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
@@ -558,7 +558,7 @@ Last result: **0** seats (General Election of 13 September 2021)
 | [5–6 April 2022](2022-04-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
 | [28 March–1 April 2022](2022-04-01-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
 | [22–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [21–23 March 2022](2022-03-23-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |
+| [21–23 March 2022](2022-03-23-Ipsos.html) | Ipsos <br> Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [15–20 March 2022](2022-03-20-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
 | [8–14 March 2022](2022-03-14-Sentio.html) | Sentio <br> Nettavisen |  |  |  |  |  |
 | [8–14 March 2022](2022-03-14-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
