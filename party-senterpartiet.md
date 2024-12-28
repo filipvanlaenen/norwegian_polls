@@ -19,7 +19,7 @@ Last result: **13.5%** (General Election of 13 September 2021)
 | [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 6.7% | 5.8–7.7% | 5.5–8.0% | 5.3–8.3% | 4.9–8.9% |
 | [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 5.3% | N/A | N/A | N/A | N/A |
 | [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 6.1% | 5.3–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.4% |
-| [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 5.4% | N/A | N/A | N/A | N/A |
+| [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 6.8% | N/A | N/A | N/A | N/A |
 | [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 6.8% | N/A | N/A | N/A | N/A |
 | [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 7.4% | N/A | N/A | N/A | N/A |
@@ -337,8 +337,8 @@ Last result: **28** seats (General Election of 13 September 2021)
 | [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 9 | 7–11 | 7–12 | 6–13 | 0–14 |
 | [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 12 | 9–14 | 9–15 | 9–15 | 8–15 |
 | [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
-| [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 10 | 9–11 | 9–12 | 7–13 | 7–14 |
+| [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 10 | 7–11 | 7–12 | 7–12 | 0–15 |
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
 | [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
@@ -634,14 +634,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 96% |  |
 | 5 | 0.6% | 96% |  |
 | 6 | 5% | 96% |  |
-| 7 | 11% | 91% |  |
+| 7 | 12% | 91% |  |
 | 8 | 15% | 79% |  |
-| 9 | 20% | 65% | Median |
-| 10 | 21% | 45% |  |
-| 11 | 9% | 24% |  |
-| 12 | 6% | 15% |  |
+| 9 | 21% | 64% | Median |
+| 10 | 21% | 43% |  |
+| 11 | 7% | 22% |  |
+| 12 | 6% | 16% |  |
 | 13 | 6% | 9% |  |
-| 14 | 2% | 3% |  |
+| 14 | 2% | 4% |  |
 | 15 | 1.2% | 1.3% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |

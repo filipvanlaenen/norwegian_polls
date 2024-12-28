@@ -19,7 +19,7 @@ Last result: **11.6%** (General Election of 13 September 2021)
 | [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 26.3% | 24.6–28.1% | 24.2–28.6% | 23.7–29.0% | 23.0–29.9% |
 | [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 24.4% | N/A | N/A | N/A | N/A |
 | [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 24.1% | 22.4–25.9% | 22.0–26.4% | 21.6–26.9% | 20.8–27.8% |
-| [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 25.3% | N/A | N/A | N/A | N/A |
+| [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 25.3% | 23.6–27.1% | 23.1–27.6% | 22.7–28.1% | 21.9–29.0% |
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 22.4% | N/A | N/A | N/A | N/A |
 | [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 21.3% | N/A | N/A | N/A | N/A |
 | [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 21.3% | N/A | N/A | N/A | N/A |
@@ -338,7 +338,7 @@ Last result: **21** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 46 | 42–52 | 41–54 | 40–56 | 38–59 |
+| N/A | [Poll Average](average.html) | 45 | 42–52 | 41–54 | 40–56 | 38–59 |
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 52 | 48–57 | 47–58 | 46–59 | 44–60 |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 43 | 41–47 | 40–47 | 40–49 | 38–50 |
 | [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 46 | 42–50 | 42–52 | 42–52 | 41–54 |
@@ -346,8 +346,8 @@ Last result: **21** seats (General Election of 13 September 2021)
 | [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 43 | 41–47 | 39–48 | 39–50 | 37–51 |
 | [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 46 | 43–52 | 42–54 | 42–55 | 41–55 |
 | [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 46 | 41–46 | 40–46 | 40–47 | 38–47 |
-| [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 42 | 41–46 | 40–47 | 40–49 | 39–49 |
+| [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 47 | 45–51 | 43–52 | 42–52 | 41–53 |
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
 | [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
@@ -653,18 +653,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0% | 100% |  |
 | 36 | 0.1% | 100% |  |
 | 37 | 0.3% | 99.9% |  |
-| 38 | 0.2% | 99.7% |  |
-| 39 | 1.3% | 99.5% |  |
+| 38 | 0.3% | 99.7% |  |
+| 39 | 1.3% | 99.4% |  |
 | 40 | 2% | 98% |  |
-| 41 | 4% | 97% |  |
-| 42 | 13% | 93% |  |
-| 43 | 7% | 80% |  |
-| 44 | 10% | 73% |  |
-| 45 | 7% | 63% |  |
-| 46 | 19% | 55% | Median |
-| 47 | 8% | 36% |  |
+| 41 | 4% | 96% |  |
+| 42 | 19% | 92% |  |
+| 43 | 7% | 73% |  |
+| 44 | 10% | 65% |  |
+| 45 | 7% | 55% | Median |
+| 46 | 11% | 48% |  |
+| 47 | 7% | 36% |  |
 | 48 | 6% | 29% |  |
-| 49 | 4% | 23% |  |
+| 49 | 5% | 23% |  |
 | 50 | 3% | 19% |  |
 | 51 | 4% | 15% |  |
 | 52 | 3% | 12% |  |
