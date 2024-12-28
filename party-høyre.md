@@ -14,17 +14,17 @@ Last result: **20.4%** (General Election of 13 September 2021)
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
 | [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
-| [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 21.5% | N/A | N/A | N/A | N/A |
+| [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.2% | 18.3–25.0% |
 | [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 22.8% | 21.0–24.8% | 20.5–25.4% | 20.1–25.9% | 19.2–26.9% |
 | [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 19.3% | 17.8–20.9% | 17.4–21.3% | 17.0–21.7% | 16.3–22.5% |
 | [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 21.0% | N/A | N/A | N/A | N/A |
 | [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
-| [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 20.9% | N/A | N/A | N/A | N/A |
-| [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 22.4% | N/A | N/A | N/A | N/A |
-| [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 22.4% | N/A | N/A | N/A | N/A |
+| [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 20.9% | 19.4–22.7% | 18.9–23.2% | 18.5–23.6% | 17.8–24.4% |
+| [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 22.4% | 20.5–24.5% | 19.9–25.1% | 19.5–25.6% | 18.6–26.6% |
+| [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 22.4% | 20.6–24.4% | 20.1–25.0% | 19.6–25.5% | 18.8–26.5% |
 | [4 November 2024](2024-11-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 24.1% | N/A | N/A | N/A | N/A |
-| [4 November 2024](2024-11-04-InFact.html) | InFact <br> Nettavisen | 20.3% | N/A | N/A | N/A | N/A |
+| [4 November 2024](2024-11-04-InFact.html) | InFact <br> Nettavisen | 20.3% | 18.8–21.9% | 18.4–22.3% | 18.0–22.7% | 17.3–23.5% |
 | [1 November 2024](2024-11-01-Verian.html) | Verian <br> TV2 | 25.6% | N/A | N/A | N/A | N/A |
 | [15–19 October 2024](2024-10-19-Norstat.html) | Norstat <br> Aftenposten and NRK | 22.7% | N/A | N/A | N/A | N/A |
 | [10–14 October 2024](2024-10-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 25.7% | N/A | N/A | N/A | N/A |
@@ -330,21 +330,21 @@ Last result: **36** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37 | 33–41 | 32–42 | 31–44 | 30–46 |
+| N/A | [Poll Average](average.html) | 37 | 33–41 | 32–42 | 31–44 | 30–47 |
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 36 | 34–39 | 33–40 | 33–41 | 32–43 |
-| [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 36 | 33–39 | 32–40 | 32–41 | 31–42 |
-| [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 36 | 33–39 | 33–40 | 32–41 | 31–42 |
-| [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
-| [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 40 | 37–44 | 36–46 | 34–47 | 33–48 |
-| [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 34 | 31–39 | 31–39 | 30–39 | 29–42 |
+| [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 35 | 33–39 | 32–40 | 32–41 | 31–42 |
+| [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 36 | 33–39 | 32–40 | 32–41 | 31–42 |
+| [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 37 | 35–41 | 34–42 | 34–43 | 33–45 |
+| [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 40 | 37–44 | 36–46 | 35–47 | 33–48 |
+| [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 34 | 31–39 | 31–39 | 30–39 | 29–41 |
 | [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 37 | 37–41 | 37–42 | 36–45 | 35–46 |
-| [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 37 | 34–43 | 34–43 | 34–43 | 32–45 |
-| [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
-| [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
+| [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 37 | 37–42 | 36–44 | 35–46 | 35–47 |
+| [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 39 | 34–41 | 34–42 | 33–43 | 32–45 |
+| [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 37 | 34–40 | 33–41 | 32–41 | 31–43 |
+| [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 39 | 35–44 | 34–45 | 33–45 | 31–47 |
+| [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 41 | 37–44 | 35–46 | 35–47 | 33–49 |
 | [4 November 2024](2024-11-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [4 November 2024](2024-11-04-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
+| [4 November 2024](2024-11-04-InFact.html) | InFact <br> Nettavisen | 36 | 32–38 | 32–39 | 31–40 | 31–41 |
 | [1 November 2024](2024-11-01-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
 | [15–19 October 2024](2024-10-19-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
 | [10–14 October 2024](2024-10-14-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
@@ -629,26 +629,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0% | 100% |  |
-| 29 | 0.3% | 99.9% |  |
-| 30 | 0.3% | 99.7% |  |
-| 31 | 2% | 99.4% |  |
-| 32 | 4% | 97% |  |
-| 33 | 8% | 94% |  |
+| 29 | 0.2% | 99.9% |  |
+| 30 | 0.4% | 99.8% |  |
+| 31 | 4% | 99.4% |  |
+| 32 | 4% | 96% |  |
+| 33 | 7% | 92% |  |
 | 34 | 9% | 85% |  |
 | 35 | 10% | 76% |  |
 | 36 | 9% | 66% | Last Result |
-| 37 | 18% | 58% | Median |
-| 38 | 10% | 40% |  |
-| 39 | 12% | 30% |  |
+| 37 | 17% | 58% | Median |
+| 38 | 9% | 41% |  |
+| 39 | 14% | 32% |  |
 | 40 | 5% | 18% |  |
-| 41 | 6% | 13% |  |
-| 42 | 2% | 7% |  |
-| 43 | 0.8% | 4% |  |
-| 44 | 2% | 3% |  |
-| 45 | 0.5% | 2% |  |
-| 46 | 0.9% | 1.3% |  |
-| 47 | 0.3% | 0.5% |  |
-| 48 | 0.1% | 0.1% |  |
-| 49 | 0% | 0% |  |
+| 41 | 5% | 14% |  |
+| 42 | 4% | 9% |  |
+| 43 | 0.7% | 4% |  |
+| 44 | 1.3% | 4% |  |
+| 45 | 0.6% | 2% |  |
+| 46 | 0.9% | 2% |  |
+| 47 | 0.5% | 0.7% |  |
+| 48 | 0.1% | 0.2% |  |
+| 49 | 0.1% | 0.1% |  |
+| 50 | 0% | 0% |  |
 
 
