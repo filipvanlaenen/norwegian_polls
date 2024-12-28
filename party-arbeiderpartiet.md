@@ -10,15 +10,15 @@ Last result: **26.2%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.8% | 15.4–18.4% | 15.0–18.8% | 14.6–19.2% | 14.0–20.0% |
+| N/A | [Poll Average](average.html) | 17.7% | 15.9–19.6% | 15.4–20.2% | 14.9–20.7% | 14.2–21.6% |
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.3% | 13.9–20.0% |
-| [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 18.9% | N/A | N/A | N/A | N/A |
-| [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 17.7% | N/A | N/A | N/A | N/A |
+| [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 18.9% | 17.3–20.5% | 16.9–21.0% | 16.6–21.4% | 15.9–22.2% |
+| [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 17.7% | 16.2–19.3% | 15.8–19.8% | 15.5–20.2% | 14.8–21.0% |
 | [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 14.2% | N/A | N/A | N/A | N/A |
-| [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 18.1% | N/A | N/A | N/A | N/A |
-| [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 18.1% | N/A | N/A | N/A | N/A |
+| [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 18.1% | 16.4–20.0% | 16.0–20.5% | 15.6–20.9% | 14.8–21.8% |
+| [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 18.1% | 16.6–19.6% | 16.2–20.1% | 15.9–20.5% | 15.2–21.2% |
 | [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 17.6% | N/A | N/A | N/A | N/A |
-| [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 16.5% | N/A | N/A | N/A | N/A |
+| [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 16.5% | 15.0–18.1% | 14.6–18.5% | 14.3–18.9% | 13.6–19.7% |
 | [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 17.5% | N/A | N/A | N/A | N/A |
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 19.0% | N/A | N/A | N/A | N/A |
 | [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 18.7% | N/A | N/A | N/A | N/A |
@@ -307,17 +307,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 11% | 98% |  |
-| 15.5–16.5% | 27% | 87% |  |
-| 16.5–17.5% | 32% | 60% | Median |
-| 17.5–18.5% | 20% | 28% |  |
-| 18.5–19.5% | 7% | 8% |  |
-| 19.5–20.5% | 1.2% | 1.4% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
-| 21.5–22.5% | 0% | 0% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.1% | 100% |  |
+| 13.5–14.5% | 1.1% | 99.9% |  |
+| 14.5–15.5% | 5% | 98.8% |  |
+| 15.5–16.5% | 15% | 93% |  |
+| 16.5–17.5% | 24% | 78% |  |
+| 17.5–18.5% | 26% | 55% | Median |
+| 18.5–19.5% | 18% | 29% |  |
+| 19.5–20.5% | 8% | 11% |  |
+| 20.5–21.5% | 2% | 3% |  |
+| 21.5–22.5% | 0.5% | 0.5% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% | Last Result |
@@ -331,15 +331,15 @@ Last result: **48** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 30–36 | 29–37 | 29–38 | 27–39 |
+| N/A | [Poll Average](average.html) | 34 | 32–37 | 31–38 | 30–39 | 28–40 |
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 33 | 30–36 | 29–37 | 29–38 | 27–39 |
-| [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
+| [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 36 | 33–38 | 33–39 | 32–40 | 32–41 |
+| [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 34 | 32–37 | 32–37 | 31–37 | 28–39 |
 | [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
-| [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
+| [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 34 | 32–39 | 32–39 | 31–39 | 28–42 |
+| [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 35 | 32–38 | 31–38 | 29–38 | 28–39 |
 | [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
+| [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 32 | 30–34 | 30–35 | 30–35 | 27–36 |
 | [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
 | [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
@@ -629,25 +629,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.2% | 99.9% |  |
-| 27 | 0.3% | 99.7% |  |
-| 28 | 1.3% | 99.4% |  |
-| 29 | 8% | 98% |  |
-| 30 | 10% | 90% |  |
-| 31 | 8% | 80% |  |
-| 32 | 16% | 72% |  |
-| 33 | 16% | 56% | Median |
-| 34 | 11% | 40% |  |
-| 35 | 10% | 29% |  |
-| 36 | 9% | 18% |  |
-| 37 | 7% | 10% |  |
-| 38 | 2% | 3% |  |
-| 39 | 0.6% | 1.0% |  |
-| 40 | 0.2% | 0.4% |  |
-| 41 | 0% | 0.1% |  |
-| 42 | 0.1% | 0.1% |  |
-| 43 | 0% | 0% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.2% | 99.9% |  |
+| 28 | 0.6% | 99.8% |  |
+| 29 | 2% | 99.2% |  |
+| 30 | 2% | 98% |  |
+| 31 | 5% | 95% |  |
+| 32 | 21% | 90% |  |
+| 33 | 13% | 69% |  |
+| 34 | 13% | 56% | Median |
+| 35 | 14% | 43% |  |
+| 36 | 12% | 29% |  |
+| 37 | 10% | 18% |  |
+| 38 | 4% | 8% |  |
+| 39 | 2% | 3% |  |
+| 40 | 0.4% | 0.9% |  |
+| 41 | 0.3% | 0.5% |  |
+| 42 | 0.2% | 0.2% |  |
+| 43 | 0% | 0.1% |  |
 | 44 | 0% | 0% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |
