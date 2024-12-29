@@ -359,7 +359,7 @@ Last result: **28** seats (General Election of 13 September 2021)
 | [3–4 September 2024](2024-09-04-InFact.html) | InFact <br> Nettavisen | 12 | 10–12 | 8–13 | 8–14 | 6–15 |
 | [2 September 2024](2024-09-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 14 | 8–15 | 8–15 | 8–15 | 1–15 |
 | [26–30 August 2024](2024-08-30-Verian.html) | Verian <br> TV2 | 10 | 10–14 | 10–14 | 9–15 | 8–15 |
-| [7–12 August 2024](2024-08-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 9 | 8–12 | 8–12 | 8–12 | 0–15 |
+| [7–12 August 2024](2024-08-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 7 | 7 | 7 | 7–9 | 7–11 |
 | [6–12 August 2024](2024-08-12-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse |  |  |  |  |  |
 | [5–10 August 2024](2024-08-10-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
 | [5–9 August 2024](2024-08-09-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
