@@ -29,20 +29,20 @@ Last result: **1.1%** (General Election of 13 September 2021)
 | [15–19 October 2024](2024-10-19-Norstat.html) | Norstat <br> Aftenposten and NRK | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [10–14 October 2024](2024-10-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [1–7 October 2024](2024-10-07-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
-| [4 October 2024](2024-10-04-Verian.html) | Verian <br> TV2 | 1.0% | N/A | N/A | N/A | N/A |
-| [3 October 2024](2024-10-03-InFact.html) | InFact <br> Nettavisen | 0.4% | N/A | N/A | N/A | N/A |
+| [4 October 2024](2024-10-04-Verian.html) | Verian <br> TV2 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [3 October 2024](2024-10-03-InFact.html) | InFact <br> Nettavisen | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [1–2 October 2024](2024-10-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.0% | N/A | N/A | N/A | N/A |
 | [23–30 September 2024](2024-09-30-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0.0% | N/A | N/A | N/A | N/A |
-| [17–21 September 2024](2024-09-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 1.0% | N/A | N/A | N/A | N/A |
-| [4–9 September 2024](2024-09-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.7% | N/A | N/A | N/A | N/A |
+| [17–21 September 2024](2024-09-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [4–9 September 2024](2024-09-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [3–9 September 2024](2024-09-09-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 September 2024](2024-09-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 September 2024](2024-09-04-InFact.html) | InFact <br> Nettavisen | 0.0% | N/A | N/A | N/A | N/A |
-| [2 September 2024](2024-09-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0.5% | N/A | N/A | N/A | N/A |
-| [26–30 August 2024](2024-08-30-Verian.html) | Verian <br> TV2 | 0.2% | N/A | N/A | N/A | N/A |
-| [7–12 August 2024](2024-08-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.9% | N/A | N/A | N/A | N/A |
+| [2 September 2024](2024-09-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0.5% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% | 0.1–1.7% |
+| [26–30 August 2024](2024-08-30-Verian.html) | Verian <br> TV2 | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [7–12 August 2024](2024-08-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [6–12 August 2024](2024-08-12-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
-| [5–10 August 2024](2024-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK | 0.8% | N/A | N/A | N/A | N/A |
+| [5–10 August 2024](2024-08-10-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 0.0% | N/A | N/A | N/A | N/A |
 | [5–9 August 2024](2024-08-09-Verian.html) | Verian <br> TV2 | 0.7% | N/A | N/A | N/A | N/A |
 | [8 August 2024](2024-08-08-InFact.html) | InFact <br> Nettavisen | 1.0% | N/A | N/A | N/A | N/A |
 | [7 August 2024](2024-08-07-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0.8% | N/A | N/A | N/A | N/A |
@@ -339,20 +339,20 @@ Last result: **0** seats (General Election of 13 September 2021)
 | [15–19 October 2024](2024-10-19-Norstat.html) | Norstat <br> Aftenposten and NRK | 0 | 0 | 0 | 0 | 0 |
 | [10–14 October 2024](2024-10-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 0 | 0 | 0 | 0 | 0 |
 | [1–7 October 2024](2024-10-07-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
-| [4 October 2024](2024-10-04-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
-| [3 October 2024](2024-10-03-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
+| [4 October 2024](2024-10-04-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
+| [3 October 2024](2024-10-03-InFact.html) | InFact <br> Nettavisen | 0 | 0 | 0 | 0 | 0 |
 | [1–2 October 2024](2024-10-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
 | [23–30 September 2024](2024-09-30-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [17–21 September 2024](2024-09-21-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [4–9 September 2024](2024-09-09-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
+| [17–21 September 2024](2024-09-21-Norstat.html) | Norstat <br> Aftenposten and NRK | 0 | 0 | 0 | 0 | 0 |
+| [4–9 September 2024](2024-09-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 0 | 0 | 0 | 0 | 0 |
 | [3–9 September 2024](2024-09-09-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse |  |  |  |  |  |
 | [3–4 September 2024](2024-09-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
 | [3–4 September 2024](2024-09-04-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
-| [2 September 2024](2024-09-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [26–30 August 2024](2024-08-30-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
-| [7–12 August 2024](2024-08-12-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
+| [2 September 2024](2024-09-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0 | 0 | 0 | 0 | 0 |
+| [26–30 August 2024](2024-08-30-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
+| [7–12 August 2024](2024-08-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 0 | 0 | 0 | 0 | 0 |
 | [6–12 August 2024](2024-08-12-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse |  |  |  |  |  |
-| [5–10 August 2024](2024-08-10-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [5–10 August 2024](2024-08-10-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
 | [5–9 August 2024](2024-08-09-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
 | [8 August 2024](2024-08-08-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
 | [7 August 2024](2024-08-07-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
