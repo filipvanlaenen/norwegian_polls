@@ -69,22 +69,22 @@ Last result: **20.4%** (General Election of 13 September 2021)
 | [3–8 April 2024](2024-04-08-ResponsAnalyse.html) | Respons Analyse <br> VG | 28.4% | 26.6–30.3% | 26.1–30.8% | 25.7–31.2% | 24.8–32.2% |
 | [2–8 April 2024](2024-04-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 28.2% | 26.4–30.1% | 26.0–30.7% | 25.5–31.1% | 24.7–32.0% |
 | [2–6 April 2024](2024-04-06-Norstat.html) | Norstat <br> Aftenposten and NRK | 25.4% | 23.7–27.3% | 23.2–27.8% | 22.8–28.2% | 22.0–29.1% |
-| [2–5 April 2024](2024-04-05-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 30.5% | N/A | N/A | N/A | N/A |
-| [2–4 April 2024](2024-04-04-Verian.html) | Verian <br> TV2 | 28.2% | N/A | N/A | N/A | N/A |
-| [4 April 2024](2024-04-04-InFact.html) | InFact <br> Nettavisen | 25.4% | N/A | N/A | N/A | N/A |
-| [6–11 March 2024](2024-03-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 28.5% | N/A | N/A | N/A | N/A |
-| [5–9 March 2024](2024-03-09-Norstat.html) | Norstat <br> Aftenposten and NRK | 27.0% | N/A | N/A | N/A | N/A |
-| [5–6 March 2024](2024-03-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 26.0% | N/A | N/A | N/A | N/A |
-| [4 March 2024](2024-03-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 24.9% | N/A | N/A | N/A | N/A |
-| [4 March 2024](2024-03-04-InFact.html) | InFact <br> Nettavisen | 26.0% | N/A | N/A | N/A | N/A |
-| [26 February–1 March 2024](2024-03-01-Verian.html) | Verian <br> TV2 | 26.9% | N/A | N/A | N/A | N/A |
-| [19–24 February 2024](2024-02-24-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 26.7% | N/A | N/A | N/A | N/A |
-| [19–24 February 2024](2024-02-24-Norstat.html) | Norstat <br> Vårt Land | 25.1% | N/A | N/A | N/A | N/A |
-| [7–12 February 2024](2024-02-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 27.4% | N/A | N/A | N/A | N/A |
-| [6–12 February 2024](2024-02-12-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 29.6% | N/A | N/A | N/A | N/A |
-| [6–11 February 2024](2024-02-11-Norstat.html) | Norstat <br> Aftenposten and NRK | 26.5% | N/A | N/A | N/A | N/A |
-| [6–7 February 2024](2024-02-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 27.6% | N/A | N/A | N/A | N/A |
-| [29 January–5 February 2024](2024-02-05-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 31.1% | N/A | N/A | N/A | N/A |
+| [2–5 April 2024](2024-04-05-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 30.5% | 28.4–32.8% | 27.8–33.5% | 27.2–34.0% | 26.2–35.1% |
+| [2–4 April 2024](2024-04-04-Verian.html) | Verian <br> TV2 | 28.2% | 26.4–30.1% | 26.0–30.7% | 25.5–31.1% | 24.7–32.0% |
+| [4 April 2024](2024-04-04-InFact.html) | InFact <br> Nettavisen | 25.4% | 23.8–27.1% | 23.3–27.6% | 22.9–28.0% | 22.2–28.9% |
+| [6–11 March 2024](2024-03-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
+| [5–9 March 2024](2024-03-09-Norstat.html) | Norstat <br> Aftenposten and NRK | 27.0% | 25.2–28.8% | 24.7–29.4% | 24.3–29.8% | 23.5–30.7% |
+| [5–6 March 2024](2024-03-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 26.0% | 24.1–28.0% | 23.5–28.6% | 23.0–29.1% | 22.1–30.1% |
+| [4 March 2024](2024-03-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 24.9% | 22.9–27.0% | 22.3–27.6% | 21.8–28.2% | 20.9–29.2% |
+| [4 March 2024](2024-03-04-InFact.html) | InFact <br> Nettavisen | 26.0% | 24.4–27.8% | 23.9–28.3% | 23.5–28.7% | 22.7–29.6% |
+| [26 February–1 March 2024](2024-03-01-Verian.html) | Verian <br> TV2 | 26.9% | 25.2–28.8% | 24.7–29.3% | 24.3–29.8% | 23.4–30.7% |
+| [19–24 February 2024](2024-02-24-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 26.7% | 25.0–28.6% | 24.4–29.1% | 24.0–29.6% | 23.2–30.5% |
+| [19–24 February 2024](2024-02-24-Norstat.html) | Norstat <br> Vårt Land | 25.1% | 23.1–27.3% | 22.6–27.9% | 22.1–28.4% | 21.2–29.4% |
+| [7–12 February 2024](2024-02-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 27.4% | 25.6–29.2% | 25.1–29.8% | 24.7–30.2% | 23.9–31.1% |
+| [6–12 February 2024](2024-02-12-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 29.6% | 27.4–31.9% | 26.8–32.5% | 26.3–33.1% | 25.3–34.2% |
+| [6–11 February 2024](2024-02-11-Norstat.html) | Norstat <br> Aftenposten and NRK | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
+| [6–7 February 2024](2024-02-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 27.6% | 25.9–29.5% | 25.4–30.0% | 25.0–30.5% | 24.1–31.4% |
+| [29 January–5 February 2024](2024-02-05-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 31.1% | 29.0–33.4% | 28.3–34.1% | 27.8–34.6% | 26.8–35.7% |
 | [27–4 February 2024](2024-02-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 24.9% | N/A | N/A | N/A | N/A |
 | [29 January–3 February 2024](2024-02-03-Verian.html) | Verian <br> TV2 | 27.6% | N/A | N/A | N/A | N/A |
 | [1 February 2024](2024-02-01-InFact.html) | InFact <br> Nettavisen | 26.8% | N/A | N/A | N/A | N/A |
@@ -389,22 +389,22 @@ Last result: **36** seats (General Election of 13 September 2021)
 | [3–8 April 2024](2024-04-08-ResponsAnalyse.html) | Respons Analyse <br> VG | 48 | 45–52 | 45–53 | 45–54 | 43–56 |
 | [2–8 April 2024](2024-04-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 49 | 46–53 | 45–54 | 44–56 | 42–57 |
 | [2–6 April 2024](2024-04-06-Norstat.html) | Norstat <br> Aftenposten and NRK | 43 | 42–48 | 40–48 | 39–49 | 38–52 |
-| [2–5 April 2024](2024-04-05-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [2–4 April 2024](2024-04-04-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
-| [4 April 2024](2024-04-04-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
-| [6–11 March 2024](2024-03-11-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [5–9 March 2024](2024-03-09-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [5–6 March 2024](2024-03-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [4 March 2024](2024-03-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [4 March 2024](2024-03-04-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
-| [26 February–1 March 2024](2024-03-01-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
-| [19–24 February 2024](2024-02-24-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse |  |  |  |  |  |
-| [19–24 February 2024](2024-02-24-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
-| [7–12 February 2024](2024-02-12-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [6–12 February 2024](2024-02-12-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse |  |  |  |  |  |
-| [6–11 February 2024](2024-02-11-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [6–7 February 2024](2024-02-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [29 January–5 February 2024](2024-02-05-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
+| [2–5 April 2024](2024-04-05-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 54 | 50–59 | 49–59 | 49–60 | 48–63 |
+| [2–4 April 2024](2024-04-04-Verian.html) | Verian <br> TV2 | 47 | 47–51 | 47–52 | 46–53 | 45–54 |
+| [4 April 2024](2024-04-04-InFact.html) | InFact <br> Nettavisen | 48 | 40–48 | 40–48 | 40–48 | 40–50 |
+| [6–11 March 2024](2024-03-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 48 | 48–50 | 48–51 | 48–51 | 47–53 |
+| [5–9 March 2024](2024-03-09-Norstat.html) | Norstat <br> Aftenposten and NRK | 48 | 44–50 | 42–51 | 42–52 | 40–55 |
+| [5–6 March 2024](2024-03-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 43 | 43–48 | 42–49 | 40–49 | 39–53 |
+| [4 March 2024](2024-03-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 37 | 36–46 | 36–46 | 33–48 | 33–52 |
+| [4 March 2024](2024-03-04-InFact.html) | InFact <br> Nettavisen | 45 | 42–49 | 41–50 | 41–50 | 40–51 |
+| [26 February–1 March 2024](2024-03-01-Verian.html) | Verian <br> TV2 | 50 | 48–52 | 47–53 | 46–53 | 43–55 |
+| [19–24 February 2024](2024-02-24-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 46 | 44–50 | 42–51 | 42–52 | 41–54 |
+| [19–24 February 2024](2024-02-24-Norstat.html) | Norstat <br> Vårt Land | 46 | 41–46 | 41–47 | 40–50 | 38–52 |
+| [7–12 February 2024](2024-02-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 49 | 44–52 | 44–53 | 43–54 | 41–55 |
+| [6–12 February 2024](2024-02-12-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 51 | 47–56 | 46–58 | 45–59 | 42–62 |
+| [6–11 February 2024](2024-02-11-Norstat.html) | Norstat <br> Aftenposten and NRK | 47 | 44–50 | 43–51 | 42–52 | 40–55 |
+| [6–7 February 2024](2024-02-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 51 | 47–55 | 47–56 | 46–56 | 44–58 |
+| [29 January–5 February 2024](2024-02-05-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 56 | 51–60 | 50–62 | 49–64 | 48–66 |
 | [27–4 February 2024](2024-02-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
 | [29 January–3 February 2024](2024-02-03-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
 | [1 February 2024](2024-02-01-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
