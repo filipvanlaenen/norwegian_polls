@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Mon, 30 Dec 2024 23:18:03 +0100</pubDate>
+    <pubDate>Tue, 31 Dec 2024 17:09:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 10–14 December 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2024-12-14-Norstat.html#seats</link>
@@ -1750,6 +1750,486 @@
       <dc:date>2024-12-30T23:18:03.670976+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 2–5 April 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-04-05-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 32–42 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 49–60 seats&lt;/li&gt;&lt;li&gt;Venstre: 3–13 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–7 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 24–35 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 13–21 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–10 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 1–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-04-05-OpinionPerduco-seats.png"
+        length="271833"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 09:43:28 +0100</pubDate>
+      <dc:date>2024-12-31T09:43:28.689526+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 2–5 April 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-04-05-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-04-05-OpinionPerduco-coalitions-seats.png"
+        length="550909"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 09:43:28 +0100</pubDate>
+      <dc:date>2024-12-31T09:43:28.689526+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 2–5 April 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-04-05-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 16.3–22.0%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.2–4.8%&lt;/li&gt;&lt;li&gt;Høyre: 27.2–34.0%&lt;/li&gt;&lt;li&gt;Venstre: 3.8–7.1%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 1.7–4.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.9–18.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.3–5.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.5–11.8%&lt;/li&gt;&lt;li&gt;Rødt: 3.0–6.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 3.9–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-04-05-OpinionPerduco.png"
+        length="316115"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 09:43:28 +0100</pubDate>
+      <dc:date>2024-12-31T09:43:28.689526+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for TV2, 2–4 April 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalistene: 0 seats&lt;/li&gt;&lt;li&gt;Venstre: 6–11 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 19–24 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–7 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 17–23 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 38–47 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–9 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 46–53 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–10 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 8–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-Verian-seats.png"
+        length="273192"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 10:12:43 +0100</pubDate>
+      <dc:date>2024-12-31T10:12:43.208016+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for TV2, 2–4 April 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-Verian-coalitions-seats.png"
+        length="432192"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 10:12:43 +0100</pubDate>
+      <dc:date>2024-12-31T10:12:43.208016+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for TV2, 2–4 April 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalistene: 0.3–1.3%&lt;/li&gt;&lt;li&gt;Venstre: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.1–15.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8.8–12.7%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.2–1.0%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 18.6–23.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Høyre: 25.5–31.1%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Rødt: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 4.3–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-Verian.png"
+        length="344787"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 10:12:43 +0100</pubDate>
+      <dc:date>2024-12-31T10:12:43.208016+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by InFact for Nettavisen, 4 April 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-InFact.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalistene: 0 seats&lt;/li&gt;&lt;li&gt;Venstre: 7–12 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 23–33 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–7 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 12–21 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 33–42 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–9 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 40–48 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 1–8 seats&lt;/li&gt;&lt;li&gt;Rødt: 7–11 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 1–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-InFact-seats.png"
+        length="311595"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 10:43:50 +0100</pubDate>
+      <dc:date>2024-12-31T10:43:50.653848+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by InFact for Nettavisen, 4 April 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-InFact.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-InFact-coalitions-seats.png"
+        length="492995"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 10:43:50 +0100</pubDate>
+      <dc:date>2024-12-31T10:43:50.653848+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by InFact for Nettavisen, 4 April 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-InFact.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalistene: 0.2–1.0%&lt;/li&gt;&lt;li&gt;Venstre: 4.5–7.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13.3–17.5%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.5–4.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8.5–12.1%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 16.2–20.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Konservativt: 0.0–0.6%&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0.2–1.0%&lt;/li&gt;&lt;li&gt;Høyre: 22.9–28.0%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 2.5–4.6%&lt;/li&gt;&lt;li&gt;Rødt: 4.5–7.2%&lt;/li&gt;&lt;li&gt;Senterpartiet: 4.2–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-04-04-InFact.png"
+        length="369121"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 10:43:50 +0100</pubDate>
+      <dc:date>2024-12-31T10:43:50.653848+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 6–11 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-11-ResponsAnalyse.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 8–13 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 24–27 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 17–19 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 31–33 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3–7 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 48–51 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–2 seats&lt;/li&gt;&lt;li&gt;Rødt: 8–12 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 9–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-11-ResponsAnalyse-seats.png"
+        length="258045"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 11:14:56 +0100</pubDate>
+      <dc:date>2024-12-31T11:14:56.243661+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 6–11 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-11-ResponsAnalyse.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-11-ResponsAnalyse-coalitions-seats.png"
+        length="398053"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 11:14:56 +0100</pubDate>
+      <dc:date>2024-12-31T11:14:56.243661+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 6–11 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-11-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.4–16.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8.5–12.2%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.3–1.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 15.6–20.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Konservativt: 0.0–0.6%&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Høyre: 25.8–31.4%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Rødt: 4.3–7.2%&lt;/li&gt;&lt;li&gt;Senterpartiet: 4.8–7.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-11-ResponsAnalyse.png"
+        length="353506"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 11:14:56 +0100</pubDate>
+      <dc:date>2024-12-31T11:14:56.243661+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 5–9 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-09-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 30–39 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–52 seats&lt;/li&gt;&lt;li&gt;Venstre: 8–13 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 23–34 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 14–21 seats&lt;/li&gt;&lt;li&gt;Rødt: 8–14 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 9–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-09-Norstat-seats.png"
+        length="248676"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 11:41:42 +0100</pubDate>
+      <dc:date>2024-12-31T11:41:42.830914+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 5–9 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-09-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-09-Norstat-coalitions-seats.png"
+        length="514861"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 11:41:42 +0100</pubDate>
+      <dc:date>2024-12-31T11:41:42.830914+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 5–9 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-09-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 15.9–20.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Høyre: 24.3–29.8%&lt;/li&gt;&lt;li&gt;Venstre: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13.0–17.5%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8.4–12.2%&lt;/li&gt;&lt;li&gt;Rødt: 4.9–7.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 5.3–8.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-09-Norstat.png"
+        length="310383"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 11:41:42 +0100</pubDate>
+      <dc:date>2024-12-31T11:41:42.830914+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 5–6 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-06-Norfakta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 9–13 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 23–32 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 13–21 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Kystpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 32–40 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3–10 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0–1 seats&lt;/li&gt;&lt;li&gt;Høyre: 40–49 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–12 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 7–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-06-Norfakta-seats.png"
+        length="311121"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 12:15:23 +0100</pubDate>
+      <dc:date>2024-12-31T12:15:23.699275+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 5–6 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-06-Norfakta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-06-Norfakta-coalitions-seats.png"
+        length="524328"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 12:15:23 +0100</pubDate>
+      <dc:date>2024-12-31T12:15:23.699275+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 5–6 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-06-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 4.9–8.3%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.4–17.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.2–6.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.5–11.6%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.2–1.3%&lt;/li&gt;&lt;li&gt;Kystpartiet: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 16.0–21.5%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.5–6.4%&lt;/li&gt;&lt;li&gt;Konservativt: 0.4–1.8%&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0.7–2.3%&lt;/li&gt;&lt;li&gt;Høyre: 23.0–29.1%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0.7–2.3%&lt;/li&gt;&lt;li&gt;Rødt: 3.7–6.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 4.4–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-06-Norfakta.png"
+        length="389722"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 12:15:23 +0100</pubDate>
+      <dc:date>2024-12-31T12:15:23.699275+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 4 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Folkets parti: 0 seats&lt;/li&gt;&lt;li&gt;Liberalistene: 0 seats&lt;/li&gt;&lt;li&gt;Venstre: 8–13 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 27–36 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–12 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 15–24 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Kystpartiet: 0–1 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 30–42 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–6 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 33–48 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–2 seats&lt;/li&gt;&lt;li&gt;Rødt: 8–12 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 1–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-OpinionPerduco-seats.png"
+        length="340848"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 12:53:15 +0100</pubDate>
+      <dc:date>2024-12-31T12:53:15.752497+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 4 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-OpinionPerduco-coalitions-seats.png"
+        length="534720"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 12:53:15 +0100</pubDate>
+      <dc:date>2024-12-31T12:53:15.752497+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 4 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Folkets parti: 0.0–0.8%&lt;/li&gt;&lt;li&gt;Liberalistene: 0.0–0.8%&lt;/li&gt;&lt;li&gt;Venstre: 4.3–7.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13.7–19.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.5–6.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8.8–13.3%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.2–1.4%&lt;/li&gt;&lt;li&gt;Kystpartiet: 0.0–0.8%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 16.1–21.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.7–4.1%&lt;/li&gt;&lt;li&gt;Konservativt: 0.1–1.2%&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0.4–1.8%&lt;/li&gt;&lt;li&gt;Høyre: 21.8–28.2%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0.8–2.5%&lt;/li&gt;&lt;li&gt;Rødt: 4.3–7.8%&lt;/li&gt;&lt;li&gt;Senterpartiet: 4.0–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-OpinionPerduco.png"
+        length="420060"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 12:53:15 +0100</pubDate>
+      <dc:date>2024-12-31T12:53:15.752497+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by InFact for Nettavisen, 4 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-InFact.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 8–13 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 25–36 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 14–19 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 30–37 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–7 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 41–50 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–2 seats&lt;/li&gt;&lt;li&gt;Rødt: 9–14 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 11–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-InFact-seats.png"
+        length="276643"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 13:24:12 +0100</pubDate>
+      <dc:date>2024-12-31T13:24:12.815443+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by InFact for Nettavisen, 4 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-InFact.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-InFact-coalitions-seats.png"
+        length="474022"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 13:24:12 +0100</pubDate>
+      <dc:date>2024-12-31T13:24:12.815443+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by InFact for Nettavisen, 4 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-InFact.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13.7–18.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.1–5.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.7–11.1%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 15.7–20.2%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.5–4.7%&lt;/li&gt;&lt;li&gt;Konservativt: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Høyre: 23.5–28.7%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 1.7–3.6%&lt;/li&gt;&lt;li&gt;Rødt: 5.3–8.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 5.8–8.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-04-InFact.png"
+        length="354533"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 13:24:12 +0100</pubDate>
+      <dc:date>2024-12-31T13:24:12.815443+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for TV2, 26 February–1 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-01-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalistene: 0 seats&lt;/li&gt;&lt;li&gt;Venstre: 8–12 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 21–29 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 13–19 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 35–42 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–3 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 46–53 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–3 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–11 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 8–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-01-Verian-seats.png"
+        length="289243"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 13:55:55 +0100</pubDate>
+      <dc:date>2024-12-31T13:55:55.149387+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for TV2, 26 February–1 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-01-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-01-Verian-coalitions-seats.png"
+        length="483950"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 13:55:55 +0100</pubDate>
+      <dc:date>2024-12-31T13:55:55.149387+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for TV2, 26 February–1 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-03-01-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalistene: 0.2–1.0%&lt;/li&gt;&lt;li&gt;Venstre: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.8–16.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.5–11.1%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.3–1.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 17.2–22.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Konservativt: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0.4–1.6%&lt;/li&gt;&lt;li&gt;Høyre: 24.3–29.8%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Rødt: 4.3–7.2%&lt;/li&gt;&lt;li&gt;Senterpartiet: 4.9–7.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-03-01-Verian.png"
+        length="369980"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 13:55:55 +0100</pubDate>
+      <dc:date>2024-12-31T13:55:55.149387+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Dagsavisen, Fagbladet and FriFagbevegelse, 19–24 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 29–37 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–52 seats&lt;/li&gt;&lt;li&gt;Venstre: 8–12 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–3 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 19–28 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 14–21 seats&lt;/li&gt;&lt;li&gt;Rødt: 7–13 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 10–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-OpinionPerduco-seats.png"
+        length="275851"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 14:25:01 +0100</pubDate>
+      <dc:date>2024-12-31T14:25:01.135671+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Dagsavisen, Fagbladet and FriFagbevegelse, 19–24 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-OpinionPerduco-coalitions-seats.png"
+        length="520135"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 14:25:01 +0100</pubDate>
+      <dc:date>2024-12-31T14:25:01.135671+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Dagsavisen, Fagbladet and FriFagbevegelse, 19–24 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 14.5–19.2%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Høyre: 24.0–29.6%&lt;/li&gt;&lt;li&gt;Venstre: 4.2–7.1%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 1.9–4.0%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.3–15.6%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.3–6.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8.3–12.1%&lt;/li&gt;&lt;li&gt;Rødt: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Senterpartiet: 6.4–9.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-OpinionPerduco.png"
+        length="321608"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 14:25:01 +0100</pubDate>
+      <dc:date>2024-12-31T14:25:01.135671+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Vårt Land, 19–24 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 3–11 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 27–36 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 16–22 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 31–39 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–9 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 40–50 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–1 seats&lt;/li&gt;&lt;li&gt;Rødt: 9–13 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 9–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-Norstat-seats.png"
+        length="273084"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 14:56:30 +0100</pubDate>
+      <dc:date>2024-12-31T14:56:30.538259+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Vårt Land, 19–24 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-Norstat-coalitions-seats.png"
+        length="506014"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 14:56:30 +0100</pubDate>
+      <dc:date>2024-12-31T14:56:30.538259+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Vårt Land, 19–24 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 3.6–6.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13.9–19.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.8–5.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8.5–13.0%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.7–2.3%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 16.0–21.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Konservativt: 0.1–1.2%&lt;/li&gt;&lt;li&gt;Høyre: 22.1–28.4%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 1.1–3.0%&lt;/li&gt;&lt;li&gt;Rødt: 4.6–8.2%&lt;/li&gt;&lt;li&gt;Senterpartiet: 4.9–8.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-24-Norstat.png"
+        length="359602"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 14:56:30 +0100</pubDate>
+      <dc:date>2024-12-31T14:56:30.538259+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 7–12 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-ResponsAnalyse.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 31–42 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 43–54 seats&lt;/li&gt;&lt;li&gt;Venstre: 7–13 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–7 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 22–33 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 15–23 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–11 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 1–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-ResponsAnalyse-seats.png"
+        length="276258"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 15:23:00 +0100</pubDate>
+      <dc:date>2024-12-31T15:23:00.311291+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 7–12 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-ResponsAnalyse.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-ResponsAnalyse-coalitions-seats.png"
+        length="551484"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 15:23:00 +0100</pubDate>
+      <dc:date>2024-12-31T15:23:00.311291+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 7–12 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 16.8–21.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Høyre: 24.7–30.2%&lt;/li&gt;&lt;li&gt;Venstre: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.6–17.0%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Rødt: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 3.9–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-ResponsAnalyse.png"
+        length="308365"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 15:23:00 +0100</pubDate>
+      <dc:date>2024-12-31T15:23:00.311291+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Dagsavisen, Fagbladet and FriFagbevegelse, 6–12 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 28–38 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–10 seats&lt;/li&gt;&lt;li&gt;Høyre: 45–59 seats&lt;/li&gt;&lt;li&gt;Venstre: 7–13 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 19–30 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 14–22 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–12 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 10–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-OpinionPerduco-seats.png"
+        length="270498"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 15:49:28 +0100</pubDate>
+      <dc:date>2024-12-31T15:49:28.441894+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Dagsavisen, Fagbladet and FriFagbevegelse, 6–12 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-OpinionPerduco-coalitions-seats.png"
+        length="542814"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 15:49:28 +0100</pubDate>
+      <dc:date>2024-12-31T15:49:28.441894+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for Dagsavisen, Fagbladet and FriFagbevegelse, 6–12 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 15.2–20.9%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.9–6.0%&lt;/li&gt;&lt;li&gt;Høyre: 26.3–33.1%&lt;/li&gt;&lt;li&gt;Venstre: 4.3–7.8%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0.7–2.5%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.3–16.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–5.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8.0–12.5%&lt;/li&gt;&lt;li&gt;Rødt: 3.8–7.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 5.9–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-12-OpinionPerduco.png"
+        length="326223"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 15:49:28 +0100</pubDate>
+      <dc:date>2024-12-31T15:49:28.441894+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 6–11 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-11-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 30–39 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–9 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–52 seats&lt;/li&gt;&lt;li&gt;Venstre: 9–15 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–3 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 22–33 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 13–21 seats&lt;/li&gt;&lt;li&gt;Rødt: 6–13 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 9–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-11-Norstat-seats.png"
+        length="262437"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 16:16:22 +0100</pubDate>
+      <dc:date>2024-12-31T16:16:22.634826+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 6–11 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-11-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-11-Norstat-coalitions-seats.png"
+        length="526067"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 16:16:22 +0100</pubDate>
+      <dc:date>2024-12-31T16:16:22.634826+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Aftenposten and NRK, 6–11 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-11-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 15.5–20.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Høyre: 23.9–29.3%&lt;/li&gt;&lt;li&gt;Venstre: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.3–16.6%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.8–11.5%&lt;/li&gt;&lt;li&gt;Rødt: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 5.4–8.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-11-Norstat.png"
+        length="312649"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 16:16:22 +0100</pubDate>
+      <dc:date>2024-12-31T16:16:22.634826+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 6–7 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-07-Norfakta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 34–44 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 46–56 seats&lt;/li&gt;&lt;li&gt;Venstre: 8–13 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–7 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 20–29 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–3 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 13–21 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–10 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 9–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-07-Norfakta-seats.png"
+        length="260612"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 16:42:24 +0100</pubDate>
+      <dc:date>2024-12-31T16:42:24.761404+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 6–7 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-07-Norfakta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-07-Norfakta-coalitions-seats.png"
+        length="529592"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 16:42:24 +0100</pubDate>
+      <dc:date>2024-12-31T16:42:24.761404+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 6–7 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-07-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 18.1–23.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Høyre: 25.0–30.5%&lt;/li&gt;&lt;li&gt;Venstre: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.7–15.9%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1.8–3.9%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.5–11.1%&lt;/li&gt;&lt;li&gt;Rødt: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Senterpartiet: 5.2–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-07-Norfakta.png"
+        length="309095"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 16:42:24 +0100</pubDate>
+      <dc:date>2024-12-31T16:42:24.761404+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 29 January–5 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-05-OpinionPerduco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 29–41 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–10 seats&lt;/li&gt;&lt;li&gt;Høyre: 49–64 seats&lt;/li&gt;&lt;li&gt;Venstre: 7–13 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–8 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 17–28 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–10 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 12–22 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–10 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 1–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-05-OpinionPerduco-seats.png"
+        length="280289"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 17:09:10 +0100</pubDate>
+      <dc:date>2024-12-31T17:09:10.659188+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 29 January–5 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-05-OpinionPerduco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-05-OpinionPerduco-coalitions-seats.png"
+        length="566212"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 17:09:10 +0100</pubDate>
+      <dc:date>2024-12-31T17:09:10.659188+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 29 January–5 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2024-02-05-OpinionPerduco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 15.0–20.6%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.3–6.5%&lt;/li&gt;&lt;li&gt;Høyre: 27.8–34.6%&lt;/li&gt;&lt;li&gt;Venstre: 4.4–7.9%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 9.6–14.4%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.0–6.0%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8.0–12.4%&lt;/li&gt;&lt;li&gt;Rødt: 3.3–6.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 3.3–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2024-02-05-OpinionPerduco.png"
+        length="321933"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 17:09:10 +0100</pubDate>
+      <dc:date>2024-12-31T17:09:10.659188+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by InFact for Nettavisen, 3 January 2024 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2024-01-03-InFact.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 16.3–20.9%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.5–6.0%&lt;/li&gt;&lt;li&gt;Høyre: 21.0–26.1%&lt;/li&gt;&lt;li&gt;Venstre: 4.1–6.8%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 4.8–7.7%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.5–16.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.5–11.0%&lt;/li&gt;&lt;li&gt;Rødt: 4.4–7.1%&lt;/li&gt;&lt;li&gt;Senterpartiet: 6.4–9.6%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1789,6 +2269,6 @@
       <pubDate>Sat, 28 Dec 2024 22:09:17 +0100</pubDate>
       <dc:date>2024-12-28T22:09:17.458057+01:00</dc:date>
     </item>
-    <dc:date>2024-12-30T23:18:03.670976+01:00</dc:date>
+    <dc:date>2024-12-31T17:09:10.659188+01:00</dc:date>
   </channel>
 </rss>
