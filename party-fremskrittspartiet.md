@@ -85,35 +85,35 @@ Last result: **11.6%** (General Election of 13 September 2021)
 | [6–11 February 2024](2024-02-11-Norstat.html) | Norstat <br> Aftenposten and NRK | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
 | [6–7 February 2024](2024-02-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 13.7% | 12.4–15.2% | 12.0–15.6% | 11.7–15.9% | 11.1–16.7% |
 | [29 January–5 February 2024](2024-02-05-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 11.8% | 10.4–13.5% | 10.0–14.0% | 9.6–14.4% | 9.0–15.3% |
-| [27–4 February 2024](2024-02-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 16.2% | N/A | N/A | N/A | N/A |
-| [29 January–3 February 2024](2024-02-03-Verian.html) | Verian <br> TV2 | 11.6% | N/A | N/A | N/A | N/A |
-| [1 February 2024](2024-02-01-InFact.html) | InFact <br> Nettavisen | 14.6% | N/A | N/A | N/A | N/A |
-| [10–13 January 2024](2024-01-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 12.1% | N/A | N/A | N/A | N/A |
-| [3–8 January 2024](2024-01-08-ResponsAnalyse.html) | Respons Analyse <br> VG | 13.5% | N/A | N/A | N/A | N/A |
-| [2–8 January 2024](2024-01-08-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 12.8% | N/A | N/A | N/A | N/A |
-| [2–7 January 2024](2024-01-07-Verian.html) | Verian <br> TV2 | 11.4% | N/A | N/A | N/A | N/A |
-| [3–4 January 2024](2024-01-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 14.2% | N/A | N/A | N/A | N/A |
+| [27–4 February 2024](2024-02-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 16.2% | 14.6–18.1% | 14.1–18.7% | 13.7–19.1% | 13.0–20.1% |
+| [29 January–3 February 2024](2024-02-03-Verian.html) | Verian <br> TV2 | 11.6% | 10.4–13.0% | 10.1–13.4% | 9.8–13.8% | 9.2–14.5% |
+| [1 February 2024](2024-02-01-InFact.html) | InFact <br> Nettavisen | 14.6% | 13.2–16.1% | 12.8–16.5% | 12.5–16.9% | 11.9–17.6% |
+| [10–13 January 2024](2024-01-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 12.1% | 10.9–13.6% | 10.5–14.0% | 10.2–14.3% | 9.7–15.0% |
+| [3–8 January 2024](2024-01-08-ResponsAnalyse.html) | Respons Analyse <br> VG | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
+| [2–8 January 2024](2024-01-08-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 12.8% | 11.2–14.5% | 10.8–15.0% | 10.5–15.5% | 9.8–16.3% |
+| [2–7 January 2024](2024-01-07-Verian.html) | Verian <br> TV2 | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.6% | 9.1–14.3% |
+| [3–4 January 2024](2024-01-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 14.2% | 12.7–15.9% | 12.3–16.3% | 11.9–16.7% | 11.3–17.6% |
 | [3 January 2024](2024-01-03-InFact.html) | InFact <br> Nettavisen | 14.4% | 13.2–15.9% | 12.8–16.3% | 12.5–16.7% | 11.9–17.4% |
-| [13 December 2023](2023-12-13-InFact.html) | InFact <br> Nettavisen | 14.2% | N/A | N/A | N/A | N/A |
-| [6–11 December 2023](2023-12-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 12.4% | N/A | N/A | N/A | N/A |
-| [4–8 December 2023](2023-12-08-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 12.2% | N/A | N/A | N/A | N/A |
-| [5–6 December 2023](2023-12-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 15.9% | N/A | N/A | N/A | N/A |
-| [28 November–4 December 2023](2023-12-04-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 14.2% | N/A | N/A | N/A | N/A |
-| [27 November–2 December 2023](2023-12-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 13.6% | N/A | N/A | N/A | N/A |
-| [27 November–1 December 2023](2023-12-01-Verian.html) | Verian <br> TV2 | 11.0% | N/A | N/A | N/A | N/A |
-| [21–25 November 2023](2023-11-25-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 13.1% | N/A | N/A | N/A | N/A |
-| [8–13 November 2023](2023-11-13-ResponsAnalyse.html) | Respons Analyse <br> VG | 13.3% | N/A | N/A | N/A | N/A |
-| [7–8 November 2023](2023-11-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 11.1% | N/A | N/A | N/A | N/A |
-| [7 November 2023](2023-11-07-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 13.2% | N/A | N/A | N/A | N/A |
-| [3 November 2023](2023-11-03-Verian.html) | Verian <br> TV2 | 12.1% | N/A | N/A | N/A | N/A |
-| [2 November 2023](2023-11-02-InFact.html) | InFact <br> Nettavisen | 14.7% | N/A | N/A | N/A | N/A |
-| [24–30 October 2023](2023-10-30-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 13.3% | N/A | N/A | N/A | N/A |
-| [23–30 October 2023](2023-10-30-Norstat.html) | Norstat <br> Aftenposten and NRK | 12.9% | N/A | N/A | N/A | N/A |
-| [3–9 October 2023](2023-10-09-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 13.3% | N/A | N/A | N/A | N/A |
-| [3–4 October 2023](2023-10-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 12.8% | N/A | N/A | N/A | N/A |
-| [2 October 2023](2023-10-02-Verian.html) | Verian <br> TV2 | 12.6% | N/A | N/A | N/A | N/A |
-| [2 October 2023](2023-10-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 12.3% | N/A | N/A | N/A | N/A |
-| [2 October 2023](2023-10-02-InFact.html) | InFact <br> Nettavisen | 14.0% | N/A | N/A | N/A | N/A |
+| [13 December 2023](2023-12-13-InFact.html) | InFact <br> Nettavisen | 14.2% | 13.0–15.6% | 12.6–16.0% | 12.3–16.4% | 11.7–17.0% |
+| [6–11 December 2023](2023-12-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 12.4% | 11.1–13.8% | 10.8–14.2% | 10.5–14.6% | 9.9–15.3% |
+| [4–8 December 2023](2023-12-08-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 12.2% | 10.8–13.9% | 10.3–14.4% | 10.0–14.8% | 9.4–15.6% |
+| [5–6 December 2023](2023-12-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 15.9% | 14.4–17.7% | 13.9–18.2% | 13.5–18.7% | 12.8–19.6% |
+| [28 November–4 December 2023](2023-12-04-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 14.2% | 12.6–16.0% | 12.2–16.5% | 11.8–16.9% | 11.1–17.8% |
+| [27 November–2 December 2023](2023-12-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.9% | 11.0–16.6% |
+| [27 November–1 December 2023](2023-12-01-Verian.html) | Verian <br> TV2 | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| [21–25 November 2023](2023-11-25-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 13.1% | 11.6–14.8% | 11.2–15.3% | 10.9–15.7% | 10.2–16.6% |
+| [8–13 November 2023](2023-11-13-ResponsAnalyse.html) | Respons Analyse <br> VG | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
+| [7–8 November 2023](2023-11-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 11.1% | 9.9–12.4% | 9.6–12.8% | 9.3–13.1% | 8.8–13.8% |
+| [7 November 2023](2023-11-07-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.2–15.5% | 10.7–16.2% |
+| [3 November 2023](2023-11-03-Verian.html) | Verian <br> TV2 | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
+| [2 November 2023](2023-11-02-InFact.html) | InFact <br> Nettavisen | 14.7% | 13.4–16.2% | 13.0–16.7% | 12.7–17.0% | 12.1–17.8% |
+| [24–30 October 2023](2023-10-30-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 13.3% | 11.8–15.0% | 11.4–15.5% | 11.0–16.0% | 10.3–16.8% |
+| [23–30 October 2023](2023-10-30-Norstat.html) | Norstat <br> Aftenposten and NRK | 12.9% | 11.6–14.3% | 11.2–14.8% | 10.9–15.1% | 10.3–15.8% |
+| [3–9 October 2023](2023-10-09-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
+| [3–4 October 2023](2023-10-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 12.8% | 11.4–14.4% | 11.0–14.8% | 10.6–15.2% | 10.0–16.0% |
+| [2 October 2023](2023-10-02-Verian.html) | Verian <br> TV2 | 12.6% | 11.3–14.0% | 10.9–14.4% | 10.6–14.8% | 10.1–15.5% |
+| [2 October 2023](2023-10-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 12.3% | 10.9–13.9% | 10.5–14.4% | 10.2–14.8% | 9.5–15.6% |
+| [2 October 2023](2023-10-02-InFact.html) | InFact <br> Nettavisen | 14.0% | 12.7–15.4% | 12.3–15.9% | 12.0–16.2% | 11.4–16.9% |
 | [21–27 September 2023](2023-09-27-Norstat.html) | Norstat <br> Aftenposten and NRK | 11.6% | N/A | N/A | N/A | N/A |
 | [20–22 September 2023](2023-09-22-ResponsAnalyse.html) | Respons Analyse <br> VG | 11.2% | N/A | N/A | N/A | N/A |
 | [4–7 September 2023](2023-09-07-ResponsAnalyse.html) | Respons Analyse <br> VG | 12.4% | N/A | N/A | N/A | N/A |
@@ -413,35 +413,35 @@ Last result: **21** seats (General Election of 13 September 2021)
 | [6–11 February 2024](2024-02-11-Norstat.html) | Norstat <br> Aftenposten and NRK | 26 | 23–29 | 22–31 | 22–33 | 21–35 |
 | [6–7 February 2024](2024-02-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 25 | 23–28 | 22–29 | 20–29 | 19–31 |
 | [29 January–5 February 2024](2024-02-05-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 20 | 18–25 | 17–27 | 17–28 | 16–29 |
-| [27–4 February 2024](2024-02-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [29 January–3 February 2024](2024-02-03-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
-| [1 February 2024](2024-02-01-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
-| [10–13 January 2024](2024-01-13-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [3–8 January 2024](2024-01-08-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [2–8 January 2024](2024-01-08-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse |  |  |  |  |  |
-| [2–7 January 2024](2024-01-07-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
-| [3–4 January 2024](2024-01-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [3 January 2024](2024-01-03-InFact.html) | InFact <br> Nettavisen | 25 | 22–29 | 22–29 | 21–31 | 20–32 |
-| [13 December 2023](2023-12-13-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
-| [6–11 December 2023](2023-12-11-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [4–8 December 2023](2023-12-08-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
-| [5–6 December 2023](2023-12-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [28 November–4 December 2023](2023-12-04-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse |  |  |  |  |  |
-| [27 November–2 December 2023](2023-12-02-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [27 November–1 December 2023](2023-12-01-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
-| [21–25 November 2023](2023-11-25-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [8–13 November 2023](2023-11-13-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [7–8 November 2023](2023-11-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [7 November 2023](2023-11-07-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse |  |  |  |  |  |
-| [3 November 2023](2023-11-03-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
-| [2 November 2023](2023-11-02-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
-| [24–30 October 2023](2023-10-30-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [23–30 October 2023](2023-10-30-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [3–9 October 2023](2023-10-09-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse |  |  |  |  |  |
-| [3–4 October 2023](2023-10-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [2 October 2023](2023-10-02-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
-| [2 October 2023](2023-10-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
-| [2 October 2023](2023-10-02-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
+| [27–4 February 2024](2024-02-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 34 | 29–36 | 29–36 | 27–36 | 23–39 |
+| [29 January–3 February 2024](2024-02-03-Verian.html) | Verian <br> TV2 | 18 | 18–25 | 18–25 | 18–25 | 16–26 |
+| [1 February 2024](2024-02-01-InFact.html) | InFact <br> Nettavisen | 29 | 25–31 | 23–31 | 23–31 | 19–32 |
+| [10–13 January 2024](2024-01-13-Norstat.html) | Norstat <br> Aftenposten and NRK | 22 | 19–25 | 18–26 | 18–26 | 17–28 |
+| [3–8 January 2024](2024-01-08-ResponsAnalyse.html) | Respons Analyse <br> VG | 24 | 22–26 | 21–27 | 20–28 | 19–29 |
+| [2–8 January 2024](2024-01-08-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 24 | 20–25 | 19–28 | 18–28 | 17–30 |
+| [2–7 January 2024](2024-01-07-Verian.html) | Verian <br> TV2 | 21 | 18–24 | 18–24 | 18–24 | 16–24 |
+| [3–4 January 2024](2024-01-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 29 | 22–34 | 22–34 | 22–34 | 21–34 |
+| [3 January 2024](2024-01-03-InFact.html) | InFact <br> Nettavisen | 25 | 22–29 | 22–30 | 21–31 | 20–32 |
+| [13 December 2023](2023-12-13-InFact.html) | InFact <br> Nettavisen | 24 | 21–26 | 21–26 | 21–27 | 21–30 |
+| [6–11 December 2023](2023-12-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 19 | 19–26 | 17–26 | 17–26 | 17–27 |
+| [4–8 December 2023](2023-12-08-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 21 | 19–24 | 18–25 | 18–26 | 17–28 |
+| [5–6 December 2023](2023-12-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 30 | 26–34 | 24–35 | 24–36 | 23–37 |
+| [28 November–4 December 2023](2023-12-04-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 25 | 22–29 | 21–30 | 20–32 | 20–34 |
+| [27 November–2 December 2023](2023-12-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 26 | 21–27 | 21–29 | 21–29 | 19–32 |
+| [27 November–1 December 2023](2023-12-01-Verian.html) | Verian <br> TV2 | 20 | 17–22 | 17–23 | 16–23 | 15–25 |
+| [21–25 November 2023](2023-11-25-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 24 | 20–31 | 20–34 | 19–34 | 18–34 |
+| [8–13 November 2023](2023-11-13-ResponsAnalyse.html) | Respons Analyse <br> VG | 24 | 21–26 | 20–28 | 20–28 | 19–32 |
+| [7–8 November 2023](2023-11-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 19 | 17–22 | 17–23 | 17–23 | 15–25 |
+| [7 November 2023](2023-11-07-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 25 | 19–28 | 19–30 | 19–30 | 19–30 |
+| [3 November 2023](2023-11-03-Verian.html) | Verian <br> TV2 | 22 | 20–24 | 19–24 | 18–25 | 16–28 |
+| [2 November 2023](2023-11-02-InFact.html) | InFact <br> Nettavisen | 27 | 24–31 | 23–32 | 23–33 | 21–35 |
+| [24–30 October 2023](2023-10-30-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 23 | 21–27 | 20–29 | 19–31 | 18–34 |
+| [23–30 October 2023](2023-10-30-Norstat.html) | Norstat <br> Aftenposten and NRK | 24 | 20–27 | 20–27 | 19–28 | 18–30 |
+| [3–9 October 2023](2023-10-09-OpinionPerduco.html) | Opinion Perduco <br> Dagsavisen, Fagbladet and FriFagbevegelse | 24 | 21–27 | 20–28 | 20–29 | 18–30 |
+| [3–4 October 2023](2023-10-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 24 | 20–30 | 19–30 | 19–30 | 18–30 |
+| [2 October 2023](2023-10-02-Verian.html) | Verian <br> TV2 | 21 | 21–24 | 20–27 | 19–27 | 18–29 |
+| [2 October 2023](2023-10-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 22 | 19–25 | 18–26 | 18–27 | 16–29 |
+| [2 October 2023](2023-10-02-InFact.html) | InFact <br> Nettavisen | 25 | 22–29 | 22–30 | 21–31 | 20–33 |
 | [21–27 September 2023](2023-09-27-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
 | [20–22 September 2023](2023-09-22-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
 | [4–7 September 2023](2023-09-07-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
