@@ -197,14 +197,14 @@ Last result: **0.3%** (General Election of 13 September 2021)
 | [24–31 October 2022](2022-10-31-KantarTNS.html) | Kantar TNS <br> TV2 | 2.4% | 1.9–3.1% | 1.8–3.2% | 1.6–3.4% | 1.4–3.8% |
 | [25–30 October 2022](2022-10-30-Norstat.html) | Norstat <br> Aftenposten and NRK | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [24–26 October 2022](2022-10-26-Ipsos.html) | Ipsos <br> Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
-| [18–23 October 2022](2022-10-23-Norstat.html) | Norstat <br> Vårt Land | 1.7% | N/A | N/A | N/A | N/A |
+| [18–23 October 2022](2022-10-23-Norstat.html) | Norstat <br> Vårt Land | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.9–3.1% |
 | [21 October 2022](2022-10-21-InFact.html) | InFact <br> Fiskeribladet | 0.0% | N/A | N/A | N/A | N/A |
-| [11–17 October 2022](2022-10-17-Sentio.html) | Sentio <br> Nettavisen | 2.8% | N/A | N/A | N/A | N/A |
+| [11–17 October 2022](2022-10-17-Sentio.html) | Sentio <br> Nettavisen | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [11–12 October 2022](2022-10-12-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.0% | N/A | N/A | N/A | N/A |
-| [5–10 October 2022](2022-10-10-ResponsAnalyse.html) | Respons Analyse <br> VG | 1.6% | N/A | N/A | N/A | N/A |
+| [5–10 October 2022](2022-10-10-ResponsAnalyse.html) | Respons Analyse <br> VG | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [4–10 October 2022](2022-10-10-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
 | [27 September–2 October 2022](2022-10-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 0.0% | N/A | N/A | N/A | N/A |
-| [26–30 September 2022](2022-09-30-KantarTNS.html) | Kantar TNS <br> TV2 | 1.9% | N/A | N/A | N/A | N/A |
+| [26–30 September 2022](2022-09-30-KantarTNS.html) | Kantar TNS <br> TV2 | 1.9% | 1.5–2.6% | 1.3–2.8% | 1.2–3.0% | 1.1–3.4% |
 | [29 September 2022](2022-09-29-Ipsos.html) | Ipsos <br> Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
 | [20–25 September 2022](2022-09-25-Norstat.html) | Norstat <br> Vårt Land | 0.0% | N/A | N/A | N/A | N/A |
 | [13–19 September 2022](2022-09-19-Sentio.html) | Sentio <br> Nettavisen | 2.1% | N/A | N/A | N/A | N/A |
@@ -508,14 +508,14 @@ Last result: **0** seats (General Election of 13 September 2021)
 | [24–31 October 2022](2022-10-31-KantarTNS.html) | Kantar TNS <br> TV2 | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [25–30 October 2022](2022-10-30-Norstat.html) | Norstat <br> Aftenposten and NRK | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [24–26 October 2022](2022-10-26-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |
-| [18–23 October 2022](2022-10-23-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
+| [18–23 October 2022](2022-10-23-Norstat.html) | Norstat <br> Vårt Land | 0 | 0 | 0 | 0–1 | 0–2 |
 | [21 October 2022](2022-10-21-InFact.html) | InFact <br> Fiskeribladet |  |  |  |  |  |
-| [11–17 October 2022](2022-10-17-Sentio.html) | Sentio <br> Nettavisen |  |  |  |  |  |
+| [11–17 October 2022](2022-10-17-Sentio.html) | Sentio <br> Nettavisen | 1 | 0–2 | 0–3 | 0–3 | 0–7 |
 | [11–12 October 2022](2022-10-12-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [5–10 October 2022](2022-10-10-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
+| [5–10 October 2022](2022-10-10-ResponsAnalyse.html) | Respons Analyse <br> VG | 0 | 0 | 0 | 0–2 | 0–2 |
 | [4–10 October 2022](2022-10-10-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [27 September–2 October 2022](2022-10-02-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [26–30 September 2022](2022-09-30-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
+| [26–30 September 2022](2022-09-30-KantarTNS.html) | Kantar TNS <br> TV2 | 0 | 0 | 0–2 | 0–2 | 0–3 |
 | [29 September 2022](2022-09-29-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |
 | [20–25 September 2022](2022-09-25-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
 | [13–19 September 2022](2022-09-19-Sentio.html) | Sentio <br> Nettavisen |  |  |  |  |  |
