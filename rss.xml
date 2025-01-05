@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sun, 05 Jan 2025 15:18:37 +0100</pubDate>
+    <pubDate>Sun, 05 Jan 2025 18:35:00 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for Aftenposten and NRK, 10–14 December 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2024-12-14-Norstat.html#seats</link>
@@ -6310,6 +6310,196 @@
       <dc:date>2025-01-05T15:18:37.125317+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 5–6 July 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-07-06-Norfakta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 35–46 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–7 seats&lt;/li&gt;&lt;li&gt;Høyre: 46–57 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–9 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 20–31 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 13–21 seats&lt;/li&gt;&lt;li&gt;Rødt: 6–12 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 7–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-07-06-Norfakta-seats.png"
+        length="237180"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 16:10:55 +0100</pubDate>
+      <dc:date>2025-01-05T16:10:55.28271+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 5–6 July 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-07-06-Norfakta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-07-06-Norfakta-coalitions-seats.png"
+        length="557174"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 16:10:55 +0100</pubDate>
+      <dc:date>2025-01-05T16:10:55.28271+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 5–6 July 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-07-06-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 18.8–23.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Høyre: 26.1–31.7%&lt;/li&gt;&lt;li&gt;Venstre: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.0–16.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 8.3–12.1%&lt;/li&gt;&lt;li&gt;Rødt: 4.1–7.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 4.3–7.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-07-06-Norfakta.png"
+        length="275141"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 16:10:55 +0100</pubDate>
+      <dc:date>2025-01-05T16:10:55.28271+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for TV2, 24–30 June 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-30-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 35–47 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 46–58 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 18–29 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–7 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–18 seats&lt;/li&gt;&lt;li&gt;Rødt: 9–16 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 8–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-30-KantarTNS-seats.png"
+        length="243044"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 16:35:29 +0100</pubDate>
+      <dc:date>2025-01-05T16:35:29.270443+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for TV2, 24–30 June 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-30-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-30-KantarTNS-coalitions-seats.png"
+        length="553847"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 16:35:29 +0100</pubDate>
+      <dc:date>2025-01-05T16:35:29.270443+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for TV2, 24–30 June 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-30-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 18.6–24.4%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.1–4.6%&lt;/li&gt;&lt;li&gt;Høyre: 26.3–32.8%&lt;/li&gt;&lt;li&gt;Venstre: 3.2–6.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 10.9–15.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.0–4.5%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.6–10.5%&lt;/li&gt;&lt;li&gt;Rødt: 5.3–8.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 5.2–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-30-KantarTNS.png"
+        length="278747"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 16:35:29 +0100</pubDate>
+      <dc:date>2025-01-05T16:35:29.270443+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagbladet, 27–29 June 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-29-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 38–51 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–53 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–9 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 21–33 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–19 seats&lt;/li&gt;&lt;li&gt;Rødt: 7–13 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-29-Ipsos-seats.png"
+        length="265032"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 16:59:52 +0100</pubDate>
+      <dc:date>2025-01-05T16:59:52.421519+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagbladet, 27–29 June 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-29-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-29-Ipsos-coalitions-seats.png"
+        length="594991"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 16:59:52 +0100</pubDate>
+      <dc:date>2025-01-05T16:59:52.421519+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagbladet, 27–29 June 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-29-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 20.2–26.3%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Høyre: 23.7–30.1%&lt;/li&gt;&lt;li&gt;Venstre: 2.8–5.6%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.4–17.5%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.1–11.3%&lt;/li&gt;&lt;li&gt;Rødt: 4.7–8.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 3.3–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-29-Ipsos.png"
+        length="288689"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 16:59:52 +0100</pubDate>
+      <dc:date>2025-01-05T16:59:52.421519+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Vårt Land, 13–20 June 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-20-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 33–44 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–3 seats&lt;/li&gt;&lt;li&gt;Høyre: 46–58 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–8 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 24–34 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 12–18 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–12 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 10–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-20-Norstat-seats.png"
+        length="241849"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 17:24:16 +0100</pubDate>
+      <dc:date>2025-01-05T17:24:16.230162+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Vårt Land, 13–20 June 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-20-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-20-Norstat-coalitions-seats.png"
+        length="534961"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 17:24:16 +0100</pubDate>
+      <dc:date>2025-01-05T17:24:16.230162+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Vårt Land, 13–20 June 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-20-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 18.1–23.2%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1.8–3.9%&lt;/li&gt;&lt;li&gt;Høyre: 26.3–32.1%&lt;/li&gt;&lt;li&gt;Venstre: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 13.6–18.2%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.7–5.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.9–10.5%&lt;/li&gt;&lt;li&gt;Rødt: 4.0–6.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 5.8–9.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-20-Norstat.png"
+        length="272451"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 17:24:16 +0100</pubDate>
+      <dc:date>2025-01-05T17:24:16.230162+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 7–13 June 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-13-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Folkets parti: 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 21–32 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 11–20 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 38–45 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–8 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 40–48 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 8–14 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 8–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-13-Sentio-seats.png"
+        length="311075"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 17:56:20 +0100</pubDate>
+      <dc:date>2025-01-05T17:56:20.750225+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 7–13 June 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-13-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-13-Sentio-coalitions-seats.png"
+        length="526341"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 17:56:20 +0100</pubDate>
+      <dc:date>2025-01-05T17:56:20.750225+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Amedia and Nettavisen, 7–13 June 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-13-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Folkets parti: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Venstre: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.5–16.9%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.8–11.5%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 19.7–24.9%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Konservativt: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Høyre: 22.0–27.4%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0.2–1.2%&lt;/li&gt;&lt;li&gt;Rødt: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Senterpartiet: 5.6–8.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-13-Sentio.png"
+        length="381620"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 17:56:20 +0100</pubDate>
+      <dc:date>2025-01-05T17:56:20.750225+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 4–9 June 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-09-ResponsAnalyse.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 34–43 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–53 seats&lt;/li&gt;&lt;li&gt;Venstre: 3–11 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 21–29 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 12–19 seats&lt;/li&gt;&lt;li&gt;Rødt: 9–15 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 10–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-09-ResponsAnalyse-seats.png"
+        length="251195"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 18:21:30 +0100</pubDate>
+      <dc:date>2025-01-05T18:21:30.429316+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 4–9 June 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-09-ResponsAnalyse.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-09-ResponsAnalyse-coalitions-seats.png"
+        length="518661"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 18:21:30 +0100</pubDate>
+      <dc:date>2025-01-05T18:21:30.429316+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Respons Analyse for VG, 4–9 June 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-09-ResponsAnalyse.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 17.8–22.8%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Høyre: 24.1–29.6%&lt;/li&gt;&lt;li&gt;Venstre: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 12.0–16.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.4–10.9%&lt;/li&gt;&lt;li&gt;Rødt: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 5.9–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-09-ResponsAnalyse.png"
+        length="279285"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 18:21:30 +0100</pubDate>
+      <dc:date>2025-01-05T18:21:30.429316+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 7–8 June 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2022-06-08-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 20.5–25.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Høyre: 25.1–30.6%&lt;/li&gt;&lt;li&gt;Venstre: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 11.1–15.3%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 6.7–10.2%&lt;/li&gt;&lt;li&gt;Rødt: 4.3–7.2%&lt;/li&gt;&lt;li&gt;Senterpartiet: 5.5–8.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2022-06-08-Norfakta.png"
+        length="278841"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 18:35:00 +0100</pubDate>
+      <dc:date>2025-01-05T18:35:00.63195+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Dagbladet, 21–23 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2022-03-23-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 18–30 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–2 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–18 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Kystpartiet: 0–3 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 40–51 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 42–53 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Helsepartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 9–17 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 10–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -6339,6 +6529,6 @@
       <pubDate>Sat, 28 Dec 2024 22:09:17 +0100</pubDate>
       <dc:date>2024-12-28T22:09:17.458057+01:00</dc:date>
     </item>
-    <dc:date>2025-01-05T15:18:37.125317+01:00</dc:date>
+    <dc:date>2025-01-05T18:35:00.63195+01:00</dc:date>
   </channel>
 </rss>
