@@ -332,13 +332,13 @@ Last result: **8** seats (General Election of 13 September 2021)
 | [2–9 December 2024](2024-12-09-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 8 | 3–10 | 3–10 | 2–10 | 2–12 |
 | [3–4 December 2024](2024-12-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 7 | 3–9 | 3–10 | 2–10 | 2–12 |
 | [3 December 2024](2024-12-03-InFact.html) | InFact <br> Nettavisen | 8 | 3–9 | 3–10 | 2–10 | 2–12 |
-| [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 11 | 8–12 | 8–13 | 7–14 | 3–14 |
+| [2 December 2024](2024-12-02-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 10 | 8–12 | 8–13 | 8–14 | 3–14 |
 | [25–29 November 2024](2024-11-29-Verian.html) | Verian <br> TV2 | 12 | 9–12 | 9–12 | 8–14 | 8–15 |
 | [12–16 November 2024](2024-11-16-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 3–10 | 3–10 | 2–10 | 2–12 |
 | [6–11 November 2024](2024-11-11-ResponsAnalyse.html) | Respons Analyse <br> VG | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
 | [5–11 November 2024](2024-11-11-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 10 | 8–12 | 7–12 | 7–13 | 3–14 |
 | [5–6 November 2024](2024-11-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8 | 3–10 | 2–10 | 2–11 | 2–11 |
-| [4 November 2024](2024-11-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 3 | 2–9 | 2–9 | 2–10 | 1–11 |
+| [4 November 2024](2024-11-04-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 3 | 2–8 | 2–9 | 2–10 | 1–11 |
 | [4 November 2024](2024-11-04-InFact.html) | InFact <br> Nettavisen | 8 | 7–10 | 7–10 | 7–11 | 3–12 |
 | [1 November 2024](2024-11-01-Verian.html) | Verian <br> TV2 | 11 | 9–13 | 9–13 | 8–14 | 7–15 |
 | [15–19 October 2024](2024-10-19-Norstat.html) | Norstat <br> Aftenposten and NRK | 11 | 10–11 | 9–11 | 9–13 | 8–14 |
