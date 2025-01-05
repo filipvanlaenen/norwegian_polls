@@ -211,16 +211,16 @@ Last result: **3.8%** (General Election of 13 September 2021)
 | [7–12 September 2022](2022-09-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [6–12 September 2022](2022-09-12-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [5–7 September 2022](2022-09-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.7% | 3.0–4.6% | 2.8–4.8% | 2.7–5.0% | 2.4–5.5% |
-| [30 August–4 September 2022](2022-09-04-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.1% | N/A | N/A | N/A | N/A |
-| [29 August–2 September 2022](2022-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 3.5% | N/A | N/A | N/A | N/A |
-| [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> Vårt Land | 3.4% | N/A | N/A | N/A | N/A |
-| [26 August 2022](2022-08-26-Ipsos.html) | Ipsos <br> Dagbladet | 3.8% | N/A | N/A | N/A | N/A |
-| [16–22 August 2022](2022-08-22-Sentio.html) | Sentio <br> Amedia and Nettavisen | 4.9% | N/A | N/A | N/A | N/A |
-| [10–15 August 2022](2022-08-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.9% | N/A | N/A | N/A | N/A |
-| [9–14 August 2022](2022-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.8% | N/A | N/A | N/A | N/A |
-| [2–8 August 2022](2022-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.2% | N/A | N/A | N/A | N/A |
-| [1–5 August 2022](2022-08-05-KantarTNS.html) | Kantar TNS <br> TV2 | 3.3% | N/A | N/A | N/A | N/A |
-| [2–3 August 2022](2022-08-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2.9% | N/A | N/A | N/A | N/A |
+| [30 August–4 September 2022](2022-09-04-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.1–4.4% | 1.9–4.8% |
+| [29 August–2 September 2022](2022-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 3.5% | 2.8–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> Vårt Land | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.8% | 2.1–5.2% |
+| [26 August 2022](2022-08-26-Ipsos.html) | Ipsos <br> Dagbladet | 3.8% | 3.0–4.9% | 2.8–5.2% | 2.7–5.5% | 2.3–6.0% |
+| [16–22 August 2022](2022-08-22-Sentio.html) | Sentio <br> Amedia and Nettavisen | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
+| [10–15 August 2022](2022-08-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [9–14 August 2022](2022-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.7–5.2% | 2.4–5.6% |
+| [2–8 August 2022](2022-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.2% | 2.5–4.3% | 2.3–4.6% | 2.1–4.9% | 1.8–5.4% |
+| [1–5 August 2022](2022-08-05-KantarTNS.html) | Kantar TNS <br> TV2 | 3.3% | 2.6–4.3% | 2.4–4.6% | 2.2–4.8% | 1.9–5.3% |
+| [2–3 August 2022](2022-08-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2.9% | 2.3–3.8% | 2.1–4.1% | 1.9–4.3% | 1.7–4.8% |
 | [5–6 July 2022](2022-07-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.2% | N/A | N/A | N/A | N/A |
 | [24–30 June 2022](2022-06-30-KantarTNS.html) | Kantar TNS <br> TV2 | 3.1% | N/A | N/A | N/A | N/A |
 | [27–29 June 2022](2022-06-29-Ipsos.html) | Ipsos <br> Dagbladet | 3.6% | N/A | N/A | N/A | N/A |
@@ -524,17 +524,17 @@ Last result: **3** seats (General Election of 13 September 2021)
 | [13–19 September 2022](2022-09-19-Sentio.html) | Sentio <br> Nettavisen | 7 | 3–8 | 3–9 | 2–9 | 2–10 |
 | [7–12 September 2022](2022-09-12-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 2–8 | 2–8 | 2–8 | 0–9 |
 | [6–12 September 2022](2022-09-12-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 0–2 | 0–3 | 0–3 | 0–6 |
-| [5–7 September 2022](2022-09-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [30 August–4 September 2022](2022-09-04-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [29 August–2 September 2022](2022-09-02-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
-| [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
-| [26 August 2022](2022-08-26-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |
-| [16–22 August 2022](2022-08-22-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
-| [10–15 August 2022](2022-08-15-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [9–14 August 2022](2022-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [2–8 August 2022](2022-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
-| [1–5 August 2022](2022-08-05-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
-| [2–3 August 2022](2022-08-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
+| [5–7 September 2022](2022-09-07-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3 | 2–7 | 2–8 | 2–8 | 1–9 |
+| [30 August–4 September 2022](2022-09-04-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 1–3 | 0–7 | 0–7 | 0–8 |
+| [29 August–2 September 2022](2022-09-02-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2–7 | 2–8 | 2–8 | 0–9 |
+| [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> Vårt Land | 3 | 2–7 | 2–8 | 1–8 | 0–9 |
+| [26 August 2022](2022-08-26-Ipsos.html) | Ipsos <br> Dagbladet | 3 | 2–8 | 2–8 | 2–9 | 1–10 |
+| [16–22 August 2022](2022-08-22-Sentio.html) | Sentio <br> Amedia and Nettavisen | 9 | 7–10 | 3–11 | 3–11 | 2–12 |
+| [10–15 August 2022](2022-08-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 3–9 | 2–9 | 2–9 | 2–10 |
+| [9–14 August 2022](2022-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 7 | 2–7 | 2–7 | 2–9 | 2–9 |
+| [2–8 August 2022](2022-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 2–6 | 1–6 | 0–7 | 0–8 |
+| [1–5 August 2022](2022-08-05-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2–7 | 1–7 | 0–8 | 0–9 |
+| [2–3 August 2022](2022-08-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 0–3 | 0–3 | 0–7 | 0–8 |
 | [5–6 July 2022](2022-07-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
 | [24–30 June 2022](2022-06-30-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
 | [27–29 June 2022](2022-06-29-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |

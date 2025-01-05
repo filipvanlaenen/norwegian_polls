@@ -216,8 +216,8 @@ Last result: **0.4%** (General Election of 13 September 2021)
 | [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> Vårt Land | 0.0% | N/A | N/A | N/A | N/A |
 | [26 August 2022](2022-08-26-Ipsos.html) | Ipsos <br> Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
 | [16–22 August 2022](2022-08-22-Sentio.html) | Sentio <br> Amedia and Nettavisen | 0.0% | N/A | N/A | N/A | N/A |
-| [10–15 August 2022](2022-08-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.6% | N/A | N/A | N/A | N/A |
-| [9–14 August 2022](2022-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 0.4% | N/A | N/A | N/A | N/A |
+| [10–15 August 2022](2022-08-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [9–14 August 2022](2022-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 0.4% | 0.2–0.8% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
 | [2–8 August 2022](2022-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 August 2022](2022-08-05-KantarTNS.html) | Kantar TNS <br> TV2 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 August 2022](2022-08-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.0% | N/A | N/A | N/A | N/A |
@@ -526,8 +526,8 @@ Last result: **0** seats (General Election of 13 September 2021)
 | [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
 | [26 August 2022](2022-08-26-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |
 | [16–22 August 2022](2022-08-22-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
-| [10–15 August 2022](2022-08-15-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [9–14 August 2022](2022-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [10–15 August 2022](2022-08-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 0 | 0 | 0 | 0 | 0 |
+| [9–14 August 2022](2022-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 0 | 0 | 0 | 0 | 0 |
 | [2–8 August 2022](2022-08-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [1–5 August 2022](2022-08-05-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
 | [2–3 August 2022](2022-08-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
