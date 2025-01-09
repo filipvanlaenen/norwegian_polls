@@ -10,7 +10,8 @@ Last result: **3.8%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.2–4.9% | 3.0–5.2% | 2.8–5.5% | 2.5–6.0% |
+| N/A | [Poll Average](average.html) | 3.9% | 3.0–4.9% | 2.7–5.2% | 2.6–5.5% | 2.2–6.0% |
+| [6 January 2025](2025-01-06-InFact.html) | InFact <br> Nettavisen | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.0–4.8% |
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
@@ -239,26 +240,26 @@ Last result: **3.8%** (General Election of 13 September 2021)
 | [3–4 May 2022](2022-05-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [3 May 2022](2022-05-03-KantarTNS.html) | Kantar TNS <br> TV2 | 3.4% | 2.6–4.7% | 2.3–5.1% | 2.1–5.4% | 1.8–6.1% |
 | [26 April–2 May 2022](2022-05-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.0% | 2.3–3.9% | 2.1–4.2% | 2.0–4.5% | 1.7–5.0% |
-| [25–27 April 2022](2022-04-27-Ipsos.html) | Ipsos <br> Dagbladet | 3.4% | N/A | N/A | N/A | N/A |
-| [19–25 April 2022](2022-04-25-Norstat.html) | Norstat <br> Vårt Land | 3.2% | N/A | N/A | N/A | N/A |
-| [5–10 April 2022](2022-04-10-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.2% | N/A | N/A | N/A | N/A |
-| [4–6 April 2022](2022-04-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 4.0% | N/A | N/A | N/A | N/A |
-| [6 April 2022](2022-04-06-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.5% | N/A | N/A | N/A | N/A |
-| [5–6 April 2022](2022-04-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2.5% | N/A | N/A | N/A | N/A |
-| [28 March–1 April 2022](2022-04-01-KantarTNS.html) | Kantar TNS <br> TV2 | 3.3% | N/A | N/A | N/A | N/A |
-| [22–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 4.6% | N/A | N/A | N/A | N/A |
+| [25–27 April 2022](2022-04-27-Ipsos.html) | Ipsos <br> Dagbladet | 3.4% | 2.8–4.3% | 2.6–4.6% | 2.4–4.8% | 2.1–5.3% |
+| [19–25 April 2022](2022-04-25-Norstat.html) | Norstat <br> Vårt Land | 3.2% | 2.5–4.0% | 2.4–4.3% | 2.2–4.5% | 2.0–4.9% |
+| [5–10 April 2022](2022-04-10-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [4–6 April 2022](2022-04-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
+| [6 April 2022](2022-04-06-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.5% | 2.7–4.6% | 2.5–4.9% | 2.3–5.2% | 2.0–5.8% |
+| [5–6 April 2022](2022-04-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2.5% | 1.9–3.4% | 1.8–3.7% | 1.6–3.9% | 1.4–4.3% |
+| [28 March–1 April 2022](2022-04-01-KantarTNS.html) | Kantar TNS <br> TV2 | 3.3% | 2.6–4.1% | 2.5–4.4% | 2.3–4.6% | 2.0–5.0% |
+| [22–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.1% | 3.1–6.6% |
 | [21–23 March 2022](2022-03-23-Ipsos.html) | Ipsos <br> Dagbladet | 3.1% | 2.4–4.1% | 2.2–4.4% | 2.1–4.6% | 1.8–5.1% |
-| [15–20 March 2022](2022-03-20-Norstat.html) | Norstat <br> Vårt Land | 3.3% | N/A | N/A | N/A | N/A |
-| [8–14 March 2022](2022-03-14-Sentio.html) | Sentio <br> Nettavisen | 2.5% | N/A | N/A | N/A | N/A |
-| [8–14 March 2022](2022-03-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.6% | N/A | N/A | N/A | N/A |
-| [2–7 March 2022](2022-03-07-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.7% | N/A | N/A | N/A | N/A |
-| [1–2 March 2022](2022-03-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.1% | N/A | N/A | N/A | N/A |
-| [22–28 February 2022](2022-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 4.2% | N/A | N/A | N/A | N/A |
-| [22–28 February 2022](2022-02-28-KantarTNS.html) | Kantar TNS <br> TV2 | 3.9% | N/A | N/A | N/A | N/A |
-| [21–23 February 2022](2022-02-23-Ipsos.html) | Ipsos <br> Dagbladet | 2.7% | N/A | N/A | N/A | N/A |
-| [15–20 February 2022](2022-02-20-Norstat.html) | Norstat <br> Vårt Land | 2.4% | N/A | N/A | N/A | N/A |
-| [9–14 February 2022](2022-02-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.0% | N/A | N/A | N/A | N/A |
-| [8–12 February 2022](2022-02-12-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.1% | N/A | N/A | N/A | N/A |
+| [15–20 March 2022](2022-03-20-Norstat.html) | Norstat <br> Vårt Land | 3.3% | 2.7–4.2% | 2.5–4.5% | 2.4–4.7% | 2.1–5.1% |
+| [8–14 March 2022](2022-03-14-Sentio.html) | Sentio <br> Nettavisen | 2.5% | 1.9–3.4% | 1.8–3.7% | 1.6–3.9% | 1.4–4.4% |
+| [8–14 March 2022](2022-03-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [2–7 March 2022](2022-03-07-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.7% | 3.0–4.8% | 2.7–5.2% | 2.6–5.4% | 2.2–6.0% |
+| [1–2 March 2022](2022-03-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.1% | 2.4–4.0% | 2.3–4.3% | 2.1–4.5% | 1.8–5.0% |
+| [22–28 February 2022](2022-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 4.2% | 3.4–5.3% | 3.2–5.6% | 3.0–5.9% | 2.6–6.5% |
+| [22–28 February 2022](2022-02-28-KantarTNS.html) | Kantar TNS <br> TV2 | 3.9% | 3.3–4.7% | 3.1–4.9% | 3.0–5.1% | 2.7–5.5% |
+| [21–23 February 2022](2022-02-23-Ipsos.html) | Ipsos <br> Dagbladet | 2.7% | 2.1–3.7% | 1.9–3.9% | 1.8–4.2% | 1.5–4.7% |
+| [15–20 February 2022](2022-02-20-Norstat.html) | Norstat <br> Vårt Land | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–4.0% |
+| [9–14 February 2022](2022-02-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [8–12 February 2022](2022-02-12-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.1% | 2.5–4.0% | 2.3–4.3% | 2.2–4.4% | 1.9–4.8% |
 | [1–7 February 2022](2022-02-07-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.6% | N/A | N/A | N/A | N/A |
 | [1–2 February 2022](2022-02-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.7% | N/A | N/A | N/A | N/A |
 | [25–31 January 2022](2022-01-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.6% | N/A | N/A | N/A | N/A |
@@ -307,10 +308,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.7% | 100% |  |
-| 2.5–3.5% | 24% | 99.3% |  |
-| 3.5–4.5% | 54% | 75% | Last Result, Median |
-| 4.5–5.5% | 19% | 21% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 31% | 98% |  |
+| 3.5–4.5% | 47% | 66% | Last Result, Median |
+| 4.5–5.5% | 18% | 20% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -324,7 +325,8 @@ Last result: **3** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–8 | 2–9 | 1–9 | 1–10 |
+| N/A | [Poll Average](average.html) | 3 | 2–8 | 2–9 | 1–9 | 0–10 |
+| [6 January 2025](2025-01-06-InFact.html) | InFact <br> Nettavisen | 3 | 2–7 | 1–7 | 0–8 | 0–8 |
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 6 | 3–8 | 2–8 | 2–9 | 1–10 |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 2–7 | 1–8 | 1–8 | 0–9 |
 | [3–9 December 2024](2024-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 6 | 2–8 | 2–9 | 2–9 | 1–10 |
@@ -553,25 +555,25 @@ Last result: **3** seats (General Election of 13 September 2021)
 | [3–4 May 2022](2022-05-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3 | 2–7 | 2–8 | 2–8 | 1–9 |
 | [3 May 2022](2022-05-03-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–7 | 0–8 | 0–8 | 0–10 |
 | [26 April–2 May 2022](2022-05-02-Norstat.html) | Norstat <br> Aftenposten and NRK | 2 | 1–3 | 0–7 | 0–7 | 0–8 |
-| [25–27 April 2022](2022-04-27-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |
-| [19–25 April 2022](2022-04-25-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
-| [5–10 April 2022](2022-04-10-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
-| [4–6 April 2022](2022-04-06-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [6 April 2022](2022-04-06-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
-| [5–6 April 2022](2022-04-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [28 March–1 April 2022](2022-04-01-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
-| [22–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
+| [25–27 April 2022](2022-04-27-Ipsos.html) | Ipsos <br> Dagbladet | 2 | 2–7 | 2–8 | 1–8 | 0–9 |
+| [19–25 April 2022](2022-04-25-Norstat.html) | Norstat <br> Vårt Land | 2 | 2–3 | 2–3 | 2–7 | 1–8 |
+| [5–10 April 2022](2022-04-10-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 2–3 | 2–3 | 1–3 | 0–7 |
+| [4–6 April 2022](2022-04-06-ResponsAnalyse.html) | Respons Analyse <br> VG | 8 | 3–9 | 3–9 | 3–9 | 2–11 |
+| [6 April 2022](2022-04-06-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3 | 2–7 | 1–8 | 0–9 | 0–9 |
+| [5–6 April 2022](2022-04-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 0–3 | 0–3 | 0–3 | 0–7 |
+| [28 March–1 April 2022](2022-04-01-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 2–7 | 1–8 | 1–8 | 0–9 |
+| [22–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 8 | 3–9 | 3–10 | 3–10 | 2–11 |
 | [21–23 March 2022](2022-03-23-Ipsos.html) | Ipsos <br> Dagbladet | 8 | 2–8 | 1–8 | 0–8 | 0–8 |
-| [15–20 March 2022](2022-03-20-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
-| [8–14 March 2022](2022-03-14-Sentio.html) | Sentio <br> Nettavisen |  |  |  |  |  |
-| [8–14 March 2022](2022-03-14-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [2–7 March 2022](2022-03-07-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
-| [1–2 March 2022](2022-03-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [22–28 February 2022](2022-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [22–28 February 2022](2022-02-28-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
-| [21–23 February 2022](2022-02-23-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |
-| [15–20 February 2022](2022-02-20-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
-| [9–14 February 2022](2022-02-14-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
+| [15–20 March 2022](2022-03-20-Norstat.html) | Norstat <br> Vårt Land | 3 | 2–6 | 2–7 | 1–7 | 0–8 |
+| [8–14 March 2022](2022-03-14-Sentio.html) | Sentio <br> Nettavisen | 1 | 0–3 | 0–3 | 0–3 | 0–8 |
+| [8–14 March 2022](2022-03-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 2–7 | 2–8 | 2–8 | 1–9 |
+| [2–7 March 2022](2022-03-07-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3 | 2–8 | 2–8 | 2–9 | 1–10 |
+| [1–2 March 2022](2022-03-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 2–3 | 1–7 | 0–7 | 0–8 |
+| [22–28 February 2022](2022-02-28-Norstat.html) | Norstat <br> Aftenposten and NRK | 7 | 3–9 | 2–9 | 2–10 | 2–11 |
+| [22–28 February 2022](2022-02-28-KantarTNS.html) | Kantar TNS <br> TV2 | 3 | 2–8 | 2–9 | 2–9 | 2–10 |
+| [21–23 February 2022](2022-02-23-Ipsos.html) | Ipsos <br> Dagbladet | 1 | 1–3 | 0–3 | 0–3 | 0–8 |
+| [15–20 February 2022](2022-02-20-Norstat.html) | Norstat <br> Vårt Land | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
+| [9–14 February 2022](2022-02-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 2–3 | 0–7 | 0–7 | 0–8 |
 | [8–12 February 2022](2022-02-12-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
 | [1–7 February 2022](2022-02-07-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [1–2 February 2022](2022-02-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
@@ -622,17 +624,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 3% | 99.7% |  |
-| 2 | 24% | 97% |  |
+| 0 | 1.0% | 100% |  |
+| 1 | 3% | 99.0% |  |
+| 2 | 22% | 96% |  |
 | 3 | 25% | 73% | Last Result, Median |
 | 4 | 0% | 48% |  |
-| 5 | 0.3% | 48% |  |
-| 6 | 7% | 47% |  |
-| 7 | 21% | 40% |  |
-| 8 | 13% | 19% |  |
+| 5 | 0.4% | 48% |  |
+| 6 | 8% | 48% |  |
+| 7 | 24% | 39% |  |
+| 8 | 10% | 15% |  |
 | 9 | 5% | 6% |  |
-| 10 | 0.8% | 1.0% |  |
+| 10 | 0.6% | 0.8% |  |
 | 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
