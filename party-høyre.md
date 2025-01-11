@@ -10,9 +10,9 @@ Last result: **20.4%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.7% | 19.1–22.4% | 18.6–22.8% | 18.2–23.3% | 17.5–24.1% |
-| [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 23.2% | N/A | N/A | N/A | N/A |
-| [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 21.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 21.3% | 19.4–23.6% | 18.9–24.3% | 18.5–24.8% | 17.7–25.9% |
+| [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 23.2% | 21.5–24.9% | 21.0–25.4% | 20.6–25.9% | 19.9–26.7% |
+| [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 21.6% | 20.0–23.3% | 19.5–23.8% | 19.2–24.2% | 18.4–25.1% |
 | [6 January 2025](2025-01-06-InFact.html) | InFact <br> Nettavisen | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.7–23.4% | 18.0–24.2% |
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
@@ -310,16 +310,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.6% | 100% |  |
-| 17.5–18.5% | 4% | 99.4% |  |
-| 18.5–19.5% | 14% | 95% |  |
-| 19.5–20.5% | 27% | 81% | Last Result |
-| 20.5–21.5% | 29% | 54% | Median |
-| 21.5–22.5% | 18% | 25% |  |
-| 22.5–23.5% | 6% | 8% |  |
-| 23.5–24.5% | 1.3% | 1.4% |  |
-| 24.5–25.5% | 0.2% | 0.2% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.3% | 100% |  |
+| 17.5–18.5% | 3% | 99.6% |  |
+| 18.5–19.5% | 9% | 97% |  |
+| 19.5–20.5% | 19% | 88% | Last Result |
+| 20.5–21.5% | 25% | 68% | Median |
+| 21.5–22.5% | 20% | 43% |  |
+| 22.5–23.5% | 13% | 23% |  |
+| 23.5–24.5% | 7% | 10% |  |
+| 24.5–25.5% | 3% | 4% |  |
+| 25.5–26.5% | 0.7% | 0.9% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -330,9 +332,9 @@ Last result: **36** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 33–40 | 33–40 | 32–41 | 31–44 |
-| [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 38 | 34–42 | 33–43 | 32–44 | 31–46 |
+| [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 40 | 37–44 | 36–45 | 35–46 | 33–48 |
+| [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 39 | 35–42 | 34–43 | 34–44 | 33–46 |
 | [6 January 2025](2025-01-06-InFact.html) | InFact <br> Nettavisen | 39 | 35–40 | 34–41 | 33–43 | 32–44 |
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 36 | 34–39 | 33–40 | 33–41 | 32–43 |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 35 | 33–39 | 32–40 | 32–41 | 31–42 |
@@ -632,21 +634,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
-| 31 | 0.7% | 99.8% |  |
-| 32 | 4% | 99.1% |  |
-| 33 | 6% | 96% |  |
-| 34 | 9% | 90% |  |
-| 35 | 21% | 81% |  |
-| 36 | 13% | 60% | Last Result, Median |
-| 37 | 9% | 47% |  |
-| 38 | 8% | 38% |  |
-| 39 | 12% | 30% |  |
-| 40 | 15% | 19% |  |
-| 41 | 2% | 4% |  |
-| 42 | 0.9% | 2% |  |
-| 43 | 0.3% | 1.2% |  |
-| 44 | 0.7% | 0.9% |  |
-| 45 | 0.2% | 0.2% |  |
-| 46 | 0% | 0% |  |
+| 31 | 0.4% | 99.9% |  |
+| 32 | 2% | 99.5% |  |
+| 33 | 4% | 97% |  |
+| 34 | 6% | 94% |  |
+| 35 | 15% | 87% |  |
+| 36 | 10% | 72% | Last Result |
+| 37 | 8% | 63% |  |
+| 38 | 9% | 55% | Median |
+| 39 | 16% | 46% |  |
+| 40 | 15% | 31% |  |
+| 41 | 4% | 16% |  |
+| 42 | 4% | 11% |  |
+| 43 | 3% | 7% |  |
+| 44 | 2% | 4% |  |
+| 45 | 1.0% | 2% |  |
+| 46 | 0.4% | 0.8% |  |
+| 47 | 0.2% | 0.3% |  |
+| 48 | 0.1% | 0.1% |  |
+| 49 | 0% | 0% |  |
 
 
