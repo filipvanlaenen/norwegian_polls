@@ -276,17 +276,17 @@ Last result: **3.9%** (General Election of 13 September 2021)
 | [20 December 2021](2021-12-20-InFact.html) | InFact <br> Nettavisen | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.8% | 2.2–5.2% |
 | [13–15 December 2021](2021-12-15-Ipsos.html) | Ipsos <br> Dagbladet | 2.8% | 2.1–3.7% | 2.0–3.9% | 1.8–4.2% | 1.6–4.6% |
 | [7–13 December 2021](2021-12-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [8–13 December 2021](2021-12-13-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.5% | N/A | N/A | N/A | N/A |
-| [3–9 December 2021](2021-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.0% | N/A | N/A | N/A | N/A |
-| [7–8 December 2021](2021-12-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.6% | N/A | N/A | N/A | N/A |
-| [2–7 December 2021](2021-12-07-KantarTNS.html) | Kantar TNS <br> TV2 | 3.2% | N/A | N/A | N/A | N/A |
-| [23–27 November 2021](2021-11-27-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.7% | N/A | N/A | N/A | N/A |
-| [22–24 November 2021](2021-11-24-Ipsos.html) | Ipsos <br> Dagbladet | 4.3% | N/A | N/A | N/A | N/A |
-| [16–22 November 2021](2021-11-22-Norstat.html) | Norstat <br> Vårt Land | 3.4% | N/A | N/A | N/A | N/A |
-| [10–15 November 2021](2021-11-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 4.1% | N/A | N/A | N/A | N/A |
-| [9–14 November 2021](2021-11-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 4.1% | N/A | N/A | N/A | N/A |
-| [2–8 November 2021](2021-11-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.0% | N/A | N/A | N/A | N/A |
-| [2–3 November 2021](2021-11-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 4.1% | N/A | N/A | N/A | N/A |
+| [8–13 December 2021](2021-12-13-ResponsAnalyse.html) | Respons Analyse <br> VG | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [3–9 December 2021](2021-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.0% | 2.3–4.0% | 2.1–4.3% | 1.9–4.6% | 1.6–5.2% |
+| [7–8 December 2021](2021-12-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–4.9% | 2.3–5.4% |
+| [2–7 December 2021](2021-12-07-KantarTNS.html) | Kantar TNS <br> TV2 | 3.2% | 2.4–4.5% | 2.2–4.8% | 2.0–5.2% | 1.7–5.8% |
+| [23–27 November 2021](2021-11-27-Norstat.html) | Norstat <br> Aftenposten and NRK | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.6–5.2% | 2.3–5.8% |
+| [22–24 November 2021](2021-11-24-Ipsos.html) | Ipsos <br> Dagbladet | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.1–5.7% | 2.8–6.2% |
+| [16–22 November 2021](2021-11-22-Norstat.html) | Norstat <br> Vårt Land | 3.4% | 2.8–4.3% | 2.6–4.6% | 2.4–4.8% | 2.2–5.2% |
+| [10–15 November 2021](2021-11-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [9–14 November 2021](2021-11-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [2–8 November 2021](2021-11-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3.0% | 2.4–3.9% | 2.2–4.1% | 2.1–4.3% | 1.8–4.7% |
+| [2–3 November 2021](2021-11-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 4.1% | 3.3–5.2% | 3.1–5.5% | 2.9–5.8% | 2.5–6.4% |
 | [27 October–2 November 2021](2021-11-02-KantarTNS.html) | Kantar TNS <br> TV2 | 3.6% | N/A | N/A | N/A | N/A |
 | [26–31 October 2021](2021-10-31-Norstat.html) | Norstat <br> Aftenposten and NRK | 4.2% | N/A | N/A | N/A | N/A |
 | [31 October 2021](2021-10-31-Ipsos.html) | Ipsos <br> Dagbladet | 3.4% | N/A | N/A | N/A | N/A |
@@ -590,17 +590,17 @@ Last result: **3** seats (General Election of 13 September 2021)
 | [20 December 2021](2021-12-20-InFact.html) | InFact <br> Nettavisen | 2 | 1–7 | 1–8 | 1–8 | 1–9 |
 | [13–15 December 2021](2021-12-15-Ipsos.html) | Ipsos <br> Dagbladet | 1 | 1–2 | 1–3 | 1–7 | 0–8 |
 | [7–13 December 2021](2021-12-13-Sentio.html) | Sentio <br> Amedia and Nettavisen | 2 | 1–7 | 1–7 | 1–8 | 1–9 |
-| [8–13 December 2021](2021-12-13-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [3–9 December 2021](2021-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
-| [7–8 December 2021](2021-12-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
-| [2–7 December 2021](2021-12-07-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
-| [23–27 November 2021](2021-11-27-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
-| [22–24 November 2021](2021-11-24-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |
-| [16–22 November 2021](2021-11-22-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
-| [10–15 November 2021](2021-11-15-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [9–14 November 2021](2021-11-14-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
-| [2–8 November 2021](2021-11-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
-| [2–3 November 2021](2021-11-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
+| [8–13 December 2021](2021-12-13-ResponsAnalyse.html) | Respons Analyse <br> VG | 2 | 1–8 | 1–8 | 1–8 | 1–9 |
+| [3–9 December 2021](2021-12-09-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–3 | 1–7 | 1–8 | 1–9 |
+| [7–8 December 2021](2021-12-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3 | 1–7 | 1–8 | 1–9 | 1–9 |
+| [2–7 December 2021](2021-12-07-KantarTNS.html) | Kantar TNS <br> TV2 | 2 | 1–7 | 1–7 | 1–8 | 0–9 |
+| [23–27 November 2021](2021-11-27-Norstat.html) | Norstat <br> Aftenposten and NRK | 3 | 1–9 | 1–9 | 1–9 | 1–10 |
+| [22–24 November 2021](2021-11-24-Ipsos.html) | Ipsos <br> Dagbladet | 7 | 3–9 | 2–10 | 2–10 | 1–11 |
+| [16–22 November 2021](2021-11-22-Norstat.html) | Norstat <br> Vårt Land | 2 | 1–7 | 1–8 | 1–8 | 1–9 |
+| [10–15 November 2021](2021-11-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 3–7 | 3–7 | 3–9 | 2–10 |
+| [9–14 November 2021](2021-11-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 7 | 2–8 | 2–9 | 2–9 | 1–10 |
+| [2–8 November 2021](2021-11-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–3 | 1–7 | 1–7 | 1–8 |
+| [2–3 November 2021](2021-11-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 7 | 2–9 | 2–9 | 1–10 | 1–11 |
 | [27 October–2 November 2021](2021-11-02-KantarTNS.html) | Kantar TNS <br> TV2 |  |  |  |  |  |
 | [26–31 October 2021](2021-10-31-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
 | [31 October 2021](2021-10-31-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |

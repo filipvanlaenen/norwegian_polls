@@ -283,7 +283,7 @@ Last result: **0.6%** (General Election of 13 September 2021)
 | [23–27 November 2021](2021-11-27-Norstat.html) | Norstat <br> Aftenposten and NRK | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 November 2021](2021-11-24-Ipsos.html) | Ipsos <br> Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
 | [16–22 November 2021](2021-11-22-Norstat.html) | Norstat <br> Vårt Land | 0.0% | N/A | N/A | N/A | N/A |
-| [10–15 November 2021](2021-11-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.4% | N/A | N/A | N/A | N/A |
+| [10–15 November 2021](2021-11-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [9–14 November 2021](2021-11-14-Sentio.html) | Sentio <br> Amedia and Nettavisen | 0.0% | N/A | N/A | N/A | N/A |
 | [2–8 November 2021](2021-11-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 November 2021](2021-11-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.0% | N/A | N/A | N/A | N/A |
@@ -593,7 +593,7 @@ Last result: **0** seats (General Election of 13 September 2021)
 | [23–27 November 2021](2021-11-27-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
 | [22–24 November 2021](2021-11-24-Ipsos.html) | Ipsos <br> Dagbladet |  |  |  |  |  |
 | [16–22 November 2021](2021-11-22-Norstat.html) | Norstat <br> Vårt Land |  |  |  |  |  |
-| [10–15 November 2021](2021-11-15-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
+| [10–15 November 2021](2021-11-15-ResponsAnalyse.html) | Respons Analyse <br> VG | 0 | 0 | 0 | 0 | 0 |
 | [9–14 November 2021](2021-11-14-Sentio.html) | Sentio <br> Amedia and Nettavisen |  |  |  |  |  |
 | [2–8 November 2021](2021-11-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [2–3 November 2021](2021-11-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
