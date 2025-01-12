@@ -332,9 +332,9 @@ Last result: **28** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 7–13 | 6–14 | 1–14 | 1–15 |
-| [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 11 | 9–14 | 8–14 | 7–15 | 7–15 |
-| [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 12 | 10–13 | 9–14 | 9–14 | 7–15 |
+| N/A | [Poll Average](average.html) | 10 | 7–13 | 6–13 | 1–14 | 1–15 |
+| [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 11 | 8–14 | 8–14 | 7–15 | 7–15 |
+| [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | [6 January 2025](2025-01-06-InFact.html) | InFact <br> Nettavisen | 12 | 10–13 | 9–14 | 9–15 | 8–16 |
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 7 | 1–9 | 1–10 | 1–10 | 0–12 |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 9 | 7–11 | 7–12 | 6–12 | 0–13 |
@@ -641,15 +641,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.6% | 97% |  |
 | 6 | 4% | 96% |  |
 | 7 | 8% | 92% |  |
-| 8 | 9% | 84% |  |
+| 8 | 10% | 84% |  |
 | 9 | 13% | 74% |  |
-| 10 | 17% | 61% | Median |
-| 11 | 12% | 44% |  |
-| 12 | 18% | 31% |  |
-| 13 | 8% | 13% |  |
+| 10 | 16% | 61% | Median |
+| 11 | 16% | 46% |  |
+| 12 | 18% | 30% |  |
+| 13 | 7% | 12% |  |
 | 14 | 3% | 5% |  |
 | 15 | 2% | 2% |  |
-| 16 | 0.3% | 0.3% |  |
+| 16 | 0.2% | 0.3% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |

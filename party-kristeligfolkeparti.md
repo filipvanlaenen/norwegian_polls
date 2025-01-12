@@ -327,8 +327,8 @@ Last result: **3** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 1–7 | 1–8 | 0–8 | 0–9 |
-| [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–3 | 1–6 | 0–6 | 0–7 |
-| [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 2 | 1–3 | 0–7 | 0–8 | 0–8 |
+| [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–3 | 1–3 | 0–6 | 0–7 |
+| [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 2 | 1–3 | 1–7 | 0–8 | 0–8 |
 | [6 January 2025](2025-01-06-InFact.html) | InFact <br> Nettavisen | 3 | 2–7 | 1–7 | 0–8 | 0–8 |
 | [10–14 December 2024](2024-12-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 6 | 3–8 | 2–8 | 2–9 | 1–10 |
 | [4–9 December 2024](2024-12-09-ResponsAnalyse.html) | Respons Analyse <br> VG | 3 | 2–7 | 1–8 | 1–8 | 0–9 |
@@ -629,10 +629,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% |  |
 | 1 | 8% | 97% |  |
-| 2 | 34% | 89% |  |
-| 3 | 27% | 54% | Last Result, Median |
+| 2 | 36% | 89% |  |
+| 3 | 26% | 53% | Last Result, Median |
 | 4 | 0% | 27% |  |
-| 5 | 0.4% | 27% |  |
+| 5 | 0.5% | 27% |  |
 | 6 | 5% | 27% |  |
 | 7 | 16% | 21% |  |
 | 8 | 4% | 5% |  |
