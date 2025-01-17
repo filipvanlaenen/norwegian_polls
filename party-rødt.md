@@ -331,9 +331,9 @@ Last result: **8** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 7–12 | 1–14 |
-| [8–13 January 2025](2025-01-13-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 9 | 7–10 | 7–11 | 1–11 | 1–12 |
+| [8–13 January 2025](2025-01-13-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 9 | 7–10 | 7–11 | 1–12 | 1–12 |
 | [8–13 January 2025](2025-01-13-Norstat.html) | Norstat <br> NRK | 10 | 8–12 | 7–12 | 7–13 | 6–14 |
-| [6–10 January 2025](2025-01-10-Verian.html) | Verian <br> TV2 | 10 | 10 | 9–10 | 9–10 | 8–11 |
+| [6–10 January 2025](2025-01-10-Verian.html) | Verian <br> TV2 | 10 | 9–10 | 9–10 | 8–10 | 7–11 |
 | [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 9 | 8–11 | 7–12 | 7–12 | 6–13 |
 | [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 10 | 9–12 | 8–12 | 8–13 | 7–14 |
 | [6 January 2025](2025-01-06-InFact.html) | InFact <br> Nettavisen | 11 | 9–12 | 8–12 | 8–13 | 1–15 |
@@ -636,16 +636,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.0% | 100% |  |
 | 2 | 0% | 99.0% |  |
-| 3 | 0% | 98.9% |  |
-| 4 | 0% | 98.9% |  |
-| 5 | 0% | 98.9% |  |
-| 6 | 0.3% | 98.9% |  |
-| 7 | 3% | 98.6% |  |
-| 8 | 11% | 95% | Last Result |
-| 9 | 23% | 84% |  |
-| 10 | 35% | 61% | Median |
-| 11 | 19% | 26% |  |
-| 12 | 5% | 8% |  |
+| 3 | 0% | 99.0% |  |
+| 4 | 0% | 99.0% |  |
+| 5 | 0% | 99.0% |  |
+| 6 | 0.3% | 99.0% |  |
+| 7 | 4% | 98.7% |  |
+| 8 | 12% | 95% | Last Result |
+| 9 | 24% | 83% |  |
+| 10 | 33% | 60% | Median |
+| 11 | 19% | 27% |  |
+| 12 | 6% | 8% |  |
 | 13 | 1.4% | 2% |  |
 | 14 | 0.5% | 0.8% |  |
 | 15 | 0.3% | 0.3% |  |

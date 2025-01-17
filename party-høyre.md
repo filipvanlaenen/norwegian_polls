@@ -338,8 +338,8 @@ Last result: **36** seats (General Election of 13 September 2021)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 40 | 35–45 | 33–45 | 32–46 | 31–48 |
 | [8–13 January 2025](2025-01-13-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 42 | 39–46 | 38–47 | 37–48 | 36–49 |
-| [8–13 January 2025](2025-01-13-Norstat.html) | Norstat <br> NRK | 35 | 32–39 | 32–40 | 31–40 | 30–41 |
-| [6–10 January 2025](2025-01-10-Verian.html) | Verian <br> TV2 | 45 | 41–45 | 37–45 | 37–45 | 37–46 |
+| [8–13 January 2025](2025-01-13-Norstat.html) | Norstat <br> NRK | 35 | 32–39 | 32–39 | 31–40 | 30–41 |
+| [6–10 January 2025](2025-01-10-Verian.html) | Verian <br> TV2 | 45 | 40–45 | 37–45 | 37–45 | 37–46 |
 | [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 40 | 37–44 | 36–45 | 35–46 | 33–48 |
 | [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 39 | 35–42 | 35–43 | 34–44 | 33–45 |
 | [6 January 2025](2025-01-06-InFact.html) | InFact <br> Nettavisen | 39 | 35–40 | 34–41 | 33–43 | 32–44 |
@@ -640,25 +640,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.3% | 100% |  |
+| 30 | 0.2% | 100% |  |
 | 31 | 0.3% | 99.7% |  |
-| 32 | 3% | 99.3% |  |
+| 32 | 3% | 99.4% |  |
 | 33 | 3% | 96% |  |
 | 34 | 4% | 94% |  |
-| 35 | 7% | 90% |  |
-| 36 | 6% | 83% | Last Result |
-| 37 | 6% | 77% |  |
-| 38 | 6% | 71% |  |
+| 35 | 8% | 90% |  |
+| 36 | 6% | 82% | Last Result |
+| 37 | 5% | 77% |  |
+| 38 | 7% | 72% |  |
 | 39 | 11% | 65% |  |
-| 40 | 14% | 54% | Median |
-| 41 | 6% | 40% |  |
-| 42 | 5% | 34% |  |
-| 43 | 4% | 29% |  |
-| 44 | 5% | 24% |  |
-| 45 | 16% | 20% |  |
-| 46 | 2% | 4% |  |
-| 47 | 1.0% | 2% |  |
-| 48 | 0.6% | 0.8% |  |
+| 40 | 14% | 53% | Median |
+| 41 | 7% | 40% |  |
+| 42 | 5% | 33% |  |
+| 43 | 5% | 28% |  |
+| 44 | 5% | 23% |  |
+| 45 | 15% | 19% |  |
+| 46 | 2% | 3% |  |
+| 47 | 0.9% | 2% |  |
+| 48 | 0.5% | 0.7% |  |
 | 49 | 0.2% | 0.2% |  |
 | 50 | 0% | 0.1% |  |
 | 51 | 0% | 0% |  |

@@ -329,10 +329,10 @@ Last result: **3** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–6 | 1–7 | 1–8 | 1–9 |
-| [8–13 January 2025](2025-01-13-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 3 | 2–8 | 1–8 | 1–9 | 1–9 |
+| N/A | [Poll Average](average.html) | 2 | 1–7 | 1–7 | 1–8 | 1–9 |
+| [8–13 January 2025](2025-01-13-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 3 | 2–8 | 1–8 | 1–8 | 1–9 |
 | [8–13 January 2025](2025-01-13-Norstat.html) | Norstat <br> NRK | 2 | 1–6 | 1–7 | 1–7 | 1–8 |
-| [6–10 January 2025](2025-01-10-Verian.html) | Verian <br> TV2 | 2 | 2 | 2–3 | 2–3 | 2–9 |
+| [6–10 January 2025](2025-01-10-Verian.html) | Verian <br> TV2 | 2 | 2 | 2–3 | 2–7 | 1–9 |
 | [7–8 January 2025](2025-01-08-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–3 | 1–6 | 1–7 | 1–7 |
 | [2–6 January 2025](2025-01-06-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 2 | 1–3 | 1–3 | 1–3 | 1–7 |
 | [6 January 2025](2025-01-06-InFact.html) | InFact <br> Nettavisen | 1 | 1–3 | 1–8 | 1–8 | 1–8 |
@@ -635,13 +635,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 27% | 100% |  |
 | 2 | 45% | 73% | Median |
-| 3 | 16% | 28% | Last Result |
-| 4 | 0% | 12% |  |
-| 5 | 0.2% | 12% |  |
-| 6 | 2% | 12% |  |
-| 7 | 6% | 9% |  |
-| 8 | 3% | 3% |  |
-| 9 | 0.6% | 0.6% |  |
+| 3 | 15% | 29% | Last Result |
+| 4 | 0% | 13% |  |
+| 5 | 0.2% | 13% |  |
+| 6 | 2% | 13% |  |
+| 7 | 7% | 11% |  |
+| 8 | 3% | 4% |  |
+| 9 | 0.5% | 0.6% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
