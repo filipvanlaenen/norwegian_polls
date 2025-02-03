@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Sat, 25 Jan 2025 20:47:13 +0100</pubDate>
+    <pubDate>Mon, 03 Feb 2025 21:54:48 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by InFact for Nettavisen, 30 January 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2025-01-30-InFact.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 2–11 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 43–55 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 14–20 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 31–37 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–7 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 28–39 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0–2 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–12 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 12–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-01-30-InFact-seats.png"
+        length="288258"
+        type="image/png"/>
+      <pubDate>Mon, 03 Feb 2025 21:54:48 +0100</pubDate>
+      <dc:date>2025-02-03T21:54:48.315036+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by InFact for Nettavisen, 30 January 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2025-01-30-InFact.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-01-30-InFact-coalitions-seats.png"
+        length="487973"
+        type="image/png"/>
+      <pubDate>Mon, 03 Feb 2025 21:54:48 +0100</pubDate>
+      <dc:date>2025-02-03T21:54:48.315036+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by InFact for Nettavisen, 30 January 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2025-01-30-InFact.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 3.6–6.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 23.7–28.7%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2.5–4.6%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.6–10.9%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 16.2–20.7%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.1–4.1%&lt;/li&gt;&lt;li&gt;Konservativt: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0.2–1.0%&lt;/li&gt;&lt;li&gt;Høyre: 16.2–20.6%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 1.7–3.5%&lt;/li&gt;&lt;li&gt;Rødt: 3.5–5.9%&lt;/li&gt;&lt;li&gt;Senterpartiet: 6.8–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-01-30-InFact.png"
+        length="346592"
+        type="image/png"/>
+      <pubDate>Mon, 03 Feb 2025 21:54:48 +0100</pubDate>
+      <dc:date>2025-02-03T21:54:48.315036+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 13–20 January 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-01-20-OpinionPerduco.html#seats</link>
@@ -8859,6 +8889,6 @@
       <pubDate>Sat, 11 Jan 2025 19:52:49 +0100</pubDate>
       <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
     </item>
-    <dc:date>2025-01-25T20:47:13.389926+01:00</dc:date>
+    <dc:date>2025-02-03T21:54:48.315036+01:00</dc:date>
   </channel>
 </rss>
