@@ -10,7 +10,8 @@ Last result: **11.6%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 21.3–26.6% | 20.4–27.4% | 19.8–28.0% | 18.7–29.3% |
+| N/A | [Poll Average](average.html) | 24.5% | 21.3–27.1% | 20.4–27.8% | 19.8–28.4% | 18.7–29.5% |
+| [30 January 2025](2025-01-30-InFact.html) | InFact <br> Nettavisen | 26.1% | 24.5–27.8% | 24.1–28.3% | 23.7–28.7% | 22.9–29.6% |
 | [13–20 January 2025](2025-01-20-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 26.2% | 24.3–28.3% | 23.7–28.9% | 23.2–29.5% | 22.3–30.5% |
 | [8–13 January 2025](2025-01-13-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
 | [8–13 January 2025](2025-01-13-Norstat.html) | Norstat <br> NRK | 23.7% | 22.0–25.5% | 21.6–26.0% | 21.1–26.4% | 20.4–27.3% |
@@ -323,15 +324,15 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 2% | 99.7% |  |
 | 19.5–20.5% | 4% | 98% |  |
 | 20.5–21.5% | 6% | 94% |  |
-| 21.5–22.5% | 10% | 88% |  |
-| 22.5–23.5% | 16% | 78% |  |
-| 23.5–24.5% | 21% | 63% | Median |
-| 24.5–25.5% | 19% | 41% |  |
-| 25.5–26.5% | 12% | 23% |  |
-| 26.5–27.5% | 6% | 10% |  |
-| 27.5–28.5% | 3% | 4% |  |
-| 28.5–29.5% | 1.0% | 1.4% |  |
-| 29.5–30.5% | 0.3% | 0.4% |  |
+| 21.5–22.5% | 8% | 88% |  |
+| 22.5–23.5% | 13% | 80% |  |
+| 23.5–24.5% | 17% | 67% |  |
+| 24.5–25.5% | 18% | 50% | Median |
+| 25.5–26.5% | 15% | 31% |  |
+| 26.5–27.5% | 10% | 16% |  |
+| 27.5–28.5% | 4% | 6% |  |
+| 28.5–29.5% | 2% | 2% |  |
+| 29.5–30.5% | 0.4% | 0.5% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
@@ -344,7 +345,8 @@ Last result: **21** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44 | 39–49 | 38–49 | 37–51 | 35–54 |
+| N/A | [Poll Average](average.html) | 44 | 39–50 | 38–53 | 37–54 | 35–55 |
+| [30 January 2025](2025-01-30-InFact.html) | InFact <br> Nettavisen | 48 | 44–55 | 44–55 | 43–55 | 42–56 |
 | [13–20 January 2025](2025-01-20-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 49 | 47–53 | 46–54 | 45–54 | 41–57 |
 | [8–13 January 2025](2025-01-13-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 44 | 42–48 | 41–49 | 40–49 | 39–52 |
 | [8–13 January 2025](2025-01-13-Norstat.html) | Norstat <br> NRK | 44 | 41–47 | 40–48 | 40–49 | 38–50 |
@@ -669,22 +671,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 3% | 96% |  |
 | 39 | 4% | 94% |  |
 | 40 | 3% | 89% |  |
-| 41 | 10% | 86% |  |
-| 42 | 7% | 76% |  |
-| 43 | 11% | 69% |  |
-| 44 | 21% | 58% | Median |
-| 45 | 6% | 37% |  |
-| 46 | 6% | 31% |  |
-| 47 | 3% | 25% |  |
-| 48 | 7% | 22% |  |
-| 49 | 10% | 15% |  |
-| 50 | 2% | 5% |  |
-| 51 | 0.4% | 3% |  |
-| 52 | 0.3% | 2% |  |
-| 53 | 0.5% | 2% |  |
-| 54 | 2% | 2% |  |
-| 55 | 0% | 0.2% |  |
-| 56 | 0% | 0.1% |  |
+| 41 | 5% | 86% |  |
+| 42 | 6% | 81% |  |
+| 43 | 9% | 75% |  |
+| 44 | 21% | 66% | Median |
+| 45 | 6% | 45% |  |
+| 46 | 5% | 39% |  |
+| 47 | 8% | 34% |  |
+| 48 | 4% | 26% |  |
+| 49 | 12% | 23% |  |
+| 50 | 3% | 11% |  |
+| 51 | 1.4% | 8% |  |
+| 52 | 2% | 7% |  |
+| 53 | 1.3% | 5% |  |
+| 54 | 2% | 4% |  |
+| 55 | 2% | 2% |  |
+| 56 | 0.2% | 0.3% |  |
 | 57 | 0% | 0.1% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
