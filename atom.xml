@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/norwegian_polls</id>
   <title>All Registered Polls for the Norwegian Parliament</title>
-  <updated>2025-02-22T17:52:24.357994+01:00</updated>
+  <updated>2025-03-05T22:30:38.153+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Venstre: 3.0–5.5%, 2–9 seats</li><li>Fremskrittspartiet: 19.3–24.4%, 38–49 seats</li><li>Miljøpartiet De Grønne: 1.8–3.8%, 1–3 seats</li><li>Sosialistisk Venstreparti: 6.4–9.7%, 12–18 seats</li><li>Arbeiderpartiet: 26.7–32.4%, 51–61 seats</li><li>Kristelig Folkeparti: 2.3–4.5%, 0–7 seats</li><li>Konservativt: 0.6–2.0%, 0 seats</li><li>Pensjonistpartiet: 0.0–0.6%, 0 seats</li><li>Høyre: 17.0–21.9%, 31–41 seats</li><li>Industri- og Næringspartiet: 0.6–2.0%, 0 seats</li><li>Rødt: 2.5–4.8%, 1–9 seats</li><li>Senterpartiet: 3.4–6.1%, 0–11 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2025-02-28-Verian.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2025-02-28-Verian.html"/>
+    <title>Opinion Poll by Verian for TV2, 24–28 February 2025</title>
+    <updated>2025-03-05T22:30:38.153+01:00</updated>
+    <dc:date>2025-03-05T22:30:38.153+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Arbeiderpartiet: 23.7–29.8%, 45–56 seats</li><li>Kristelig Folkeparti: 2.4–5.0%, 1–9 seats</li><li>Høyre: 16.6–22.0%, 28–40 seats</li><li>Venstre: 2.7–5.5%, 2–10 seats</li><li>Industri- og Næringspartiet: 0.2–1.3%, 0 seats</li><li>Fremskrittspartiet: 19.6–25.4%, 36–47 seats</li><li>Miljøpartiet De Grønne: 1.3–3.4%, 0–3 seats</li><li>Sosialistisk Venstreparti: 5.7–9.3%, 9–17 seats</li><li>Rødt: 4.1–7.3%, 6–13 seats</li><li>Senterpartiet: 4.6–7.9%, 7–15 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2025-02-16-OpinionPerduco.html</id>
@@ -2447,5 +2455,5 @@
     <updated>2025-01-11T19:52:49.599996+01:00</updated>
     <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
   </entry>
-  <dc:date>2025-02-22T17:52:24.357994+01:00</dc:date>
+  <dc:date>2025-03-05T22:30:38.153+01:00</dc:date>
 </feed>
