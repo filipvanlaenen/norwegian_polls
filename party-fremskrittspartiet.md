@@ -353,8 +353,8 @@ Last result: **21** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44 | 40–49 | 39–50 | 38–50 | 36–50 |
-| [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 41 | 39–45 | 39–47 | 38–49 | 36–49 |
+| N/A | [Poll Average](average.html) | 43 | 40–49 | 39–50 | 38–50 | 36–50 |
+| [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 41 | 39–45 | 38–46 | 37–48 | 35–49 |
 | [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 42 | 38–45 | 37–46 | 36–47 | 35–49 |
 | [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 50 | 46–50 | 42–50 | 40–50 | 40–51 |
 | [4–6 February 2025](2025-02-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 42 | 41–49 | 39–49 | 39–49 | 38–49 |
@@ -683,21 +683,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
 | 34 | 0.1% | 100% |  |
-| 35 | 0.1% | 99.9% |  |
-| 36 | 0.6% | 99.8% |  |
-| 37 | 0.5% | 99.2% |  |
-| 38 | 1.3% | 98.7% |  |
+| 35 | 0.2% | 99.9% |  |
+| 36 | 0.6% | 99.7% |  |
+| 37 | 0.6% | 99.1% |  |
+| 38 | 2% | 98.6% |  |
 | 39 | 4% | 97% |  |
-| 40 | 7% | 93% |  |
+| 40 | 6% | 92% |  |
 | 41 | 12% | 86% |  |
-| 42 | 18% | 74% |  |
-| 43 | 6% | 56% |  |
-| 44 | 6% | 51% | Median |
-| 45 | 6% | 45% |  |
-| 46 | 9% | 39% |  |
+| 42 | 19% | 74% |  |
+| 43 | 6% | 55% | Median |
+| 44 | 5% | 49% |  |
+| 45 | 6% | 44% |  |
+| 46 | 9% | 38% |  |
 | 47 | 10% | 29% |  |
-| 48 | 5% | 19% |  |
-| 49 | 5% | 15% |  |
+| 48 | 4% | 19% |  |
+| 49 | 5% | 14% |  |
 | 50 | 9% | 10% |  |
 | 51 | 0.2% | 0.3% |  |
 | 52 | 0.1% | 0.1% |  |
