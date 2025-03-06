@@ -8,26 +8,26 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Wed, 05 Mar 2025 22:30:38 +0100</pubDate>
+    <pubDate>Thu, 06 Mar 2025 20:54:02 +0100</pubDate>
     <item>
       <title>Opinion Poll by Verian for TV2, 24–28 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-02-28-Verian.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Venstre: 2–9 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 38–49 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–3 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 12–18 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 51–61 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–7 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 31–41 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–9 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 37–48 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–3 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 12–18 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 51–61 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–8 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 31–42 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–9 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-02-28-Verian-seats.png"
-        length="258869"
+        length="264758"
         type="image/png"/>
-      <pubDate>Wed, 05 Mar 2025 22:30:38 +0100</pubDate>
-      <dc:date>2025-03-05T22:30:38.153+01:00</dc:date>
+      <pubDate>Thu, 06 Mar 2025 20:54:02 +0100</pubDate>
+      <dc:date>2025-03-06T20:54:02.980695+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for TV2, 24–28 February 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-02-28-Verian.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-02-28-Verian-coalitions-seats.png"
-        length="554012"
+        length="575653"
         type="image/png"/>
-      <pubDate>Wed, 05 Mar 2025 22:30:38 +0100</pubDate>
-      <dc:date>2025-03-05T22:30:38.153+01:00</dc:date>
+      <pubDate>Thu, 06 Mar 2025 20:54:02 +0100</pubDate>
+      <dc:date>2025-03-06T20:54:02.980695+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for TV2, 24–28 February 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-02-28-Verian.png"
         length="326706"
         type="image/png"/>
-      <pubDate>Wed, 05 Mar 2025 22:30:38 +0100</pubDate>
-      <dc:date>2025-03-05T22:30:38.153+01:00</dc:date>
+      <pubDate>Thu, 06 Mar 2025 20:54:02 +0100</pubDate>
+      <dc:date>2025-03-06T20:54:02.980695+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 10–16 February 2025 – Seat Projections for the Parties</title>
@@ -9189,6 +9189,6 @@
       <pubDate>Sat, 11 Jan 2025 19:52:49 +0100</pubDate>
       <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
     </item>
-    <dc:date>2025-03-05T22:30:38.153+01:00</dc:date>
+    <dc:date>2025-03-06T20:54:02.980695+01:00</dc:date>
   </channel>
 </rss>
