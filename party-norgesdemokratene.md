@@ -10,7 +10,9 @@ Last result: **1.1%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.1–0.9% | 0.1–1.1% | 0.0–1.2% | 0.0–1.5% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.2–1.2% | 0.2–1.3% | 0.1–1.6% |
+| [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 0.0% | N/A | N/A | N/A | N/A |
 | [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% | 0.3–1.7% |
@@ -144,7 +146,7 @@ Last result: **1.1%** (General Election of 13 September 2021)
 | [23–28 August 2023](2023-08-28-Verian.html) | Verian <br> TV2 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–15 August 2023](2023-08-15-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
 | [9–14 August 2023](2023-08-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 0.0% | N/A | N/A | N/A | N/A |
-| [8–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 0.7% | N/A | N/A | N/A | N/A |
+| [8–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 August 2023](2023-08-07-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0.0% | N/A | N/A | N/A | N/A |
 | [31 July–4 August 2023](2023-08-04-KantarTNS.html) | Kantar TNS <br> TV2 | 1.7% | 1.3–2.4% | 1.2–2.6% | 1.1–2.7% | 0.9–3.1% |
 | [3 August 2023](2023-08-03-InFact.html) | InFact <br> Nettavisen | 0.0% | N/A | N/A | N/A | N/A |
@@ -324,8 +326,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 65% | 100% | Median |
-| 0.5–1.5% | 34% | 35% | Last Result |
+| 0.0–0.5% | 46% | 100% |  |
+| 0.5–1.5% | 54% | 54% | Last Result, Median |
 | 1.5–2.5% | 0.5% | 0.5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -339,6 +341,8 @@ Last result: **0** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 0 | 0 | 0 | 0 | 0 |
+| [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
 | [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 0 | 0 | 0 | 0 | 0 |
@@ -472,7 +476,7 @@ Last result: **0** seats (General Election of 13 September 2021)
 | [23–28 August 2023](2023-08-28-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
 | [8–15 August 2023](2023-08-15-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [9–14 August 2023](2023-08-14-ResponsAnalyse.html) | Respons Analyse <br> VG |  |  |  |  |  |
-| [8–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> Dagbladet and Vårt Land |  |  |  |  |  |
+| [8–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK |  |  |  |  |  |
 | [1–7 August 2023](2023-08-07-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget |  |  |  |  |  |
 | [31 July–4 August 2023](2023-08-04-KantarTNS.html) | Kantar TNS <br> TV2 | 0 | 0 | 0 | 0 | 0 |
 | [3 August 2023](2023-08-03-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
