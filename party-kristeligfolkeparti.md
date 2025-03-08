@@ -344,8 +344,8 @@ Last result: **3** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–3 | 0–7 | 0–7 | 0–8 |
-| [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 3 | 2–7 | 1–7 | 1–7 | 1–9 |
-| [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 1 | 0–2 | 0–3 | 0–3 | 0–7 |
+| [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 3 | 1–7 | 1–7 | 1–7 | 1–8 |
+| [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 1 | 0–3 | 0–3 | 0–3 | 0–7 |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 3 | 1–3 | 0–3 | 0–8 | 0–9 |
 | [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 3 | 1–8 | 1–8 | 1–9 | 0–9 |
 | [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 0 | 0–1 | 0–1 | 0–1 | 0–3 |
@@ -661,17 +661,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% |  |
-| 1 | 25% | 79% |  |
-| 2 | 20% | 54% | Median |
-| 3 | 24% | 34% | Last Result |
-| 4 | 0% | 10% |  |
-| 5 | 0% | 10% |  |
-| 6 | 0.2% | 10% |  |
-| 7 | 8% | 9% |  |
-| 8 | 0.8% | 1.1% |  |
-| 9 | 0.3% | 0.4% |  |
-| 10 | 0.1% | 0.1% |  |
+| 0 | 20% | 100% |  |
+| 1 | 27% | 80% |  |
+| 2 | 17% | 53% | Median |
+| 3 | 30% | 36% | Last Result |
+| 4 | 0% | 5% |  |
+| 5 | 0% | 5% |  |
+| 6 | 0.2% | 5% |  |
+| 7 | 4% | 5% |  |
+| 8 | 0.8% | 1.0% |  |
+| 9 | 0.2% | 0.3% |  |
+| 10 | 0% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 

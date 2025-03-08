@@ -346,7 +346,7 @@ Last result: **8** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 1–10 | 1–11 | 1–12 | 1–13 |
-| [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 7 | 1–8 | 1–9 | 1–9 | 1–10 |
+| [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 7 | 1–9 | 1–9 | 1–9 | 1–9 |
 | [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 8 | 1–9 | 1–10 | 1–10 | 1–11 |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 1 | 1–8 | 1–8 | 1–9 | 1–10 |
 | [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 9 | 8–12 | 7–12 | 6–13 | 1–14 |
@@ -663,15 +663,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 21% | 100% |  |
-| 2 | 0.2% | 79% |  |
-| 3 | 0% | 79% |  |
-| 4 | 0% | 79% |  |
-| 5 | 0% | 79% |  |
-| 6 | 0.1% | 79% |  |
-| 7 | 15% | 79% |  |
-| 8 | 33% | 64% | Last Result, Median |
-| 9 | 16% | 31% |  |
+| 1 | 27% | 100% |  |
+| 2 | 0.5% | 73% |  |
+| 3 | 0% | 73% |  |
+| 4 | 0% | 73% |  |
+| 5 | 0% | 73% |  |
+| 6 | 0.1% | 73% |  |
+| 7 | 8% | 72% |  |
+| 8 | 30% | 65% | Last Result, Median |
+| 9 | 20% | 35% |  |
 | 10 | 6% | 15% |  |
 | 11 | 5% | 9% |  |
 | 12 | 3% | 4% |  |

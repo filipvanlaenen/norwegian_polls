@@ -346,9 +346,9 @@ Last result: **13** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–15 | 9–16 | 9–17 | 9–18 |
-| [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 11 | 9–14 | 9–14 | 9–14 | 9–16 |
-| [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 12 | 10–14 | 10–14 | 9–14 | 8–16 |
+| N/A | [Poll Average](average.html) | 13 | 10–15 | 10–16 | 9–17 | 9–18 |
+| [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 11 | 9–14 | 9–15 | 9–15 | 9–15 |
+| [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 11 | 10–14 | 9–14 | 9–14 | 8–16 |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 14 | 12–17 | 12–17 | 12–18 | 11–20 |
 | [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 13 | 10–15 | 10–16 | 9–17 | 9–18 |
 | [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 13 | 13–16 | 11–17 | 10–17 | 10–18 |
@@ -664,14 +664,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.1% | 100% |  |
-| 9 | 9% | 99.9% |  |
-| 10 | 13% | 91% |  |
-| 11 | 12% | 78% |  |
-| 12 | 11% | 66% |  |
-| 13 | 26% | 55% | Last Result, Median |
-| 14 | 13% | 29% |  |
-| 15 | 7% | 16% |  |
+| 8 | 0.2% | 100% |  |
+| 9 | 3% | 99.8% |  |
+| 10 | 15% | 97% |  |
+| 11 | 16% | 82% |  |
+| 12 | 10% | 66% |  |
+| 13 | 27% | 56% | Last Result, Median |
+| 14 | 12% | 29% |  |
+| 15 | 8% | 17% |  |
 | 16 | 5% | 9% |  |
 | 17 | 3% | 4% |  |
 | 18 | 0.7% | 1.1% |  |
