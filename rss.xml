@@ -8,26 +8,26 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 13 Mar 2025 19:12:32 +0100</pubDate>
+    <pubDate>Thu, 13 Mar 2025 21:20:21 +0100</pubDate>
     <item>
       <title>Opinion Poll by Respons Analyse for Aftenposten, Bergens Tidende and VG, 5–10 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-03-10-ResponsAnalyse.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Venstre: 7–12 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 37–43 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 0–1 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–15 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Kystpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 48–57 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–8 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 33–40 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 7–10 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 1–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 7–12 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 36–44 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 0–1 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–16 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Kystpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 48–57 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–8 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 31–40 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 7–12 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 1–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-03-10-ResponsAnalyse-seats.png"
-        length="284372"
+        length="290326"
         type="image/png"/>
-      <pubDate>Wed, 12 Mar 2025 21:04:54 +0100</pubDate>
-      <dc:date>2025-03-12T21:04:54.247262+01:00</dc:date>
+      <pubDate>Thu, 13 Mar 2025 21:20:21 +0100</pubDate>
+      <dc:date>2025-03-13T21:20:21.402927+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse for Aftenposten, Bergens Tidende and VG, 5–10 March 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-03-10-ResponsAnalyse.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-03-10-ResponsAnalyse-coalitions-seats.png"
-        length="509939"
+        length="519622"
         type="image/png"/>
-      <pubDate>Wed, 12 Mar 2025 21:04:54 +0100</pubDate>
-      <dc:date>2025-03-12T21:04:54.247262+01:00</dc:date>
+      <pubDate>Thu, 13 Mar 2025 21:20:21 +0100</pubDate>
+      <dc:date>2025-03-13T21:20:21.402927+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse for Aftenposten, Bergens Tidende and VG, 5–10 March 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-03-10-ResponsAnalyse.png"
         length="374529"
         type="image/png"/>
-      <pubDate>Wed, 12 Mar 2025 21:04:54 +0100</pubDate>
-      <dc:date>2025-03-12T21:04:54.247262+01:00</dc:date>
+      <pubDate>Thu, 13 Mar 2025 21:20:21 +0100</pubDate>
+      <dc:date>2025-03-13T21:20:21.402927+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Dagbladet, NRK and Vårt Land, 4–8 March 2025 – Seat Projections for the Parties</title>
@@ -9279,6 +9279,6 @@
       <pubDate>Sat, 11 Jan 2025 19:52:49 +0100</pubDate>
       <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
     </item>
-    <dc:date>2025-03-13T19:12:32.412968+01:00</dc:date>
+    <dc:date>2025-03-13T21:20:21.402927+01:00</dc:date>
   </channel>
 </rss>
