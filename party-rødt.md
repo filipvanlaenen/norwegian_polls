@@ -350,8 +350,8 @@ Last result: **8** seats (General Election of 13 September 2021)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 1–10 | 1–10 | 1–11 | 1–12 |
 | [5–10 March 2025](2025-03-10-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 8 | 8–9 | 7–11 | 7–12 | 1–12 |
-| [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 8 | 1–10 | 1–11 | 1–11 | 1–12 |
-| [4–5 March 2025](2025-03-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 9 | 7–11 | 1–11 | 1–12 | 1–13 |
+| [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 8 | 1–10 | 1–10 | 1–11 | 1–12 |
+| [4–5 March 2025](2025-03-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 9 | 7–11 | 2–11 | 1–12 | 1–13 |
 | [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 7 | 1–9 | 1–9 | 1–9 | 1–9 |
 | [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 8 | 1–10 | 1–10 | 1–10 | 1–12 |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 1 | 1–8 | 1–8 | 1–9 | 1–10 |
@@ -670,16 +670,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 30% | 100% |  |
-| 2 | 1.1% | 70% |  |
-| 3 | 0.3% | 69% |  |
-| 4 | 0% | 68% |  |
-| 5 | 0% | 68% |  |
-| 6 | 0.8% | 68% |  |
-| 7 | 12% | 67% |  |
-| 8 | 28% | 56% | Last Result, Median |
-| 9 | 14% | 28% |  |
-| 10 | 10% | 14% |  |
-| 11 | 3% | 4% |  |
+| 2 | 0.8% | 70% |  |
+| 3 | 0.2% | 69% |  |
+| 4 | 0% | 69% |  |
+| 5 | 0% | 69% |  |
+| 6 | 2% | 69% |  |
+| 7 | 13% | 67% |  |
+| 8 | 28% | 54% | Last Result, Median |
+| 9 | 14% | 27% |  |
+| 10 | 8% | 12% |  |
+| 11 | 2% | 4% |  |
 | 12 | 1.4% | 2% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |

@@ -358,9 +358,9 @@ Last result: **21** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43 | 40–48 | 37–49 | 37–49 | 36–51 |
+| N/A | [Poll Average](average.html) | 43 | 39–48 | 37–49 | 37–49 | 36–51 |
 | [5–10 March 2025](2025-03-10-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 40 | 37–42 | 37–43 | 36–44 | 34–44 |
-| [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 41 | 40–46 | 40–47 | 39–48 | 38–50 |
+| [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 42 | 39–45 | 39–47 | 39–48 | 38–51 |
 | [4–5 March 2025](2025-03-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 44 | 42–48 | 41–49 | 40–50 | 39–52 |
 | [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 46 | 43–48 | 42–49 | 42–49 | 39–50 |
 | [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 46 | 42–50 | 42–50 | 41–51 | 39–54 |
@@ -696,20 +696,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0.3% | 99.8% |  |
 | 36 | 0.3% | 99.5% |  |
 | 37 | 5% | 99.2% |  |
-| 38 | 1.0% | 94% |  |
-| 39 | 3% | 93% |  |
-| 40 | 11% | 90% |  |
-| 41 | 16% | 80% |  |
-| 42 | 11% | 64% |  |
-| 43 | 7% | 53% | Median |
-| 44 | 10% | 47% |  |
-| 45 | 10% | 36% |  |
+| 38 | 1.3% | 94% |  |
+| 39 | 4% | 93% |  |
+| 40 | 8% | 89% |  |
+| 41 | 15% | 81% |  |
+| 42 | 11% | 67% |  |
+| 43 | 6% | 55% | Median |
+| 44 | 12% | 49% |  |
+| 45 | 10% | 37% |  |
 | 46 | 4% | 26% |  |
-| 47 | 5% | 22% |  |
-| 48 | 11% | 17% |  |
+| 47 | 6% | 22% |  |
+| 48 | 11% | 16% |  |
 | 49 | 3% | 6% |  |
-| 50 | 2% | 2% |  |
-| 51 | 0.5% | 0.9% |  |
+| 50 | 1.5% | 2% |  |
+| 51 | 0.6% | 1.0% |  |
 | 52 | 0.2% | 0.4% |  |
 | 53 | 0.1% | 0.2% |  |
 | 54 | 0.1% | 0.1% |  |

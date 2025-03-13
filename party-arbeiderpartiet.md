@@ -354,10 +354,10 @@ Last result: **48** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 53 | 50–59 | 48–61 | 47–61 | 45–63 |
+| N/A | [Poll Average](average.html) | 53 | 50–59 | 48–60 | 47–61 | 45–63 |
 | [5–10 March 2025](2025-03-10-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 51 | 49–57 | 48–57 | 48–57 | 46–59 |
-| [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 57 | 54–61 | 52–62 | 51–62 | 50–64 |
-| [4–5 March 2025](2025-03-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 51 | 47–54 | 46–55 | 44–56 | 42–58 |
+| [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 57 | 52–60 | 52–61 | 51–62 | 49–64 |
+| [4–5 March 2025](2025-03-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 51 | 47–54 | 45–55 | 45–56 | 42–58 |
 | [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 53 | 53–59 | 52–59 | 51–59 | 50–62 |
 | [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 53 | 50–57 | 49–59 | 47–60 | 45–61 |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 56 | 52–61 | 51–61 | 51–61 | 49–63 |
@@ -677,28 +677,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0% | 100% |  |
 | 42 | 0.1% | 99.9% |  |
-| 43 | 0.1% | 99.8% |  |
+| 43 | 0.1% | 99.9% |  |
 | 44 | 0.2% | 99.7% |  |
-| 45 | 0.4% | 99.6% |  |
-| 46 | 0.8% | 99.1% |  |
-| 47 | 0.9% | 98% |  |
+| 45 | 0.6% | 99.6% |  |
+| 46 | 0.8% | 99.0% |  |
+| 47 | 1.0% | 98% |  |
 | 48 | 3% | 97% | Last Result |
 | 49 | 3% | 94% |  |
 | 50 | 10% | 91% |  |
 | 51 | 6% | 81% |  |
-| 52 | 13% | 75% |  |
-| 53 | 12% | 62% | Median |
-| 54 | 8% | 50% |  |
-| 55 | 11% | 41% |  |
-| 56 | 8% | 30% |  |
-| 57 | 7% | 22% |  |
-| 58 | 3% | 15% |  |
-| 59 | 4% | 12% |  |
-| 60 | 2% | 8% |  |
-| 61 | 4% | 6% |  |
-| 62 | 1.4% | 2% |  |
-| 63 | 0.3% | 0.6% |  |
-| 64 | 0.2% | 0.3% |  |
+| 52 | 14% | 75% |  |
+| 53 | 13% | 61% | Median |
+| 54 | 8% | 48% |  |
+| 55 | 10% | 40% |  |
+| 56 | 7% | 29% |  |
+| 57 | 8% | 22% |  |
+| 58 | 3% | 14% |  |
+| 59 | 5% | 11% |  |
+| 60 | 2% | 6% |  |
+| 61 | 3% | 4% |  |
+| 62 | 0.8% | 1.4% |  |
+| 63 | 0.4% | 0.6% |  |
+| 64 | 0.1% | 0.3% |  |
 | 65 | 0% | 0.1% |  |
 | 66 | 0% | 0.1% |  |
 | 67 | 0% | 0% |  |
