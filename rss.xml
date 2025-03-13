@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 13 Mar 2025 22:23:16 +0100</pubDate>
+    <pubDate>Thu, 13 Mar 2025 22:47:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Respons Analyse for Aftenposten, Bergens Tidende and VG, 5–10 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-03-10-ResponsAnalyse.html#seats</link>
@@ -132,22 +132,22 @@
     <item>
       <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 24 February–3 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-03-03-OpinionPerduco.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 47–60 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–6 seats&lt;/li&gt;&lt;li&gt;Høyre: 29–40 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–8 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 41–51 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–15 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–10 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 47–61 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–3 seats&lt;/li&gt;&lt;li&gt;Høyre: 29–40 seats&lt;/li&gt;&lt;li&gt;Venstre: 1–8 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 41–51 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–15 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–10 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 1–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-03-03-OpinionPerduco-seats.png"
-        length="258804"
+        length="256130"
         type="image/png"/>
-      <pubDate>Wed, 12 Mar 2025 22:22:35 +0100</pubDate>
-      <dc:date>2025-03-12T22:22:35.230641+01:00</dc:date>
+      <pubDate>Thu, 13 Mar 2025 22:47:10 +0100</pubDate>
+      <dc:date>2025-03-13T22:47:10.882759+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 24 February–3 March 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-03-03-OpinionPerduco.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-03-03-OpinionPerduco-coalitions-seats.png"
-        length="567019"
+        length="564583"
         type="image/png"/>
-      <pubDate>Wed, 12 Mar 2025 22:22:35 +0100</pubDate>
-      <dc:date>2025-03-12T22:22:35.230641+01:00</dc:date>
+      <pubDate>Thu, 13 Mar 2025 22:47:10 +0100</pubDate>
+      <dc:date>2025-03-13T22:47:10.882759+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 24 February–3 March 2025 – Voting Intentions</title>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-03-03-OpinionPerduco.png"
         length="318202"
         type="image/png"/>
-      <pubDate>Wed, 12 Mar 2025 22:22:35 +0100</pubDate>
-      <dc:date>2025-03-12T22:22:35.230641+01:00</dc:date>
+      <pubDate>Thu, 13 Mar 2025 22:47:10 +0100</pubDate>
+      <dc:date>2025-03-13T22:47:10.882759+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for TV2, 24–28 February 2025 – Seat Projections for the Parties</title>
@@ -9279,6 +9279,6 @@
       <pubDate>Sat, 11 Jan 2025 19:52:49 +0100</pubDate>
       <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
     </item>
-    <dc:date>2025-03-13T22:23:16.90523+01:00</dc:date>
+    <dc:date>2025-03-13T22:47:10.882759+01:00</dc:date>
   </channel>
 </rss>
