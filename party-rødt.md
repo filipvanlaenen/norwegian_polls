@@ -349,7 +349,7 @@ Last result: **8** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 1–10 | 1–10 | 1–11 | 1–12 |
-| [5–10 March 2025](2025-03-10-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 8 | 8 | 7–9 | 7–10 | 7–11 |
+| [5–10 March 2025](2025-03-10-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 8 | 8–9 | 7–11 | 7–12 | 1–12 |
 | [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 8 | 1–10 | 1–11 | 1–11 | 1–12 |
 | [4–5 March 2025](2025-03-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 9 | 7–11 | 1–11 | 1–12 | 1–13 |
 | [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 7 | 1–9 | 1–9 | 1–9 | 1–9 |
@@ -674,13 +674,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.3% | 69% |  |
 | 4 | 0% | 68% |  |
 | 5 | 0% | 68% |  |
-| 6 | 0.7% | 68% |  |
-| 7 | 12% | 68% |  |
+| 6 | 0.8% | 68% |  |
+| 7 | 12% | 67% |  |
 | 8 | 28% | 56% | Last Result, Median |
-| 9 | 14% | 27% |  |
-| 10 | 10% | 13% |  |
-| 11 | 2% | 3% |  |
-| 12 | 0.7% | 1.0% |  |
+| 9 | 14% | 28% |  |
+| 10 | 10% | 14% |  |
+| 11 | 3% | 4% |  |
+| 12 | 1.4% | 2% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 
