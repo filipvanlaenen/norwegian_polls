@@ -18,9 +18,9 @@ Last result: **26.2%** (General Election of 13 September 2021)
 | [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 28.2% | 26.2–30.4% | 25.7–31.0% | 25.2–31.5% | 24.2–32.6% |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
 | [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 26.6% | 24.4–28.9% | 23.8–29.6% | 23.3–30.2% | 22.3–31.3% |
-| [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 28.7% | N/A | N/A | N/A | N/A |
+| [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 28.7% | 26.6–30.9% | 26.1–31.5% | 25.6–32.1% | 24.6–33.2% |
 | [4–6 February 2025](2025-02-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
-| [4–5 February 2025](2025-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 24.6% | N/A | N/A | N/A | N/A |
+| [4–5 February 2025](2025-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 24.6% | 22.7–26.7% | 22.2–27.3% | 21.7–27.8% | 20.8–28.8% |
 | [5 February 2025](2025-02-05-InFact.html) | InFact <br> Nettavisen | 30.7% | 28.9–32.6% | 28.4–33.1% | 28.0–33.5% | 27.2–34.4% |
 | [4 February 2025](2025-02-04-Verian.html) | Verian <br> TV2 | 25.7% | N/A | N/A | N/A | N/A |
 | [30 January–3 February 2025](2025-02-03-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 18.3% | 16.8–20.0% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
@@ -361,10 +361,10 @@ Last result: **48** seats (General Election of 13 September 2021)
 | [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 53 | 53–59 | 52–59 | 51–59 | 50–62 |
 | [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 53 | 50–57 | 49–59 | 47–60 | 45–61 |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 56 | 52–61 | 51–61 | 51–61 | 49–63 |
-| [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 49 | 47–52 | 46–54 | 44–56 | 41–58 |
-| [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land |  |  |  |  |  |
+| [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 49 | 47–53 | 46–55 | 44–57 | 42–58 |
+| [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 56 | 51–59 | 49–60 | 48–60 | 46–60 |
 | [4–6 February 2025](2025-02-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 48 | 44–49 | 44–49 | 44–51 | 43–54 |
-| [4–5 February 2025](2025-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
+| [4–5 February 2025](2025-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 46 | 41–51 | 40–51 | 39–52 | 38–54 |
 | [5 February 2025](2025-02-05-InFact.html) | InFact <br> Nettavisen | 56 | 53–62 | 53–63 | 52–66 | 50–67 |
 | [4 February 2025](2025-02-04-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
 | [30 January–3 February 2025](2025-02-03-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 34 | 32–36 | 31–37 | 31–38 | 29–40 |

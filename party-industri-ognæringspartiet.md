@@ -18,7 +18,7 @@ Last result: **0.3%** (General Election of 13 September 2021)
 | [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 1.0% | 0.7–1.7% | 0.6–1.9% | 0.5–2.0% | 0.4–2.4% |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0.5% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% | 0.1–1.7% |
-| [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 0.8% | N/A | N/A | N/A | N/A |
+| [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 0.8% | 0.5–1.4% | 0.4–1.6% | 0.4–1.8% | 0.3–2.1% |
 | [4–6 February 2025](2025-02-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [4–5 February 2025](2025-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.0% | N/A | N/A | N/A | N/A |
 | [5 February 2025](2025-02-05-InFact.html) | InFact <br> Nettavisen | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
@@ -352,7 +352,7 @@ Last result: **0** seats (General Election of 13 September 2021)
 | [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 0 | 0 | 0 | 0 | 0 |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
 | [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0 | 0 | 0 | 0 | 0 |
-| [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land |  |  |  |  |  |
+| [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 0 | 0 | 0 | 0 | 0 |
 | [4–6 February 2025](2025-02-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0 | 0 | 0 | 0 | 0 |
 | [4–5 February 2025](2025-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
 | [5 February 2025](2025-02-05-InFact.html) | InFact <br> Nettavisen | 0 | 0 | 0 | 0 | 0 |
