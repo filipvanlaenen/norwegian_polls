@@ -359,10 +359,10 @@ Last result: **36** seats (General Election of 13 September 2021)
 | [4 March 2025](2025-03-04-InFact.html) | InFact <br> Nettavisen | 32 | 27–32 | 27–34 | 27–34 | 25–35 |
 | [24 February–3 March 2025](2025-03-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 33 | 30–37 | 29–39 | 29–40 | 27–42 |
 | [24–28 February 2025](2025-02-28-Verian.html) | Verian <br> TV2 | 36 | 34–39 | 32–40 | 31–42 | 30–44 |
-| [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 34 | 30–37 | 29–39 | 29–41 | 27–43 |
-| [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 28 | 26–33 | 25–33 | 23–36 | 23–37 |
+| [10–16 February 2025](2025-02-16-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 34 | 31–37 | 30–38 | 29–40 | 28–43 |
+| [4–8 February 2025](2025-02-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 29 | 26–33 | 25–33 | 23–34 | 23–37 |
 | [4–6 February 2025](2025-02-06-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 35 | 30–37 | 30–38 | 30–38 | 30–39 |
-| [4–5 February 2025](2025-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 33 | 29–36 | 28–36 | 27–37 | 25–39 |
+| [4–5 February 2025](2025-02-05-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 33 | 29–36 | 28–36 | 27–38 | 25–39 |
 | [5 February 2025](2025-02-05-InFact.html) | InFact <br> Nettavisen | 28 | 25–32 | 24–32 | 24–32 | 22–33 |
 | [4 February 2025](2025-02-04-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
 | [30 January–3 February 2025](2025-02-03-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 38 | 35–41 | 34–42 | 33–43 | 31–45 |
