@@ -10,7 +10,8 @@ Last result: **20.4%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.1% | 16.5–21.2% | 15.8–21.8% | 15.3–22.2% | 14.4–23.2% |
+| N/A | [Poll Average](average.html) | 19.1% | 16.5–21.2% | 15.8–21.8% | 15.3–22.3% | 14.4–23.2% |
+| [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 | 19.5% | 17.9–21.2% | 17.5–21.6% | 17.1–22.1% | 16.4–22.9% |
 | [10–12 March 2025](2025-03-12-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 19.5% | 17.8–21.4% | 17.3–21.9% | 16.9–22.4% | 16.1–23.4% |
 | [5–10 March 2025](2025-03-10-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 18.1% | 16.6–19.8% | 16.2–20.2% | 15.8–20.7% | 15.1–21.5% |
@@ -337,11 +338,11 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 11% | 89% |  |
 | 17.5–18.5% | 17% | 78% |  |
 | 18.5–19.5% | 22% | 61% | Median |
-| 19.5–20.5% | 20% | 39% | Last Result |
+| 19.5–20.5% | 20% | 40% | Last Result |
 | 20.5–21.5% | 13% | 19% |  |
-| 21.5–22.5% | 5% | 6% |  |
+| 21.5–22.5% | 5% | 7% |  |
 | 22.5–23.5% | 1.3% | 2% |  |
-| 23.5–24.5% | 0.2% | 0.2% |  |
+| 23.5–24.5% | 0.2% | 0.3% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
 
@@ -353,7 +354,8 @@ Last result: **36** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 31–39 | 29–40 | 28–40 | 27–44 |
+| N/A | [Poll Average](average.html) | 34 | 30–38 | 29–40 | 28–40 | 27–42 |
+| [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 | 34 | 31–37 | 31–38 | 31–39 | 29–40 |
 | [10–12 March 2025](2025-03-12-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 34 | 31–38 | 30–41 | 29–41 | 29–44 |
 | [5–10 March 2025](2025-03-10-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 35 | 33–40 | 33–40 | 31–40 | 31–40 |
 | [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 32 | 31–35 | 29–37 | 28–39 | 27–41 |
@@ -680,21 +682,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 2% | 99.8% |  |
 | 28 | 0.9% | 98% |  |
 | 29 | 3% | 97% |  |
-| 30 | 4% | 94% |  |
-| 31 | 5% | 90% |  |
-| 32 | 17% | 85% |  |
-| 33 | 9% | 68% |  |
-| 34 | 14% | 59% | Median |
-| 35 | 13% | 45% |  |
-| 36 | 10% | 31% | Last Result |
-| 37 | 5% | 21% |  |
-| 38 | 5% | 16% |  |
-| 39 | 5% | 12% |  |
-| 40 | 4% | 7% |  |
-| 41 | 1.3% | 2% |  |
-| 42 | 0.4% | 1.2% |  |
-| 43 | 0.2% | 0.8% |  |
-| 44 | 0.5% | 0.6% |  |
+| 30 | 5% | 94% |  |
+| 31 | 7% | 90% |  |
+| 32 | 18% | 83% |  |
+| 33 | 11% | 65% |  |
+| 34 | 12% | 54% | Median |
+| 35 | 13% | 43% |  |
+| 36 | 12% | 29% | Last Result |
+| 37 | 6% | 17% |  |
+| 38 | 3% | 12% |  |
+| 39 | 3% | 9% |  |
+| 40 | 4% | 5% |  |
+| 41 | 1.0% | 2% |  |
+| 42 | 0.3% | 0.7% |  |
+| 43 | 0.1% | 0.4% |  |
+| 44 | 0.2% | 0.3% |  |
 | 45 | 0% | 0.1% |  |
 | 46 | 0% | 0.1% |  |
 | 47 | 0% | 0% |  |
