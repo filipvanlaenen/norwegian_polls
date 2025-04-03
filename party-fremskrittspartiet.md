@@ -363,9 +363,9 @@ Last result: **21** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 41 | 35–45 | 34–47 | 32–48 | 30–50 |
-| [1 April 2025](2025-04-01-InFact.html) | InFact <br> Nettavisen | 39 | 37–44 | 35–44 | 35–45 | 34–45 |
+| [1 April 2025](2025-04-01-InFact.html) | InFact <br> Nettavisen | 39 | 37–43 | 35–44 | 35–45 | 34–46 |
 | [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 | 35 | 32–38 | 31–38 | 30–39 | 29–42 |
-| [24–31 March 2025](2025-03-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 40 | 37–42 | 36–43 | 35–44 | 34–46 |
+| [24–31 March 2025](2025-03-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 41 | 37–42 | 36–43 | 35–44 | 34–47 |
 | [10–12 March 2025](2025-03-12-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 39 | 33–41 | 33–41 | 32–42 | 32–43 |
 | [5–10 March 2025](2025-03-10-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 40 | 37–42 | 37–43 | 36–44 | 34–44 |
 | [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 42 | 39–45 | 39–47 | 39–48 | 38–51 |
@@ -701,16 +701,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 2% | 99.1% |  |
 | 33 | 1.3% | 97% |  |
 | 34 | 3% | 96% |  |
-| 35 | 5% | 93% |  |
-| 36 | 3% | 88% |  |
+| 35 | 4% | 93% |  |
+| 36 | 4% | 89% |  |
 | 37 | 8% | 85% |  |
-| 38 | 6% | 77% |  |
-| 39 | 12% | 72% |  |
-| 40 | 9% | 60% |  |
-| 41 | 14% | 51% | Median |
-| 42 | 13% | 36% |  |
+| 38 | 5% | 77% |  |
+| 39 | 10% | 72% |  |
+| 40 | 10% | 62% |  |
+| 41 | 16% | 51% | Median |
+| 42 | 12% | 36% |  |
 | 43 | 5% | 24% |  |
-| 44 | 6% | 19% |  |
+| 44 | 6% | 18% |  |
 | 45 | 4% | 12% |  |
 | 46 | 2% | 8% |  |
 | 47 | 2% | 6% |  |
