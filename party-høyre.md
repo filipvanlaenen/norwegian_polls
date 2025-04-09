@@ -361,10 +361,10 @@ Last result: **36** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 31–41 | 30–43 | 30–44 | 28–46 |
+| N/A | [Poll Average](average.html) | 35 | 31–41 | 30–43 | 30–44 | 28–46 |
 | [2–7 April 2025](2025-04-07-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 34 | 33–41 | 33–41 | 32–41 | 31–44 |
 | [31 March–7 April 2025](2025-04-07-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 35 | 34–37 | 34–39 | 33–39 | 31–42 |
-| [1–2 April 2025](2025-04-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 39 | 34–42 | 32–43 | 32–44 | 32–46 |
+| [1–2 April 2025](2025-04-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 38 | 34–41 | 33–43 | 32–44 | 32–46 |
 | [1 April 2025](2025-04-01-InFact.html) | InFact <br> Nettavisen | 32 | 30–36 | 28–37 | 28–38 | 27–40 |
 | [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 | 34 | 31–37 | 31–38 | 31–39 | 29–40 |
 | [24–31 March 2025](2025-03-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 40 | 37–45 | 36–45 | 35–46 | 33–48 |
@@ -695,23 +695,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0.6% | 98.9% |  |
 | 30 | 3% | 98% |  |
 | 31 | 6% | 95% |  |
-| 32 | 6% | 89% |  |
+| 32 | 5% | 89% |  |
 | 33 | 7% | 84% |  |
-| 34 | 12% | 76% |  |
-| 35 | 14% | 64% |  |
-| 36 | 10% | 50% | Last Result, Median |
-| 37 | 7% | 41% |  |
-| 38 | 8% | 33% |  |
-| 39 | 10% | 25% |  |
-| 40 | 2% | 15% |  |
-| 41 | 6% | 13% |  |
+| 34 | 13% | 77% |  |
+| 35 | 14% | 64% | Median |
+| 36 | 10% | 50% | Last Result |
+| 37 | 9% | 40% |  |
+| 38 | 8% | 31% |  |
+| 39 | 8% | 22% |  |
+| 40 | 3% | 15% |  |
+| 41 | 5% | 12% |  |
 | 42 | 2% | 7% |  |
-| 43 | 2% | 6% |  |
+| 43 | 2% | 5% |  |
 | 44 | 0.9% | 3% |  |
-| 45 | 2% | 2% |  |
-| 46 | 0.4% | 0.7% |  |
+| 45 | 1.5% | 2% |  |
+| 46 | 0.3% | 0.7% |  |
 | 47 | 0.2% | 0.3% |  |
-| 48 | 0.1% | 0.1% |  |
+| 48 | 0.1% | 0.2% |  |
 | 49 | 0% | 0.1% |  |
 | 50 | 0% | 0% |  |
 

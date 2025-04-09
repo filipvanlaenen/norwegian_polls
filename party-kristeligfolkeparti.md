@@ -355,8 +355,8 @@ Last result: **3** seats (General Election of 13 September 2021)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 1–7 | 1–8 | 1–8 | 0–9 |
 | [2–7 April 2025](2025-04-07-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 2 | 1–3 | 1–3 | 0–7 | 0–8 |
-| [31 March–7 April 2025](2025-04-07-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 3 | 2–3 | 2–3 | 1–3 | 1–8 |
-| [1–2 April 2025](2025-04-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3 | 2–7 | 2–8 | 0–8 | 0–9 |
+| [31 March–7 April 2025](2025-04-07-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 3 | 2–3 | 2–3 | 1–8 | 1–10 |
+| [1–2 April 2025](2025-04-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3 | 2–8 | 2–8 | 1–9 | 0–9 |
 | [1 April 2025](2025-04-01-InFact.html) | InFact <br> Nettavisen | 2 | 1–7 | 1–8 | 1–8 | 0–9 |
 | [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 | 3 | 2–8 | 2–8 | 2–9 | 1–10 |
 | [24–31 March 2025](2025-03-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 2 | 1–6 | 1–7 | 0–7 | 0–8 |
@@ -683,16 +683,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% |  |
 | 1 | 12% | 98% |  |
-| 2 | 28% | 86% |  |
-| 3 | 44% | 58% | Last Result, Median |
-| 4 | 0% | 14% |  |
-| 5 | 0% | 14% |  |
-| 6 | 0.8% | 14% |  |
-| 7 | 8% | 14% |  |
-| 8 | 5% | 6% |  |
-| 9 | 1.3% | 2% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 2 | 29% | 86% |  |
+| 3 | 41% | 57% | Last Result, Median |
+| 4 | 0% | 17% |  |
+| 5 | 0% | 17% |  |
+| 6 | 0.8% | 17% |  |
+| 7 | 7% | 16% |  |
+| 8 | 7% | 9% |  |
+| 9 | 1.4% | 2% |  |
+| 10 | 0.3% | 0.3% |  |
+| 11 | 0% | 0% |  |
 
 
