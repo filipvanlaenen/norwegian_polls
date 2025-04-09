@@ -8,26 +8,26 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Wed, 09 Apr 2025 19:20:21 +0200</pubDate>
+    <pubDate>Wed, 09 Apr 2025 21:50:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by Respons Analyse for Bergens Tidende and VG, 2–7 April 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-04-07-ResponsAnalyse.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Liberalistene: 0 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–8 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 32–39 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–16 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 51–64 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–7 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 33–41 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–11 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 8–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalistene: 0 seats&lt;/li&gt;&lt;li&gt;Venstre: 2–9 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 30–39 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–16 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 51–64 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 0–7 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 32–41 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 1–11 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 8–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-04-07-ResponsAnalyse-seats.png"
-        length="280941"
+        length="285842"
         type="image/png"/>
-      <pubDate>Tue, 08 Apr 2025 22:08:43 +0200</pubDate>
-      <dc:date>2025-04-08T22:08:43.828924+02:00</dc:date>
+      <pubDate>Wed, 09 Apr 2025 21:50:37 +0200</pubDate>
+      <dc:date>2025-04-09T21:50:37.087079+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse for Bergens Tidende and VG, 2–7 April 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-04-07-ResponsAnalyse.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-04-07-ResponsAnalyse-coalitions-seats.png"
-        length="538066"
+        length="554586"
         type="image/png"/>
-      <pubDate>Tue, 08 Apr 2025 22:08:43 +0200</pubDate>
-      <dc:date>2025-04-08T22:08:43.828924+02:00</dc:date>
+      <pubDate>Wed, 09 Apr 2025 21:50:37 +0200</pubDate>
+      <dc:date>2025-04-09T21:50:37.087079+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Respons Analyse for Bergens Tidende and VG, 2–7 April 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-04-07-ResponsAnalyse.png"
         length="362872"
         type="image/png"/>
-      <pubDate>Tue, 08 Apr 2025 22:08:43 +0200</pubDate>
-      <dc:date>2025-04-08T22:08:43.828924+02:00</dc:date>
+      <pubDate>Wed, 09 Apr 2025 21:50:37 +0200</pubDate>
+      <dc:date>2025-04-09T21:50:37.087079+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Dagbladet, NRK and Vårt Land, 31 March–7 April 2025 – Seat Projections for the Parties</title>
@@ -9489,6 +9489,6 @@
       <pubDate>Sat, 11 Jan 2025 19:52:49 +0100</pubDate>
       <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
     </item>
-    <dc:date>2025-04-09T19:20:21.741482+02:00</dc:date>
+    <dc:date>2025-04-09T21:50:37.087079+02:00</dc:date>
   </channel>
 </rss>
