@@ -12,6 +12,7 @@ Last result: **0.1%** (General Election of 13 September 2021)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [2–7 April 2025](2025-04-07-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 0.0% | N/A | N/A | N/A | N/A |
+| [31 March–7 April 2025](2025-04-07-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 April 2025](2025-04-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.1% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [1 April 2025](2025-04-01-InFact.html) | InFact <br> Nettavisen | 0.0% | N/A | N/A | N/A | N/A |
 | [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 | 0.0% | N/A | N/A | N/A | N/A |
@@ -350,6 +351,7 @@ Last result: **0** seats (General Election of 13 September 2021)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [2–7 April 2025](2025-04-07-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG |  |  |  |  |  |
+| [31 March–7 April 2025](2025-04-07-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land |  |  |  |  |  |
 | [1–2 April 2025](2025-04-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0 | 0 | 0 | 0 | 0 |
 | [1 April 2025](2025-04-01-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
 | [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 |  |  |  |  |  |

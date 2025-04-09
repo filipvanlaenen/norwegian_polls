@@ -10,8 +10,9 @@ Last result: **1.1%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.8% | 0.2–2.1% | 0.1–2.3% | 0.1–2.7% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.3–1.7% | 0.2–2.0% | 0.1–2.2% | 0.1–2.6% |
 | [2–7 April 2025](2025-04-07-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [31 March–7 April 2025](2025-04-07-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.3–1.7% |
 | [1–2 April 2025](2025-04-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 1.5% | 1.1–2.2% | 1.0–2.5% | 0.9–2.6% | 0.7–3.0% |
 | [1 April 2025](2025-04-01-InFact.html) | InFact <br> Nettavisen | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
 | [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 | 1.2% | 0.9–1.8% | 0.8–2.0% | 0.7–2.1% | 0.6–2.4% |
@@ -335,10 +336,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 33% | 100% |  |
-| 0.5–1.5% | 48% | 67% | Last Result, Median |
-| 1.5–2.5% | 19% | 20% |  |
-| 2.5–3.5% | 0.9% | 0.9% |  |
+| 0.0–0.5% | 30% | 100% |  |
+| 0.5–1.5% | 54% | 70% | Last Result, Median |
+| 1.5–2.5% | 15% | 16% |  |
+| 2.5–3.5% | 0.7% | 0.8% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -352,6 +353,7 @@ Last result: **0** seats (General Election of 13 September 2021)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [2–7 April 2025](2025-04-07-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 0 | 0 | 0 | 0 | 0 |
+| [31 March–7 April 2025](2025-04-07-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 0 | 0 | 0 | 0 | 0 |
 | [1–2 April 2025](2025-04-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0 | 0 | 0 | 0 | 0 |
 | [1 April 2025](2025-04-01-InFact.html) | InFact <br> Nettavisen | 0 | 0 | 0 | 0 | 0 |
 | [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |

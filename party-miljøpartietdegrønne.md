@@ -10,12 +10,13 @@ Last result: **3.9%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.2% | 2.1–4.6% | 1.9–4.8% | 1.6–5.4% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.2–4.1% | 2.0–4.4% | 1.9–4.7% | 1.6–5.2% |
 | [2–7 April 2025](2025-04-07-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
+| [31 March–7 April 2025](2025-04-07-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.1% |
 | [1–2 April 2025](2025-04-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.0% | 2.4–4.0% | 2.2–4.3% | 2.0–4.5% | 1.8–5.0% |
 | [1 April 2025](2025-04-01-InFact.html) | InFact <br> Nettavisen | 3.1% | 2.5–3.8% | 2.3–4.1% | 2.2–4.3% | 1.9–4.7% |
 | [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
-| [24–31 March 2025](2025-03-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.6–5.3% | 2.2–5.8% |
+| [24–31 March 2025](2025-03-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 2.5% | 1.9–3.4% | 1.7–3.6% | 1.6–3.9% | 1.4–4.4% |
 | [10–12 March 2025](2025-03-12-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2.8% | 2.2–3.7% | 2.0–4.0% | 1.8–4.2% | 1.6–4.7% |
 | [5–10 March 2025](2025-03-10-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -336,12 +337,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 20% | 99.7% |  |
-| 2.5–3.5% | 48% | 80% | Median |
-| 3.5–4.5% | 26% | 31% | Last Result |
-| 4.5–5.5% | 5% | 5% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 0.4% | 100% |  |
+| 1.5–2.5% | 21% | 99.6% |  |
+| 2.5–3.5% | 51% | 79% | Median |
+| 3.5–4.5% | 24% | 28% | Last Result |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -355,10 +356,11 @@ Last result: **3** seats (General Election of 13 September 2021)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–7 | 1–8 | 1–8 | 0–9 |
 | [2–7 April 2025](2025-04-07-ResponsAnalyse.html) | Respons Analyse <br> Bergens Tidende and VG | 3 | 2–8 | 2–8 | 2–9 | 1–10 |
+| [31 March–7 April 2025](2025-04-07-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 2 | 1–3 | 1–3 | 1–3 | 1–8 |
 | [1–2 April 2025](2025-04-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 2 | 1–3 | 1–8 | 1–8 | 1–8 |
 | [1 April 2025](2025-04-01-InFact.html) | InFact <br> Nettavisen | 3 | 1–8 | 1–8 | 1–8 | 1–9 |
 | [25–31 March 2025](2025-03-31-Verian.html) | Verian <br> TV2 | 1 | 1–2 | 1–3 | 0–3 | 0–3 |
-| [24–31 March 2025](2025-03-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 3 | 2–7 | 1–8 | 1–9 | 1–9 |
+| [24–31 March 2025](2025-03-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 1 | 1–3 | 1–3 | 1–3 | 0–7 |
 | [10–12 March 2025](2025-03-12-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 2 | 1–7 | 1–7 | 1–8 | 1–8 |
 | [5–10 March 2025](2025-03-10-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [4–8 March 2025](2025-03-08-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 1 | 1–3 | 1–3 | 1–3 | 0–7 |
@@ -681,15 +683,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.7% | 100% |  |
-| 1 | 31% | 99.3% |  |
-| 2 | 28% | 68% | Median |
-| 3 | 24% | 41% | Last Result |
-| 4 | 0% | 17% |  |
-| 5 | 0.2% | 17% |  |
-| 6 | 1.1% | 17% |  |
-| 7 | 10% | 16% |  |
-| 8 | 5% | 6% |  |
-| 9 | 1.3% | 2% |  |
+| 1 | 32% | 99.3% |  |
+| 2 | 33% | 67% | Median |
+| 3 | 20% | 34% | Last Result |
+| 4 | 0.1% | 13% |  |
+| 5 | 0.1% | 13% |  |
+| 6 | 0.1% | 13% |  |
+| 7 | 8% | 13% |  |
+| 8 | 4% | 5% |  |
+| 9 | 1.0% | 1.1% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
