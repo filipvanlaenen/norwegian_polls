@@ -10,7 +10,9 @@ Last result: **13.5%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.9–6.9% | 4.6–7.2% | 4.4–7.6% | 4.0–8.2% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.9–7.0% | 4.6–7.4% | 4.4–7.7% | 4.0–8.3% |
+| [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 5.5% | 4.7–6.5% | 4.5–6.8% | 4.3–7.0% | 3.9–7.5% |
+| [26–30 May 2025](2025-05-30-Verian.html) | Verian <br> TV2 | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [12–19 May 2025](2025-05-19-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [29 April–16 May 2025](2025-05-16-Norstat.html) | Norstat <br> NRK | 5.5% | 5.3–5.7% | 5.2–5.8% | 5.1–5.9% | 5.0–6.0% |
 | [7–12 May 2025](2025-05-12-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
@@ -347,11 +349,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 35% | 96% |  |
-| 5.5–6.5% | 43% | 61% | Median |
-| 6.5–7.5% | 15% | 18% |  |
-| 7.5–8.5% | 2% | 3% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 34% | 96% |  |
+| 5.5–6.5% | 41% | 62% | Median |
+| 6.5–7.5% | 17% | 20% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.2% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -367,7 +369,9 @@ Last result: **28** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–13 | 7–13 | 7–14 | 1–15 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 7–13 | 7–14 | 1–15 |
+| [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 8 | 7–11 | 6–12 | 6–12 | 1–13 |
+| [26–30 May 2025](2025-05-30-Verian.html) | Verian <br> TV2 | 11 | 9–12 | 8–13 | 8–14 | 8–16 |
 | [12–19 May 2025](2025-05-19-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 12 | 9–14 | 9–15 | 9–15 | 8–16 |
 | [29 April–16 May 2025](2025-05-16-Norstat.html) | Norstat <br> NRK | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [7–12 May 2025](2025-05-12-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 9 | 7–11 | 6–11 | 1–12 | 0–13 |
@@ -704,24 +708,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 0.5% | 99.8% |  |
-| 2 | 0% | 99.2% |  |
-| 3 | 0% | 99.2% |  |
-| 4 | 0% | 99.2% |  |
-| 5 | 0% | 99.2% |  |
-| 6 | 0.6% | 99.2% |  |
-| 7 | 4% | 98.6% |  |
-| 8 | 14% | 94% |  |
-| 9 | 26% | 80% |  |
-| 10 | 22% | 54% | Median |
-| 11 | 10% | 32% |  |
-| 12 | 12% | 22% |  |
-| 13 | 6% | 10% |  |
+| 0 | 0.3% | 100% |  |
+| 1 | 0.3% | 99.7% |  |
+| 2 | 0% | 99.4% |  |
+| 3 | 0% | 99.4% |  |
+| 4 | 0% | 99.4% |  |
+| 5 | 0% | 99.4% |  |
+| 6 | 1.5% | 99.3% |  |
+| 7 | 6% | 98% |  |
+| 8 | 15% | 92% |  |
+| 9 | 19% | 77% |  |
+| 10 | 23% | 58% | Median |
+| 11 | 13% | 35% |  |
+| 12 | 14% | 22% |  |
+| 13 | 4% | 9% |  |
 | 14 | 3% | 5% |  |
-| 15 | 1.2% | 2% |  |
-| 16 | 0.3% | 0.3% |  |
-| 17 | 0% | 0% |  |
+| 15 | 1.3% | 2% |  |
+| 16 | 0.4% | 0.4% |  |
+| 17 | 0% | 0.1% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
