@@ -10,8 +10,9 @@ Last result: **11.6%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.4% | 17.6–22.2% | 16.7–22.7% | 16.1–23.2% | 15.1–24.1% |
+| N/A | [Poll Average](average.html) | 20.2% | 17.4–21.9% | 16.7–22.5% | 16.1–23.0% | 15.1–23.9% |
 | [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 21.0% | 19.5–22.7% | 19.0–23.1% | 18.7–23.5% | 18.0–24.4% |
+| [26–31 May 2025](2025-05-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 19.6% | 17.8–21.5% | 17.3–22.0% | 16.9–22.5% | 16.1–23.4% |
 | [26–30 May 2025](2025-05-30-Verian.html) | Verian <br> TV2 | 19.1% | 17.6–20.8% | 17.2–21.3% | 16.8–21.7% | 16.1–22.6% |
 | [12–19 May 2025](2025-05-19-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [29 April–16 May 2025](2025-05-16-Norstat.html) | Norstat <br> NRK | 20.6% | 20.1–21.0% | 20.0–21.1% | 19.9–21.2% | 19.7–21.4% |
@@ -350,17 +351,17 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% | Last Result |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.2% | 100% |  |
-| 14.5–15.5% | 0.9% | 99.8% |  |
+| 14.5–15.5% | 1.0% | 99.8% |  |
 | 15.5–16.5% | 3% | 98.9% |  |
-| 16.5–17.5% | 6% | 96% |  |
-| 17.5–18.5% | 9% | 90% |  |
-| 18.5–19.5% | 12% | 81% |  |
-| 19.5–20.5% | 24% | 69% | Median |
-| 20.5–21.5% | 26% | 45% |  |
-| 21.5–22.5% | 12% | 18% |  |
-| 22.5–23.5% | 5% | 6% |  |
-| 23.5–24.5% | 1.2% | 1.4% |  |
-| 24.5–25.5% | 0.2% | 0.2% |  |
+| 16.5–17.5% | 7% | 96% |  |
+| 17.5–18.5% | 11% | 89% |  |
+| 18.5–19.5% | 15% | 78% |  |
+| 19.5–20.5% | 24% | 63% | Median |
+| 20.5–21.5% | 24% | 38% |  |
+| 21.5–22.5% | 9% | 14% |  |
+| 22.5–23.5% | 4% | 5% |  |
+| 23.5–24.5% | 0.9% | 1.0% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
 
@@ -372,8 +373,9 @@ Last result: **21** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39 | 33–43 | 31–43 | 30–43 | 27–45 |
+| N/A | [Poll Average](average.html) | 38 | 33–41 | 31–42 | 30–42 | 27–44 |
 | [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 40 | 37–42 | 36–42 | 35–43 | 33–44 |
+| [26–31 May 2025](2025-05-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 37 | 35–41 | 34–42 | 34–43 | 31–44 |
 | [26–30 May 2025](2025-05-30-Verian.html) | Verian <br> TV2 | 37 | 33–38 | 33–38 | 32–39 | 30–40 |
 | [12–19 May 2025](2025-05-19-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 43 | 38–43 | 37–43 | 37–45 | 35–46 |
 | [29 April–16 May 2025](2025-05-16-Norstat.html) | Norstat <br> NRK | 39 | 39–40 | 39–41 | 39–41 | 39–41 |
@@ -721,22 +723,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0.5% | 98.6% |  |
 | 29 | 0.3% | 98% |  |
 | 30 | 3% | 98% |  |
-| 31 | 0.7% | 95% |  |
+| 31 | 0.8% | 95% |  |
 | 32 | 2% | 94% |  |
 | 33 | 4% | 92% |  |
-| 34 | 5% | 88% |  |
-| 35 | 3% | 83% |  |
-| 36 | 5% | 80% |  |
-| 37 | 5% | 75% |  |
-| 38 | 13% | 70% |  |
-| 39 | 20% | 56% | Median |
-| 40 | 12% | 37% |  |
-| 41 | 6% | 25% |  |
-| 42 | 8% | 19% |  |
-| 43 | 9% | 11% |  |
-| 44 | 0.8% | 1.4% |  |
-| 45 | 0.5% | 0.7% |  |
-| 46 | 0.1% | 0.2% |  |
+| 34 | 6% | 88% |  |
+| 35 | 6% | 82% |  |
+| 36 | 8% | 76% |  |
+| 37 | 8% | 68% |  |
+| 38 | 15% | 60% | Median |
+| 39 | 21% | 46% |  |
+| 40 | 11% | 25% |  |
+| 41 | 6% | 14% |  |
+| 42 | 6% | 8% |  |
+| 43 | 1.0% | 2% |  |
+| 44 | 0.8% | 1.1% |  |
+| 45 | 0.2% | 0.3% |  |
+| 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 
 

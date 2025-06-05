@@ -10,8 +10,9 @@ Last result: **20.4%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.3% | 16.4–20.6% | 15.9–21.5% | 15.5–22.3% | 14.8–23.5% |
+| N/A | [Poll Average](average.html) | 18.1% | 14.3–20.6% | 13.4–21.5% | 12.7–22.3% | 11.8–23.5% |
 | [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 17.0% | 15.6–18.6% | 15.2–19.0% | 14.9–19.4% | 14.2–20.1% |
+| [26–31 May 2025](2025-05-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 13.9% | 12.5–15.7% | 12.0–16.1% | 11.7–16.6% | 11.0–17.4% |
 | [26–30 May 2025](2025-05-30-Verian.html) | Verian <br> TV2 | 17.5% | 16.0–19.2% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
 | [12–19 May 2025](2025-05-19-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 17.9% | 16.4–19.5% | 16.0–20.0% | 15.6–20.4% | 15.0–21.2% |
 | [29 April–16 May 2025](2025-05-16-Norstat.html) | Norstat <br> NRK | 18.4% | 18.0–18.8% | 17.9–18.9% | 17.8–19.0% | 17.6–19.2% |
@@ -347,15 +348,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.3% | 100% |  |
-| 14.5–15.5% | 2% | 99.7% |  |
-| 15.5–16.5% | 9% | 97% |  |
-| 16.5–17.5% | 17% | 88% |  |
-| 17.5–18.5% | 31% | 71% | Median |
-| 18.5–19.5% | 20% | 40% |  |
-| 19.5–20.5% | 9% | 20% | Last Result |
-| 20.5–21.5% | 6% | 11% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.3% | 100% |  |
+| 11.5–12.5% | 2% | 99.7% |  |
+| 12.5–13.5% | 4% | 98% |  |
+| 13.5–14.5% | 6% | 94% |  |
+| 14.5–15.5% | 6% | 89% |  |
+| 15.5–16.5% | 9% | 83% |  |
+| 16.5–17.5% | 14% | 74% |  |
+| 17.5–18.5% | 26% | 61% | Median |
+| 18.5–19.5% | 16% | 34% |  |
+| 19.5–20.5% | 8% | 18% | Last Result |
+| 20.5–21.5% | 5% | 10% |  |
 | 21.5–22.5% | 3% | 5% |  |
 | 22.5–23.5% | 1.3% | 2% |  |
 | 23.5–24.5% | 0.4% | 0.5% |  |
@@ -371,8 +375,9 @@ Last result: **36** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 29–37 | 28–39 | 27–40 | 25–42 |
+| N/A | [Poll Average](average.html) | 32 | 24–37 | 21–39 | 21–40 | 17–42 |
 | [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 30 | 26–33 | 26–33 | 25–35 | 22–36 |
+| [26–31 May 2025](2025-05-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 23 | 20–28 | 18–29 | 17–30 | 17–31 |
 | [26–30 May 2025](2025-05-30-Verian.html) | Verian <br> TV2 | 33 | 29–33 | 28–34 | 28–35 | 26–38 |
 | [12–19 May 2025](2025-05-19-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 34 | 32–36 | 30–37 | 30–38 | 28–39 |
 | [29 April–16 May 2025](2025-05-16-Norstat.html) | Norstat <br> NRK | 32 | 32–34 | 32–35 | 32–35 | 32–35 |
@@ -710,23 +715,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.1% | 99.9% |  |
-| 24 | 0.2% | 99.8% |  |
-| 25 | 0.5% | 99.6% |  |
-| 26 | 1.3% | 99.1% |  |
-| 27 | 2% | 98% |  |
-| 28 | 3% | 96% |  |
-| 29 | 4% | 93% |  |
-| 30 | 8% | 89% |  |
-| 31 | 8% | 81% |  |
-| 32 | 20% | 73% |  |
-| 33 | 14% | 54% | Median |
-| 34 | 15% | 40% |  |
-| 35 | 8% | 24% |  |
-| 36 | 5% | 17% | Last Result |
-| 37 | 3% | 12% |  |
-| 38 | 4% | 9% |  |
+| 17 | 0.6% | 100% |  |
+| 18 | 0.6% | 99.4% |  |
+| 19 | 0.2% | 98.8% |  |
+| 20 | 0.6% | 98.6% |  |
+| 21 | 4% | 98% |  |
+| 22 | 2% | 94% |  |
+| 23 | 2% | 92% |  |
+| 24 | 0.4% | 90% |  |
+| 25 | 2% | 90% |  |
+| 26 | 2% | 88% |  |
+| 27 | 4% | 86% |  |
+| 28 | 4% | 81% |  |
+| 29 | 5% | 78% |  |
+| 30 | 7% | 73% |  |
+| 31 | 8% | 65% |  |
+| 32 | 19% | 58% | Median |
+| 33 | 13% | 39% |  |
+| 34 | 7% | 26% |  |
+| 35 | 5% | 20% |  |
+| 36 | 4% | 15% | Last Result |
+| 37 | 2% | 11% |  |
+| 38 | 3% | 9% |  |
 | 39 | 2% | 5% |  |
 | 40 | 2% | 4% |  |
 | 41 | 2% | 2% |  |
