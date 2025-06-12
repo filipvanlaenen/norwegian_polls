@@ -10,7 +10,8 @@ Last result: **20.4%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 14.3–20.6% | 13.4–21.5% | 12.7–22.3% | 11.8–23.5% |
+| N/A | [Poll Average](average.html) | 17.8% | 14.3–19.3% | 13.4–19.9% | 12.7–20.4% | 11.8–21.4% |
+| [3–4 June 2025](2025-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 18.2% | 16.6–20.1% | 16.1–20.6% | 15.7–21.1% | 14.9–22.0% |
 | [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 17.0% | 15.6–18.6% | 15.2–19.0% | 14.9–19.4% | 14.2–20.1% |
 | [26–31 May 2025](2025-05-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 13.9% | 12.5–15.7% | 12.0–16.1% | 11.7–16.6% | 11.0–17.4% |
 | [26–30 May 2025](2025-05-30-Verian.html) | Verian <br> TV2 | 17.5% | 16.0–19.2% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
@@ -168,7 +169,7 @@ Last result: **20.4%** (General Election of 13 September 2021)
 | [23–28 August 2023](2023-08-28-Verian.html) | Verian <br> TV2 | 29.9% | 28.3–31.6% | 27.9–32.1% | 27.5–32.5% | 26.7–33.3% |
 | [8–15 August 2023](2023-08-15-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 30.3% | 28.5–32.2% | 27.9–32.7% | 27.5–33.2% | 26.6–34.1% |
 | [9–14 August 2023](2023-08-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 30.6% | 28.8–32.6% | 28.3–33.1% | 27.9–33.6% | 27.0–34.5% |
-| [8–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 31.1% | 28.9–33.4% | 28.3–34.1% | 27.8–34.6% | 26.7–35.8% |
+| [8–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 28.3% | 28.9–33.4% | 28.3–34.1% | 27.8–34.6% | 26.7–35.8% |
 | [1–7 August 2023](2023-08-07-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 32.9% | 30.7–35.3% | 30.1–36.0% | 29.5–36.6% | 28.5–37.7% |
 | [31 July–4 August 2023](2023-08-04-KantarTNS.html) | Kantar TNS <br> TV2 | 31.5% | 29.7–33.5% | 29.2–34.0% | 28.7–34.5% | 27.8–35.5% |
 | [3 August 2023](2023-08-03-InFact.html) | InFact <br> Nettavisen | 26.8% | 25.0–28.6% | 24.6–29.1% | 24.1–29.5% | 23.4–30.4% |
@@ -186,7 +187,7 @@ Last result: **20.4%** (General Election of 13 September 2021)
 | [15–19 May 2023](2023-05-19-Norstat.html) | Norstat <br> Vårt Land | 34.1% | 32.2–36.1% | 31.7–36.6% | 31.2–37.1% | 30.3–38.1% |
 | [3–8 May 2023](2023-05-08-ResponsAnalyse.html) | Respons Analyse <br> VG | 31.8% | 29.9–33.7% | 29.4–34.3% | 29.0–34.8% | 28.1–35.7% |
 | [2–8 May 2023](2023-05-08-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 30.3% | 28.5–32.2% | 28.0–32.8% | 27.5–33.2% | 26.7–34.2% |
-| [2–3 May 2023](2023-05-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 31.7% | 29.6–34.0% | 29.0–34.6% | 28.5–35.2% | 27.5–36.2% |
+| [2–3 May 2023](2023-05-03-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 31.9% | 29.6–34.0% | 29.0–34.6% | 28.5–35.2% | 27.5–36.2% |
 | [2 May 2023](2023-05-02-InFact.html) | InFact <br> Nettavisen | 32.0% | 30.2–34.0% | 29.7–34.5% | 29.2–35.0% | 28.3–35.9% |
 | [24–30 April 2023](2023-04-30-KantarTNS.html) | Kantar TNS <br> TV2 | 31.2% | 29.7–32.7% | 29.3–33.2% | 28.9–33.5% | 28.2–34.3% |
 | [25–29 April 2023](2023-04-29-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 29.8% | 28.0–31.7% | 27.5–32.3% | 27.0–32.7% | 26.2–33.6% |
@@ -354,17 +355,15 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 4% | 98% |  |
 | 13.5–14.5% | 6% | 94% |  |
 | 14.5–15.5% | 6% | 89% |  |
-| 15.5–16.5% | 9% | 83% |  |
-| 16.5–17.5% | 14% | 74% |  |
-| 17.5–18.5% | 26% | 61% | Median |
-| 18.5–19.5% | 16% | 34% |  |
-| 19.5–20.5% | 8% | 18% | Last Result |
-| 20.5–21.5% | 5% | 10% |  |
-| 21.5–22.5% | 3% | 5% |  |
-| 22.5–23.5% | 1.3% | 2% |  |
-| 23.5–24.5% | 0.4% | 0.5% |  |
-| 24.5–25.5% | 0.1% | 0.1% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 15.5–16.5% | 10% | 83% |  |
+| 16.5–17.5% | 17% | 73% |  |
+| 17.5–18.5% | 30% | 56% | Median |
+| 18.5–19.5% | 18% | 26% |  |
+| 19.5–20.5% | 6% | 8% | Last Result |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.3% | 0.4% |  |
+| 22.5–23.5% | 0% | 0% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -375,7 +374,8 @@ Last result: **36** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 24–37 | 21–39 | 21–40 | 17–42 |
+| N/A | [Poll Average](average.html) | 31 | 24–34 | 21–35 | 21–35 | 17–39 |
+| [3–4 June 2025](2025-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 32 | 30–33 | 30–33 | 30–34 | 30–39 |
 | [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 30 | 26–33 | 26–33 | 25–35 | 22–36 |
 | [26–31 May 2025](2025-05-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 23 | 20–28 | 18–29 | 17–30 | 17–31 |
 | [26–30 May 2025](2025-05-30-Verian.html) | Verian <br> TV2 | 33 | 29–33 | 28–34 | 28–35 | 26–38 |
@@ -533,7 +533,7 @@ Last result: **36** seats (General Election of 13 September 2021)
 | [23–28 August 2023](2023-08-28-Verian.html) | Verian <br> TV2 | 54 | 50–57 | 49–58 | 48–60 | 48–64 |
 | [8–15 August 2023](2023-08-15-OpinionPerduco.html) | Opinion Perduco <br> Avisens Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 52 | 49–56 | 49–58 | 49–59 | 48–62 |
 | [9–14 August 2023](2023-08-14-ResponsAnalyse.html) | Respons Analyse <br> VG | 54 | 49–59 | 49–60 | 48–61 | 47–63 |
-| [8–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> Aftenposten and NRK | 55 | 50–59 | 49–62 | 49–64 | 48–67 |
+| [8–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> Dagbladet and Vårt Land | 55 | 50–59 | 49–62 | 49–64 | 48–67 |
 | [1–7 August 2023](2023-08-07-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 59 | 54–66 | 53–67 | 52–69 | 50–70 |
 | [31 July–4 August 2023](2023-08-04-KantarTNS.html) | Kantar TNS <br> TV2 | 59 | 56–59 | 56–59 | 56–60 | 53–63 |
 | [3 August 2023](2023-08-03-InFact.html) | InFact <br> Nettavisen | 47 | 44–50 | 43–51 | 42–52 | 41–54 |
@@ -728,23 +728,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 4% | 86% |  |
 | 28 | 4% | 81% |  |
 | 29 | 5% | 78% |  |
-| 30 | 7% | 73% |  |
-| 31 | 8% | 65% |  |
-| 32 | 19% | 58% | Median |
-| 33 | 13% | 39% |  |
-| 34 | 7% | 26% |  |
-| 35 | 5% | 20% |  |
-| 36 | 4% | 15% | Last Result |
-| 37 | 2% | 11% |  |
-| 38 | 3% | 9% |  |
-| 39 | 2% | 5% |  |
-| 40 | 2% | 4% |  |
-| 41 | 2% | 2% |  |
-| 42 | 0.1% | 0.5% |  |
-| 43 | 0.2% | 0.5% |  |
-| 44 | 0% | 0.2% |  |
-| 45 | 0% | 0.2% |  |
-| 46 | 0.2% | 0.2% |  |
-| 47 | 0% | 0% |  |
+| 30 | 9% | 73% |  |
+| 31 | 14% | 64% | Median |
+| 32 | 19% | 50% |  |
+| 33 | 19% | 31% |  |
+| 34 | 7% | 12% |  |
+| 35 | 3% | 5% |  |
+| 36 | 0.9% | 2% | Last Result |
+| 37 | 0.5% | 2% |  |
+| 38 | 0.4% | 1.0% |  |
+| 39 | 0.5% | 0.6% |  |
+| 40 | 0.1% | 0.1% |  |
+| 41 | 0% | 0% |  |
 
 
