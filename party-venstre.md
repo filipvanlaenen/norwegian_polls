@@ -371,10 +371,10 @@ Last result: **8** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 2–9 | 1–10 | 1–11 | 1–12 |
+| N/A | [Poll Average](average.html) | 7 | 2–9 | 1–10 | 1–11 | 1–12 |
 | [11–18 June 2025](2025-06-18-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 8 | 3–10 | 2–12 | 2–12 | 2–12 |
 | [10–16 June 2025](2025-06-16-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 9 | 3–10 | 3–12 | 3–12 | 2–14 |
-| [10–14 June 2025](2025-06-14-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 3 | 3 | 2–3 | 2–8 | 2–9 |
+| [10–14 June 2025](2025-06-14-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 3 | 3–9 | 2–9 | 2–9 | 2–9 |
 | [3–4 June 2025](2025-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 8 | 3–9 | 3–9 | 3–9 | 2–11 |
 | [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 7 | 3–9 | 3–10 | 3–10 | 2–11 |
 | [26–31 May 2025](2025-05-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 9 | 6–11 | 3–12 | 3–12 | 3–12 |
@@ -716,14 +716,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 7% | 100% |  |
-| 2 | 9% | 93% |  |
-| 3 | 31% | 85% |  |
-| 4 | 0% | 54% |  |
-| 5 | 0% | 54% |  |
-| 6 | 4% | 54% | Median |
-| 7 | 7% | 49% |  |
-| 8 | 24% | 42% | Last Result |
-| 9 | 12% | 19% |  |
+| 2 | 8% | 93% |  |
+| 3 | 25% | 85% |  |
+| 4 | 0% | 60% |  |
+| 5 | 0% | 60% |  |
+| 6 | 4% | 60% |  |
+| 7 | 7% | 56% | Median |
+| 8 | 24% | 48% | Last Result |
+| 9 | 17% | 25% |  |
 | 10 | 4% | 7% |  |
 | 11 | 1.1% | 3% |  |
 | 12 | 2% | 2% |  |
