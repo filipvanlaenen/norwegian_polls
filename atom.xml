@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/norwegian_polls</id>
   <title>All Registered Polls for the Norwegian Parliament</title>
-  <updated>2025-06-14T11:29:18.284382+02:00</updated>
+  <updated>2025-06-18T22:47:08.736176+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liberalistene: 0.0–0.7%, 0 seats</li><li>Venstre: 3.5–6.6%, 2–12 seats</li><li>Miljøpartiet De Grønne: 2.3–4.9%, 1–8 seats</li><li>Fremskrittspartiet: 19.2–25.0%, 36–45 seats</li><li>Sosialistisk Venstreparti: 7.0–11.1%, 12–21 seats</li><li>Norgesdemokratene: 0.1–0.9%, 0 seats</li><li>Arbeiderpartiet: 22.1–28.3%, 42–54 seats</li><li>Konservativt: 0.4–1.9%, 0 seats</li><li>Kristelig Folkeparti: 2.2–4.8%, 0–9 seats</li><li>Pensjonistpartiet: 0.2–1.3%, 0 seats</li><li>Høyre: 14.4–19.7%, 24–36 seats</li><li>Industri- og Næringspartiet: 0.3–1.5%, 0 seats</li><li>Rødt: 4.5–7.9%, 8–13 seats</li><li>Senterpartiet: 4.4–7.7%, 6–15 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2025-06-18-ResponsAnalyse.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2025-06-18-ResponsAnalyse.html"/>
+    <title>Opinion Poll by Respons Analyse for Aftenposten, Bergens Tidende and VG, 11–18 June 2025</title>
+    <updated>2025-06-18T22:14:33.107266+02:00</updated>
+    <dc:date>2025-06-18T22:14:33.107266+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Venstre: 3.7–7.0%, 3–12 seats</li><li>Miljøpartiet De Grønne: 1.5–3.7%, 0–3 seats</li><li>Fremskrittspartiet: 19.9–26.0%, 38–49 seats</li><li>Sosialistisk Venstreparti: 5.3–9.1%, 10–15 seats</li><li>Norgesdemokratene: 0.7–2.4%, 0 seats</li><li>Arbeiderpartiet: 23.7–30.2%, 44–59 seats</li><li>Konservativt: 1.0–2.9%, 0–2 seats</li><li>Kristelig Folkeparti: 2.3–4.9%, 1–8 seats</li><li>Pensjonistpartiet: 0.2–1.4%, 0 seats</li><li>Høyre: 11.8–16.9%, 19–31 seats</li><li>Industri- og Næringspartiet: 0.4–1.8%, 0 seats</li><li>Rødt: 5.7–9.5%, 10–17 seats</li><li>Senterpartiet: 4.0–7.3%, 6–13 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/norwegian_polls/2025-06-16-OpinionPerduco.html</id>
+    <link href="https://filipvanlaenen.github.io/norwegian_polls/2025-06-16-OpinionPerduco.html"/>
+    <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 10–16 June 2025</title>
+    <updated>2025-06-18T22:47:08.736176+02:00</updated>
+    <dc:date>2025-06-18T22:47:08.736176+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Venstre: 3.3–6.2%, 3–9 seats</li><li>Miljøpartiet De Grønne: 2.6–5.2%, 1–9 seats</li><li>Fremskrittspartiet: 18.8–24.5%, 37–44 seats</li><li>Sosialistisk Venstreparti: 4.1–7.3%, 8–13 seats</li><li>Norgesdemokratene: 0.1–0.9%, 0 seats</li><li>Arbeiderpartiet: 24.3–30.6%, 47–56 seats</li><li>Konservativt: 0.5–2.0%, 0 seats</li><li>Kristelig Folkeparti: 2.5–5.1%, 1–8 seats</li><li>Pensjonistpartiet: 0.2–1.3%, 0 seats</li><li>Høyre: 15.7–21.1%, 30–38 seats</li><li>Industri- og Næringspartiet: 0.1–1.1%, 0 seats</li><li>Rødt: 4.8–8.3%, 7–14 seats</li><li>Senterpartiet: 4.5–7.8%, 8–13 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/norwegian_polls/2025-06-04-Norfakta.html</id>
@@ -2639,5 +2655,5 @@
     <updated>2025-01-11T19:52:49.599996+01:00</updated>
     <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
   </entry>
-  <dc:date>2025-06-14T11:29:18.284382+02:00</dc:date>
+  <dc:date>2025-06-18T22:47:08.736176+02:00</dc:date>
 </feed>
