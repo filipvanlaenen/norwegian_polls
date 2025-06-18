@@ -371,10 +371,10 @@ Last result: **8** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–13 | 8–14 | 8–15 | 7–17 |
+| N/A | [Poll Average](average.html) | 10 | 8–13 | 8–14 | 8–15 | 7–17 |
 | [11–18 June 2025](2025-06-18-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 9 | 8–12 | 8–12 | 8–13 | 7–15 |
 | [10–16 June 2025](2025-06-16-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 13 | 11–16 | 11–17 | 10–17 | 9–18 |
-| [10–14 June 2025](2025-06-14-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 10 | 9–11 | 9–13 | 9–13 | 8–13 |
+| [10–14 June 2025](2025-06-14-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 9 | 9 | 9–10 | 9–11 | 8–13 |
 | [3–4 June 2025](2025-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 10 | 9–12 | 7–13 | 7–14 | 7–14 |
 | [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 9 | 8–12 | 8–12 | 7–13 | 7–14 |
 | [26–31 May 2025](2025-05-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 10 | 8–12 | 7–12 | 7–12 | 3–14 |
@@ -718,11 +718,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.1% | 100% |  |
 | 7 | 2% | 99.9% |  |
 | 8 | 10% | 98% | Last Result |
-| 9 | 15% | 88% |  |
-| 10 | 20% | 74% |  |
-| 11 | 21% | 53% | Median |
-| 12 | 14% | 32% |  |
-| 13 | 11% | 18% |  |
+| 9 | 26% | 88% |  |
+| 10 | 14% | 62% | Median |
+| 11 | 18% | 48% |  |
+| 12 | 14% | 31% |  |
+| 13 | 9% | 16% |  |
 | 14 | 4% | 7% |  |
 | 15 | 1.2% | 3% |  |
 | 16 | 0.8% | 2% |  |
