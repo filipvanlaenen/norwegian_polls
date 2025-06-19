@@ -371,10 +371,10 @@ Last result: **8** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–13 | 8–14 | 8–16 | 7–17 |
+| N/A | [Poll Average](average.html) | 11 | 9–13 | 8–14 | 8–16 | 7–17 |
 | [11–18 June 2025](2025-06-18-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 10 | 8–12 | 8–13 | 8–13 | 7–15 |
 | [10–16 June 2025](2025-06-16-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 13 | 11–17 | 10–17 | 10–17 | 9–18 |
-| [10–14 June 2025](2025-06-14-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 9 | 9 | 9–10 | 9–11 | 8–13 |
+| [10–14 June 2025](2025-06-14-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 9 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [3–4 June 2025](2025-06-04-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 10 | 9–12 | 7–13 | 7–14 | 7–14 |
 | [3 June 2025](2025-06-03-InFact.html) | InFact <br> Nettavisen | 9 | 8–12 | 8–12 | 7–13 | 7–14 |
 | [26–31 May 2025](2025-05-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 10 | 8–12 | 7–12 | 7–12 | 3–14 |
@@ -721,15 +721,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 99.9% |  |
 | 5 | 0% | 99.9% |  |
 | 6 | 0.1% | 99.9% |  |
-| 7 | 2% | 99.9% |  |
+| 7 | 2% | 99.8% |  |
 | 8 | 6% | 98% | Last Result |
-| 9 | 28% | 92% |  |
-| 10 | 15% | 64% | Median |
-| 11 | 19% | 49% |  |
-| 12 | 13% | 30% |  |
+| 9 | 26% | 92% |  |
+| 10 | 15% | 66% |  |
+| 11 | 20% | 51% | Median |
+| 12 | 14% | 31% |  |
 | 13 | 8% | 16% |  |
 | 14 | 3% | 8% |  |
-| 15 | 1.1% | 4% |  |
+| 15 | 1.2% | 5% |  |
 | 16 | 1.1% | 3% |  |
 | 17 | 2% | 2% |  |
 | 18 | 0.1% | 0.1% |  |
