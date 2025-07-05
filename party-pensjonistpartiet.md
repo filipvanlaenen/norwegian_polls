@@ -11,6 +11,7 @@ Last result: **0.6%** (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.1–1.0% | 0.1–1.2% | 0.1–1.3% | 0.0–1.6% |
+| [1–2 July 2025](2025-07-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.0% | N/A | N/A | N/A | N/A |
 | [1 July 2025](2025-07-01-InFact.html) | InFact <br> Nettavisen | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.8% |
 | [24–30 June 2025](2025-06-30-Verian.html) | Verian <br> TV2 | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [11–18 June 2025](2025-06-18-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0.5% | 0.3–1.0% | 0.2–1.2% | 0.2–1.3% | 0.1–1.6% |
@@ -354,8 +355,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 55% | 100% | Median |
-| 0.5–1.5% | 44% | 45% | Last Result |
+| 0.0–0.5% | 58% | 100% | Median |
+| 0.5–1.5% | 42% | 42% | Last Result |
 | 1.5–2.5% | 0.6% | 0.6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -369,6 +370,7 @@ Last result: **0** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–2 July 2025](2025-07-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
 | [1 July 2025](2025-07-01-InFact.html) | InFact <br> Nettavisen | 0 | 0 | 0 | 0 | 0 |
 | [24–30 June 2025](2025-06-30-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
 | [11–18 June 2025](2025-06-18-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0 | 0 | 0 | 0 | 0 |

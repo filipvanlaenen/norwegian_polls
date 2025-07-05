@@ -11,6 +11,7 @@ Last result: **0.2%** (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–1.0% |
+| [1–2 July 2025](2025-07-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 0.0% | N/A | N/A | N/A | N/A |
 | [1 July 2025](2025-07-01-InFact.html) | InFact <br> Nettavisen | 0.0% | N/A | N/A | N/A | N/A |
 | [24–30 June 2025](2025-06-30-Verian.html) | Verian <br> TV2 | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 June 2025](2025-06-18-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0.1% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% | 0.0–1.0% |
@@ -368,6 +369,7 @@ Last result: **0** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–2 July 2025](2025-07-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen |  |  |  |  |  |
 | [1 July 2025](2025-07-01-InFact.html) | InFact <br> Nettavisen |  |  |  |  |  |
 | [24–30 June 2025](2025-06-30-Verian.html) | Verian <br> TV2 |  |  |  |  |  |
 | [11–18 June 2025](2025-06-18-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0 | 0 | 0 | 0 | 0 |
