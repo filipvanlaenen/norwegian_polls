@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Wed, 02 Jul 2025 20:28:02 +0200</pubDate>
+    <pubDate>Sat, 05 Jul 2025 18:52:35 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 1–2 July 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2025-07-02-Norfakta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 45–58 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–8 seats&lt;/li&gt;&lt;li&gt;Høyre: 21–32 seats&lt;/li&gt;&lt;li&gt;Venstre: 3–11 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–10 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 31–42 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 10–19 seats&lt;/li&gt;&lt;li&gt;Rødt: 7–14 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 6–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-07-02-Norfakta-seats.png"
+        length="255557"
+        type="image/png"/>
+      <pubDate>Sat, 05 Jul 2025 18:52:35 +0200</pubDate>
+      <dc:date>2025-07-05T18:52:35.624025+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 1–2 July 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2025-07-02-Norfakta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-07-02-Norfakta-coalitions-seats.png"
+        length="572353"
+        type="image/png"/>
+      <pubDate>Sat, 05 Jul 2025 18:52:35 +0200</pubDate>
+      <dc:date>2025-07-05T18:52:35.624025+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norfakta for Klassekampen and Nationen, 1–2 July 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2025-07-02-Norfakta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Arbeiderpartiet: 23.9–30.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2.6–5.2%&lt;/li&gt;&lt;li&gt;Høyre: 13.4–18.5%&lt;/li&gt;&lt;li&gt;Venstre: 3.7–6.8%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.2–6.1%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 16.6–22.1%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7.1–11.2%&lt;/li&gt;&lt;li&gt;Rødt: 5.0–8.5%&lt;/li&gt;&lt;li&gt;Senterpartiet: 4.4–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-07-02-Norfakta.png"
+        length="289374"
+        type="image/png"/>
+      <pubDate>Sat, 05 Jul 2025 18:52:35 +0200</pubDate>
+      <dc:date>2025-07-05T18:52:35.624025+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by InFact for Nettavisen, 1 July 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-07-01-InFact.html#seats</link>
@@ -10029,6 +10059,6 @@
       <pubDate>Sat, 11 Jan 2025 19:52:49 +0100</pubDate>
       <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
     </item>
-    <dc:date>2025-07-02T20:28:02.072133+02:00</dc:date>
+    <dc:date>2025-07-05T18:52:35.624025+02:00</dc:date>
   </channel>
 </rss>
