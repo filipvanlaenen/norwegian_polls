@@ -10,7 +10,8 @@ Last result: **3.8%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.2% | 2.2–4.5% | 2.1–4.7% | 1.8–5.3% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.2% | 2.2–4.5% | 2.1–4.7% | 1.8–5.2% |
+| [5–6 August 2025](2025-08-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.1% | 2.5–5.6% |
 | [28 July–3 August 2025](2025-08-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [1–2 July 2025](2025-07-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.6–5.2% | 2.2–5.7% |
 | [1 July 2025](2025-07-01-InFact.html) | InFact <br> Nettavisen | 3.2% | 2.6–4.0% | 2.5–4.3% | 2.3–4.5% | 2.1–4.8% |
@@ -358,8 +359,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 13% | 99.9% |  |
-| 2.5–3.5% | 54% | 86% | Median |
-| 3.5–4.5% | 28% | 32% | Last Result |
+| 2.5–3.5% | 53% | 87% | Median |
+| 3.5–4.5% | 30% | 34% | Last Result |
 | 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -373,7 +374,8 @@ Last result: **3** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–7 | 0–8 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 2 | 1–7 | 0–8 | 0–9 | 0–9 |
+| [5–6 August 2025](2025-08-06-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3 | 3–7 | 2–8 | 2–9 | 1–9 |
 | [28 July–3 August 2025](2025-08-03-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 2 | 1–3 | 1–7 | 1–8 | 0–9 |
 | [1–2 July 2025](2025-07-02-Norfakta.html) | Norfakta <br> Klassekampen and Nationen | 3 | 2–7 | 2–8 | 1–8 | 0–9 |
 | [1 July 2025](2025-07-01-InFact.html) | InFact <br> Nettavisen | 2 | 1–3 | 1–3 | 1–7 | 0–8 |
@@ -721,16 +723,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 24% | 94% |  |
-| 2 | 30% | 70% | Median |
-| 3 | 27% | 41% | Last Result |
-| 4 | 0% | 13% |  |
-| 5 | 0.1% | 13% |  |
-| 6 | 2% | 13% |  |
-| 7 | 6% | 11% |  |
-| 8 | 3% | 5% |  |
-| 9 | 2% | 2% |  |
+| 0 | 5% | 100% |  |
+| 1 | 24% | 95% |  |
+| 2 | 25% | 71% | Median |
+| 3 | 31% | 45% | Last Result |
+| 4 | 0% | 15% |  |
+| 5 | 0% | 15% |  |
+| 6 | 2% | 15% |  |
+| 7 | 7% | 12% |  |
+| 8 | 3% | 6% |  |
+| 9 | 2% | 3% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
