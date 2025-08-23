@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Fri, 22 Aug 2025 23:25:09 +0200</pubDate>
+    <pubDate>Sat, 23 Aug 2025 10:12:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Verian for TV2, 18–21 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-08-21-Verian.html#seats</link>
@@ -72,22 +72,22 @@
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 11–17 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-08-17-OpinionPerduco.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Venstre: 2–9 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 35–45 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7–13 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 42–51 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3–10 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 28–37 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 7–12 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 8–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 35–45 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 1–8 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7–13 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 41–52 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 2–11 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 28–38 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 6–15 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 8–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-08-17-OpinionPerduco-seats.png"
-        length="312291"
+        length="316551"
         type="image/png"/>
-      <pubDate>Fri, 22 Aug 2025 23:25:09 +0200</pubDate>
-      <dc:date>2025-08-22T23:25:09.778015+02:00</dc:date>
+      <pubDate>Fri, 22 Aug 2025 23:53:23 +0200</pubDate>
+      <dc:date>2025-08-22T23:53:23.434298+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 11–17 August 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-08-17-OpinionPerduco.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-08-17-OpinionPerduco-coalitions-seats.png"
-        length="544574"
+        length="566622"
         type="image/png"/>
-      <pubDate>Fri, 22 Aug 2025 23:25:09 +0200</pubDate>
-      <dc:date>2025-08-22T23:25:09.778015+02:00</dc:date>
+      <pubDate>Fri, 22 Aug 2025 23:53:23 +0200</pubDate>
+      <dc:date>2025-08-22T23:53:23.434298+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse, 11–17 August 2025 – Voting Intentions</title>
@@ -96,8 +96,38 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-08-17-OpinionPerduco.png"
         length="386164"
         type="image/png"/>
-      <pubDate>Fri, 22 Aug 2025 23:25:09 +0200</pubDate>
-      <dc:date>2025-08-22T23:25:09.778015+02:00</dc:date>
+      <pubDate>Fri, 22 Aug 2025 23:53:23 +0200</pubDate>
+      <dc:date>2025-08-22T23:53:23.434298+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Dagbladet, NRK and Vårt Land, 12–14 August 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2025-08-14-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 2–8 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 34–46 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3–11 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 9–15 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 50–63 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3–11 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 19–31 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 8–13 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 6–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-08-14-Norstat-seats.png"
+        length="285487"
+        type="image/png"/>
+      <pubDate>Sat, 23 Aug 2025 10:12:13 +0200</pubDate>
+      <dc:date>2025-08-23T10:12:13.120488+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Dagbladet, NRK and Vårt Land, 12–14 August 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2025-08-14-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-08-14-Norstat-coalitions-seats.png"
+        length="544597"
+        type="image/png"/>
+      <pubDate>Sat, 23 Aug 2025 10:12:13 +0200</pubDate>
+      <dc:date>2025-08-23T10:12:13.120488+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Dagbladet, NRK and Vårt Land, 12–14 August 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/norwegian_polls/2025-08-14-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 18.1–23.1%&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 3.5–6.2%&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 25.5–31.1%&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Konservativt: 0.4–1.6%&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Høyre: 12.6–17.0%&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Rødt: 4.9–8.0%&lt;/li&gt;&lt;li&gt;Senterpartiet: 4.1–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-08-14-Norstat.png"
+        length="359058"
+        type="image/png"/>
+      <pubDate>Sat, 23 Aug 2025 10:12:13 +0200</pubDate>
+      <dc:date>2025-08-23T10:12:13.120488+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by InFact for Nettavisen, 12 August 2025 – Seat Projections for the Parties</title>
@@ -10299,6 +10329,6 @@
       <pubDate>Sat, 11 Jan 2025 19:52:49 +0100</pubDate>
       <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
     </item>
-    <dc:date>2025-08-22T23:25:09.778015+02:00</dc:date>
+    <dc:date>2025-08-23T10:12:13.120488+02:00</dc:date>
   </channel>
 </rss>
