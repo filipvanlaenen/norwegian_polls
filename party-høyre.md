@@ -392,10 +392,10 @@ Last result: **36** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 20–32 | 20–34 | 19–35 | 18–38 |
-| [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 31 | 29–31 | 29–32 | 25–33 | 23–33 |
-| [18–22 August 2025](2025-08-22-Verian.html) | Verian <br> TV2 | 28 | 24–31 | 22–31 | 22–31 | 22–32 |
+| [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 29 | 28–31 | 25–32 | 25–33 | 23–33 |
+| [18–22 August 2025](2025-08-22-Verian.html) | Verian <br> TV2 | 28 | 23–30 | 22–31 | 22–31 | 22–32 |
 | [18–21 August 2025](2025-08-21-Verian.html) | Verian <br> TV2 | 25 | 22–30 | 22–31 | 21–31 | 19–31 |
-| [7 July–19 August 2025](2025-08-19-Norstat.html) | Norstat <br> NRK | 27 | 24–27 | 24–28 | 24–28 | 22–28 |
+| [7 July–19 August 2025](2025-08-19-Norstat.html) | Norstat <br> NRK | 24 | 23–27 | 23–28 | 23–28 | 23–28 |
 | [13–18 August 2025](2025-08-18-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 26 | 21–28 | 20–29 | 20–33 | 19–33 |
 | [11–17 August 2025](2025-08-17-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 32 | 30–35 | 29–37 | 28–38 | 25–39 |
 | [12–14 August 2025](2025-08-14-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 24 | 19–28 | 19–30 | 19–31 | 19–32 |
@@ -756,21 +756,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 6% | 96% |  |
 | 21 | 6% | 90% |  |
 | 22 | 3% | 84% |  |
-| 23 | 2% | 81% |  |
-| 24 | 10% | 79% |  |
-| 25 | 5% | 70% |  |
-| 26 | 6% | 65% |  |
-| 27 | 10% | 59% | Median |
-| 28 | 10% | 49% |  |
-| 29 | 7% | 39% |  |
-| 30 | 3% | 32% |  |
-| 31 | 19% | 29% |  |
+| 23 | 8% | 81% |  |
+| 24 | 7% | 72% |  |
+| 25 | 4% | 65% |  |
+| 26 | 7% | 61% |  |
+| 27 | 6% | 54% | Median |
+| 28 | 12% | 48% |  |
+| 29 | 7% | 36% |  |
+| 30 | 4% | 30% |  |
+| 31 | 15% | 26% |  |
 | 32 | 2% | 10% |  |
 | 33 | 2% | 8% |  |
 | 34 | 2% | 6% |  |
 | 35 | 3% | 5% |  |
 | 36 | 0.1% | 1.3% | Last Result |
-| 37 | 0.4% | 1.1% |  |
+| 37 | 0.4% | 1.2% |  |
 | 38 | 0.6% | 0.8% |  |
 | 39 | 0.1% | 0.2% |  |
 | 40 | 0% | 0.1% |  |

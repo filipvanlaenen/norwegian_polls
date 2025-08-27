@@ -394,11 +394,11 @@ Last result: **21** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41 | 37–45 | 36–47 | 34–47 | 33–50 |
-| [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 38 | 36–39 | 35–39 | 33–39 | 30–39 |
-| [18–22 August 2025](2025-08-22-Verian.html) | Verian <br> TV2 | 40 | 38–43 | 37–45 | 37–45 | 35–45 |
+| N/A | [Poll Average](average.html) | 41 | 37–45 | 36–47 | 34–47 | 30–50 |
+| [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 38 | 35–39 | 33–39 | 30–39 | 29–40 |
+| [18–22 August 2025](2025-08-22-Verian.html) | Verian <br> TV2 | 40 | 38–42 | 36–44 | 36–45 | 34–45 |
 | [18–21 August 2025](2025-08-21-Verian.html) | Verian <br> TV2 | 43 | 39–45 | 38–45 | 38–46 | 37–50 |
-| [7 July–19 August 2025](2025-08-19-Norstat.html) | Norstat <br> NRK | 42 | 40–42 | 40–42 | 40–42 | 39–43 |
+| [7 July–19 August 2025](2025-08-19-Norstat.html) | Norstat <br> NRK | 42 | 41–43 | 40–43 | 40–43 | 39–43 |
 | [13–18 August 2025](2025-08-18-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 40 | 38–44 | 37–44 | 37–46 | 34–50 |
 | [11–17 August 2025](2025-08-17-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 42 | 37–44 | 37–45 | 35–45 | 34–47 |
 | [12–14 August 2025](2025-08-14-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 40 | 37–46 | 36–46 | 34–46 | 34–46 |
@@ -760,23 +760,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 0% | 100% |  |
 | 26 | 0% | 100% |  |
 | 27 | 0% | 100% |  |
-| 28 | 0.1% | 100% |  |
+| 28 | 0% | 100% |  |
 | 29 | 0% | 99.9% |  |
-| 30 | 0% | 99.9% |  |
-| 31 | 0% | 99.9% |  |
-| 32 | 0.2% | 99.9% |  |
-| 33 | 0.2% | 99.7% |  |
-| 34 | 2% | 99.5% |  |
-| 35 | 1.1% | 97% |  |
-| 36 | 2% | 96% |  |
-| 37 | 5% | 95% |  |
-| 38 | 18% | 90% |  |
-| 39 | 9% | 71% |  |
-| 40 | 10% | 62% |  |
+| 30 | 0.5% | 99.9% |  |
+| 31 | 0% | 99.4% |  |
+| 32 | 0.2% | 99.4% |  |
+| 33 | 0.2% | 99.2% |  |
+| 34 | 2% | 99.0% |  |
+| 35 | 1.0% | 97% |  |
+| 36 | 3% | 96% |  |
+| 37 | 5% | 93% |  |
+| 38 | 15% | 89% |  |
+| 39 | 13% | 74% |  |
+| 40 | 9% | 61% |  |
 | 41 | 6% | 52% | Median |
-| 42 | 21% | 45% |  |
-| 43 | 3% | 24% |  |
-| 44 | 4% | 21% |  |
+| 42 | 17% | 46% |  |
+| 43 | 9% | 29% |  |
+| 44 | 4% | 20% |  |
 | 45 | 9% | 17% |  |
 | 46 | 0.8% | 8% |  |
 | 47 | 6% | 8% |  |
