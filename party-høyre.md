@@ -10,7 +10,9 @@ Last result: **20.4%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.8% | 13.1–18.2% | 12.5–18.9% | 12.1–19.5% | 11.3–20.6% |
+| N/A | [Poll Average](average.html) | 14.8% | 13.0–17.7% | 12.5–18.7% | 12.1–19.4% | 11.3–20.6% |
+| [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 15.6% | 14.5–16.8% | 14.2–17.2% | 14.0–17.5% | 13.5–18.0% |
+| [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 14.7% | 13.3–16.4% | 12.9–16.9% | 12.5–17.3% | 11.9–18.1% |
 | [25–29 August 2025](2025-08-29-Verian.html) | Verian <br> TV2 | 14.5% | 13.4–15.7% | 13.1–16.1% | 12.9–16.4% | 12.4–16.9% |
 | [21–27 August 2025](2025-08-27-Verian.html) | Verian <br> TV2 | 15.7% | 14.6–16.9% | 14.3–17.3% | 14.0–17.6% | 13.5–18.2% |
 | [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 16.8% | 15.2–18.6% | 14.8–19.1% | 14.4–19.5% | 13.7–20.4% |
@@ -371,16 +373,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.8% | 100% |  |
-| 11.5–12.5% | 4% | 99.2% |  |
+| 11.5–12.5% | 5% | 99.2% |  |
 | 12.5–13.5% | 11% | 95% |  |
-| 13.5–14.5% | 24% | 84% |  |
-| 14.5–15.5% | 24% | 60% | Median |
-| 15.5–16.5% | 10% | 35% |  |
-| 16.5–17.5% | 10% | 25% |  |
-| 17.5–18.5% | 8% | 15% |  |
-| 18.5–19.5% | 5% | 7% |  |
+| 13.5–14.5% | 24% | 83% |  |
+| 14.5–15.5% | 27% | 60% | Median |
+| 15.5–16.5% | 14% | 33% |  |
+| 16.5–17.5% | 8% | 19% |  |
+| 17.5–18.5% | 5% | 11% |  |
+| 18.5–19.5% | 4% | 6% |  |
 | 19.5–20.5% | 2% | 2% | Last Result |
-| 20.5–21.5% | 0.5% | 0.6% |  |
+| 20.5–21.5% | 0.4% | 0.5% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -393,7 +395,9 @@ Last result: **36** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 20–32 | 20–34 | 19–35 | 18–38 |
+| N/A | [Poll Average](average.html) | 27 | 20–31 | 20–34 | 19–35 | 18–38 |
+| [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 29 | 25–30 | 25–31 | 23–31 | 22–33 |
+| [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 27 | 22–30 | 21–30 | 21–30 | 19–33 |
 | [25–29 August 2025](2025-08-29-Verian.html) | Verian <br> TV2 | 26 | 23–27 | 23–28 | 22–28 | 20–29 |
 | [21–27 August 2025](2025-08-27-Verian.html) | Verian <br> TV2 | 27 | 24–30 | 24–31 | 23–31 | 22–32 |
 | [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 29 | 28–31 | 25–32 | 25–33 | 23–33 |
@@ -758,24 +762,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 2% | 99.9% |  |
 | 19 | 2% | 98% |  |
 | 20 | 6% | 96% |  |
-| 21 | 6% | 89% |  |
-| 22 | 2% | 84% |  |
-| 23 | 9% | 82% |  |
-| 24 | 6% | 72% |  |
-| 25 | 4% | 66% |  |
-| 26 | 13% | 62% | Median |
-| 27 | 9% | 49% |  |
-| 28 | 9% | 39% |  |
-| 29 | 5% | 30% |  |
-| 30 | 1.0% | 26% |  |
-| 31 | 15% | 25% |  |
+| 21 | 7% | 89% |  |
+| 22 | 2% | 83% |  |
+| 23 | 10% | 81% |  |
+| 24 | 6% | 71% |  |
+| 25 | 5% | 64% |  |
+| 26 | 10% | 60% |  |
+| 27 | 8% | 50% | Median |
+| 28 | 6% | 42% |  |
+| 29 | 5% | 36% |  |
+| 30 | 14% | 31% |  |
+| 31 | 8% | 18% |  |
 | 32 | 2% | 10% |  |
 | 33 | 2% | 8% |  |
 | 34 | 2% | 6% |  |
 | 35 | 3% | 5% |  |
-| 36 | 0.1% | 1.3% | Last Result |
-| 37 | 0.4% | 1.2% |  |
-| 38 | 0.6% | 0.8% |  |
+| 36 | 0.2% | 1.3% | Last Result |
+| 37 | 0.4% | 1.1% |  |
+| 38 | 0.6% | 0.7% |  |
 | 39 | 0.1% | 0.2% |  |
 | 40 | 0% | 0.1% |  |
 | 41 | 0% | 0% |  |

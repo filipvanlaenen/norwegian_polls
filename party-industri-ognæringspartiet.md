@@ -10,7 +10,9 @@ Last result: **0.3%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.3–1.7% | 0.2–1.9% | 0.1–2.1% | 0.1–2.5% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.2–1.7% | 0.1–1.9% | 0.1–2.1% | 0.0–2.5% |
+| [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 0.1% | 0.1–0.3% | 0.0–0.4% | 0.0–0.4% | 0.0–0.6% |
+| [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0.7% | 0.4–1.2% | 0.4–1.4% | 0.3–1.5% | 0.2–1.8% |
 | [25–29 August 2025](2025-08-29-Verian.html) | Verian <br> TV2 | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
 | [21–27 August 2025](2025-08-27-Verian.html) | Verian <br> TV2 | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.7% | 0.1–0.9% |
 | [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.2% | 0.1–1.5% |
@@ -369,9 +371,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 29% | 100% | Last Result |
-| 0.5–1.5% | 57% | 71% | Median |
-| 1.5–2.5% | 13% | 13% |  |
+| 0.0–0.5% | 25% | 100% | Last Result |
+| 0.5–1.5% | 62% | 75% | Median |
+| 1.5–2.5% | 13% | 14% |  |
 | 2.5–3.5% | 0.4% | 0.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -385,6 +387,8 @@ Last result: **0** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
+| [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0 | 0 | 0 | 0 | 0 |
 | [25–29 August 2025](2025-08-29-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
 | [21–27 August 2025](2025-08-27-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
 | [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0 | 0 | 0 | 0 | 0 |

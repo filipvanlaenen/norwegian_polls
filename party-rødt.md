@@ -10,7 +10,9 @@ Last result: **4.7%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–8.0% |
+| N/A | [Poll Average](average.html) | 6.1% | 5.0–7.0% | 4.8–7.4% | 4.6–7.8% | 4.1–8.5% |
+| [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 5.5% | 4.8–6.3% | 4.7–6.5% | 4.5–6.7% | 4.2–7.1% |
+| [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 6.6% | 5.6–7.8% | 5.4–8.2% | 5.1–8.5% | 4.7–9.1% |
 | [25–29 August 2025](2025-08-29-Verian.html) | Verian <br> TV2 | 5.5% | 4.8–6.3% | 4.6–6.6% | 4.5–6.8% | 4.2–7.2% |
 | [21–27 August 2025](2025-08-27-Verian.html) | Verian <br> TV2 | 5.9% | 5.2–6.7% | 5.0–7.0% | 4.8–7.2% | 4.5–7.6% |
 | [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 5.8% | 4.8–6.9% | 4.6–7.3% | 4.4–7.6% | 4.0–8.2% |
@@ -370,12 +372,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 28% | 97% | Last Result |
-| 5.5–6.5% | 51% | 69% | Median |
-| 6.5–7.5% | 17% | 19% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 24% | 98% | Last Result |
+| 5.5–6.5% | 49% | 74% | Median |
+| 6.5–7.5% | 20% | 25% |  |
+| 7.5–8.5% | 4% | 4% |  |
+| 8.5–9.5% | 0.4% | 0.4% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -387,7 +389,9 @@ Last result: **8** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 7–12 | 7–13 | 5–15 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 7–13 | 6–15 |
+| [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
+| [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 10 | 9–12 | 9–12 | 8–14 | 7–16 |
 | [25–29 August 2025](2025-08-29-Verian.html) | Verian <br> TV2 | 10 | 7–11 | 7–11 | 7–11 | 7–11 |
 | [21–27 August 2025](2025-08-27-Verian.html) | Verian <br> TV2 | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 9 | 9 | 8–11 | 7–12 | 5–13 |
@@ -749,20 +753,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
-| 2 | 0.2% | 99.8% |  |
+| 2 | 0.3% | 99.8% |  |
 | 3 | 0% | 99.6% |  |
-| 4 | 0% | 99.6% |  |
-| 5 | 0.1% | 99.5% |  |
-| 6 | 0.1% | 99.4% |  |
-| 7 | 4% | 99.4% |  |
-| 8 | 5% | 95% | Last Result |
-| 9 | 38% | 90% |  |
-| 10 | 22% | 51% | Median |
-| 11 | 18% | 29% |  |
-| 12 | 7% | 11% |  |
-| 13 | 2% | 4% |  |
-| 14 | 0.4% | 1.3% |  |
-| 15 | 0.9% | 0.9% |  |
-| 16 | 0% | 0% |  |
+| 4 | 0% | 99.5% |  |
+| 5 | 0% | 99.5% |  |
+| 6 | 0.2% | 99.5% |  |
+| 7 | 4% | 99.3% |  |
+| 8 | 8% | 95% | Last Result |
+| 9 | 29% | 87% |  |
+| 10 | 27% | 57% | Median |
+| 11 | 15% | 30% |  |
+| 12 | 10% | 15% |  |
+| 13 | 3% | 5% |  |
+| 14 | 0.7% | 2% |  |
+| 15 | 0.9% | 1.1% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 
