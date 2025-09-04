@@ -400,10 +400,10 @@ Last result: **21** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 36–43 | 35–44 | 34–45 | 33–46 |
+| N/A | [Poll Average](average.html) | 40 | 36–43 | 35–44 | 34–44 | 33–46 |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 43 | 40–44 | 38–44 | 38–44 | 38–45 |
 | [27 August–3 September 2025](2025-09-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 37 | 34–41 | 34–42 | 33–43 | 31–44 |
-| [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 40 | 38–44 | 38–46 | 37–46 | 35–47 |
+| [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 40 | 38–44 | 38–45 | 37–46 | 35–47 |
 | [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 43 | 40–46 | 40–46 | 39–46 | 38–47 |
 | [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 40 | 37–43 | 37–43 | 35–46 | 34–47 |
 | [25–31 August 2025](2025-08-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 43 | 39–45 | 38–46 | 38–47 | 36–51 |
@@ -786,13 +786,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 5% | 90% |  |
 | 38 | 12% | 85% |  |
 | 39 | 7% | 73% |  |
-| 40 | 18% | 66% | Median |
-| 41 | 6% | 48% |  |
+| 40 | 19% | 66% | Median |
+| 41 | 6% | 47% |  |
 | 42 | 18% | 42% |  |
-| 43 | 16% | 24% |  |
-| 44 | 5% | 8% |  |
-| 45 | 0.5% | 3% |  |
-| 46 | 2% | 2% |  |
+| 43 | 18% | 24% |  |
+| 44 | 4% | 6% |  |
+| 45 | 0.9% | 2% |  |
+| 46 | 1.1% | 2% |  |
 | 47 | 0.3% | 0.4% |  |
 | 48 | 0% | 0.1% |  |
 | 49 | 0% | 0% |  |

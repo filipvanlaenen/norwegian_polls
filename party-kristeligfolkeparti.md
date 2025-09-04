@@ -398,7 +398,7 @@ Last result: **3** seats (General Election of 13 September 2021)
 | N/A | [Poll Average](average.html) | 7 | 3–10 | 3–11 | 3–11 | 2–13 |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 7 | 3–7 | 3–8 | 3–8 | 2–9 |
 | [27 August–3 September 2025](2025-09-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 10 | 8–11 | 7–12 | 7–13 | 6–14 |
-| [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 9 | 7–10 | 7–11 | 3–12 | 3–12 |
+| [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 8 | 7–10 | 7–11 | 3–11 | 3–12 |
 | [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 6 | 3–8 | 3–8 | 3–8 | 2–9 |
 | [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 7 | 3–8 | 3–9 | 3–9 | 2–11 |
 | [25–31 August 2025](2025-08-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 3 | 2–7 | 1–8 | 1–9 | 0–9 |
@@ -768,14 +768,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 84% |  |
 | 5 | 0% | 84% |  |
 | 6 | 5% | 84% |  |
-| 7 | 41% | 79% | Median |
-| 8 | 12% | 38% |  |
-| 9 | 15% | 26% |  |
-| 10 | 4% | 10% |  |
+| 7 | 44% | 79% | Median |
+| 8 | 12% | 34% |  |
+| 9 | 11% | 22% |  |
+| 10 | 5% | 11% |  |
 | 11 | 4% | 6% |  |
-| 12 | 1.4% | 2% |  |
+| 12 | 1.2% | 2% |  |
 | 13 | 0.4% | 0.6% |  |
-| 14 | 0.2% | 0.3% |  |
+| 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
 
