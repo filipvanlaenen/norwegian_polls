@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 04 Sep 2025 19:25:46 +0200</pubDate>
+    <pubDate>Thu, 04 Sep 2025 19:54:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Verian for TV2, 28 August–3 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-09-03-Verian.html#seats</link>
@@ -162,22 +162,22 @@
     <item>
       <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 25–31 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-08-31-OpinionPerduco.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Venstre: 2–11 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 38–47 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 9–14 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 2–11 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 47–59 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–9 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 17–28 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 7–14 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 7–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 2–10 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 35–47 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 9–14 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 2–12 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 46–58 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 1–8 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 18–28 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 8–14 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 7–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-08-31-OpinionPerduco-seats.png"
-        length="292917"
+        length="299364"
         type="image/png"/>
-      <pubDate>Wed, 03 Sep 2025 23:13:47 +0200</pubDate>
-      <dc:date>2025-09-03T23:13:47.421156+02:00</dc:date>
+      <pubDate>Thu, 04 Sep 2025 19:54:24 +0200</pubDate>
+      <dc:date>2025-09-04T19:54:24.513395+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 25–31 August 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-08-31-OpinionPerduco.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-08-31-OpinionPerduco-coalitions-seats.png"
-        length="552289"
+        length="539862"
         type="image/png"/>
-      <pubDate>Wed, 03 Sep 2025 23:13:47 +0200</pubDate>
-      <dc:date>2025-09-03T23:13:47.421156+02:00</dc:date>
+      <pubDate>Thu, 04 Sep 2025 19:54:24 +0200</pubDate>
+      <dc:date>2025-09-04T19:54:24.513395+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Perduco for ABC Nyheter and Altinget, 25–31 August 2025 – Voting Intentions</title>
@@ -186,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-08-31-OpinionPerduco.png"
         length="369881"
         type="image/png"/>
-      <pubDate>Wed, 03 Sep 2025 23:13:47 +0200</pubDate>
-      <dc:date>2025-09-03T23:13:47.421156+02:00</dc:date>
+      <pubDate>Thu, 04 Sep 2025 19:54:24 +0200</pubDate>
+      <dc:date>2025-09-04T19:54:24.513395+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for TV2, 25–29 August 2025 – Seat Projections for the Parties</title>
@@ -10659,6 +10659,6 @@
       <pubDate>Sat, 11 Jan 2025 19:52:49 +0100</pubDate>
       <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
     </item>
-    <dc:date>2025-09-04T19:25:46.78341+02:00</dc:date>
+    <dc:date>2025-09-04T19:54:24.513395+02:00</dc:date>
   </channel>
 </rss>
