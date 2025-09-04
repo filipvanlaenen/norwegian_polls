@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Norwegian Parliament</title>
     <link>https://filipvanlaenen.github.io/norwegian_polls</link>
     <description>All Registered Polls for the Norwegian Parliament</description>
-    <pubDate>Thu, 04 Sep 2025 18:57:20 +0200</pubDate>
+    <pubDate>Thu, 04 Sep 2025 19:25:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by Verian for TV2, 28 August–3 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-09-03-Verian.html#seats</link>
@@ -72,22 +72,22 @@
     <item>
       <title>Opinion Poll by InFact for Nettavisen, 2 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-09-02-InFact.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Venstre: 3–11 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 37–46 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7–12 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 46–58 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3–12 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 18–27 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 9–14 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 8–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Venstre: 3–11 seats&lt;/li&gt;&lt;li&gt;Fremskrittspartiet: 37–46 seats&lt;/li&gt;&lt;li&gt;Miljøpartiet De Grønne: 2–9 seats&lt;/li&gt;&lt;li&gt;Sosialistisk Venstreparti: 7–12 seats&lt;/li&gt;&lt;li&gt;Norgesdemokratene: 0 seats&lt;/li&gt;&lt;li&gt;Arbeiderpartiet: 46–58 seats&lt;/li&gt;&lt;li&gt;Kristelig Folkeparti: 3–11 seats&lt;/li&gt;&lt;li&gt;Konservativt: 0 seats&lt;/li&gt;&lt;li&gt;Pensjonistpartiet: 0 seats&lt;/li&gt;&lt;li&gt;Høyre: 18–30 seats&lt;/li&gt;&lt;li&gt;Industri- og Næringspartiet: 0 seats&lt;/li&gt;&lt;li&gt;Rødt: 9–15 seats&lt;/li&gt;&lt;li&gt;Senterpartiet: 8–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-09-02-InFact-seats.png"
-        length="286278"
+        length="285230"
         type="image/png"/>
-      <pubDate>Wed, 03 Sep 2025 22:43:41 +0200</pubDate>
-      <dc:date>2025-09-03T22:43:41.871418+02:00</dc:date>
+      <pubDate>Thu, 04 Sep 2025 19:25:46 +0200</pubDate>
+      <dc:date>2025-09-04T19:25:46.78341+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by InFact for Nettavisen, 2 September 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/norwegian_polls/2025-09-02-InFact.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-09-02-InFact-coalitions-seats.png"
-        length="499831"
+        length="516993"
         type="image/png"/>
-      <pubDate>Wed, 03 Sep 2025 22:43:41 +0200</pubDate>
-      <dc:date>2025-09-03T22:43:41.871418+02:00</dc:date>
+      <pubDate>Thu, 04 Sep 2025 19:25:46 +0200</pubDate>
+      <dc:date>2025-09-04T19:25:46.78341+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by InFact for Nettavisen, 2 September 2025 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/norwegian_polls/2025-09-02-InFact.png"
         length="351894"
         type="image/png"/>
-      <pubDate>Wed, 03 Sep 2025 22:43:41 +0200</pubDate>
-      <dc:date>2025-09-03T22:43:41.871418+02:00</dc:date>
+      <pubDate>Thu, 04 Sep 2025 19:25:46 +0200</pubDate>
+      <dc:date>2025-09-04T19:25:46.78341+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for TV2, 27 August–1 September 2025 – Seat Projections for the Parties</title>
@@ -10659,6 +10659,6 @@
       <pubDate>Sat, 11 Jan 2025 19:52:49 +0100</pubDate>
       <dc:date>2025-01-11T19:52:49.599996+01:00</dc:date>
     </item>
-    <dc:date>2025-09-04T18:57:20.860686+02:00</dc:date>
+    <dc:date>2025-09-04T19:25:46.78341+02:00</dc:date>
   </channel>
 </rss>
