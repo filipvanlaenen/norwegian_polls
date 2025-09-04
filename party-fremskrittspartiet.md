@@ -406,7 +406,7 @@ Last result: **21** seats (General Election of 13 September 2021)
 | [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 40 | 38–44 | 38–45 | 37–46 | 35–47 |
 | [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 43 | 40–46 | 40–46 | 39–46 | 38–47 |
 | [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 40 | 37–43 | 37–43 | 35–46 | 34–47 |
-| [25–31 August 2025](2025-08-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 43 | 39–45 | 38–46 | 38–47 | 36–51 |
+| [25–31 August 2025](2025-08-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 40 | 39–45 | 37–46 | 35–47 | 35–51 |
 | [25–29 August 2025](2025-08-29-Verian.html) | Verian <br> TV2 | 42 | 37–43 | 37–43 | 36–43 | 35–44 |
 | [21–27 August 2025](2025-08-27-Verian.html) | Verian <br> TV2 | 36 | 34–40 | 33–40 | 33–41 | 30–43 |
 | [20–25 August 2025](2025-08-25-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 38 | 35–39 | 33–39 | 30–39 | 29–40 |
