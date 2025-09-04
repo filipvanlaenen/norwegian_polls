@@ -10,8 +10,9 @@ Last result: **0.3%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.5% | 0.2–1.8% | 0.1–2.0% | 0.1–2.4% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.6% | 0.2–1.8% | 0.1–2.1% | 0.1–2.4% |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [27 August–3 September 2025](2025-09-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 0.0% | N/A | N/A | N/A | N/A |
 | [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 0.1% | 0.1–0.3% | 0.0–0.4% | 0.0–0.4% | 0.0–0.6% |
 | [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0.7% | 0.4–1.2% | 0.4–1.4% | 0.3–1.5% | 0.2–1.8% |
@@ -374,9 +375,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 36% | 100% | Last Result |
-| 0.5–1.5% | 56% | 64% | Median |
-| 1.5–2.5% | 8% | 9% |  |
+| 0.0–0.5% | 33% | 100% | Last Result |
+| 0.5–1.5% | 57% | 67% | Median |
+| 1.5–2.5% | 10% | 10% |  |
 | 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -391,6 +392,7 @@ Last result: **0** seats (General Election of 13 September 2021)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
+| [27 August–3 September 2025](2025-09-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse |  |  |  |  |  |
 | [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 0 | 0 | 0 | 0 | 0 |
 | [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 0 | 0 | 0 | 0 | 0 |
 | [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 0 | 0 | 0 | 0 | 0 |
@@ -756,7 +758,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
