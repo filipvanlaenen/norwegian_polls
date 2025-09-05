@@ -396,9 +396,9 @@ Last result: **8** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 7–13 | 7–14 | 7–15 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 7–13 | 7–13 | 7–15 |
 | [29 August–4 September 2025](2025-09-04-Verian.html) | Verian <br> TV2 | 8 | 7–9 | 7–9 | 6–11 | 1–11 |
-| [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 10 | 10–11 | 10–13 | 9–14 | 9–14 |
+| [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 11 | 10–12 | 10–13 | 9–13 | 8–14 |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [27 August–3 September 2025](2025-09-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
 | [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 12 | 10–13 | 9–14 | 9–15 | 8–15 |
@@ -772,13 +772,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 99.9% |  |
 | 6 | 0.4% | 99.9% |  |
 | 7 | 5% | 99.5% |  |
-| 8 | 10% | 95% | Last Result |
-| 9 | 16% | 84% |  |
-| 10 | 27% | 69% | Median |
-| 11 | 16% | 41% |  |
-| 12 | 19% | 26% |  |
-| 13 | 4% | 7% |  |
-| 14 | 2% | 3% |  |
+| 8 | 11% | 95% | Last Result |
+| 9 | 15% | 84% |  |
+| 10 | 20% | 69% | Median |
+| 11 | 19% | 49% |  |
+| 12 | 23% | 30% |  |
+| 13 | 5% | 7% |  |
+| 14 | 2% | 2% |  |
 | 15 | 0.5% | 0.7% |  |
 | 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
