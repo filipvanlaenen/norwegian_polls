@@ -10,9 +10,9 @@ Last result: **3.9%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.0–7.4% | 3.7–7.9% | 3.5–8.3% | 3.1–9.0% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.1–7.6% | 3.8–8.0% | 3.5–8.3% | 3.1–9.0% |
 | [29 August–4 September 2025](2025-09-04-Verian.html) | Verian <br> TV2 | 5.9% | 5.3–6.6% | 5.2–6.8% | 5.0–7.0% | 4.8–7.3% |
-| [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 7.2% | N/A | N/A | N/A | N/A |
+| [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.8% |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 6.4% | 5.8–7.1% | 5.6–7.3% | 5.5–7.5% | 5.2–7.8% |
 | [27 August–3 September 2025](2025-09-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 6.2% | 5.3–7.5% | 5.0–7.8% | 4.8–8.1% | 4.4–8.7% |
 | [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 4.6% | 3.9–5.5% | 3.7–5.8% | 3.5–6.0% | 3.2–6.5% |
@@ -379,11 +379,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 20% | 97% | Last Result |
-| 4.5–5.5% | 23% | 77% |  |
-| 5.5–6.5% | 29% | 54% | Median |
-| 6.5–7.5% | 17% | 25% |  |
-| 7.5–8.5% | 7% | 8% |  |
+| 3.5–4.5% | 16% | 97% | Last Result |
+| 4.5–5.5% | 19% | 81% |  |
+| 5.5–6.5% | 26% | 62% | Median |
+| 6.5–7.5% | 24% | 36% |  |
+| 7.5–8.5% | 10% | 12% |  |
 | 8.5–9.5% | 1.3% | 1.4% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -397,9 +397,9 @@ Last result: **3** seats (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 3–11 | 3–12 | 2–13 | 2–14 |
+| N/A | [Poll Average](average.html) | 9 | 6–11 | 3–12 | 2–13 | 2–14 |
 | [29 August–4 September 2025](2025-09-04-Verian.html) | Verian <br> TV2 | 9 | 8–10 | 8–10 | 8–11 | 8–12 |
-| [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land |  |  |  |  |  |
+| [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 11 | 11–12 | 11–12 | 10–13 | 9–14 |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 10 | 10–12 | 9–12 | 9–12 | 7–13 |
 | [27 August–3 September 2025](2025-09-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 10 | 8–12 | 8–12 | 7–13 | 7–14 |
 | [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 7 | 3–8 | 3–9 | 2–9 | 2–10 |
@@ -766,20 +766,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 5% | 99.9% |  |
-| 3 | 6% | 95% | Last Result |
-| 4 | 0% | 90% |  |
-| 5 | 0% | 90% |  |
-| 6 | 6% | 90% |  |
-| 7 | 11% | 84% |  |
-| 8 | 20% | 73% |  |
-| 9 | 22% | 53% | Median |
-| 10 | 13% | 31% |  |
-| 11 | 11% | 18% |  |
-| 12 | 4% | 7% |  |
+| 2 | 4% | 100% |  |
+| 3 | 5% | 96% | Last Result |
+| 4 | 0% | 91% |  |
+| 5 | 0% | 91% |  |
+| 6 | 5% | 91% |  |
+| 7 | 9% | 87% |  |
+| 8 | 13% | 77% |  |
+| 9 | 19% | 64% | Median |
+| 10 | 14% | 45% |  |
+| 11 | 21% | 31% |  |
+| 12 | 7% | 10% |  |
 | 13 | 2% | 3% |  |
-| 14 | 0.5% | 0.7% |  |
+| 14 | 0.6% | 0.8% |  |
 | 15 | 0.1% | 0.2% |  |
 | 16 | 0% | 0.1% |  |
 | 17 | 0% | 0% |  |
