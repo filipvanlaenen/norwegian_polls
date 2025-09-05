@@ -10,13 +10,14 @@ Last result: **13.5%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 4.7–7.1% | 4.3–7.4% | 4.0–7.8% | 3.6–8.4% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.7–7.1% | 4.3–7.4% | 4.0–7.8% | 3.6–8.4% |
+| [29 August–5 September 2025](2025-09-05-Verian.html) | Verian <br> TV2 | 5.8% | 5.3–6.4% | 5.1–6.6% | 5.0–6.7% | 4.8–7.0% |
 | [29 August–4 September 2025](2025-09-04-Verian.html) | Verian <br> TV2 | 5.7% | 5.1–6.4% | 5.0–6.6% | 4.8–6.7% | 4.6–7.1% |
 | [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 6.2% | 5.5–7.0% | 5.4–7.2% | 5.2–7.3% | 4.9–7.7% |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 5.8% | 5.2–6.5% | 5.0–6.6% | 4.9–6.8% | 4.6–7.1% |
 | [27 August–3 September 2025](2025-09-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 5.4% | 4.5–6.6% | 4.3–6.9% | 4.1–7.2% | 3.7–7.7% |
 | [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 6.3% | 5.5–7.3% | 5.2–7.7% | 5.0–7.9% | 4.6–8.4% |
-| [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 6.0% | 4.7–6.1% | 4.5–6.3% | 4.3–6.5% | 4.1–6.9% |
+| [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 5.3% | 4.7–6.1% | 4.5–6.3% | 4.3–6.5% | 4.1–6.9% |
 | [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 4.8% | 3.9–5.8% | 3.7–6.1% | 3.5–6.4% | 3.2–7.0% |
 | [25–31 August 2025](2025-08-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 6.5% | 5.5–7.7% | 5.2–8.0% | 5.0–8.3% | 4.6–8.9% |
 | [25–29 August 2025](2025-08-29-Verian.html) | Verian <br> TV2 | 5.7% | 5.0–6.5% | 4.8–6.8% | 4.7–7.0% | 4.4–7.4% |
@@ -380,8 +381,8 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.5% | 100% |  |
 | 3.5–4.5% | 7% | 99.5% |  |
-| 4.5–5.5% | 25% | 92% |  |
-| 5.5–6.5% | 43% | 67% | Median |
+| 4.5–5.5% | 24% | 92% |  |
+| 5.5–6.5% | 45% | 68% | Median |
 | 6.5–7.5% | 20% | 24% |  |
 | 7.5–8.5% | 4% | 4% |  |
 | 8.5–9.5% | 0.3% | 0.3% |  |
@@ -401,6 +402,7 @@ Last result: **28** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–14 | 6–14 | 6–15 | 1–15 |
+| [29 August–5 September 2025](2025-09-05-Verian.html) | Verian <br> TV2 | 9 | 8–11 | 8–11 | 8–12 | 8–13 |
 | [29 August–4 September 2025](2025-09-04-Verian.html) | Verian <br> TV2 | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 12 | 9–13 | 8–13 | 8–13 | 8–14 |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 9 | 8–11 | 8–11 | 7–12 | 7–13 |
@@ -777,10 +779,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 98% |  |
 | 6 | 3% | 98% |  |
 | 7 | 9% | 95% |  |
-| 8 | 23% | 86% |  |
-| 9 | 17% | 63% | Median |
-| 10 | 8% | 46% |  |
-| 11 | 4% | 38% |  |
+| 8 | 22% | 86% |  |
+| 9 | 14% | 64% | Median |
+| 10 | 6% | 50% |  |
+| 11 | 10% | 44% |  |
 | 12 | 12% | 34% |  |
 | 13 | 11% | 22% |  |
 | 14 | 9% | 11% |  |

@@ -10,13 +10,14 @@ Last result: **4.6%** (General Election of 13 September 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.8–5.8% | 3.6–6.2% | 3.4–6.5% | 3.1–7.1% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.7–5.8% | 3.5–6.2% | 3.4–6.5% | 3.0–7.1% |
+| [29 August–5 September 2025](2025-09-05-Verian.html) | Verian <br> TV2 | 3.9% | 3.5–4.4% | 3.4–4.6% | 3.2–4.7% | 3.0–4.9% |
 | [29 August–4 September 2025](2025-09-04-Verian.html) | Verian <br> TV2 | 4.2% | 3.7–4.8% | 3.6–5.0% | 3.5–5.1% | 3.2–5.4% |
 | [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 4.3% | 3.8–4.9% | 3.6–5.1% | 3.5–5.3% | 3.2–5.6% |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 4.2% | 3.7–4.8% | 3.6–5.0% | 3.5–5.1% | 3.2–5.4% |
 | [27 August–3 September 2025](2025-09-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 4.2% | 3.5–5.3% | 3.3–5.6% | 3.1–5.8% | 2.7–6.4% |
 | [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
-| [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 3.9% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
+| [27 August–1 September 2025](2025-09-01-Verian.html) | Verian <br> TV2 | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
 | [27 August–1 September 2025](2025-09-01-ResponsAnalyse.html) | Respons Analyse <br> Aftenposten, Bergens Tidende and VG | 4.6% | 3.8–5.7% | 3.6–6.0% | 3.4–6.3% | 3.1–6.8% |
 | [25–31 August 2025](2025-08-31-OpinionPerduco.html) | Opinion Perduco <br> ABC Nyheter and Altinget | 4.6% | 3.8–5.7% | 3.6–5.9% | 3.4–6.2% | 3.0–6.8% |
 | [25–29 August 2025](2025-08-29-Verian.html) | Verian <br> TV2 | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.8–5.4% |
@@ -378,9 +379,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 43% | 96% |  |
-| 4.5–5.5% | 37% | 53% | Last Result, Median |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 44% | 94% |  |
+| 4.5–5.5% | 35% | 50% | Last Result, Median |
 | 5.5–6.5% | 13% | 16% |  |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
@@ -396,6 +397,7 @@ Last result: **8** seats (General Election of 13 September 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 3–10 | 3–11 | 2–11 | 2–12 |
+| [29 August–5 September 2025](2025-09-05-Verian.html) | Verian <br> TV2 | 3 | 3–6 | 3–7 | 3–7 | 2–8 |
 | [29 August–4 September 2025](2025-09-04-Verian.html) | Verian <br> TV2 | 7 | 3–8 | 3–8 | 3–8 | 2–9 |
 | [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 7 | 3–7 | 3–7 | 3–8 | 2–9 |
 | [28 August–3 September 2025](2025-09-03-Verian.html) | Verian <br> TV2 | 7 | 3–7 | 3–8 | 3–8 | 2–8 |
@@ -765,12 +767,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
-| 3 | 16% | 97% |  |
-| 4 | 0% | 81% |  |
-| 5 | 0% | 81% |  |
-| 6 | 9% | 81% |  |
-| 7 | 31% | 72% | Median |
-| 8 | 21% | 41% | Last Result |
+| 3 | 23% | 97% |  |
+| 4 | 0% | 74% |  |
+| 5 | 0% | 74% |  |
+| 6 | 11% | 74% |  |
+| 7 | 27% | 63% | Median |
+| 8 | 16% | 36% | Last Result |
 | 9 | 8% | 20% |  |
 | 10 | 6% | 12% |  |
 | 11 | 5% | 6% |  |
