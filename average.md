@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | Ap | H | Sp | FrP | SV | R | V | MDG | KrF | ND | Pp | K | INP | S | Hp | PF | Lib | FP | Kp |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 13 September 2021 | General Election | 26.2% <br> 48 | 20.4% <br> 36 | 13.5% <br> 28 | 11.6% <br> 21 | 7.6% <br> 13 | 4.7% <br> 8 | 4.6% <br> 8 | 3.9% <br> 3 | 3.8% <br> 3 | 1.1% <br> 0 | 0.6% <br> 0 | 0.4% <br> 0 | 0.3% <br> 0 | 0.3% <br> 0 | 0.2% <br> 0 | 0.2% <br> 1 | 0.2% <br> 0 | 0.1% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 24–30% <br> 47–59 | 12–16% <br> 18–31 | 4–8% <br> 6–15 | 18–23% <br> 34–44 | 5–9% <br> 7–14 | 5–8% <br> 7–13 | 3–6% <br> 2–11 | 4–8% <br> 2–13 | 3–7% <br> 2–11 | 0–2% <br> 0 | 0–2% <br> 0 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29 August–4 September 2025](2025-09-04-Verian.html) | Verian <br> TV2 | 27–30% <br> 51–59 | 13–16% <br> 22–29 | 5–7% <br> 8–12 | 19–23% <br> 37–44 | 5–7% <br> 7–11 | 4–6% <br> 6–11 | 3–5% <br> 3–8 | 5–7% <br> 8–11 | 3–5% <br> 2–7 | 1–2% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 24–30% <br> 47–58 | 12–16% <br> 18–31 | 4–8% <br> 6–15 | 18–23% <br> 34–44 | 5–9% <br> 8–14 | 5–8% <br> 7–13 | 3–6% <br> 2–11 | 4–8% <br> 2–13 | 3–7% <br> 3–11 | 0–2% <br> 0 | 0–2% <br> 0 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29 August–5 September 2025](2025-09-05-Verian.html) | Verian <br> TV2 | 26–29% <br> 49–58 | 14–16% <br> 22–29 | 5–7% <br> 8–12 | 20–23% <br> 37–43 | 5–7% <br> 8–11 | 5–6% <br> 7–10 | 3–5% <br> 3–7 | 6–7% <br> 9–12 | 4–5% <br> 3–8 | 1% <br> 0 | 0–1% <br> 0 | 1% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–4 September 2025](2025-09-04-Norstat.html) | Norstat <br> Dagbladet, NRK and Vårt Land | 25–28% <br> 47–54 | 13–16% <br> 20–28 | 5–7% <br> 8–13 | 19–22% <br> 36–43 | 5–7% <br> 8–12 | 6–8% <br> 9–13 | 3–5% <br> 3–8 | 6–8% <br> 10–14 | 3–5% <br> 2–9 | 1–2% <br> 0 | 1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27 August–3 September 2025](2025-09-03-OpinionPerduco.html) | Opinion Perduco <br> Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse | 25–31% <br> 47–60 | 11–16% <br> 17–27 | 4–7% <br> 6–12 | 17–22% <br> 33–43 | 6–10% <br> 9–16 | 5–8% <br> 8–13 | 3–6% <br> 2–9 | 5–8% <br> 7–13 | 5–8% <br> 7–13 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2 September 2025](2025-09-02-InFact.html) | InFact <br> Nettavisen | 24–29% <br> 46–58 | 12–16% <br> 18–30 | 5–8% <br> 8–14 | 19–24% <br> 37–46 | 4–7% <br> 7–12 | 6–9% <br> 9–15 | 4–6% <br> 3–11 | 4–6% <br> 2–9 | 4–7% <br> 3–11 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -53,19 +53,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#arbeiderpartiet">Arbeiderpartiet</a> | 26.2% | 27.0% | 25.2–29.0% |24.7–29.5% | 24.2–30.0% | 23.4–30.8% |
-| <a href="#høyre">Høyre</a> | 20.4% | 14.2% | 12.7–15.6% |12.2–16.1% | 11.8–16.5% | 11.0–17.3% |
-| <a href="#senterpartiet">Senterpartiet</a> | 13.5% | 5.9% | 4.7–7.1% |4.3–7.4% | 4.0–7.8% | 3.6–8.4% |
-| <a href="#fremskrittspartiet">Fremskrittspartiet</a> | 11.6% | 20.7% | 19.0–22.4% |18.4–23.0% | 17.9–23.4% | 17.0–24.4% |
+| <a href="#arbeiderpartiet">Arbeiderpartiet</a> | 26.2% | 27.0% | 25.2–28.7% |24.7–29.2% | 24.2–29.7% | 23.4–30.7% |
+| <a href="#høyre">Høyre</a> | 20.4% | 14.3% | 12.7–15.7% |12.2–16.1% | 11.8–16.5% | 11.0–17.3% |
+| <a href="#senterpartiet">Senterpartiet</a> | 13.5% | 6.0% | 4.7–7.1% |4.3–7.4% | 4.0–7.8% | 3.6–8.4% |
+| <a href="#fremskrittspartiet">Fremskrittspartiet</a> | 11.6% | 20.7% | 19.0–22.4% |18.4–22.9% | 17.9–23.4% | 17.0–24.4% |
 | <a href="#sosialistisk-venstreparti">Sosialistisk Venstreparti</a> | 7.6% | 6.1% | 5.2–7.9% |4.9–8.6% | 4.7–9.1% | 4.2–10.0% |
-| <a href="#rødt">Rødt</a> | 4.7% | 6.6% | 5.1–7.8% |4.9–8.1% | 4.6–8.5% | 4.3–9.1% |
-| <a href="#venstre">Venstre</a> | 4.6% | 4.6% | 3.8–5.8% |3.6–6.2% | 3.4–6.5% | 3.1–7.1% |
-| <a href="#miljøpartiet-de-grønne">Miljøpartiet De Grønne</a> | 3.9% | 6.0% | 4.1–7.6% |3.8–8.0% | 3.5–8.3% | 3.1–9.0% |
-| <a href="#kristelig-folkeparti">Kristelig Folkeparti</a> | 3.8% | 4.5% | 3.6–6.2% |3.3–6.7% | 3.2–7.1% | 2.8–7.9% |
-| <a href="#norgesdemokratene">Norgesdemokratene</a> | 1.1% | 0.9% | 0.4–1.4% |0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
-| <a href="#pensjonistpartiet">Pensjonistpartiet</a> | 0.6% | 0.7% | 0.3–1.2% |0.3–1.3% | 0.2–1.5% | 0.1–1.8% |
-| <a href="#konservativt">Konservativt</a> | 0.4% | 1.1% | 0.4–1.6% |0.3–1.7% | 0.3–1.9% | 0.2–2.2% |
-| <a href="#industri--og-næringspartiet">Industri- og Næringspartiet</a> | 0.3% | 0.7% | 0.4–1.6% |0.3–1.8% | 0.3–2.1% | 0.2–2.4% |
+| <a href="#rødt">Rødt</a> | 4.7% | 6.6% | 5.3–7.8% |5.0–8.1% | 4.8–8.5% | 4.5–9.1% |
+| <a href="#venstre">Venstre</a> | 4.6% | 4.6% | 3.7–5.8% |3.5–6.2% | 3.4–6.5% | 3.0–7.1% |
+| <a href="#miljøpartiet-de-grønne">Miljøpartiet De Grønne</a> | 3.9% | 6.3% | 4.1–7.6% |3.8–8.0% | 3.5–8.3% | 3.1–9.0% |
+| <a href="#kristelig-folkeparti">Kristelig Folkeparti</a> | 3.8% | 4.5% | 3.7–6.2% |3.4–6.7% | 3.2–7.1% | 2.8–7.9% |
+| <a href="#norgesdemokratene">Norgesdemokratene</a> | 1.1% | 0.9% | 0.4–1.3% |0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
+| <a href="#pensjonistpartiet">Pensjonistpartiet</a> | 0.6% | 0.6% | 0.3–1.2% |0.3–1.3% | 0.2–1.5% | 0.1–1.8% |
+| <a href="#konservativt">Konservativt</a> | 0.4% | 1.0% | 0.4–1.5% |0.3–1.7% | 0.3–1.9% | 0.2–2.2% |
+| <a href="#industri--og-næringspartiet">Industri- og Næringspartiet</a> | 0.3% | 0.7% | 0.4–1.6% |0.4–1.8% | 0.3–2.1% | 0.3–2.4% |
 | <a href="#partiet-sentrum">Partiet Sentrum</a> | 0.3% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#helsepartiet">Helsepartiet</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#pasientfokus">Pasientfokus</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
@@ -84,12 +84,12 @@ Only polls for which at least the sample size has been published are included in
 | 22.5–23.5% | 0.6% | 99.9% |  |
 | 23.5–24.5% | 3% | 99.3% |  |
 | 24.5–25.5% | 11% | 96% |  |
-| 25.5–26.5% | 22% | 85% | Last Result |
-| 26.5–27.5% | 25% | 63% | Median |
-| 27.5–28.5% | 20% | 38% |  |
-| 28.5–29.5% | 12% | 17% |  |
-| 29.5–30.5% | 4% | 5% |  |
-| 30.5–31.5% | 0.8% | 0.9% |  |
+| 25.5–26.5% | 23% | 85% | Last Result |
+| 26.5–27.5% | 28% | 61% | Median |
+| 27.5–28.5% | 21% | 33% |  |
+| 28.5–29.5% | 9% | 12% |  |
+| 29.5–30.5% | 2% | 3% |  |
+| 30.5–31.5% | 0.5% | 0.6% |  |
 | 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
@@ -104,9 +104,9 @@ Only polls for which at least the sample size has been published are included in
 | 10.5–11.5% | 1.5% | 99.8% |  |
 | 11.5–12.5% | 7% | 98% |  |
 | 12.5–13.5% | 19% | 92% |  |
-| 13.5–14.5% | 34% | 72% | Median |
-| 14.5–15.5% | 27% | 39% |  |
-| 15.5–16.5% | 9% | 11% |  |
+| 13.5–14.5% | 32% | 73% | Median |
+| 14.5–15.5% | 29% | 41% |  |
+| 15.5–16.5% | 11% | 13% |  |
 | 16.5–17.5% | 2% | 2% |  |
 | 17.5–18.5% | 0.3% | 0.3% |  |
 | 18.5–19.5% | 0% | 0% |  |
@@ -121,8 +121,8 @@ Only polls for which at least the sample size has been published are included in
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.5% | 100% |  |
 | 3.5–4.5% | 7% | 99.5% |  |
-| 4.5–5.5% | 25% | 92% |  |
-| 5.5–6.5% | 43% | 67% | Median |
+| 4.5–5.5% | 24% | 92% |  |
+| 5.5–6.5% | 45% | 68% | Median |
 | 6.5–7.5% | 20% | 24% |  |
 | 7.5–8.5% | 4% | 4% |  |
 | 8.5–9.5% | 0.3% | 0.3% |  |
@@ -147,8 +147,8 @@ Only polls for which at least the sample size has been published are included in
 | 17.5–18.5% | 5% | 98.7% |  |
 | 18.5–19.5% | 13% | 94% |  |
 | 19.5–20.5% | 26% | 81% |  |
-| 20.5–21.5% | 29% | 55% | Median |
-| 21.5–22.5% | 17% | 26% |  |
+| 20.5–21.5% | 30% | 55% | Median |
+| 21.5–22.5% | 17% | 25% |  |
 | 22.5–23.5% | 6% | 8% |  |
 | 23.5–24.5% | 2% | 2% |  |
 | 24.5–25.5% | 0.3% | 0.4% |  |
@@ -162,8 +162,8 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 22% | 98% |  |
-| 5.5–6.5% | 44% | 77% | Median |
+| 4.5–5.5% | 21% | 98% |  |
+| 5.5–6.5% | 45% | 77% | Median |
 | 6.5–7.5% | 18% | 32% |  |
 | 7.5–8.5% | 9% | 14% | Last Result |
 | 8.5–9.5% | 4% | 5% |  |
@@ -178,9 +178,9 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 17% | 98% | Last Result |
-| 5.5–6.5% | 29% | 81% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 16% | 99.4% | Last Result |
+| 5.5–6.5% | 31% | 83% |  |
 | 6.5–7.5% | 36% | 52% | Median |
 | 7.5–8.5% | 14% | 16% |  |
 | 8.5–9.5% | 2% | 2% |  |
@@ -194,9 +194,9 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 43% | 96% |  |
-| 4.5–5.5% | 37% | 53% | Last Result, Median |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 44% | 94% |  |
+| 4.5–5.5% | 35% | 50% | Last Result, Median |
 | 5.5–6.5% | 13% | 16% |  |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
@@ -211,9 +211,9 @@ Only polls for which at least the sample size has been published are included in
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 3% | 100% |  |
 | 3.5–4.5% | 16% | 97% | Last Result |
-| 4.5–5.5% | 19% | 81% |  |
-| 5.5–6.5% | 26% | 62% | Median |
-| 6.5–7.5% | 24% | 36% |  |
+| 4.5–5.5% | 16% | 81% |  |
+| 5.5–6.5% | 25% | 65% | Median |
+| 6.5–7.5% | 28% | 40% |  |
 | 7.5–8.5% | 10% | 12% |  |
 | 8.5–9.5% | 1.3% | 1.4% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
@@ -227,9 +227,9 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 9% | 99.9% |  |
-| 3.5–4.5% | 42% | 90% | Last Result |
-| 4.5–5.5% | 27% | 48% | Median |
+| 2.5–3.5% | 7% | 99.9% |  |
+| 3.5–4.5% | 43% | 93% | Last Result |
+| 4.5–5.5% | 28% | 50% | Median |
 | 5.5–6.5% | 15% | 21% |  |
 | 6.5–7.5% | 5% | 6% |  |
 | 7.5–8.5% | 1.0% | 1.1% |  |
@@ -242,9 +242,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 20% | 100% |  |
-| 0.5–1.5% | 76% | 80% | Last Result, Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.0–0.5% | 21% | 100% |  |
+| 0.5–1.5% | 76% | 79% | Last Result, Median |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 ### Pensjonistpartiet
@@ -253,8 +253,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 36% | 100% |  |
-| 0.5–1.5% | 62% | 64% | Last Result, Median |
+| 0.0–0.5% | 37% | 100% |  |
+| 0.5–1.5% | 61% | 63% | Last Result, Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -266,7 +266,7 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 16% | 100% | Last Result |
 | 0.5–1.5% | 74% | 84% | Median |
-| 1.5–2.5% | 10% | 10% |  |
+| 1.5–2.5% | 9% | 9% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -276,8 +276,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 29% | 100% | Last Result |
-| 0.5–1.5% | 61% | 71% | Median |
+| 0.0–0.5% | 24% | 100% | Last Result |
+| 0.5–1.5% | 65% | 76% | Median |
 | 1.5–2.5% | 10% | 10% |  |
 | 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
@@ -293,15 +293,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#arbeiderpartiet">Arbeiderpartiet</a> | 48 | 51 | 48–57 |48–58 | 47–59 | 46–61 |
-| <a href="#høyre">Høyre</a> | 36 | 25 | 19–30 |18–30 | 18–31 | 17–31 |
+| <a href="#arbeiderpartiet">Arbeiderpartiet</a> | 48 | 51 | 48–56 |48–58 | 47–58 | 46–61 |
+| <a href="#høyre">Høyre</a> | 36 | 24 | 19–29 |18–30 | 18–31 | 17–31 |
 | <a href="#senterpartiet">Senterpartiet</a> | 28 | 9 | 7–14 |6–14 | 6–15 | 1–15 |
-| <a href="#fremskrittspartiet">Fremskrittspartiet</a> | 21 | 40 | 36–43 |35–43 | 34–44 | 33–46 |
-| <a href="#sosialistisk-venstreparti">Sosialistisk Venstreparti</a> | 13 | 9 | 8–13 |7–14 | 7–14 | 7–16 |
-| <a href="#rødt">Rødt</a> | 8 | 10 | 8–12 |7–13 | 7–13 | 7–15 |
+| <a href="#fremskrittspartiet">Fremskrittspartiet</a> | 21 | 39 | 36–43 |35–43 | 34–44 | 33–46 |
+| <a href="#sosialistisk-venstreparti">Sosialistisk Venstreparti</a> | 13 | 10 | 8–13 |8–14 | 8–14 | 7–16 |
+| <a href="#rødt">Rødt</a> | 8 | 10 | 9–12 |8–13 | 7–13 | 7–15 |
 | <a href="#venstre">Venstre</a> | 8 | 7 | 3–10 |3–11 | 2–11 | 2–12 |
-| <a href="#miljøpartiet-de-grønne">Miljøpartiet De Grønne</a> | 3 | 9 | 6–11 |3–12 | 2–13 | 2–14 |
-| <a href="#kristelig-folkeparti">Kristelig Folkeparti</a> | 3 | 7 | 3–10 |3–11 | 2–11 | 2–13 |
+| <a href="#miljøpartiet-de-grønne">Miljøpartiet De Grønne</a> | 3 | 10 | 6–12 |3–12 | 2–13 | 2–14 |
+| <a href="#kristelig-folkeparti">Kristelig Folkeparti</a> | 3 | 7 | 3–10 |3–11 | 3–11 | 2–13 |
 | <a href="#norgesdemokratene">Norgesdemokratene</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#pensjonistpartiet">Pensjonistpartiet</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#konservativt">Konservativt</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -325,22 +325,22 @@ Only polls for which at least the sample size has been published are included in
 | 44 | 0% | 99.9% |  |
 | 45 | 0.2% | 99.9% |  |
 | 46 | 1.0% | 99.6% |  |
-| 47 | 1.5% | 98.6% |  |
+| 47 | 2% | 98.6% |  |
 | 48 | 8% | 97% | Last Result |
-| 49 | 11% | 90% |  |
-| 50 | 21% | 79% |  |
-| 51 | 11% | 58% | Median |
-| 52 | 9% | 46% |  |
-| 53 | 4% | 37% |  |
-| 54 | 6% | 33% |  |
-| 55 | 10% | 27% |  |
-| 56 | 7% | 17% |  |
-| 57 | 3% | 10% |  |
+| 49 | 12% | 89% |  |
+| 50 | 21% | 78% |  |
+| 51 | 12% | 57% | Median |
+| 52 | 8% | 44% |  |
+| 53 | 4% | 36% |  |
+| 54 | 6% | 32% |  |
+| 55 | 9% | 25% |  |
+| 56 | 7% | 16% |  |
+| 57 | 2% | 9% |  |
 | 58 | 5% | 8% |  |
-| 59 | 1.4% | 3% |  |
-| 60 | 0.7% | 1.4% |  |
-| 61 | 0.4% | 0.8% |  |
-| 62 | 0.2% | 0.4% |  |
+| 59 | 1.3% | 2% |  |
+| 60 | 0.4% | 1.0% |  |
+| 61 | 0.4% | 0.6% |  |
+| 62 | 0.1% | 0.3% |  |
 | 63 | 0.1% | 0.1% |  |
 | 64 | 0% | 0.1% |  |
 | 65 | 0% | 0% |  |
@@ -358,15 +358,15 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 5% | 98.8% |  |
 | 19 | 4% | 94% |  |
 | 20 | 5% | 90% |  |
-| 21 | 6% | 84% |  |
+| 21 | 6% | 85% |  |
 | 22 | 10% | 78% |  |
 | 23 | 7% | 68% |  |
-| 24 | 11% | 61% |  |
-| 25 | 9% | 50% | Median |
-| 26 | 10% | 41% |  |
-| 27 | 11% | 32% |  |
-| 28 | 9% | 20% |  |
-| 29 | 2% | 12% |  |
+| 24 | 13% | 61% | Median |
+| 25 | 8% | 48% |  |
+| 26 | 8% | 40% |  |
+| 27 | 8% | 32% |  |
+| 28 | 13% | 24% |  |
+| 29 | 2% | 11% |  |
 | 30 | 7% | 10% |  |
 | 31 | 2% | 3% |  |
 | 32 | 0.1% | 0.2% |  |
@@ -391,10 +391,10 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 98% |  |
 | 6 | 3% | 98% |  |
 | 7 | 9% | 95% |  |
-| 8 | 23% | 86% |  |
-| 9 | 17% | 63% | Median |
-| 10 | 8% | 46% |  |
-| 11 | 4% | 38% |  |
+| 8 | 22% | 86% |  |
+| 9 | 14% | 64% | Median |
+| 10 | 6% | 50% |  |
+| 11 | 10% | 44% |  |
 | 12 | 12% | 34% |  |
 | 13 | 11% | 22% |  |
 | 14 | 9% | 11% |  |
@@ -437,18 +437,18 @@ Only polls for which at least the sample size has been published are included in
 | 34 | 4% | 99.2% |  |
 | 35 | 2% | 95% |  |
 | 36 | 4% | 93% |  |
-| 37 | 10% | 89% |  |
-| 38 | 15% | 79% |  |
-| 39 | 11% | 64% |  |
-| 40 | 18% | 53% | Median |
-| 41 | 5% | 35% |  |
-| 42 | 13% | 30% |  |
-| 43 | 12% | 17% |  |
-| 44 | 3% | 5% |  |
-| 45 | 0.9% | 2% |  |
+| 37 | 16% | 89% |  |
+| 38 | 13% | 73% |  |
+| 39 | 11% | 61% | Median |
+| 40 | 17% | 50% |  |
+| 41 | 5% | 33% |  |
+| 42 | 16% | 28% |  |
+| 43 | 7% | 12% |  |
+| 44 | 2% | 5% |  |
+| 45 | 0.8% | 2% |  |
 | 46 | 1.1% | 1.5% |  |
 | 47 | 0.3% | 0.4% |  |
-| 48 | 0.1% | 0.1% |  |
+| 48 | 0% | 0.1% |  |
 | 49 | 0% | 0% |  |
 
 ### Sosialistisk Venstreparti
@@ -465,11 +465,11 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 99.8% |  |
 | 5 | 0% | 99.8% |  |
 | 6 | 0% | 99.8% |  |
-| 7 | 6% | 99.8% |  |
-| 8 | 11% | 93% |  |
-| 9 | 36% | 82% | Median |
-| 10 | 14% | 47% |  |
-| 11 | 13% | 33% |  |
+| 7 | 2% | 99.8% |  |
+| 8 | 16% | 98% |  |
+| 9 | 30% | 82% |  |
+| 10 | 12% | 51% | Median |
+| 11 | 19% | 39% |  |
 | 12 | 8% | 20% |  |
 | 13 | 6% | 12% | Last Result |
 | 14 | 3% | 6% |  |
@@ -486,16 +486,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 0% | 99.9% |  |
-| 4 | 0% | 99.9% |  |
-| 5 | 0% | 99.9% |  |
-| 6 | 0.4% | 99.9% |  |
-| 7 | 5% | 99.5% |  |
-| 8 | 11% | 95% | Last Result |
-| 9 | 15% | 84% |  |
-| 10 | 20% | 69% | Median |
+| 7 | 5% | 100% |  |
+| 8 | 5% | 95% | Last Result |
+| 9 | 20% | 90% |  |
+| 10 | 21% | 70% | Median |
 | 11 | 19% | 49% |  |
 | 12 | 23% | 30% |  |
 | 13 | 5% | 7% |  |
@@ -513,12 +507,12 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
-| 3 | 16% | 97% |  |
-| 4 | 0% | 81% |  |
-| 5 | 0% | 81% |  |
-| 6 | 9% | 81% |  |
-| 7 | 31% | 72% | Median |
-| 8 | 21% | 41% | Last Result |
+| 3 | 23% | 97% |  |
+| 4 | 0% | 74% |  |
+| 5 | 0% | 74% |  |
+| 6 | 11% | 74% |  |
+| 7 | 27% | 63% | Median |
+| 8 | 16% | 36% | Last Result |
 | 9 | 8% | 20% |  |
 | 10 | 6% | 12% |  |
 | 11 | 5% | 6% |  |
@@ -540,12 +534,12 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 91% |  |
 | 6 | 5% | 91% |  |
 | 7 | 9% | 87% |  |
-| 8 | 13% | 77% |  |
-| 9 | 19% | 64% | Median |
-| 10 | 22% | 45% |  |
-| 11 | 14% | 23% |  |
-| 12 | 6% | 9% |  |
-| 13 | 2% | 4% |  |
+| 8 | 11% | 77% |  |
+| 9 | 15% | 66% |  |
+| 10 | 19% | 51% | Median |
+| 11 | 15% | 32% |  |
+| 12 | 13% | 17% |  |
+| 13 | 3% | 4% |  |
 | 14 | 1.1% | 1.3% |  |
 | 15 | 0.2% | 0.3% |  |
 | 16 | 0% | 0.1% |  |
@@ -559,14 +553,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.5% | 100% |  |
-| 2 | 2% | 99.5% |  |
-| 3 | 22% | 97% | Last Result |
-| 4 | 0% | 76% |  |
-| 5 | 0% | 76% |  |
-| 6 | 7% | 76% |  |
-| 7 | 27% | 69% | Median |
-| 8 | 15% | 41% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 2% | 99.6% |  |
+| 3 | 20% | 98% | Last Result |
+| 4 | 0% | 78% |  |
+| 5 | 0% | 78% |  |
+| 6 | 7% | 78% |  |
+| 7 | 29% | 71% | Median |
+| 8 | 16% | 42% |  |
 | 9 | 16% | 27% |  |
 | 10 | 5% | 11% |  |
 | 11 | 4% | 6% |  |
@@ -665,23 +659,23 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Rødt – Miljøpartiet De Grønne | 100 | 91 | 96% | 86–97 | 85–98 | 83–99 | 82–102 |
-| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Miljøpartiet De Grønne – Kristelig Folkeparti | 95 | 87 | 73% | 82–94 | 80–96 | 79–98 | 77–101 |
-| Høyre – Senterpartiet – Fremskrittspartiet – Venstre – Kristelig Folkeparti | 96 | 88 | 80% | 82–94 | 80–95 | 78–95 | 75–96 |
-| Høyre – Fremskrittspartiet – Venstre – Miljøpartiet De Grønne – Kristelig Folkeparti | 71 | 87 | 71% | 81–92 | 80–93 | 77–93 | 74–97 |
-| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Rødt | 97 | 82 | 28% | 77–88 | 76–89 | 76–91 | 72–95 |
-| Arbeiderpartiet – Sosialistisk Venstreparti – Rødt – Miljøpartiet De Grønne | 72 | 81 | 18% | 75–87 | 74–89 | 74–90 | 73–93 |
-| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Miljøpartiet De Grønne | 92 | 80 | 17% | 76–86 | 74–87 | 73–89 | 72–91 |
-| Høyre – Fremskrittspartiet – Venstre – Kristelig Folkeparti | 68 | 78 | 4% | 72–83 | 71–84 | 69–86 | 66–87 |
+| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Rødt – Miljøpartiet De Grønne | 100 | 91 | 96% | 87–98 | 85–98 | 82–99 | 82–102 |
+| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Miljøpartiet De Grønne – Kristelig Folkeparti | 95 | 88 | 78% | 82–94 | 80–96 | 79–98 | 77–101 |
+| Høyre – Senterpartiet – Fremskrittspartiet – Venstre – Kristelig Folkeparti | 96 | 87 | 75% | 82–94 | 80–95 | 78–95 | 75–96 |
+| Høyre – Fremskrittspartiet – Venstre – Miljøpartiet De Grønne – Kristelig Folkeparti | 71 | 87 | 66% | 81–92 | 80–93 | 77–93 | 74–97 |
+| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Rødt | 97 | 82 | 33% | 77–88 | 76–89 | 76–91 | 72–95 |
+| Arbeiderpartiet – Sosialistisk Venstreparti – Rødt – Miljøpartiet De Grønne | 72 | 82 | 24% | 75–87 | 74–89 | 74–90 | 73–93 |
+| Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Miljøpartiet De Grønne | 92 | 81 | 20% | 76–88 | 74–89 | 73–89 | 72–91 |
+| Høyre – Fremskrittspartiet – Venstre – Kristelig Folkeparti | 68 | 78 | 4% | 71–82 | 71–84 | 69–86 | 66–87 |
 | Arbeiderpartiet – Senterpartiet – Miljøpartiet De Grønne – Kristelig Folkeparti | 82 | 78 | 4% | 73–82 | 70–84 | 69–85 | 67–88 |
 | Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti | 89 | 71 | 0% | 67–77 | 66–78 | 65–81 | 61–83 |
-| Høyre – Fremskrittspartiet – Venstre | 65 | 71 | 0% | 64–78 | 62–78 | 60–80 | 57–81 |
-| Arbeiderpartiet – Senterpartiet – Kristelig Folkeparti | 79 | 68 | 0% | 64–74 | 63–75 | 62–76 | 59–78 |
-| Høyre – Fremskrittspartiet | 57 | 64 | 0% | 58–70 | 56–71 | 55–72 | 53–73 |
-| Arbeiderpartiet – Senterpartiet | 76 | 62 | 0% | 57–66 | 57–67 | 56–71 | 53–71 |
+| Høyre – Fremskrittspartiet – Venstre | 65 | 71 | 0% | 64–77 | 62–78 | 60–80 | 57–81 |
+| Arbeiderpartiet – Senterpartiet – Kristelig Folkeparti | 79 | 69 | 0% | 64–74 | 63–75 | 62–76 | 59–78 |
+| Høyre – Fremskrittspartiet | 57 | 64 | 0% | 58–70 | 56–70 | 55–72 | 53–73 |
 | Arbeiderpartiet – Sosialistisk Venstreparti | 61 | 61 | 0% | 57–67 | 57–68 | 56–70 | 55–72 |
-| Høyre – Venstre – Kristelig Folkeparti | 47 | 39 | 0% | 33–42 | 32–43 | 32–45 | 30–46 |
-| Senterpartiet – Venstre – Kristelig Folkeparti | 39 | 23 | 0% | 18–29 | 17–31 | 16–32 | 14–34 |
+| Arbeiderpartiet – Senterpartiet | 76 | 62 | 0% | 57–66 | 57–67 | 56–69 | 53–71 |
+| Høyre – Venstre – Kristelig Folkeparti | 47 | 38 | 0% | 33–42 | 32–43 | 32–45 | 30–46 |
+| Senterpartiet – Venstre – Kristelig Folkeparti | 39 | 23 | 0% | 17–29 | 17–31 | 17–32 | 14–34 |
 
 ### Arbeiderpartiet – Senterpartiet – Sosialistisk Venstreparti – Rødt – Miljøpartiet De Grønne
 
@@ -693,22 +687,22 @@ Only polls for which at least the sample size has been published are included in
 | 80 | 0% | 99.9% |  |
 | 81 | 0.1% | 99.9% |  |
 | 82 | 2% | 99.8% |  |
-| 83 | 0.5% | 98% |  |
-| 84 | 0.9% | 97% |  |
-| 85 | 4% | 96% | Majority |
-| 86 | 3% | 92% |  |
-| 87 | 6% | 89% |  |
-| 88 | 10% | 83% | Median |
-| 89 | 12% | 73% |  |
-| 90 | 6% | 61% |  |
-| 91 | 12% | 55% |  |
-| 92 | 11% | 43% |  |
-| 93 | 5% | 32% |  |
-| 94 | 6% | 27% |  |
-| 95 | 5% | 21% |  |
-| 96 | 6% | 16% |  |
-| 97 | 3% | 10% |  |
-| 98 | 4% | 7% |  |
+| 83 | 0.5% | 97% |  |
+| 84 | 0.8% | 97% |  |
+| 85 | 2% | 96% | Majority |
+| 86 | 3% | 94% |  |
+| 87 | 6% | 91% |  |
+| 88 | 6% | 84% |  |
+| 89 | 13% | 78% |  |
+| 90 | 11% | 65% | Median |
+| 91 | 9% | 54% |  |
+| 92 | 10% | 45% |  |
+| 93 | 5% | 35% |  |
+| 94 | 4% | 31% |  |
+| 95 | 5% | 27% |  |
+| 96 | 6% | 22% |  |
+| 97 | 3% | 16% |  |
+| 98 | 10% | 13% |  |
 | 99 | 1.2% | 3% |  |
 | 100 | 0.9% | 2% | Last Result |
 | 101 | 0.5% | 1.3% |  |
@@ -732,21 +726,21 @@ Only polls for which at least the sample size has been published are included in
 | 80 | 0.5% | 95% |  |
 | 81 | 1.2% | 95% |  |
 | 82 | 5% | 94% |  |
-| 83 | 8% | 88% |  |
-| 84 | 7% | 80% |  |
-| 85 | 4% | 73% | Median, Majority |
-| 86 | 13% | 69% |  |
-| 87 | 10% | 56% |  |
-| 88 | 7% | 46% |  |
-| 89 | 8% | 39% |  |
-| 90 | 8% | 31% |  |
-| 91 | 7% | 23% |  |
-| 92 | 4% | 16% |  |
+| 83 | 4% | 89% |  |
+| 84 | 6% | 84% |  |
+| 85 | 4% | 78% | Majority |
+| 86 | 13% | 74% |  |
+| 87 | 9% | 61% | Median |
+| 88 | 6% | 52% |  |
+| 89 | 9% | 46% |  |
+| 90 | 11% | 37% |  |
+| 91 | 5% | 27% |  |
+| 92 | 9% | 22% |  |
 | 93 | 2% | 13% |  |
 | 94 | 3% | 11% |  |
 | 95 | 2% | 8% | Last Result |
 | 96 | 2% | 6% |  |
-| 97 | 1.2% | 4% |  |
+| 97 | 1.3% | 4% |  |
 | 98 | 1.0% | 3% |  |
 | 99 | 0.6% | 2% |  |
 | 100 | 0.5% | 1.0% |  |
@@ -771,20 +765,20 @@ Only polls for which at least the sample size has been published are included in
 | 79 | 2% | 97% |  |
 | 80 | 2% | 95% |  |
 | 81 | 2% | 94% |  |
-| 82 | 4% | 91% |  |
-| 83 | 4% | 87% |  |
-| 84 | 3% | 83% |  |
-| 85 | 5% | 80% | Majority |
-| 86 | 12% | 75% |  |
-| 87 | 12% | 63% |  |
-| 88 | 7% | 51% | Median |
-| 89 | 7% | 44% |  |
-| 90 | 13% | 36% |  |
-| 91 | 5% | 23% |  |
-| 92 | 4% | 18% |  |
-| 93 | 4% | 14% |  |
+| 82 | 10% | 91% |  |
+| 83 | 4% | 81% |  |
+| 84 | 3% | 77% |  |
+| 85 | 3% | 75% | Majority |
+| 86 | 9% | 72% | Median |
+| 87 | 16% | 63% |  |
+| 88 | 7% | 47% |  |
+| 89 | 9% | 40% |  |
+| 90 | 9% | 31% |  |
+| 91 | 6% | 22% |  |
+| 92 | 2% | 16% |  |
+| 93 | 4% | 15% |  |
 | 94 | 5% | 10% |  |
-| 95 | 4% | 5% |  |
+| 95 | 4% | 6% |  |
 | 96 | 1.5% | 2% | Last Result |
 | 97 | 0.1% | 0.3% |  |
 | 98 | 0.2% | 0.2% |  |
@@ -806,23 +800,23 @@ Only polls for which at least the sample size has been published are included in
 | 77 | 0.5% | 98% |  |
 | 78 | 0.8% | 97% |  |
 | 79 | 1.0% | 96% |  |
-| 80 | 3% | 95% |  |
+| 80 | 2% | 95% |  |
 | 81 | 6% | 93% |  |
-| 82 | 4% | 87% |  |
-| 83 | 6% | 83% |  |
-| 84 | 6% | 77% |  |
-| 85 | 7% | 71% | Majority |
-| 86 | 8% | 63% |  |
-| 87 | 14% | 56% |  |
-| 88 | 10% | 42% | Median |
-| 89 | 5% | 33% |  |
-| 90 | 7% | 28% |  |
+| 82 | 4% | 88% |  |
+| 83 | 12% | 84% |  |
+| 84 | 6% | 71% |  |
+| 85 | 6% | 66% | Majority |
+| 86 | 7% | 60% |  |
+| 87 | 11% | 53% | Median |
+| 88 | 13% | 43% |  |
+| 89 | 6% | 30% |  |
+| 90 | 3% | 24% |  |
 | 91 | 9% | 21% |  |
-| 92 | 5% | 12% |  |
-| 93 | 5% | 6% |  |
+| 92 | 4% | 11% |  |
+| 93 | 5% | 7% |  |
 | 94 | 0.5% | 2% |  |
-| 95 | 0.3% | 1.0% |  |
-| 96 | 0.2% | 0.7% |  |
+| 95 | 0.3% | 1.1% |  |
+| 96 | 0.3% | 0.8% |  |
 | 97 | 0.4% | 0.5% |  |
 | 98 | 0% | 0.1% |  |
 | 99 | 0% | 0.1% |  |
@@ -842,26 +836,26 @@ Only polls for which at least the sample size has been published are included in
 | 70 | 0% | 99.9% |  |
 | 71 | 0.1% | 99.9% |  |
 | 72 | 0.4% | 99.9% |  |
-| 73 | 0.2% | 99.4% |  |
-| 74 | 0.3% | 99.3% |  |
-| 75 | 0.5% | 99.0% |  |
+| 73 | 0.3% | 99.4% |  |
+| 74 | 0.3% | 99.1% |  |
+| 75 | 0.5% | 98.9% |  |
 | 76 | 5% | 98% |  |
-| 77 | 6% | 94% |  |
-| 78 | 9% | 88% |  |
-| 79 | 8% | 79% | Median |
-| 80 | 5% | 71% |  |
-| 81 | 10% | 67% |  |
-| 82 | 14% | 57% |  |
-| 83 | 8% | 43% |  |
-| 84 | 7% | 35% |  |
-| 85 | 6% | 28% | Majority |
-| 86 | 6% | 21% |  |
+| 77 | 5% | 93% |  |
+| 78 | 10% | 89% |  |
+| 79 | 4% | 79% |  |
+| 80 | 6% | 76% | Median |
+| 81 | 13% | 70% |  |
+| 82 | 11% | 56% |  |
+| 83 | 7% | 45% |  |
+| 84 | 6% | 38% |  |
+| 85 | 5% | 33% | Majority |
+| 86 | 12% | 27% |  |
 | 87 | 4% | 15% |  |
 | 88 | 5% | 11% |  |
 | 89 | 2% | 6% |  |
 | 90 | 0.7% | 4% |  |
 | 91 | 0.6% | 3% |  |
-| 92 | 0.4% | 2% |  |
+| 92 | 0.3% | 2% |  |
 | 93 | 0.2% | 2% |  |
 | 94 | 0% | 2% |  |
 | 95 | 2% | 2% |  |
@@ -881,17 +875,17 @@ Only polls for which at least the sample size has been published are included in
 | 74 | 4% | 98% |  |
 | 75 | 5% | 94% |  |
 | 76 | 4% | 90% |  |
-| 77 | 4% | 85% |  |
-| 78 | 6% | 82% |  |
-| 79 | 13% | 76% | Median |
-| 80 | 8% | 64% |  |
-| 81 | 7% | 56% |  |
-| 82 | 12% | 48% |  |
-| 83 | 12% | 36% |  |
-| 84 | 6% | 24% |  |
-| 85 | 4% | 18% | Majority |
-| 86 | 4% | 15% |  |
-| 87 | 4% | 11% |  |
+| 77 | 2% | 85% |  |
+| 78 | 6% | 83% |  |
+| 79 | 9% | 78% |  |
+| 80 | 9% | 69% |  |
+| 81 | 8% | 60% | Median |
+| 82 | 16% | 52% |  |
+| 83 | 9% | 36% |  |
+| 84 | 3% | 27% |  |
+| 85 | 3% | 24% | Majority |
+| 86 | 4% | 21% |  |
+| 87 | 10% | 17% |  |
 | 88 | 2% | 7% |  |
 | 89 | 2% | 5% |  |
 | 90 | 1.4% | 4% |  |
@@ -915,23 +909,23 @@ Only polls for which at least the sample size has been published are included in
 | 72 | 0.5% | 99.6% |  |
 | 73 | 3% | 99.1% |  |
 | 74 | 2% | 96% |  |
-| 75 | 3% | 94% |  |
+| 75 | 4% | 94% |  |
 | 76 | 3% | 91% |  |
-| 77 | 9% | 88% |  |
-| 78 | 6% | 79% | Median |
-| 79 | 14% | 73% |  |
-| 80 | 11% | 59% |  |
-| 81 | 8% | 48% |  |
-| 82 | 8% | 40% |  |
-| 83 | 4% | 32% |  |
-| 84 | 11% | 28% |  |
-| 85 | 6% | 17% | Majority |
-| 86 | 4% | 11% |  |
-| 87 | 2% | 7% |  |
-| 88 | 2% | 5% |  |
-| 89 | 1.2% | 3% |  |
-| 90 | 0.8% | 2% |  |
-| 91 | 0.6% | 0.9% |  |
+| 77 | 7% | 87% |  |
+| 78 | 6% | 80% |  |
+| 79 | 14% | 74% |  |
+| 80 | 9% | 60% | Median |
+| 81 | 9% | 52% |  |
+| 82 | 8% | 43% |  |
+| 83 | 8% | 35% |  |
+| 84 | 7% | 27% |  |
+| 85 | 3% | 20% | Majority |
+| 86 | 4% | 16% |  |
+| 87 | 2% | 12% |  |
+| 88 | 2% | 11% |  |
+| 89 | 7% | 9% |  |
+| 90 | 0.9% | 2% |  |
+| 91 | 0.5% | 0.8% |  |
 | 92 | 0.2% | 0.3% | Last Result |
 | 93 | 0.1% | 0.2% |  |
 | 94 | 0% | 0% |  |
@@ -949,22 +943,22 @@ Only polls for which at least the sample size has been published are included in
 | 68 | 0.6% | 98.8% | Last Result |
 | 69 | 1.1% | 98% |  |
 | 70 | 1.5% | 97% |  |
-| 71 | 4% | 96% |  |
-| 72 | 3% | 92% |  |
-| 73 | 6% | 88% |  |
-| 74 | 5% | 83% |  |
-| 75 | 6% | 77% |  |
-| 76 | 5% | 71% |  |
-| 77 | 10% | 66% |  |
-| 78 | 12% | 56% |  |
-| 79 | 6% | 44% | Median |
-| 80 | 11% | 38% |  |
-| 81 | 10% | 27% |  |
-| 82 | 6% | 17% |  |
-| 83 | 3% | 11% |  |
-| 84 | 4% | 8% |  |
-| 85 | 0.9% | 4% | Majority |
-| 86 | 0.4% | 3% |  |
+| 71 | 10% | 96% |  |
+| 72 | 3% | 86% |  |
+| 73 | 6% | 83% |  |
+| 74 | 5% | 77% |  |
+| 75 | 4% | 72% |  |
+| 76 | 4% | 68% |  |
+| 77 | 10% | 63% | Median |
+| 78 | 8% | 54% |  |
+| 79 | 11% | 45% |  |
+| 80 | 13% | 34% |  |
+| 81 | 6% | 21% |  |
+| 82 | 6% | 15% |  |
+| 83 | 3% | 9% |  |
+| 84 | 2% | 6% |  |
+| 85 | 0.8% | 4% | Majority |
+| 86 | 0.5% | 3% |  |
 | 87 | 2% | 2% |  |
 | 88 | 0.1% | 0.2% |  |
 | 89 | 0.1% | 0.1% |  |
@@ -987,21 +981,21 @@ Only polls for which at least the sample size has been published are included in
 | 72 | 2% | 92% |  |
 | 73 | 5% | 90% |  |
 | 74 | 4% | 85% |  |
-| 75 | 11% | 81% |  |
-| 76 | 11% | 70% | Median |
-| 77 | 9% | 60% |  |
-| 78 | 11% | 50% |  |
-| 79 | 6% | 39% |  |
-| 80 | 4% | 33% |  |
-| 81 | 11% | 29% |  |
-| 82 | 9% | 18% | Last Result |
+| 75 | 10% | 81% |  |
+| 76 | 7% | 72% |  |
+| 77 | 10% | 65% | Median |
+| 78 | 9% | 56% |  |
+| 79 | 7% | 46% |  |
+| 80 | 4% | 39% |  |
+| 81 | 17% | 36% |  |
+| 82 | 10% | 18% | Last Result |
 | 83 | 3% | 9% |  |
 | 84 | 2% | 6% |  |
 | 85 | 2% | 4% | Majority |
 | 86 | 0.8% | 2% |  |
-| 87 | 0.7% | 1.5% |  |
+| 87 | 0.7% | 2% |  |
 | 88 | 0.5% | 0.8% |  |
-| 89 | 0.2% | 0.3% |  |
+| 89 | 0.1% | 0.3% |  |
 | 90 | 0.1% | 0.2% |  |
 | 91 | 0% | 0.1% |  |
 | 92 | 0% | 0% |  |
@@ -1022,21 +1016,21 @@ Only polls for which at least the sample size has been published are included in
 | 64 | 0.2% | 99.2% |  |
 | 65 | 2% | 99.0% |  |
 | 66 | 3% | 97% |  |
-| 67 | 5% | 94% |  |
-| 68 | 8% | 89% |  |
-| 69 | 9% | 81% | Median |
-| 70 | 9% | 72% |  |
-| 71 | 16% | 63% |  |
-| 72 | 5% | 47% |  |
-| 73 | 8% | 42% |  |
-| 74 | 7% | 33% |  |
-| 75 | 10% | 27% |  |
-| 76 | 6% | 16% |  |
-| 77 | 3% | 10% |  |
-| 78 | 2% | 7% |  |
-| 79 | 1.4% | 5% |  |
-| 80 | 0.7% | 3% |  |
-| 81 | 0.5% | 3% |  |
+| 67 | 6% | 94% |  |
+| 68 | 8% | 88% |  |
+| 69 | 9% | 80% |  |
+| 70 | 10% | 72% | Median |
+| 71 | 12% | 61% |  |
+| 72 | 6% | 49% |  |
+| 73 | 8% | 44% |  |
+| 74 | 9% | 36% |  |
+| 75 | 4% | 26% |  |
+| 76 | 6% | 22% |  |
+| 77 | 9% | 16% |  |
+| 78 | 2% | 6% |  |
+| 79 | 1.3% | 4% |  |
+| 80 | 0.6% | 3% |  |
+| 81 | 0.3% | 3% |  |
 | 82 | 0.3% | 2% |  |
 | 83 | 2% | 2% |  |
 | 84 | 0.1% | 0.1% |  |
@@ -1059,23 +1053,23 @@ Only polls for which at least the sample size has been published are included in
 | 59 | 0.8% | 98.8% |  |
 | 60 | 1.0% | 98% |  |
 | 61 | 2% | 97% |  |
-| 62 | 1.4% | 95% |  |
+| 62 | 1.3% | 95% |  |
 | 63 | 3% | 94% |  |
 | 64 | 2% | 91% |  |
-| 65 | 2% | 89% | Last Result |
+| 65 | 2% | 88% | Last Result |
 | 66 | 4% | 87% |  |
 | 67 | 3% | 82% |  |
-| 68 | 9% | 80% |  |
-| 69 | 4% | 71% |  |
-| 70 | 10% | 67% |  |
-| 71 | 14% | 57% |  |
-| 72 | 6% | 44% | Median |
-| 73 | 8% | 38% |  |
-| 74 | 6% | 30% |  |
-| 75 | 5% | 25% |  |
-| 76 | 3% | 20% |  |
-| 77 | 6% | 16% |  |
-| 78 | 7% | 10% |  |
+| 68 | 15% | 79% |  |
+| 69 | 3% | 65% |  |
+| 70 | 10% | 61% | Median |
+| 71 | 11% | 52% |  |
+| 72 | 9% | 41% |  |
+| 73 | 8% | 32% |  |
+| 74 | 6% | 23% |  |
+| 75 | 4% | 18% |  |
+| 76 | 4% | 14% |  |
+| 77 | 4% | 10% |  |
+| 78 | 3% | 6% |  |
 | 79 | 0.4% | 3% |  |
 | 80 | 0.2% | 3% |  |
 | 81 | 2% | 2% |  |
@@ -1098,23 +1092,23 @@ Only polls for which at least the sample size has been published are included in
 | 60 | 0.2% | 99.3% |  |
 | 61 | 1.4% | 99.2% |  |
 | 62 | 1.2% | 98% |  |
-| 63 | 4% | 97% |  |
+| 63 | 4% | 96% |  |
 | 64 | 11% | 93% |  |
 | 65 | 4% | 82% |  |
 | 66 | 4% | 78% |  |
-| 67 | 15% | 74% | Median |
-| 68 | 12% | 59% |  |
-| 69 | 5% | 47% |  |
-| 70 | 5% | 42% |  |
-| 71 | 13% | 37% |  |
-| 72 | 3% | 24% |  |
+| 67 | 11% | 74% | Median |
+| 68 | 10% | 63% |  |
+| 69 | 10% | 53% |  |
+| 70 | 6% | 42% |  |
+| 71 | 12% | 37% |  |
+| 72 | 3% | 25% |  |
 | 73 | 7% | 21% |  |
 | 74 | 9% | 14% |  |
 | 75 | 3% | 5% |  |
-| 76 | 1.3% | 3% |  |
-| 77 | 0.7% | 2% |  |
-| 78 | 0.4% | 0.9% |  |
-| 79 | 0.2% | 0.5% | Last Result |
+| 76 | 1.1% | 3% |  |
+| 77 | 0.8% | 2% |  |
+| 78 | 0.4% | 0.8% |  |
+| 79 | 0.2% | 0.4% | Last Result |
 | 80 | 0.2% | 0.3% |  |
 | 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |
@@ -1137,20 +1131,52 @@ Only polls for which at least the sample size has been published are included in
 | 59 | 3% | 85% |  |
 | 60 | 5% | 82% |  |
 | 61 | 9% | 77% |  |
-| 62 | 6% | 68% |  |
-| 63 | 5% | 62% |  |
-| 64 | 12% | 57% |  |
-| 65 | 4% | 45% | Median |
-| 66 | 9% | 41% |  |
-| 67 | 5% | 32% |  |
-| 68 | 5% | 27% |  |
-| 69 | 6% | 22% |  |
-| 70 | 11% | 16% |  |
-| 71 | 2% | 5% |  |
+| 62 | 6% | 69% |  |
+| 63 | 4% | 62% | Median |
+| 64 | 10% | 58% |  |
+| 65 | 10% | 48% |  |
+| 66 | 12% | 38% |  |
+| 67 | 5% | 26% |  |
+| 68 | 4% | 21% |  |
+| 69 | 5% | 17% |  |
+| 70 | 8% | 12% |  |
+| 71 | 0.9% | 4% |  |
 | 72 | 0.7% | 3% |  |
 | 73 | 2% | 2% |  |
 | 74 | 0.1% | 0.1% |  |
 | 75 | 0% | 0% |  |
+
+### Arbeiderpartiet – Sosialistisk Venstreparti
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ap–sv.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 52 | 0% | 100% |  |
+| 53 | 0.1% | 99.9% |  |
+| 54 | 0.3% | 99.9% |  |
+| 55 | 1.1% | 99.5% |  |
+| 56 | 3% | 98% |  |
+| 57 | 7% | 96% |  |
+| 58 | 6% | 89% |  |
+| 59 | 15% | 83% |  |
+| 60 | 8% | 69% |  |
+| 61 | 12% | 60% | Last Result, Median |
+| 62 | 6% | 49% |  |
+| 63 | 8% | 42% |  |
+| 64 | 5% | 34% |  |
+| 65 | 5% | 30% |  |
+| 66 | 14% | 24% |  |
+| 67 | 3% | 11% |  |
+| 68 | 4% | 8% |  |
+| 69 | 0.8% | 4% |  |
+| 70 | 2% | 3% |  |
+| 71 | 0.7% | 1.5% |  |
+| 72 | 0.3% | 0.8% |  |
+| 73 | 0.2% | 0.5% |  |
+| 74 | 0.1% | 0.3% |  |
+| 75 | 0.1% | 0.1% |  |
+| 76 | 0% | 0% |  |
 
 ### Arbeiderpartiet – Senterpartiet
 
@@ -1169,56 +1195,24 @@ Only polls for which at least the sample size has been published are included in
 | 56 | 1.4% | 98% |  |
 | 57 | 10% | 96% |  |
 | 58 | 6% | 86% |  |
-| 59 | 6% | 81% |  |
-| 60 | 11% | 75% | Median |
-| 61 | 6% | 63% |  |
-| 62 | 15% | 57% |  |
-| 63 | 6% | 42% |  |
-| 64 | 13% | 36% |  |
-| 65 | 7% | 23% |  |
-| 66 | 6% | 16% |  |
-| 67 | 5% | 10% |  |
+| 59 | 6% | 80% |  |
+| 60 | 12% | 74% | Median |
+| 61 | 6% | 62% |  |
+| 62 | 15% | 56% |  |
+| 63 | 6% | 41% |  |
+| 64 | 9% | 35% |  |
+| 65 | 5% | 26% |  |
+| 66 | 12% | 21% |  |
+| 67 | 5% | 9% |  |
 | 68 | 0.7% | 4% |  |
-| 69 | 0.7% | 4% |  |
-| 70 | 0.3% | 3% |  |
-| 71 | 2% | 3% |  |
-| 72 | 0% | 0.2% |  |
-| 73 | 0.1% | 0.1% |  |
+| 69 | 0.4% | 3% |  |
+| 70 | 0.3% | 2% |  |
+| 71 | 2% | 2% |  |
+| 72 | 0% | 0.1% |  |
+| 73 | 0% | 0.1% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% |  |
 | 76 | 0% | 0% | Last Result |
-
-### Arbeiderpartiet – Sosialistisk Venstreparti
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ap–sv.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 52 | 0% | 100% |  |
-| 53 | 0.1% | 99.9% |  |
-| 54 | 0.3% | 99.9% |  |
-| 55 | 1.1% | 99.5% |  |
-| 56 | 3% | 98% |  |
-| 57 | 6% | 96% |  |
-| 58 | 5% | 89% |  |
-| 59 | 15% | 84% |  |
-| 60 | 7% | 69% | Median |
-| 61 | 13% | 63% | Last Result |
-| 62 | 10% | 50% |  |
-| 63 | 8% | 40% |  |
-| 64 | 5% | 32% |  |
-| 65 | 8% | 27% |  |
-| 66 | 5% | 19% |  |
-| 67 | 6% | 14% |  |
-| 68 | 4% | 8% |  |
-| 69 | 1.1% | 4% |  |
-| 70 | 2% | 3% |  |
-| 71 | 0.7% | 2% |  |
-| 72 | 0.4% | 0.9% |  |
-| 73 | 0.2% | 0.5% |  |
-| 74 | 0.1% | 0.3% |  |
-| 75 | 0.1% | 0.1% |  |
-| 76 | 0% | 0% |  |
 
 ### Høyre – Venstre – Kristelig Folkeparti
 
@@ -1226,24 +1220,24 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.1% | 100% |  |
+| 27 | 0% | 100% |  |
 | 28 | 0.1% | 99.9% |  |
 | 29 | 0.3% | 99.8% |  |
-| 30 | 1.0% | 99.5% |  |
-| 31 | 1.0% | 98.5% |  |
+| 30 | 0.9% | 99.5% |  |
+| 31 | 1.0% | 98.6% |  |
 | 32 | 3% | 98% |  |
-| 33 | 7% | 95% |  |
-| 34 | 5% | 88% |  |
-| 35 | 9% | 83% |  |
-| 36 | 6% | 74% |  |
-| 37 | 7% | 68% |  |
-| 38 | 11% | 61% |  |
-| 39 | 8% | 50% | Median |
-| 40 | 19% | 42% |  |
-| 41 | 5% | 23% |  |
-| 42 | 10% | 18% |  |
+| 33 | 5% | 95% |  |
+| 34 | 9% | 89% |  |
+| 35 | 9% | 80% |  |
+| 36 | 6% | 71% |  |
+| 37 | 13% | 65% |  |
+| 38 | 6% | 52% | Median |
+| 39 | 8% | 46% |  |
+| 40 | 17% | 39% |  |
+| 41 | 4% | 21% |  |
+| 42 | 10% | 17% |  |
 | 43 | 3% | 8% |  |
-| 44 | 0.8% | 5% |  |
+| 44 | 0.9% | 5% |  |
 | 45 | 3% | 4% |  |
 | 46 | 0.7% | 1.1% |  |
 | 47 | 0.2% | 0.4% | Last Result |
@@ -1259,21 +1253,21 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 0% | 100% |  |
 | 12 | 0.2% | 99.9% |  |
 | 13 | 0.1% | 99.8% |  |
-| 14 | 0.2% | 99.6% |  |
-| 15 | 0.4% | 99.4% |  |
-| 16 | 3% | 99.0% |  |
-| 17 | 6% | 96% |  |
-| 18 | 3% | 90% |  |
-| 19 | 4% | 87% |  |
-| 20 | 8% | 83% |  |
-| 21 | 9% | 75% |  |
-| 22 | 13% | 66% |  |
+| 14 | 0.3% | 99.7% |  |
+| 15 | 0.3% | 99.4% |  |
+| 16 | 1.0% | 99.1% |  |
+| 17 | 12% | 98% |  |
+| 18 | 3% | 87% |  |
+| 19 | 5% | 84% |  |
+| 20 | 4% | 79% |  |
+| 21 | 11% | 74% |  |
+| 22 | 11% | 64% |  |
 | 23 | 5% | 53% | Median |
-| 24 | 6% | 49% |  |
-| 25 | 6% | 43% |  |
-| 26 | 9% | 37% |  |
-| 27 | 4% | 28% |  |
-| 28 | 12% | 23% |  |
+| 24 | 6% | 48% |  |
+| 25 | 6% | 42% |  |
+| 26 | 9% | 36% |  |
+| 27 | 4% | 27% |  |
+| 28 | 12% | 24% |  |
 | 29 | 2% | 11% |  |
 | 30 | 3% | 9% |  |
 | 31 | 2% | 5% |  |
